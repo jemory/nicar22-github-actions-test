@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-05T10:49:12.870Z,34.0296667,-117.154,9.3,1.39,ml,38,103,0.08355,0.18,ci,ci40200064,2022-03-05T10:52:53.662Z,"4km SE of Redlands, CA",earthquake,0.28,0.8,0.139,27,automatic,ci,ci
 2022-03-05T10:26:59.132Z,61.5656,-141.0164,0,2.2,ml,,,,0.65,ak,ak0222y0i8tu,2022-03-05T10:33:35.179Z,"102 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-05T10:21:13.620Z,19.19700050354,-155.480499267578,30.5,1.82000005,md,42,82,,0.140000001,hv,hv72938712,2022-03-05T10:24:17.210Z,"0 km SSW of Pāhala, Hawaii",earthquake,0.54,0.939999998,1.79999995,6,automatic,hv,hv
 2022-03-05T10:08:22.730Z,34.0283333,-117.1503333,9.87,0.99,ml,14,112,0.03229,0.16,ci,ci40200056,2022-03-05T10:11:54.417Z,"4km SE of Redlands, CA",earthquake,0.45,1.15,0.355,21,automatic,ci,ci
@@ -241,6 +242,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-04T11:10:26.650Z,33.3618333,-116.359,10.08,0.74,ml,25,103,0.03567,0.21,ci,ci40199384,2022-03-04T18:11:16.480Z,"12km N of Borrego Springs, CA",earthquake,0.36,0.81,0.114,11,reviewed,ci,ci
 2022-03-04T11:02:28.990Z,18.0438333333333,-66.8186666666667,13.99,2.25,md,7,131,,0.13,pr,pr71338898,2022-03-04T11:55:05.470Z,"3 km ENE of Yauco, Puerto Rico",earthquake,0.42,0.99,0.0353602705595879,5,reviewed,pr,pr
 2022-03-04T11:02:18.359Z,36.432,-96.94333333,7.02,0.43,ml,24,68,0.02609487929,0.11,ok,ok2022ekda,2022-03-04T15:52:19.100Z,"16 km NNE of Morrison, Oklahoma",earthquake,,0.4,0.23,3,reviewed,ok,ok
-2022-03-04T10:55:32.290Z,38.833168,-122.8168335,1.83,0.71,md,16,56,0.0111,0.02,nc,nc73701006,2022-03-04T11:42:12.855Z,"8km NW of The Geysers, CA",earthquake,0.25,0.61,0.14,2,automatic,nc,nc
-2022-03-04T10:46:18.970Z,46.099333333333334,-122.3805,17.53,0.34,ml,11,84,0.07692,0.19,uw,uw61820086,2022-03-04T22:23:34.900Z,"21 km NNE of Amboy, Washington",earthquake,0.93,1.29,0.08065642231179423,5,reviewed,uw,uw
-2022-03-04T10:46:14.761Z,27.1745,53.2459,10,4.4,mb,,103,3.465,0.44,us,us6000h20t,2022-03-04T11:02:42.040Z,"55 km SE of Mohr, Iran",earthquake,9.1,1.9,0.089,36,reviewed,us,us
