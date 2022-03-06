@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-06T22:37:51.740Z,35.662,-117.4706667,6.33,1.02,ml,14,112,0.07565,0.17,ci,ci40200976,2022-03-06T22:41:22.374Z,"13km SSW of Searles Valley, CA",earthquake,0.52,1.16,0.199,11,automatic,ci,ci
+2022-03-06T22:33:30.640Z,35.721,-117.5208333,13.73,0.86,ml,12,226,0.1132,0.23,ci,ci40200960,2022-03-06T22:37:01.252Z,"12km WSW of Searles Valley, CA",earthquake,1.53,1.06,0.161,9,automatic,ci,ci
 2022-03-06T22:23:45.512Z,61.796,-149.78,48.8,1.5,ml,,,,0.62,ak,ak0222zv64dz,2022-03-06T22:28:59.289Z,"14 km ENE of Willow, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-03-06T22:15:56.040Z,33.4566667,-116.4696667,14.57,0.59,ml,22,86,0.07603,0.15,ci,ci40200952,2022-03-06T22:19:28.221Z,"22km ESE of Anza, CA",earthquake,0.37,0.74,0.187,14,automatic,ci,ci
 2022-03-06T22:11:57.230Z,33.5146667,-116.5588333,12.86,0.53,ml,26,41,0.04135,0.18,ci,ci40200936,2022-03-06T22:15:34.590Z,"12km ESE of Anza, CA",earthquake,0.33,0.54,0.125,14,automatic,ci,ci
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T20:06:30.950Z,38.770668,-122.711998,1.46,1.12,md,13,108,0.01025,0.04,nc,nc73702176,2022-03-06T21:54:10.908Z,"2km WSW of Anderson Springs, CA",earthquake,0.26,0.38,0.17,5,automatic,nc,nc
 2022-03-06T20:02:27.872Z,-24.3084,-67.2942,200.46,4.1,mb,,84,1.575,0.85,us,us6000h2l2,2022-03-06T21:53:50.040Z,"99 km W of San Antonio de los Cobres, Argentina",earthquake,10.7,16.2,0.302,3,reviewed,us,us
 2022-03-06T19:57:49.360Z,33.7055,-116.7185,17.29,1.87,ml,67,17,0.006708,0.17,ci,ci40200880,2022-03-06T21:08:51.390Z,"4km S of Idyllwild, CA",earthquake,0.17,0.31,0.201,26,reviewed,ci,ci
-2022-03-06T19:54:36.630Z,38.7705,-122.712,1.82,1.24,md,43,39,0.009112,0.06,nc,nc73702166,2022-03-06T22:09:11.999Z,"2km WSW of Anderson Springs, CA",earthquake,0.13,0.16,0.071,11,reviewed,nc,nc
+2022-03-06T19:54:36.630Z,38.7705,-122.712,1.82,1.24,md,43,39,0.009112,0.06,nc,nc73702166,2022-03-06T22:34:16.163Z,"2km WSW of Anderson Springs, CA",earthquake,0.13,0.16,0.071,11,reviewed,nc,nc
 2022-03-06T19:52:45.780Z,38.8325,-122.8808333,2.45,0.04,md,19,64,0.00607,0.04,nc,nc73702161,2022-03-06T21:01:10.574Z,"12km ENE of Cloverdale, CA",earthquake,0.16,0.21,0.075,3,reviewed,nc,nc
 2022-03-06T19:48:49.440Z,19.1585006713867,-155.468170166016,30.9899997711182,1.80999994,md,38,159,,0.119999997,hv,hv72940377,2022-03-06T19:52:11.470Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.62,0.829999983,1.80999994,4,automatic,hv,hv
 2022-03-06T19:41:02.816Z,61.5941,-149.7962,49.5,1.9,ml,,,,0.2,ak,ak0222zthl5w,2022-03-06T20:32:45.064Z,"4 km SSE of Houston, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -196,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T22:52:45.890Z,34.7113333,-116.2488333,1.39,1.18,ml,6,145,0.08516,0.2,ci,ci40200400,2022-03-06T17:08:01.233Z,"8km W of Ludlow, CA",earthquake,0.69,0.7,0.129,4,reviewed,ci,ci
 2022-03-05T22:50:16.110Z,36.4958333,-121.0718333,7.75,1.84,md,34,89,0.04198,0.07,nc,nc73701806,2022-03-06T11:45:11.324Z,"8km ESE of Pinnacles, CA",earthquake,0.22,0.48,0.203,27,reviewed,nc,nc
 2022-03-05T22:42:21.230Z,19.1453342437744,-155.481170654297,35.1199989318848,2.24000001,md,38,169,,0.140000001,hv,hv72939297,2022-03-05T22:45:35.890Z,"6 km S of Pāhala, Hawaii",earthquake,0.68,0.829999983,1.86000001,14,automatic,hv,hv
-2022-03-05T22:40:27.754Z,3.5839,126.0575,83.33,4.8,mb,,87,3.084,0.88,us,us6000h2g3,2022-03-05T22:54:54.040Z,"211 km SSE of Sarangani, Philippines",earthquake,7.8,8.2,0.087,41,reviewed,us,us
-2022-03-05T22:40:12.680Z,38.7683334,-122.7105026,1.35,1.13,md,12,112,0.008774,0.04,nc,nc73701801,2022-03-06T00:31:13.141Z,"2km WSW of Anderson Springs, CA",earthquake,0.31,0.4,0.24,6,automatic,nc,nc
-2022-03-05T22:38:49.780Z,55.4716,-155.3058,10,3,ml,,217,1.938,0.72,us,us6000h2g1,2022-03-05T23:11:50.040Z,"178 km SSW of Akhiok, Alaska",earthquake,4,2,0.069,28,reviewed,us,us
-2022-03-05T22:38:01.410Z,33.6838333,-116.7878333,14.6,1.09,ml,33,59,0.06719,0.18,ci,ci40200384,2022-03-06T13:58:09.890Z,"9km SW of Idyllwild, CA",earthquake,0.29,0.41,0.196,30,reviewed,ci,ci
