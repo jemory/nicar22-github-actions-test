@@ -1,14 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-07T03:13:16.848Z,61.5217,-144.0461,48.4,1.6,ml,,,,0.92,ak,ak022317c10k,2022-03-07T03:16:23.254Z,"20 km E of Chitina, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-07T03:06:40.270Z,35.8441667,-117.6686667,5.3,0.83,ml,17,86,0.06441,0.12,ci,ci40201080,2022-03-07T03:10:14.171Z,"24km ESE of Little Lake, CA",earthquake,0.24,0.74,0.279,10,automatic,ci,ci
 2022-03-07T03:05:38.660Z,19.1928329467773,-155.394668579102,32.2000007629395,2.06999993,md,32,171,,0.129999995,hv,hv72940842,2022-03-07T03:08:42.750Z,"8 km E of Pāhala, Hawaii",earthquake,0.78,0.959999979,2.1099999,4,automatic,hv,hv
 2022-03-07T03:05:17.930Z,34.3771667,-116.4526667,4.85,0.8,ml,11,133,0.1033,0.17,ci,ci40201072,2022-03-07T03:08:53.892Z,"29km N of Yucca Valley, CA",earthquake,0.43,0.83,0.151,13,automatic,ci,ci
-2022-03-07T02:43:26.270Z,35.9749985,-120.5404968,3.19,0.71,md,10,107,0.01995,0.27,nc,nc73702286,2022-03-07T02:50:10.786Z,"13km NW of Parkfield, CA",earthquake,1,2.61,0.06,3,automatic,nc,nc
+2022-03-07T02:43:26.270Z,35.9749985,-120.5404968,3.19,0.71,md,10,107,0.01995,0.27,nc,nc73702286,2022-03-07T03:13:15.815Z,"13km NW of Parkfield, CA",earthquake,1,2.61,0.06,3,automatic,nc,nc
 2022-03-07T02:38:27.189Z,37.3006,-117.5917,1.9,1.6,ml,18,110.55,0.08,0.2809,nn,nn00834981,2022-03-07T02:41:49.350Z,"50 km S of Silver Peak, Nevada",earthquake,,6.8,0.65,8,automatic,nn,nn
 2022-03-07T02:35:53.780Z,38.8136673,-122.815834,2.65,0.57,md,22,51,0.01071,0.03,nc,nc73702276,2022-03-07T02:52:15.675Z,"6km NW of The Geysers, CA",earthquake,0.25,0.52,0.43,3,automatic,nc,nc
 2022-03-07T02:26:50.731Z,60.7662,-147.5514,19.2,1.5,ml,,,,0.27,ak,ak022316tgc1,2022-03-07T02:42:39.611Z,"48 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-07T02:15:08.830Z,19.2131671905518,-155.459671020508,34.0999984741211,1.86000001,md,33,184,,0.159999996,hv,hv72940817,2022-03-07T02:18:17.220Z,"2 km ENE of Pāhala, Hawaii",earthquake,0.92,0.75999999,1.64999998,6,automatic,hv,hv
 2022-03-07T02:12:25.820Z,38.8201675,-122.809166,2.77,0.84,md,6,99,0.0033,0.02,nc,nc73702266,2022-03-07T02:30:14.537Z,"7km NW of The Geysers, CA",earthquake,0.83,2.09,,1,automatic,nc,nc
-2022-03-07T02:03:29.080Z,38.8146667,-122.8199997,2.62,0.35,md,10,85,0.009217,0.01,nc,nc73702261,2022-03-07T02:20:15.478Z,"7km NW of The Geysers, CA",earthquake,0.46,0.91,,1,automatic,nc,nc
+2022-03-07T02:03:29.080Z,38.8146667,-122.8199997,2.62,0.35,md,10,85,0.009217,0.01,nc,nc73702261,2022-03-07T03:30:14.917Z,"7km NW of The Geysers, CA",earthquake,0.46,0.91,,1,automatic,nc,nc
 2022-03-07T02:00:31.978Z,60.9718,-140.2424,5,3.1,ml,,113,0.401,1.05,us,us6000h2mz,2022-03-07T02:43:10.040Z,"150 km W of Haines Junction, Canada",earthquake,2.8,1.8,0.037,96,reviewed,us,us
 2022-03-07T01:59:46.037Z,63.1753,-151.6435,19.7,1.9,ml,,,,0.93,ak,ak022316f2xq,2022-03-07T02:14:06.168Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-07T01:57:40.039Z,-13.7855,66.1569,10,5,mb,,115,12.354,1.16,us,us6000h2n0,2022-03-07T02:20:06.040Z,"Mid-Indian Ridge",earthquake,10.3,1.8,0.068,69,reviewed,us,us
@@ -200,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-06T03:57:27.040Z,38.838665,-122.8103333,1.99,0.95,md,25,49,0.01525,0.02,nc,nc73701906,2022-03-06T05:05:13.799Z,"8km WNW of Cobb, CA",earthquake,0.21,0.38,0.07,5,automatic,nc,nc
 2022-03-06T03:51:56.389Z,24.843,122.2398,110.98,4.5,mb,,48,0.686,0.76,us,us6000h2h5,2022-03-06T04:55:05.040Z,"49 km SE of Jiufen, Taiwan",earthquake,5.2,5.2,0.084,43,reviewed,us,us
 2022-03-06T03:49:08.290Z,36.0245,-117.5588333,2.07,0.98,ml,10,195,0.09519,0.15,ci,ci40200480,2022-03-06T03:52:44.275Z,"32km NNW of Searles Valley, CA",earthquake,0.74,0.7,0.08,8,automatic,ci,ci
-2022-03-06T03:29:21.096Z,16.9706,-95.0836,97.76,5.5,mww,,115,2.906,1,us,us6000h2h0,2022-03-07T03:06:03.907Z,"Oaxaca, Mexico",earthquake,8,6,0.059,28,reviewed,us,us
-2022-03-06T03:23:33.576Z,31.67672057,-104.4137638,6.979931641,2.9,ml,16,55,0.07461742324,0.3,tx,tx2022enex,2022-03-06T03:34:34.127Z,"55 km S of Whites City, New Mexico",earthquake,1.306762425,1.380785973,0.1,8,reviewed,tx,tx
