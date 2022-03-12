@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-12T15:41:37.680Z,35.5068321,-118.393837,5.71,1.7,ml,31,66,0.1688,0.12,ci,ci40205960,2022-03-12T15:43:42.637Z,"13km SE of Bodfish, CA",earthquake,0.22,1.08,0.213,15,automatic,ci,ci
-2022-03-12T15:40:31.260Z,34.0268326,-117.1556702,9.98,1.31,ml,34,96,0.03694,0.14,ci,ci40205944,2022-03-12T15:42:36.196Z,"4km SE of Redlands, CA",earthquake,0.25,0.59,0.202,5,automatic,ci,ci
+2022-03-12T15:41:37.730Z,35.5096667,-118.3915,6.75,1.58,ml,25,65,0.1879,0.09,ci,ci40205960,2022-03-12T15:45:17.191Z,"13km SE of Bodfish, CA",earthquake,0.17,31.61,0.274,25,automatic,ci,ci
+2022-03-12T15:40:31.290Z,34.034,-117.1621667,9,1.28,ml,31,106,0.04135,0.18,ci,ci40205944,2022-03-12T15:51:34.720Z,"3km SE of Redlands, CA",earthquake,0.31,0.74,0.136,27,automatic,ci,ci
 2022-03-12T15:39:16.704Z,37.0937,-115.3345,13.9,-0.2,ml,8,128.54,0.511,0.4381,nn,nn00835268,2022-03-12T15:42:43.432Z,"33 km SSW of Alamo, Nevada",earthquake,,1.9,1.07,3,automatic,nn,nn
-2022-03-12T15:39:06.440Z,35.5095,-118.39,4.85,2.21,ml,36,32,0.1878,0.13,ci,ci40205936,2022-03-12T15:42:46.338Z,"13km SE of Bodfish, CA",earthquake,0.19,1.4,0.196,26,automatic,ci,ci
+2022-03-12T15:39:06.440Z,35.5095,-118.39,4.85,2.21,ml,36,32,0.1878,0.13,ci,ci40205936,2022-03-12T15:50:24.490Z,"13km SE of Bodfish, CA",earthquake,0.19,1.4,0.196,26,automatic,ci,ci
 2022-03-12T15:25:26.081Z,37.1673,-115.313,6.1,2,ml,23,116.9,0.535,0.368,nn,nn00835265,2022-03-12T15:29:08.479Z,"25 km SSW of Alamo, Nevada",earthquake,,0.9,0.85,16,automatic,nn,nn
 2022-03-12T15:08:21.400Z,34.003,-116.8763333,12.02,1.08,ml,39,62,0.06535,0.2,ci,ci40205912,2022-03-12T15:12:01.975Z,"9km N of Banning, CA",earthquake,0.27,0.74,0.172,27,automatic,ci,ci
 2022-03-12T15:03:44.500Z,38.7910004,-122.7088318,-0.84,0.66,md,8,121,0.02314,0.18,nc,nc73704706,2022-03-12T15:20:12.558Z,"2km NW of Anderson Springs, CA",earthquake,0.77,4.38,0.17,2,automatic,nc,nc
@@ -28,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T12:50:50.390Z,61.7542,-150.9901,78.3,1.4,ml,,,,0.68,ak,ak02239mlo0l,2022-03-12T12:55:02.555Z,"33 km SE of Skwentna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-03-12T12:46:51.010Z,32.8518333,-115.9956667,5.82,0.97,ml,20,57,0.0414,0.32,ci,ci40205840,2022-03-12T12:50:21.969Z,"13km N of Ocotillo, CA",earthquake,0.52,1.26,0.201,12,automatic,ci,ci
 2022-03-12T12:45:52.063Z,60.2219,-152.6376,9.1,1.8,ml,,,,0.74,ak,ak02239mklk5,2022-03-12T13:00:33.447Z,"57 km WNW of Ninilchik, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-12T12:42:07.980Z,38.9256667,-123.0203333,5.86,1.91,md,56,50,0.07894,0.06,nc,nc73704666,2022-03-12T15:36:12.663Z,"13km N of Cloverdale, CA",earthquake,0.21,0.44,0.154,37,reviewed,nc,nc
+2022-03-12T12:42:07.980Z,38.9256667,-123.0203333,5.86,1.91,md,56,50,0.07894,0.06,nc,nc73704666,2022-03-12T15:47:18.283Z,"13km N of Cloverdale, CA",earthquake,0.21,0.44,0.154,37,reviewed,nc,nc
 2022-03-12T12:30:18.530Z,38.8089981,-122.8151703,2.91,0.35,md,11,98,0.01094,0.02,nc,nc73704661,2022-03-12T13:29:17.106Z,"6km NW of The Geysers, CA",earthquake,0.42,0.81,,1,automatic,nc,nc
 2022-03-12T12:27:51.350Z,19.2025,-155.3855,31.57,3.25,ml,58,160,,0.12,hv,hv72947797,2022-03-12T14:30:04.642Z,"9 km E of Pāhala, Hawaii",earthquake,0.44,0.53,0.187709148338699,40,reviewed,hv,hv
 2022-03-12T12:27:47.423Z,-27.4702,-71.2167,10.33,5.1,mb,,139,0.464,0.87,us,us6000h40b,2022-03-12T15:40:11.893Z,"88 km W of Copiapó, Chile",earthquake,3.5,4,0.031,330,reviewed,us,us
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-12T03:49:03.010Z,38.8218346,-122.7873306,1.11,1,md,21,39,0.01001,0.04,nc,nc73704546,2022-03-12T04:43:13.876Z,"6km W of Cobb, CA",earthquake,0.19,0.4,0.13,3,automatic,nc,nc
 2022-03-12T03:48:30.970Z,38.8221664,-122.788002,1.12,0.65,md,12,72,0.01057,0.01,nc,nc73704541,2022-03-12T04:31:12.801Z,"6km W of Cobb, CA",earthquake,0.28,0.46,0.09,3,automatic,nc,nc
 2022-03-12T03:48:07.700Z,38.8364983,-122.7958298,2.28,0.85,md,12,70,0.00469,0.02,nc,nc73704536,2022-03-12T04:19:12.730Z,"6km WNW of Cobb, CA",earthquake,0.39,1,,1,automatic,nc,nc
-2022-03-12T03:42:07.980Z,36.4666667,-121.0545,2.13,2.58,md,71,50,0.0117,0.19,nc,nc73704531,2022-03-12T10:09:13.783Z,"11km SE of Pinnacles, CA",earthquake,0.2,0.36,0.198,111,reviewed,nc,nc
+2022-03-12T03:42:07.980Z,36.4666667,-121.0545,2.13,2.58,md,71,50,0.0117,0.19,nc,nc73704531,2022-03-12T15:47:31.796Z,"11km SE of Pinnacles, CA",earthquake,0.2,0.36,0.198,111,reviewed,nc,nc
 2022-03-12T03:41:51.770Z,33.9911667,-116.727,19.41,0.82,ml,21,99,0.08017,0.22,ci,ci40205656,2022-03-12T03:45:25.421Z,"10km NE of Cabazon, CA",earthquake,0.43,0.95,0.077,20,automatic,ci,ci
 2022-03-12T03:38:31.530Z,38.8256667,-122.8103333,1.33,1.19,md,44,37,0.002277,0.03,nc,nc73704526,2022-03-12T09:13:12.464Z,"7km NW of The Geysers, CA",earthquake,0.12,0.23,0.082,12,reviewed,nc,nc
 2022-03-12T03:34:10.280Z,38.8153343,-122.7939987,2.57,0.84,md,7,114,0.007426,0.02,nc,nc73704521,2022-03-12T05:30:13.335Z,"5km NW of The Geysers, CA",earthquake,0.79,1.57,,1,automatic,nc,nc
@@ -147,6 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T22:32:25.134Z,38.1661,-117.9137,9.9,2.1,ml,20,103.84,0.045,0.1555,nn,nn00835230,2022-03-12T00:29:22.458Z,"30 km SE of Mina, Nevada",earthquake,,1,0.27,10,reviewed,nn,nn
 2022-03-11T22:31:23.900Z,38.7946667,-122.7661667,1.07,0.09,md,13,69,0.0078,0.04,nc,nc73704396,2022-03-12T05:41:22.187Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.23,0.147,4,reviewed,nc,nc
 2022-03-11T22:25:37.504Z,65.0316,-147.2644,11,1.2,ml,,,,0.89,ak,ak022384v9p3,2022-03-11T22:31:13.697Z,"18 km ENE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-11T22:19:52.490Z,44.2891667,-114.953,0.23,1.66,ml,7,111,0.824,0.26,mb,mb80540304,2022-03-12T15:49:37.710Z,"8 km N of Stanley, Idaho",earthquake,0.84,4.65,0.226,7,reviewed,mb,mb
 2022-03-11T22:16:47.290Z,35.8641667,-117.6678333,10.11,0.91,ml,14,94,0.07483,0.08,ci,ci40205464,2022-03-11T22:54:11.934Z,"23km ESE of Little Lake, CA",earthquake,0.17,0.31,0.249,4,reviewed,ci,ci
 2022-03-11T22:05:07.890Z,36.4555,-117.9475,10.52,1.48,ml,23,82,0.1081,0.15,ci,ci40205456,2022-03-11T23:14:01.654Z,"18km SE of Lone Pine, CA",earthquake,0.24,0.66,0.204,18,reviewed,ci,ci
 2022-03-11T22:02:32.080Z,35.9686661,-120.5288315,10.32,0.8,md,16,118,0.02563,0.04,nc,nc73704381,2022-03-11T22:12:10.663Z,"12km NW of Parkfield, CA",earthquake,0.52,0.59,0.21,7,automatic,nc,nc
@@ -229,7 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-11T16:05:18.737Z,61.6157,-149.8633,32.3,2.6,ml,,,,0.5,ak,ak0223816c9b,2022-03-11T21:19:13.040Z,"2 km SW of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-11T16:04:46.330Z,34.0148333,-117.8303333,13.05,0.84,ml,6,195,0.07917,0.21,ci,ci40205168,2022-03-11T18:54:03.514Z,"2km SW of Diamond Bar, CA",earthquake,1.15,1.29,0.072,4,reviewed,ci,ci
 2022-03-11T15:59:44.710Z,35.7736667,-117.5943333,9.05,0.56,ml,13,93,0.04206,0.07,ci,ci40205160,2022-03-11T18:49:16.483Z,"17km W of Searles Valley, CA",earthquake,0.18,0.36,0.174,7,reviewed,ci,ci
-2022-03-11T15:54:46.516Z,60.7837,-151.3284,135.6,1.5,ml,,,,0.89,ak,ak022380vgw6,2022-03-11T16:02:49.498Z,"10 km NNW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-11T15:52:54.000Z,35.645,-117.3903333,4.45,-0.31,ml,4,185,0.08268,0.07,ci,ci40205152,2022-03-11T17:44:04.193Z,"13km S of Trona, CA",earthquake,1.36,1.48,0.032,1,reviewed,ci,ci
-2022-03-11T15:50:38.490Z,38.8250008,-122.7946701,2.52,0.35,md,14,76,0.01214,0.04,nc,nc73704211,2022-03-11T17:44:14.813Z,"6km W of Cobb, CA",earthquake,0.31,0.76,,1,automatic,nc,nc
-2022-03-11T15:49:37.870Z,32.6261667,-115.7598333,8.24,1.02,ml,12,203,0.03647,0.09,ci,ci40205136,2022-03-11T18:47:30.474Z,"17km WNW of Progreso, B.C., MX",earthquake,0.31,0.44,0.198,5,reviewed,ci,ci
