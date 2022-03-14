@@ -1,14 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-14T11:42:12.520Z,38.8195,-122.7663345,2.24,0.87,md,17,108,0.01131,0.03,nc,nc73705416,2022-03-14T11:43:47.498Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.11,4,automatic,nc,nc
+2022-03-14T11:53:08.510Z,61.3565,-150.111,32.9,1.9,ml,,,,0.96,ak,ak0223cx3hb6,2022-03-14T11:56:18.727Z,"7 km W of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-14T11:42:12.520Z,38.8195,-122.7663345,2.24,0.87,md,17,108,0.01131,0.03,nc,nc73705416,2022-03-14T11:53:11.859Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.11,4,automatic,nc,nc
 2022-03-14T11:34:47.230Z,36.5756683,-121.1693344,6.07,2.11,md,25,120,0.01353,0.06,nc,nc73705406,2022-03-14T11:42:10.819Z,"5km NNW of Pinnacles, CA",earthquake,0.27,0.56,0.18,26,automatic,nc,nc
 2022-03-14T11:30:10.860Z,38.8289986,-122.8119965,2.22,0.85,md,11,80,0.005793,0.01,nc,nc73705401,2022-03-14T11:42:10.663Z,"8km NW of The Geysers, CA",earthquake,0.31,0.87,,1,automatic,nc,nc
+2022-03-14T11:27:42.662Z,50.9572,158.1758,35,4.9,mb,,81,2.09,0.86,us,us6000h4er,2022-03-14T11:45:48.040Z,"131 km ESE of Ozernovskiy, Russia",earthquake,7.6,1.9,0.038,213,reviewed,us,us
 2022-03-14T11:21:22.870Z,33.0361667,-116.2113333,0.89,1.17,ml,23,74,0.1123,0.37,ci,ci40207360,2022-03-14T11:24:58.795Z,"14km SSW of Ocotillo Wells, CA",earthquake,0.65,31.61,0.185,27,automatic,ci,ci
 2022-03-14T11:20:22.317Z,35.108078,-95.5373764,5,3.47,ml,63,67.94809341,0.1091809198,0.8238419256,ok,ok2022fckr,2022-03-14T11:27:38.040Z,"12 km E of Crowder, Oklahoma",earthquake,2.119330668,,,48,automatic,ok,ok
 2022-03-14T11:20:19.170Z,38.8233337,-122.8079987,1.3,0.35,md,9,96,0.001622,0.02,nc,nc73705396,2022-03-14T11:38:10.638Z,"7km NW of The Geysers, CA",earthquake,0.37,0.67,,1,automatic,nc,nc
-2022-03-14T11:19:42.270Z,38.8240013,-122.8088303,1.58,1.36,md,29,37,0.001145,0.02,nc,nc73705391,2022-03-14T11:34:11.615Z,"7km NW of The Geysers, CA",earthquake,0.16,0.29,0.12,7,automatic,nc,nc
+2022-03-14T11:19:42.270Z,38.8240013,-122.8088303,1.58,1.36,md,29,37,0.001145,0.02,nc,nc73705391,2022-03-14T11:47:24.698Z,"7km NW of The Geysers, CA",earthquake,0.16,0.29,0.12,7,automatic,nc,nc
 2022-03-14T11:19:36.440Z,38.8366661,-122.8604965,1.36,0.38,md,5,156,0.007164,0.01,nc,nc73705386,2022-03-14T11:36:15.627Z,"11km NW of The Geysers, CA",earthquake,0.91,1.57,,1,automatic,nc,nc
 2022-03-14T11:15:11.180Z,33.0478333,-116.2163333,3.31,1.97,ml,60,43,0.115,0.24,ci,ci40207352,2022-03-14T11:25:40.540Z,"13km SW of Ocotillo Wells, CA",earthquake,0.25,0.75,0.153,27,automatic,ci,ci
-2022-03-14T11:10:58.730Z,39.274334,-123.479332,5.96,2.02,md,15,121,0.1413,0.09,nc,nc73705376,2022-03-14T11:17:24.526Z,"18km SW of Willits, CA",earthquake,0.33,1.17,0.09,11,automatic,nc,nc
+2022-03-14T11:10:58.730Z,39.274334,-123.479332,5.96,2.02,md,15,121,0.1413,0.09,nc,nc73705376,2022-03-14T11:53:22.737Z,"18km SW of Willits, CA",earthquake,0.33,1.17,0.09,11,automatic,nc,nc
 2022-03-14T10:57:22.273Z,59.7853,-151.8213,66.8,1.5,ml,,,,0.24,ak,ak0223cwixmr,2022-03-14T10:59:08.618Z,"1 km NNE of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-03-14T10:53:23.890Z,19.1881675720215,-155.475006103516,34.3499984741211,2.16000009,md,44,86,,0.129999995,hv,hv72949587,2022-03-14T10:56:30.370Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.51,0.720000029,1.88999999,18,automatic,hv,hv
 2022-03-14T10:42:48.910Z,38.8071671,-122.8168335,3.2,0.35,md,10,76,0.009793,0.01,nc,nc73705371,2022-03-14T11:38:10.767Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.84,,1,automatic,nc,nc
@@ -140,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T18:39:11.030Z,19.2006664276123,-155.38916015625,31.7600002288818,1.90999997,md,27,175,,0.129999995,hv,hv72948897,2022-03-13T18:42:25.180Z,"9 km E of Pāhala, Hawaii",earthquake,0.79,0.850000024,1.90999997,4,automatic,hv,hv
 2022-03-13T18:38:28.676Z,64.7488,-151.0397,12,1.7,ml,,,,0.97,ak,ak0223bdmzvh,2022-03-13T18:47:15.613Z,"34 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-13T18:31:12.530Z,19.1978340148926,-155.386337280273,32.2099990844727,1.79,ml,42,161,,0.129999995,hv,hv72948887,2022-03-13T18:36:42.290Z,"9 km E of Pāhala, Hawaii",earthquake,0.59,0.839999974,4.05,6,automatic,hv,hv
-2022-03-13T18:28:47.062Z,22.7371,114.9822,10,3.8,mb,,145,0.901,0.52,us,us6000h4bm,2022-03-14T11:26:55.200Z,"37 km W of Shanwei, China",earthquake,7.1,2,0.294,3,reviewed,us,us
+2022-03-13T18:28:47.062Z,22.7371,114.9822,10,3.8,mb,,145,0.901,0.52,us,us6000h4bm,2022-03-14T11:52:41.056Z,"37 km W of Shanwei, China",earthquake,7.1,2,0.294,3,reviewed,us,us
 2022-03-13T18:16:29.540Z,19.2084999084473,-155.403839111328,33.2200012207031,2.4,ml,45,154,,0.150000006,hv,hv72948867,2022-03-13T18:21:59.940Z,"7 km E of Pāhala, Hawaii",earthquake,0.57,0.75,0.47,4,automatic,hv,hv
 2022-03-13T18:15:15.049Z,36.4733,-81.0447,5,1.7,ml,,50,0.548,0.41,us,us6000h4bk,2022-03-14T01:47:43.554Z,"7 km ESE of Sparta, North Carolina",earthquake,1.5,1.9,0.105,12,reviewed,us,us
 2022-03-13T18:00:24.690Z,17.9406666666667,-66.9356666666667,9.69,2.67,md,19,209,,0.13,pr,pr71340038,2022-03-13T19:32:15.797Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.4,0.59,0.131495015659907,11,reviewed,pr,pr
@@ -185,5 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T12:33:29.670Z,34.0503333,-116.7358333,12.6,0.85,ml,19,92,0.06163,0.18,ci,ci40206640,2022-03-13T12:37:02.901Z,"14km W of Morongo Valley, CA",earthquake,0.35,0.66,0.241,21,automatic,ci,ci
 2022-03-13T12:32:55.870Z,18.016,-66.7328333333333,11.4,2.05,md,9,177,,0.21,pr,pr71340008,2022-03-13T15:33:07.610Z,"2 km NW of Tallaboa, Puerto Rico",earthquake,0.55,2.01,0.145821730248925,7,reviewed,pr,pr
 2022-03-13T12:25:20.470Z,17.9511666666667,-66.9588333333333,11,1.97,md,5,211,,0.06,pr,pr71340013,2022-03-13T12:59:20.630Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.61,1.04,0.0348531096518943,4,reviewed,pr,pr
-2022-03-13T11:52:40.301Z,52.288,172.8703,10,4.7,mb,,167,0.874,0.52,us,us6000h46b,2022-03-13T12:13:40.040Z,"65 km SSW of Attu Station, Alaska",earthquake,3.8,1.9,0.042,175,reviewed,us,us
-2022-03-13T11:49:05.750Z,38.8253326,-122.8034973,2.8,0.84,md,8,123,0.005489,0.02,nc,nc73705016,2022-03-13T13:11:16.470Z,"7km NW of The Geysers, CA",earthquake,0.43,1.1,,1,automatic,nc,nc
