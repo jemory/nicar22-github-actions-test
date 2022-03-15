@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-15T10:40:21.010Z,38.831665,-122.8188324,1.63,0.74,md,15,55,0.01072,0.03,nc,nc73705891,2022-03-15T10:48:10.234Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.13,2,automatic,nc,nc
+2022-03-15T10:52:37.795Z,63.4928,-150.8562,2.8,1.6,ml,,,,0.84,ak,ak0223ek18pl,2022-03-15T10:54:59.589Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-15T10:52:05.930Z,34.0283333,-117.026,2.99,0.8,ml,18,140,0.09914,0.27,ci,ci40208208,2022-03-15T10:55:40.188Z,"2km ESE of Yucaipa, CA",earthquake,0.53,1.76,0.071,13,automatic,ci,ci
+2022-03-15T10:40:21.010Z,38.831665,-122.8188324,1.63,0.74,md,15,55,0.01072,0.03,nc,nc73705891,2022-03-15T10:56:12.273Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.13,2,automatic,nc,nc
 2022-03-15T10:35:22.030Z,33.6255,-116.6768333,13.95,0.55,ml,18,92,0.07025,0.14,ci,ci40208200,2022-03-15T10:38:55.323Z,"8km N of Anza, CA",earthquake,0.33,0.52,0.165,10,automatic,ci,ci
 2022-03-15T10:30:20.477Z,67.3441,-156.1493,0,2.6,ml,,,,0.84,ak,ak0223ejwhng,2022-03-15T10:42:05.576Z,"58 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-15T10:23:20.970Z,18.1315,-67.3236,61.16,3.2,ml,,170,0.238,0.22,us,us6000h4nr,2022-03-15T10:48:47.040Z,"15 km WNW of Puerto Real, Puerto Rico",earthquake,7.4,7.1,0.057,40,reviewed,us,us
 2022-03-15T10:22:44.840Z,19.1615009307861,-155.462493896484,32.5,2.16000009,md,47,109,,0.170000002,hv,hv72950812,2022-03-15T10:25:57.530Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.5,0.75999999,1.82000005,22,automatic,hv,hv
 2022-03-15T10:20:08.079Z,-15.7765,-71.9574,10,4.7,mb,,127,2.981,0.78,us,us6000h4nn,2022-03-15T10:45:05.040Z,"16 km ESE of Huambo, Peru",earthquake,7,1.9,0.062,79,reviewed,us,us
 2022-03-15T10:14:51.718Z,62.0585,-148.022,25.7,1.7,ml,,,,0.87,ak,ak0223ejt4lv,2022-03-15T10:20:26.791Z,"33 km NW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -9,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T10:07:17.759Z,60.1365,-150.4365,34.7,1.4,ml,,,,0.44,ak,ak0223ejrjz2,2022-03-15T10:19:35.699Z,"42 km NE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T09:59:36.110Z,35.5123333,-118.3851667,4.79,1.76,ml,35,34,0.1667,0.19,ci,ci40208192,2022-03-15T10:10:31.600Z,"13km SE of Bodfish, CA",earthquake,0.28,2.56,0.225,26,automatic,ci,ci
 2022-03-15T09:58:26.965Z,63.0547,-150.8703,35.4,1.9,ml,,,,1.14,ak,ak0223ejh2hn,2022-03-15T10:01:56.093Z,"62 km N of Petersville, Alaska",earthquake,,11.5,,,automatic,ak,ak
+2022-03-15T09:57:26.360Z,17.9261666666667,-66.8645,16.06,2.6,md,11,221,,0.15,pr,pr71340268,2022-03-15T10:56:39.860Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.85,0.59,0.154629240518576,8,reviewed,pr,pr
 2022-03-15T09:52:23.920Z,38.8356667,-122.7903366,1.75,1.01,md,8,84,0.002738,0.01,nc,nc73705881,2022-03-15T10:04:11.081Z,"6km WNW of Cobb, CA",earthquake,0.51,0.81,0.15,2,automatic,nc,nc
 2022-03-15T09:50:29.220Z,33.5683333,-116.5111667,12.02,-0.03,ml,12,168,0.06114,0.15,ci,ci40208184,2022-03-15T09:54:04.675Z,"15km E of Anza, CA",earthquake,0.98,0.78,0.167,3,automatic,ci,ci
 2022-03-15T09:47:46.060Z,38.8268318,-122.7971649,2.95,0.84,md,8,154,0.01065,0.01,nc,nc73705871,2022-03-15T10:32:13.133Z,"6km W of Cobb, CA",earthquake,1.18,2.03,,1,automatic,nc,nc
@@ -283,5 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T11:10:58.700Z,39.2758333,-123.4805,7.69,1.96,md,26,62,0.1416,0.19,nc,nc73705376,2022-03-15T02:02:14.181Z,"18km SW of Willits, CA",earthquake,0.32,0.77,0.087,19,reviewed,nc,nc
 2022-03-14T11:06:05.130Z,39.4201667,-110.3038333,-2.72,2.13,md,7,198,0.01693,0.13,uu,uu60485562,2022-03-14T16:05:44.830Z,"16 km SSE of Sunnyside, Utah",earthquake,1.15,2.74,0.319,7,reviewed,uu,uu
 2022-03-14T11:04:58.180Z,46.195,-122.19166666666666,3.77,0.33,ml,13,122,0.004814,0.08,uw,uw61822341,2022-03-14T15:55:00.710Z,"37 km NNE of Amboy, Washington",earthquake,0.33,0.54,0.09047223254400841,7,reviewed,uw,uw
-2022-03-14T10:57:22.273Z,59.7853,-151.8213,66.8,1.5,ml,,,,0.24,ak,ak0223cwixmr,2022-03-14T10:59:08.618Z,"1 km NNE of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-03-14T10:53:23.890Z,19.1881675720215,-155.475006103516,34.3499984741211,2.16000009,md,44,86,,0.129999995,hv,hv72949587,2022-03-14T10:56:30.370Z,"1 km SSE of Pāhala, Hawaii",earthquake,0.51,0.720000029,1.88999999,18,automatic,hv,hv
