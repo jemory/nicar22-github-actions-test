@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-15T20:54:59.132Z,60.1515,-152.8205,98.5,1.8,ml,,,,0.42,ak,ak0223eq051q,2022-03-15T21:07:36.195Z,"64 km WNW of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-15T20:32:53.689Z,63.3968,-151.3346,0,1.6,ml,,,,0.73,ak,ak0223epvbpi,2022-03-15T20:43:07.180Z,"25 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-15T20:30:14.820Z,44.6078333,-110.3163333,5.77,2.85,ml,22,94,0.07728,0.23,uu,uu60485717,2022-03-15T20:48:25.250Z,"51 km SE of Mammoth, Wyoming",earthquake,0.35,1.19,0.301,4,reviewed,uu,uu
 2022-03-15T20:28:17.860Z,38.8266678,-122.7878342,0.79,0.56,md,12,81,0.01189,0.02,nc,nc73706181,2022-03-15T20:38:11.737Z,"6km W of Cobb, CA",earthquake,0.29,0.6,0.32,3,automatic,nc,nc
@@ -22,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T18:55:44.710Z,38.8165016,-122.7998352,3.3,0.56,md,19,43,0.009228,0.01,nc,nc73706151,2022-03-15T18:57:19.153Z,"6km NW of The Geysers, CA",earthquake,0.27,0.79,0.06,3,automatic,nc,nc
 2022-03-15T18:55:13.580Z,38.8168335,-122.7994995,3.3,0.84,md,14,53,0.00944,0.01,nc,nc73706146,2022-03-15T19:10:10.077Z,"6km NW of The Geysers, CA",earthquake,0.32,1.07,,1,automatic,nc,nc
 2022-03-15T18:50:29.280Z,38.7721672,-122.8818359,1.83,1.21,md,21,204,0.02783,0.05,nc,nc73706141,2022-03-15T19:50:12.314Z,"11km W of The Geysers, CA",earthquake,0.39,0.45,0.05,5,automatic,nc,nc
-2022-03-15T18:47:13.030Z,37.2876667,-121.6711667,2.17,0.91,md,14,86,0.02867,0.06,nc,nc73706136,2022-03-15T20:30:10.553Z,"15km E of Seven Trees, CA",earthquake,0.21,0.43,0.08,14,reviewed,nc,nc
+2022-03-15T18:47:13.030Z,37.2876667,-121.6711667,2.17,0.91,md,14,86,0.02867,0.06,nc,nc73706136,2022-03-15T21:08:13.798Z,"15km E of Seven Trees, CA",earthquake,0.21,0.43,0.08,14,reviewed,nc,nc
 2022-03-15T18:42:57.799Z,36.3605,-96.986,6.64,0.93,ml,48,42,0.06118799283,0.26,ok,ok2022feut,2022-03-15T18:51:37.641Z,"7 km NNE of Morrison, Oklahoma",earthquake,,0.5,0.25,16,reviewed,ok,ok
 2022-03-15T18:41:40.510Z,19.1988334655762,-155.395492553711,31.0100002288818,1.80999994,md,31,173,,0.129999995,hv,hv72951262,2022-03-15T18:44:49.940Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,0.850000024,0.899999976,3,automatic,hv,hv
 2022-03-15T18:41:11.100Z,38.8310013,-122.8116684,2.02,0.85,md,10,77,0.007697,0.02,nc,nc73706131,2022-03-15T18:55:11.498Z,"8km NW of The Geysers, CA",earthquake,0.38,1.14,,1,automatic,nc,nc
@@ -109,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T13:03:54.622Z,59.7752,-152.4185,79.8,1.2,ml,,,,0.26,ak,ak0223elj2rq,2022-03-15T13:06:15.701Z,"32 km W of Anchor Point, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2022-03-15T13:02:32.440Z,38.8100014,-122.8105011,3.12,1.67,md,34,51,0.01205,0.03,nc,nc73705931,2022-03-15T15:04:14.654Z,"6km NW of The Geysers, CA",earthquake,0.2,0.35,0.11,9,automatic,nc,nc
 2022-03-15T13:00:34.930Z,38.8230019,-122.8083344,1.31,0.84,md,11,63,0.001414,0.01,nc,nc73705926,2022-03-15T14:37:13.499Z,"7km NW of The Geysers, CA",earthquake,0.26,1.23,,1,automatic,nc,nc
-2022-03-15T12:48:59.561Z,39.5916,-119.4481,0,1.1,ml,10,57.49,0.128,0.283,nn,nn00835366,2022-03-15T12:52:26.220Z,"14 km WSW of Wadsworth, Nevada",earthquake,,11.3,0.52,4,automatic,nn,nn
+2022-03-15T12:49:00.336Z,39.6165,-119.4339,14,1.3,ml,15,57.81,0.101,0.1252,nn,nn00835366,2022-03-15T21:09:35.623Z,"12 km W of Wadsworth, Nevada",earthquake,,1.9,0.21,9,reviewed,nn,nn
 2022-03-15T12:47:12.251Z,39.6009,-119.4429,11.6,1.1,ml,12,75.78,0.118,0.2246,nn,nn00835365,2022-03-15T12:50:37.900Z,"14 km WSW of Wadsworth, Nevada",earthquake,,0.8,0.29,6,automatic,nn,nn
 2022-03-15T12:33:59.070Z,33.9498333,-116.3346667,1.75,1.24,ml,44,47,0.1277,0.15,ci,ci40208240,2022-03-15T15:51:50.691Z,"15km NNE of Thousand Palms, CA",earthquake,0.13,0.34,0.157,20,reviewed,ci,ci
 2022-03-15T12:31:31.420Z,38.8139992,-122.7505035,1.57,0.36,md,7,231,0.02237,0.01,nc,nc73705921,2022-03-15T14:11:15.362Z,"2km WSW of Cobb, CA",earthquake,1.69,1,,1,automatic,nc,nc
@@ -203,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T05:40:18.545Z,61.0297,-149.8307,17.6,2.8,ml,,,,0.8,ak,ak0223egzgp8,2022-03-15T06:33:32.765Z,"16 km NW of Hope, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-03-15T05:37:25.460Z,36.5248333,-121.1006667,9.51,1.01,md,23,89,0.0358,0.07,nc,nc73705796,2022-03-15T09:37:12.801Z,"4km ESE of Pinnacles, CA",earthquake,0.21,0.33,0.297,18,reviewed,nc,nc
 2022-03-15T05:31:39.938Z,61.7501,-151.0572,57.1,2.4,ml,,,,0.83,ak,ak0223egxkrw,2022-03-15T05:44:26.335Z,"32 km SSE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-15T05:30:52.360Z,38.786,-122.7511667,0.04,1.54,md,41,41,0.01162,0.07,nc,nc73705786,2022-03-15T19:58:11.362Z,"1km NNE of The Geysers, CA",earthquake,0.15,0.28,0.095,9,reviewed,nc,nc
+2022-03-15T05:30:52.360Z,38.786,-122.7511667,0.04,1.54,md,41,41,0.01162,0.07,nc,nc73705786,2022-03-15T20:57:14.731Z,"1km NNE of The Geysers, CA",earthquake,0.15,0.28,0.095,9,reviewed,nc,nc
 2022-03-15T05:09:05.880Z,19.2223339080811,-155.445663452148,34.4099998474121,2.01999998,md,44,116,,0.109999999,hv,hv72950602,2022-03-15T05:12:28.310Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.57,0.689999998,0.980000019,15,automatic,hv,hv
 2022-03-15T05:07:55.840Z,38.8048325,-122.7764969,1.23,0.95,md,19,82,0.009028,0.02,nc,nc73705781,2022-03-15T07:07:13.982Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.36,0.1,3,automatic,nc,nc
 2022-03-15T05:03:40.390Z,33.9426667,-116.6153333,13.57,0.6,ml,28,55,0.09938,0.12,ci,ci40208088,2022-03-15T15:45:53.991Z,"8km NW of Garnet, CA",earthquake,0.19,0.6,0.086,18,reviewed,ci,ci
@@ -284,10 +285,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T21:44:44.580Z,38.8223343,-122.809166,1.06,2.23,md,33,38,0.001275,0.04,nc,nc73705641,2022-03-14T23:39:16.274Z,"7km NW of The Geysers, CA",earthquake,0.15,0.26,0.12,7,automatic,nc,nc
 2022-03-14T21:43:55.550Z,19.1464996337891,-155.490661621094,33.6399993896484,2.02999997,md,31,165,,0.119999997,hv,hv72950207,2022-03-14T21:47:14.310Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.84,1.05999994,0.25999999,5,automatic,hv,hv
 2022-03-14T21:42:51.108Z,61.2343,-146.6024,41.1,1.7,ml,,,,1.32,ak,ak0223d2zjr5,2022-03-14T21:45:27.050Z,"17 km NW of Valdez, Alaska",earthquake,,3.6,,,automatic,ak,ak
-2022-03-14T21:12:50.740Z,38.8306656,-122.8121643,2.1,0.36,md,12,86,0.007441,0.02,nc,nc73705636,2022-03-14T21:24:10.551Z,"8km NW of The Geysers, CA",earthquake,0.32,0.93,,1,automatic,nc,nc
-2022-03-14T21:12:23.080Z,38.8294983,-122.8123322,1.98,0.85,md,14,50,0.006345,0.01,nc,nc73705631,2022-03-14T21:29:23.452Z,"8km NW of The Geysers, CA",earthquake,0.29,0.62,,1,automatic,nc,nc
-2022-03-14T21:10:33.372Z,9.5403,-84.828,9.07,3.4,ml,,209,0.755,0.19,us,us6000h4k1,2022-03-15T05:32:27.293Z,"23 km WSW of Jacó, Costa Rica",earthquake,2.2,11.9,0.081,20,reviewed,us,us
-2022-03-14T21:07:48.700Z,44.371,-115.2156667,9.55,2.21,ml,11,83,0.844,0.28,mb,mb80540504,2022-03-14T21:34:03.790Z,"27 km NW of Stanley, Idaho",earthquake,0.69,1.26,0.232,8,reviewed,mb,mb
-2022-03-14T21:05:20.320Z,19.5044994354248,-155.660507202148,-0.639999985694885,1.94000006,md,23,50,,0.270000011,hv,hv72950147,2022-03-14T21:10:50.040Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,0.839999974,1.46000004,12,automatic,hv,hv
-2022-03-14T20:59:51.060Z,33.0505,-116.2108333,6.48,1.48,ml,50,71,0.1109,0.18,ci,ci40207840,2022-03-14T23:09:38.690Z,"13km SW of Ocotillo Wells, CA",earthquake,0.19,0.77,0.154,24,reviewed,ci,ci
-2022-03-14T20:58:04.750Z,34.718,-96.719,1.2,1.59,ml,60,101,0.07378552076,0.44,ok,ok2022fdds,2022-03-15T15:54:39.840Z,"7 km SSW of Ada, Oklahoma",earthquake,,0.9,0.22,19,reviewed,ok,ok
