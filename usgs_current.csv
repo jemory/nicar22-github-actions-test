@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-15T09:47:46.060Z,38.8268318,-122.7971649,2.95,0.84,md,8,154,0.01065,0.01,nc,nc73705871,2022-03-15T09:49:21.556Z,"6km W of Cobb, CA",earthquake,1.18,2.03,,1,automatic,nc,nc
 2022-03-15T09:29:23.530Z,33.6405,-116.6946667,14.69,0.23,ml,15,96,0.07233,0.1,ci,ci40208176,2022-03-15T09:32:50.579Z,"10km NNW of Anza, CA",earthquake,0.28,0.35,0.096,6,automatic,ci,ci
 2022-03-15T09:28:26.990Z,38.8071671,-122.7923355,0.5,0.83,md,9,111,0.002453,0.02,nc,nc73705861,2022-03-15T09:35:11.960Z,"5km NW of The Geysers, CA",earthquake,0.4,0.65,,1,automatic,nc,nc
 2022-03-15T09:25:23.150Z,19.2434997558594,-155.394332885742,31.2199993133545,1.98000002,md,49,137,,0.119999997,hv,hv72950782,2022-03-15T09:28:39.810Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.48,0.779999971,0.25,21,automatic,hv,hv
@@ -278,5 +279,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-14T10:26:24.808Z,64.2514,-147.8877,10.8,1.7,ml,,,,0.42,ak,ak0223cwcamo,2022-03-14T10:30:20.398Z,"56 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-14T10:01:53.236Z,-19.956,-70.9497,18.34,4.5,mb,,153,0.83,0.71,us,us6000h4e8,2022-03-14T22:03:22.608Z,"88 km WNW of Iquique, Chile",earthquake,5.7,5.8,0.205,7,reviewed,us,us
 2022-03-14T09:57:38.593Z,61.6896,-150.9773,57.5,1.6,ml,,,,0.66,ak,ak0223cvxjab,2022-03-14T10:01:50.596Z,"29 km WNW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-03-14T09:44:50.870Z,40.4425,-125.0096667,10.31,2.77,md,19,282,0.5139,0.18,nc,nc73705361,2022-03-15T04:37:13.057Z,"63km WNW of Petrolia, CA",earthquake,2.08,31.61,0.098,26,reviewed,nc,nc
-2022-03-14T09:44:09.560Z,34.5353333,-118.123,10.05,0.66,ml,15,72,0.05167,0.09,ci,ci40207336,2022-03-14T23:15:55.589Z,"4km N of Vincent, CA",earthquake,0.22,0.38,0.132,6,reviewed,ci,ci
