@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-16T10:23:21.554Z,59.9573,-152.9849,109.7,1.5,ml,,,,0.5,ak,ak0223g7ec7v,2022-03-16T10:26:25.584Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-03-16T10:18:50.910Z,60.7927,-147.6931,13.8,1.9,ml,,,,0.88,ak,ak0223g7dbxx,2022-03-16T10:26:14.510Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-03-16T10:15:25.010Z,33.9928333,-117.163,15.25,1.29,ml,36,86,0.04606,0.17,ci,ci39969231,2022-03-16T10:24:27.480Z,"7km SSE of Redlands, CA",earthquake,0.25,0.49,0.154,29,automatic,ci,ci
-2022-03-16T10:13:38.170Z,33.9911667,-117.1688333,14.78,2.87,ml,106,22,0.0438,0.16,ci,ci39969223,2022-03-16T10:24:50.050Z,"7km S of Redlands, CA",earthquake,0.15,0.29,0.248,25,automatic,ci,ci
-2022-03-16T10:01:39.710Z,38.8294983,-122.8040009,1.86,0.85,md,7,105,0.007723,0.02,nc,nc73706356,2022-03-16T10:11:11.596Z,"7km W of Cobb, CA",earthquake,0.5,1.24,,1,automatic,nc,nc
+2022-03-16T10:40:01.479Z,61.1625,-152.2153,10.5,0.7,ml,,,,0.08,ak,ak0223g7hxxp,2022-03-16T10:42:11.757Z,"59 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-03-16T10:34:40.019Z,64.8666,-149.3756,15.6,0.9,ml,,,,0.28,ak,ak0223g7gqj1,2022-03-16T10:41:47.761Z,"31 km S of Minto, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-03-16T10:23:21.554Z,59.9573,-152.9849,109.7,1.6,ml,,,,0.5,ak,ak0223g7ec7v,2022-03-16T10:38:12.705Z,"65 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-16T10:18:50.910Z,60.7927,-147.6931,13.8,1.9,ml,,,,0.88,ak,ak0223g7dbxx,2022-03-16T10:35:14.681Z,"54 km E of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-16T10:15:25.010Z,33.9928333,-117.163,15.25,1.29,ml,36,86,0.04606,0.17,ci,ci39969231,2022-03-16T10:29:45.646Z,"7km SSE of Redlands, CA",earthquake,0.25,0.49,0.154,29,automatic,ci,ci
+2022-03-16T10:13:38.170Z,33.9911667,-117.1688333,14.78,2.87,ml,106,22,0.0438,0.16,ci,ci39969223,2022-03-16T10:39:59.049Z,"7km S of Redlands, CA",earthquake,0.15,0.29,0.248,25,automatic,ci,ci
+2022-03-16T10:01:39.710Z,38.8294983,-122.8040009,1.86,0.85,md,7,105,0.007723,0.02,nc,nc73706356,2022-03-16T10:37:13.765Z,"7km W of Cobb, CA",earthquake,0.5,1.24,,1,automatic,nc,nc
 2022-03-16T09:42:35.470Z,62.0446,-149.5455,19.8,2.3,ml,,,,0.7,ak,ak0223g6x0c0,2022-03-16T10:00:29.040Z,"20 km SE of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-16T09:39:04.738Z,61.2474,-150.2887,23.3,1.4,ml,,,,0.18,ak,ak0223g6wart,2022-03-16T09:52:48.641Z,"20 km SW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-16T09:36:17.250Z,38.836834,-122.8000031,1.97,0.85,md,8,105,0.007706,0.01,nc,nc73706346,2022-03-16T10:15:14.626Z,"7km WNW of Cobb, CA",earthquake,0.48,1.24,,1,automatic,nc,nc
@@ -60,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-16T04:53:08.637Z,39.4129,-119.9342,7.7,0.8,ml,9,86.53,0.122,0.0752,nn,nn00835407,2022-03-16T04:55:57.255Z,"7 km ENE of Floriston, California",earthquake,,1.6,0.53,6,automatic,nn,nn
 2022-03-16T04:38:34.350Z,38.7761667,-122.7226667,0.97,0.5,md,24,53,0.01306,0.07,nc,nc73706286,2022-03-16T07:38:11.614Z,"3km W of Anderson Springs, CA",earthquake,0.19,0.26,0.323,6,reviewed,nc,nc
 2022-03-16T04:35:01.787Z,62.6702,-150.8118,83.3,1.5,ml,,,,0.94,ak,ak0223g3w9o0,2022-03-16T04:42:36.917Z,"19 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-16T04:31:09.690Z,38.0568333,-118.9681667,6.85,2.12,md,38,73,0.1407,0.09,nc,nc73706281,2022-03-16T09:51:10.665Z,"17km NE of Lee Vining, CA",earthquake,0.23,1.1,0.224,42,reviewed,nc,nc
+2022-03-16T04:31:09.690Z,38.0568333,-118.9681667,6.85,2.12,md,38,73,0.1407,0.09,nc,nc73706281,2022-03-16T10:34:13.748Z,"17km NE of Lee Vining, CA",earthquake,0.23,1.1,0.224,42,reviewed,nc,nc
 2022-03-16T04:27:38.920Z,33.6705,-116.7481667,18.24,0.84,ml,36,58,0.04949,0.18,ci,ci39968967,2022-03-16T04:31:18.181Z,"8km SSW of Idyllwild, CA",earthquake,0.29,0.45,0.144,26,automatic,ci,ci
 2022-03-16T04:27:16.090Z,59.3168,-154.4002,5,1.8,ml,,,,0.83,ak,ak0223g3ul0z,2022-03-16T04:39:37.667Z,"25 km ESE of Kokhanok, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-16T04:16:16.960Z,33.4898333,-116.7538333,6.6,0.93,ml,37,36,0.07258,0.19,ci,ci39968959,2022-03-16T04:19:43.669Z,"10km SW of Anza, CA",earthquake,0.19,0.55,0.162,27,automatic,ci,ci
@@ -270,7 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-15T10:55:47.319Z,43.045,145.0363,97.62,4.3,mb,,145,1.728,0.38,us,us6000h4nv,2022-03-15T11:15:26.040Z,"53 km SW of Nemuro, Japan",earthquake,6.4,8.8,0.117,21,reviewed,us,us
 2022-03-15T10:52:37.795Z,63.4928,-150.8562,2.8,1.6,ml,,,,0.84,ak,ak0223ek18pl,2022-03-15T11:01:00.629Z,"43 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-15T10:52:05.830Z,34.033,-117.026,8.88,0.81,ml,31,110,0.09615,0.13,ci,ci40208208,2022-03-15T15:24:36.578Z,"2km E of Yucaipa, CA",earthquake,0.17,0.6,0.155,13,reviewed,ci,ci
-2022-03-15T10:40:21.010Z,38.831665,-122.8188324,1.63,0.74,md,15,55,0.01072,0.03,nc,nc73705891,2022-03-15T12:26:12.706Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.13,2,automatic,nc,nc
-2022-03-15T10:35:22.030Z,33.6255,-116.6768333,13.95,0.55,ml,18,92,0.07025,0.14,ci,ci40208200,2022-03-15T14:54:27.922Z,"8km N of Anza, CA",earthquake,0.33,0.52,0.165,10,reviewed,ci,ci
-2022-03-15T10:33:20.030Z,44.5391667,-115.2486667,12.1,2.15,ml,12,82,0.766,0.25,mb,mb80540519,2022-03-15T16:04:34.120Z,"43 km NW of Stanley, Idaho",earthquake,0.63,1.55,0.149,8,reviewed,mb,mb
-2022-03-15T10:30:20.477Z,67.3441,-156.1493,0,2.6,ml,,,,0.84,ak,ak0223ejwhng,2022-03-15T10:42:05.576Z,"58 km NNE of Kobuk, Alaska",earthquake,,0.3,,,automatic,ak,ak
