@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T06:53:54.150Z,36.0115013,-120.5709991,2.57,0.9,md,11,112,0.02796,0.04,nc,nc73707591,2022-03-19T06:55:27.609Z,"18km NW of Parkfield, CA",earthquake,0.34,0.72,0.15,3,automatic,nc,nc
 2022-03-19T06:40:18.380Z,35.7395,-117.5265,9.39,0.65,ml,11,163,0.09551,0.16,ci,ci39971983,2022-03-19T06:43:54.039Z,"12km WSW of Searles Valley, CA",earthquake,0.54,1,0.159,7,automatic,ci,ci
 2022-03-19T06:35:07.000Z,19.238000869751,-155.455673217773,34.5299987792969,1.78999996,md,35,175,,0.129999995,hv,hv72955347,2022-03-19T06:38:20.640Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.68,0.970000029,1.87,4,automatic,hv,hv
 2022-03-19T06:33:05.620Z,38.8243332,-122.8050003,1.68,0.98,md,20,43,0.004072,0.02,nc,nc73707581,2022-03-19T06:34:42.468Z,"7km NW of The Geysers, CA",earthquake,0.2,0.47,0.19,3,automatic,nc,nc
+2022-03-19T06:27:05.022Z,-37.0017,-73.9842,8.09,4.6,mb,,134,0.685,0.91,us,us6000h5z5,2022-03-19T06:48:33.040Z,"65 km WNW of Arauco, Chile",earthquake,4.4,5.1,0.092,35,reviewed,us,us
 2022-03-19T06:24:43.229Z,-44.6325,-80.8218,10,4.6,mb,,111,6.257,0.78,us,us6000h5z4,2022-03-19T06:44:36.040Z,"Off the coast of Aisen, Chile",earthquake,7.4,1.9,0.145,14,reviewed,us,us
+2022-03-19T06:22:21.797Z,37.5957,72.3196,192.84,4.2,mb,,112,1.466,0.58,us,us6000h5z3,2022-03-19T06:51:42.040Z,"68 km E of Khorugh, Tajikistan",earthquake,8.4,8.1,0.124,18,reviewed,us,us
 2022-03-19T06:17:42.430Z,57.8009,-156.1218,110.6,2.2,ml,,,,0.13,ak,ak0223l3lelf,2022-03-19T06:21:09.884Z,"82 km ENE of Ugashik, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2022-03-19T06:11:35.866Z,38.197,-117.8797,3.3,1.9,ml,16,108.64,0.32,0.298,nn,nn00835642,2022-03-19T06:15:28.657Z,"29 km SE of Mina, Nevada",earthquake,,1,0.18,9,automatic,nn,nn
-2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T06:39:42.857Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
+2022-03-19T06:01:29.960Z,36.9676666,-121.6303329,4.23,2.63,md,68,38,0.0406,0.18,nc,nc73707556,2022-03-19T06:56:55.224Z,"7km SW of Gilroy, CA",earthquake,0.21,0.44,0.16,78,automatic,nc,nc
 2022-03-19T06:00:58.480Z,36.9695015,-121.6324997,4.44,2.23,md,44,39,0.04283,0.18,nc,nc73707551,2022-03-19T06:25:14.326Z,"7km SW of Gilroy, CA",earthquake,0.26,0.51,0.17,40,automatic,nc,nc
 2022-03-19T05:58:50.040Z,37.4731674,-118.9980011,4.13,1.77,md,13,167,0.1406,0.02,nc,nc73707546,2022-03-19T06:25:13.326Z,"18km S of Mammoth Lakes, CA",earthquake,0.61,2.04,0.12,12,automatic,nc,nc
 2022-03-19T05:58:02.430Z,17.9366666666667,-67.0213333333333,9.71,2.17,md,3,236,,0.02,pr,pr71340828,2022-03-19T06:15:44.940Z,"5 km SSE of La Parguera, Puerto Rico",earthquake,2.61,0.9,0.114856619740067,3,reviewed,pr,pr
@@ -283,10 +286,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T07:06:12.180Z,32.7718333,-117.4188333,16.29,1.83,ml,56,220,0.1509,0.19,ci,ci39970879,2022-03-18T17:00:25.053Z,"16km WSW of La Jolla, CA",earthquake,0.33,0.57,0.18,20,reviewed,ci,ci
 2022-03-18T07:04:06.660Z,37.334,-121.6908333,7.53,1.07,md,29,35,0.03922,0.07,nc,nc73707111,2022-03-18T08:44:58.133Z,"13km ESE of Alum Rock, CA",earthquake,0.18,0.29,0.18,23,reviewed,nc,nc
 2022-03-18T07:01:48.170Z,38.7913322,-122.7614975,2.11,0.21,md,12,75,0.009384,0.02,nc,nc73707106,2022-03-18T07:11:10.977Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.78,0.16,2,automatic,nc,nc
-2022-03-18T06:56:03.370Z,38.8235016,-122.7624969,1.59,0.45,md,13,127,0.009055,0.02,nc,nc73707101,2022-03-18T07:33:15.110Z,"3km W of Cobb, CA",earthquake,0.31,0.57,0.4,2,automatic,nc,nc
-2022-03-18T06:55:33.730Z,39.4161667,-110.2855,-3.38,2,md,6,204,0.03168,0.17,uu,uu60486252,2022-03-18T15:58:52.730Z,"17 km SSE of Sunnyside, Utah",earthquake,2.26,4.56,0.264,5,reviewed,uu,uu
-2022-03-18T06:52:29.264Z,61.1363,-151.1722,59.9,1.1,ml,,,,0.47,ak,ak0223jg9j5a,2022-03-18T06:54:23.616Z,"4 km W of Beluga, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-03-18T06:51:52.060Z,33.9341667,-118.1356667,7.61,1.22,ml,29,132,0.04254,0.19,ci,ci39970871,2022-03-18T16:30:17.472Z,"1km SW of Downey, CA",earthquake,0.33,0.46,0.159,15,reviewed,ci,ci
-2022-03-18T06:51:25.920Z,34.3685,-117.665,8.71,0.96,ml,20,161,0.01737,0.13,ci,ci39970863,2022-03-18T16:17:49.661Z,"3km WNW of Wrightwood, CA",earthquake,0.27,0.49,0.251,9,reviewed,ci,ci
-2022-03-18T06:48:43.520Z,38.8346672,-122.8073349,1.66,0.85,md,9,102,0.01146,0.01,nc,nc73707096,2022-03-18T07:22:18.045Z,"7km W of Cobb, CA",earthquake,0.44,1.22,,1,automatic,nc,nc
-2022-03-18T06:48:03.541Z,38.5143,-119.5315,6,1.8,ml,24,78.2,0.072,0.1593,nn,nn00835584,2022-03-19T02:39:01.875Z,"4 km W of Walker, California",earthquake,,0.9,0.28,11,reviewed,nn,nn
