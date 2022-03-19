@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-19T10:41:33.650Z,36.0631676,-120.1926651,7.53,1.34,md,7,217,0.09475,0.07,nc,nc73707641,2022-03-19T10:43:09.937Z,"9km NW of Avenal, CA",earthquake,1.84,1.05,0.03,3,automatic,nc,nc
 2022-03-19T10:26:39.022Z,38.1629,-117.8724,4.1,1,ml,9,110.91,0.073,0.2906,nn,nn00835652,2022-03-19T10:30:16.678Z,"32 km SE of Mina, Nevada",earthquake,,1,1.03,5,automatic,nn,nn
 2022-03-19T10:17:04.180Z,35.71,-117.5571667,3.97,0.54,ml,11,148,0.1105,0.16,ci,ci39972087,2022-03-19T10:20:33.894Z,"15km NE of Ridgecrest, CA",earthquake,0.43,1.33,0.08,7,automatic,ci,ci
 2022-03-19T10:16:06.020Z,33.437,-116.6195,6.04,0.66,ml,34,38,0.06002,0.15,ci,ci39972079,2022-03-19T10:19:45.966Z,"14km SSE of Anza, CA",earthquake,0.22,0.46,0.116,21,automatic,ci,ci
-2022-03-19T10:06:03.940Z,37.5724983,-118.7876663,6.64,1.43,md,9,227,0.03729,0.01,nc,nc73707631,2022-03-19T10:20:13.809Z,"10km W of Toms Place, CA",earthquake,0.8,1.14,0.09,9,automatic,nc,nc
-2022-03-19T09:59:30.941Z,36.8562,5.2066,10,5.2,mww,,27,3.527,0.54,us,us6000h5zu,2022-03-19T10:28:56.040Z,"15 km NE of Bejaïa, Algeria",earthquake,6.6,1.8,0.059,28,reviewed,us,us
+2022-03-19T10:06:03.940Z,37.5724983,-118.7876663,6.64,1.43,md,9,227,0.03729,0.01,nc,nc73707631,2022-03-19T10:39:10.809Z,"10km W of Toms Place, CA",earthquake,0.8,1.14,0.09,9,automatic,nc,nc
+2022-03-19T09:59:30.941Z,36.8562,5.2066,10,5.2,mww,,27,3.527,0.54,us,us6000h5zu,2022-03-19T10:40:56.307Z,"15 km NE of Bejaïa, Algeria",earthquake,6.6,1.8,0.059,28,reviewed,us,us
 2022-03-19T09:58:26.758Z,58.1593,-151.2738,35,2.9,ml,,195,0.793,0.34,us,us6000h5zt,2022-03-19T10:32:01.040Z,"77 km ENE of Ouzinkie, Alaska",earthquake,5.3,2,0.043,72,reviewed,us,us
 2022-03-19T09:57:22.920Z,32.2468333,-116.3778333,4.01,1.37,ml,12,94,0.2509,0.13,ci,ci39972071,2022-03-19T10:00:55.248Z,"41km SSE of Campo, CA",earthquake,0.48,31.61,0.196,12,automatic,ci,ci
-2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T10:19:55.018Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
+2022-03-19T09:53:11.941Z,41.339,-106.5668,10.06,3.8,ml,,62,0.646,0.77,us,us6000h5zq,2022-03-19T10:33:40.739Z,"5 km WNW of Ryan Park, Wyoming",earthquake,2.8,8.5,0.033,142,reviewed,us,us
 2022-03-19T09:48:42.305Z,35.26375961,-97.87870026,5,1.53,ml,10,92.37342834,0.09236814082,0.976279575,ok,ok2022flle,2022-03-19T09:51:26.163Z,"6 km WSW of Tuttle, Oklahoma",earthquake,4.607692445,,,6,automatic,ok,ok
 2022-03-19T09:35:53.700Z,19.1728324890137,-155.500503540039,34.9900016784668,1.87,md,34,238,,0.119999997,hv,hv72955462,2022-03-19T09:39:11.100Z,"Island of Hawaii, Hawaii",earthquake,0.58,0.680000007,1.66999996,6,automatic,hv,hv
 2022-03-19T09:31:17.006Z,-28.0441,-67.0952,199.32,4.2,mb,,68,2.171,0.58,us,us6000h5zp,2022-03-19T09:57:36.040Z,"36 km S of Londres, Argentina",earthquake,8.5,13.3,0.236,5,reviewed,us,us
@@ -261,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T10:50:52.820Z,38.8245,-122.8026667,3,1.99,md,62,26,0.00589,0.06,nc,nc73707176,2022-03-18T22:43:12.347Z,"7km NW of The Geysers, CA",earthquake,0.12,0.17,0.14,32,reviewed,nc,nc
 2022-03-18T10:46:55.590Z,45.329166666666666,-121.67866666666667,4.92,0.27,ml,7,135,0.02075,0.09,uw,uw61814317,2022-03-18T18:39:03.590Z,"6 km ENE of Government Camp, Oregon",earthquake,0.38,0.7,0.025316030946002627,3,reviewed,uw,uw
 2022-03-18T10:44:59.651Z,61.4237,-150.1157,19.9,2.5,ml,,,,0.8,ak,ak0223jilpau,2022-03-18T10:53:56.462Z,"10 km NW of Point MacKenzie, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-18T10:42:44.600Z,45.32533333333333,-121.682,6.08,0.08,md,4,209,0.02254,0.05,uw,uw61814312,2022-03-18T18:32:47.020Z,"6 km ENE of Government Camp, Oregon",earthquake,0.54,0.43,0.23030022749887813,3,reviewed,uw,uw
-2022-03-18T10:34:51.080Z,45.33,-121.69066666666667,5.12,-0.01,md,5,136,0.02908,0.15,uw,uw61814307,2022-03-18T18:27:05.560Z,"5 km ENE of Government Camp, Oregon",earthquake,0.52,0.94,0.26744413088634633,4,reviewed,uw,uw
