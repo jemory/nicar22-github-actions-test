@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-19T05:32:38.910Z,39.3393326,-123.4778366,-0.45,2.52,md,23,110,0.1691,0.24,nc,nc73707531,2022-03-19T05:34:14.044Z,"13km SW of Willits, CA",earthquake,0.57,2.15,0.13,18,automatic,nc,nc
+2022-03-19T05:35:33.540Z,39.3460007,-123.4919968,5.45,2.28,md,16,131,0.1715,0.07,nc,nc73707536,2022-03-19T05:43:50.556Z,"14km WSW of Willits, CA",earthquake,0.37,1.39,0.13,14,automatic,nc,nc
+2022-03-19T05:32:38.910Z,39.3393326,-123.4778366,-0.45,2.52,md,23,110,0.1691,0.24,nc,nc73707531,2022-03-19T05:44:57.611Z,"13km SW of Willits, CA",earthquake,0.57,2.15,0.13,18,automatic,nc,nc
 2022-03-19T05:23:51.380Z,33.1955,-116.0023333,5.79,1.53,ml,48,46,0.03012,0.25,ci,ci39971951,2022-03-19T05:34:54.000Z,"12km SSW of Salton City, CA",earthquake,0.3,0.67,0.185,27,automatic,ci,ci
 2022-03-19T05:07:12.140Z,37.5721664,-118.7868347,6.21,1.15,md,9,227,0.06988,0.01,nc,nc73707526,2022-03-19T05:30:14.017Z,"10km W of Toms Place, CA",earthquake,1.89,1.21,0.07,8,automatic,nc,nc
 2022-03-19T04:59:43.400Z,38.7878342,-122.765831,2.14,0.34,md,16,75,0.01364,0.03,nc,nc73707521,2022-03-19T05:21:13.950Z,"1km NW of The Geysers, CA",earthquake,0.26,0.52,0.19,4,automatic,nc,nc
@@ -29,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-19T02:44:56.830Z,33.1396667,-117.0656667,21.7,0.77,ml,18,62,0.1062,0.3,ci,ci39971895,2022-03-19T02:48:32.448Z,"2km NE of Escondido, CA",earthquake,0.53,1.4,0.12,9,automatic,ci,ci
 2022-03-19T02:32:29.510Z,33.3473333,-115.7986667,1.11,1.64,ml,44,76,0.06031,0.19,ci,ci39971887,2022-03-19T02:43:08.150Z,"6km W of Bombay Beach, CA",earthquake,0.3,31.61,0.121,27,automatic,ci,ci
 2022-03-19T02:19:14.910Z,38.8310013,-122.8148346,1.66,0.63,md,18,49,0.008457,0.02,nc,nc73707486,2022-03-19T03:28:13.260Z,"8km NW of The Geysers, CA",earthquake,0.24,0.45,0.05,3,automatic,nc,nc
-2022-03-19T02:14:37.450Z,35.6985,-121.1595,6.65,1.51,md,24,172,0.01686,0.07,nc,nc73707481,2022-03-19T05:29:11.012Z,"7km NNE of San Simeon, CA",earthquake,0.29,0.22,0.274,17,reviewed,nc,nc
+2022-03-19T02:14:37.450Z,35.6985,-121.1595,6.65,1.51,md,24,172,0.01686,0.07,nc,nc73707481,2022-03-19T05:43:13.095Z,"7km NNE of San Simeon, CA",earthquake,0.29,0.22,0.274,17,reviewed,nc,nc
 2022-03-19T02:11:37.823Z,44.5144,149.1385,49.74,4.6,mb,,137,4.713,0.48,us,us6000h5xi,2022-03-19T02:32:03.040Z,"127 km SE of Kuril’sk, Russia",earthquake,10.1,7.6,0.072,60,reviewed,us,us
 2022-03-19T02:01:47.220Z,38.3916667,-122.5985,5.33,2.1,md,88,32,0.04576,0.09,nc,nc73707476,2022-03-19T04:48:12.750Z,"5km WSW of Kenwood, CA",earthquake,0.09,0.21,0.165,57,reviewed,nc,nc
 2022-03-19T02:01:28.750Z,17.9511,-67.0161,9,2.67,md,19,223,0.0336,0.09,pr,pr2022078000,2022-03-19T03:01:56.040Z,"4 km SE of La Parguera, Puerto Rico",earthquake,0.37,0.57,0.5,12,reviewed,pr,pr
@@ -286,8 +287,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-18T06:14:31.210Z,38.7951667,-122.7628333,3.26,-0.06,md,13,63,0.005971,0.02,nc,nc73707061,2022-03-18T08:10:23.851Z,"2km NNW of The Geysers, CA",earthquake,0.36,0.7,0.05,4,reviewed,nc,nc
 2022-03-18T06:09:13.130Z,38.8218346,-122.7636642,2.44,0.7,md,10,121,0.009909,0.01,nc,nc73707056,2022-03-18T06:26:18.735Z,"4km W of Cobb, CA",earthquake,0.38,1.07,0.16,2,automatic,nc,nc
 2022-03-18T05:57:28.162Z,30.44586182,-104.0785776,11.42036947,2.1,ml,10,132,0.3863827433,0.1,tx,tx2022fjia,2022-03-18T21:05:11.620Z,"16 km NNW of Marfa, Texas",earthquake,1.398867309,3.974259445,0.1,7,reviewed,tx,tx
-2022-03-18T05:45:09.579Z,38.517,-119.5329,5.5,1.1,ml,11,130.49,0.07,0.1322,nn,nn00835581,2022-03-19T02:38:58.356Z,"4 km W of Walker, California",earthquake,,1.4,0.28,5,reviewed,nn,nn
-2022-03-18T05:40:40.532Z,62.1392,-148.8638,15.9,2.4,ml,,,,0.71,ak,ak0223jfljua,2022-03-18T05:52:22.308Z,"40 km N of Sutton-Alpine, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-03-18T05:39:45.903Z,38.52,-119.5206,4.5,1.2,ml,11,181.93,0.066,0.1238,nn,nn00835624,2022-03-19T02:39:43.355Z,"3 km W of Walker, California",earthquake,,1.4,0.15,5,reviewed,nn,nn
-2022-03-18T05:36:24.574Z,52.8436,156.3352,277.23,4.4,mb,,123,0.866,0.62,us,us6000h5m6,2022-03-18T05:52:17.040Z,"Kamchatka Peninsula, Russia",earthquake,9.9,7.4,0.048,125,reviewed,us,us
-2022-03-18T05:35:29.479Z,38.5218,-119.5329,5.6,1.3,ml,14,128.75,0.065,0.1041,nn,nn00835576,2022-03-19T02:38:56.882Z,"4 km W of Walker, California",earthquake,,1.2,0.3,5,reviewed,nn,nn
