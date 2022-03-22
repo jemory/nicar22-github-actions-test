@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-22T10:33:38.470Z,34.0514984,-117.5636673,7.33,3.38,ml,102,25,0.04057,0.24,ci,ci39974135,2022-03-22T10:41:41.682Z,"6km E of Ontario, CA",earthquake,0.25,0.6,0.265,15,automatic,ci,ci
+2022-03-22T10:31:41.080Z,35.7988333,-117.6303333,6.57,1.29,ml,18,84,0.03157,0.15,ci,ci39974119,2022-03-22T10:35:17.214Z,"20km NNE of Ridgecrest, CA",earthquake,0.24,0.54,0.145,17,automatic,ci,ci
 2022-03-22T10:11:10.780Z,17.9771666666667,-66.9873333333333,10.94,1.88,md,3,171,,0.02,pr,pr71341303,2022-03-22T10:19:39.920Z,"6 km E of La Parguera, Puerto Rico",earthquake,2.06,0.76,0.0442530271338639,3,reviewed,pr,pr
 2022-03-22T10:11:01.870Z,34.342,-118.4861667,8.51,1.26,ml,16,216,0.03665,0.2,ci,ci39974111,2022-03-22T10:14:31.823Z,"5km NW of Sylmar, CA",earthquake,0.6,0.72,0.168,28,automatic,ci,ci
-2022-03-22T10:09:41.320Z,38.8388329,-122.8376694,0.9,1.51,md,22,83,0.01583,0.05,nc,nc73708716,2022-03-22T10:20:10.564Z,"10km NW of The Geysers, CA",earthquake,0.19,0.51,0.1,6,automatic,nc,nc
+2022-03-22T10:09:41.320Z,38.8388329,-122.8376694,0.9,1.51,md,22,83,0.01583,0.05,nc,nc73708716,2022-03-22T10:40:13.684Z,"10km NW of The Geysers, CA",earthquake,0.19,0.51,0.1,6,automatic,nc,nc
 2022-03-22T10:04:04.990Z,35.9161667,-117.6916667,2.55,1.06,ml,16,67,0.0461,0.17,ci,ci39974103,2022-03-22T10:07:33.776Z,"20km E of Little Lake, CA",earthquake,0.39,0.56,0.118,13,automatic,ci,ci
 2022-03-22T09:49:40.570Z,17.9866666666667,-66.8556666666667,12.39,2.9,md,29,136,,0.2,pr,pr71341298,2022-03-22T10:13:06.330Z,"3 km SSE of Palomas, Puerto Rico",earthquake,0.41,0.25,0.162288078648911,18,reviewed,pr,pr
 2022-03-22T09:28:45.400Z,17.1625,-68.232,57,3.97,md,23,258,1.3595,0.54,pr,pr2022081001,2022-03-22T09:51:23.929Z,"140 km SSE of Boca de Yuma, Dominican Republic",earthquake,3.35,10.75,0.1,7,reviewed,pr,pr
@@ -247,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T10:50:50.030Z,37.644,-122.0551667,1.62,1.65,md,39,75,0.01385,0.13,nc,nc73708366,2022-03-21T23:58:12.939Z,"2km E of Hayward, CA",earthquake,0.18,0.46,0.196,29,reviewed,nc,nc
 2022-03-21T10:48:56.210Z,37.6378333,-122.0531667,2.26,1.57,md,41,41,0.02018,0.09,nc,nc73708361,2022-03-21T21:38:11.981Z,"2km ESE of Hayward, CA",earthquake,0.15,0.26,0.203,25,reviewed,nc,nc
 2022-03-21T10:48:32.050Z,19.201000213623,-155.494338989258,31.1700000762939,2.22,ml,44,71,,0.119999997,hv,hv72957812,2022-03-21T10:54:02.830Z,"1 km W of Pāhala, Hawaii",earthquake,0.46,0.769999981,3.77,6,automatic,hv,hv
-2022-03-21T10:36:38.750Z,19.8695,-155.576166666667,23.96,2.56,ml,52,120,,0.12,hv,hv72957797,2022-03-22T00:30:47.828Z,"19 km SSE of Waimea, Hawaii",earthquake,0.36,0.72,0.133152659614938,12,reviewed,hv,hv
