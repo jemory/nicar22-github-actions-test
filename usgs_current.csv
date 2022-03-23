@@ -2,7 +2,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T14:23:09.170Z,38.8095016,-122.814003,2.67,0.84,md,15,70,0.01187,0.03,nc,nc73709281,2022-03-23T14:24:46.774Z,"6km NW of The Geysers, CA",earthquake,0.32,0.82,,1,automatic,nc,nc
 2022-03-23T14:16:41.740Z,38.8400002,-122.8088303,1.7,0.85,md,9,70,0.01452,0.02,nc,nc73709276,2022-03-23T14:35:25.142Z,"8km WNW of Cobb, CA",earthquake,0.42,0.78,,1,automatic,nc,nc
 2022-03-23T14:03:00.740Z,38.5443344,-122.621666,3.67,1.46,md,9,136,0.1582,0.05,nc,nc73709271,2022-03-23T14:24:16.073Z,"5km SW of Calistoga, CA",earthquake,0.54,4.23,0.22,7,automatic,nc,nc
-2022-03-23T13:56:30.340Z,38.8041649,-122.7914963,1.3,1.11,md,27,45,0.004824,0.03,nc,nc73709266,2022-03-23T14:32:11.120Z,"4km NW of The Geysers, CA",earthquake,0.18,0.28,0.15,6,automatic,nc,nc
+2022-03-23T13:56:30.340Z,38.8041649,-122.7914963,1.3,1.11,md,27,45,0.004824,0.03,nc,nc73709266,2022-03-23T14:40:16.176Z,"4km NW of The Geysers, CA",earthquake,0.18,0.28,0.15,6,automatic,nc,nc
 2022-03-23T13:43:48.970Z,32.6555,-115.7286667,7.35,1.45,ml,18,94,0.006448,0.28,ci,ci39975255,2022-03-23T13:47:28.321Z,"16km WNW of Progreso, B.C., MX",earthquake,0.68,0.84,0.286,12,automatic,ci,ci
 2022-03-23T13:34:17.590Z,35.6698333,-117.517,4.21,1.06,ml,11,155,0.09438,0.12,ci,ci39975239,2022-03-23T14:23:26.156Z,"15km SW of Searles Valley, CA",earthquake,0.35,0.71,0.096,11,reviewed,ci,ci
 2022-03-23T13:33:51.590Z,35.6098333,-117.4083333,7.16,0.95,ml,15,154,0.04969,0.16,ci,ci39975231,2022-03-23T13:37:50.222Z,"17km S of Trona, CA",earthquake,0.44,0.72,0.122,12,automatic,ci,ci
@@ -54,6 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T07:53:55.740Z,32.6403333,-115.5891667,1.07,1.43,ml,13,103,0.1161,0.28,ci,ci39975079,2022-03-23T07:57:31.944Z,"7km N of Progreso, B.C., MX",earthquake,0.86,31.61,0.208,19,automatic,ci,ci
 2022-03-23T07:49:54.620Z,38.7988319,-122.7501678,1.9,0.21,md,8,98,0.00767,0.01,nc,nc73709186,2022-03-23T07:51:29.388Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.73,0.16,2,automatic,nc,nc
 2022-03-23T07:47:38.890Z,17.9795,-67.0036666666667,12.97,1.82,md,6,164,,0.08,pr,pr71341583,2022-03-23T08:40:12.790Z,"Puerto Rico region",earthquake,0.83,0.62,0.077141768940431,3,reviewed,pr,pr
+2022-03-23T07:43:20.660Z,44.1236667,-115.0908333,5.91,1.79,ml,10,80,0.745,0.19,mb,mb80541249,2022-03-23T14:44:07.150Z,"16 km SW of Stanley, Idaho",earthquake,0.42,1.37,0.231,9,reviewed,mb,mb
 2022-03-23T07:39:14.960Z,17.9636666666667,-67.0016666666667,13.11,2.14,md,12,195,,0.23,pr,pr71341578,2022-03-23T07:57:43.460Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.89,0.47,0.127037739164293,5,reviewed,pr,pr
 2022-03-23T07:38:58.650Z,33.5563333,-116.6203333,9.71,1.2,ml,43,40,0.007621,0.15,ci,ci39975063,2022-03-23T07:50:11.800Z,"5km E of Anza, CA",earthquake,0.16,0.31,0.214,26,automatic,ci,ci
 2022-03-23T07:21:58.990Z,36.31016667,-98.13033333,7.7,1.99,ml,94,52,0.05668887571,0.2,ok,ok2022fsoi,2022-03-23T12:27:32.320Z,"8 km W of Drummond, Oklahoma",earthquake,,0.4,0.23,39,reviewed,ok,ok
@@ -253,4 +254,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T15:08:33.763Z,54.1238,159.6684,134.12,4,mb,,123,1.258,0.25,us,us6000h6mx,2022-03-22T16:03:41.040Z,"93 km SE of Mil’kovo, Russia",earthquake,8.4,11.9,0.1,28,reviewed,us,us
 2022-03-22T14:58:00.715Z,39.3078,-118.1466,4.7,0.6,ml,7,150.26,0.021,0.0841,nn,nn00835819,2022-03-23T02:38:49.902Z,"50 km ESE of Fallon Station, Nevada",earthquake,,9.6,0.65,3,reviewed,nn,nn
 2022-03-22T14:45:54.260Z,19.1908340454102,-155.467330932617,32.8300018310547,2.26999998,md,46,99,,0.140000001,hv,hv72959112,2022-03-22T14:49:08.440Z,"1 km SE of Pāhala, Hawaii",earthquake,0.64,0.790000021,1.04999995,18,automatic,hv,hv
-2022-03-22T14:39:50.230Z,37.3585,-121.7148333,8.11,1.35,md,37,40,0.04538,0.07,nc,nc73708801,2022-03-22T22:38:15.949Z,"10km E of Alum Rock, CA",earthquake,0.15,0.3,0.207,28,reviewed,nc,nc
