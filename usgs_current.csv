@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T07:38:58.650Z,33.5563333,-116.6203333,9.71,1.2,ml,43,40,0.007621,0.15,ci,ci39975063,2022-03-23T07:42:39.099Z,"5km E of Anza, CA",earthquake,0.16,0.31,0.214,26,automatic,ci,ci
 2022-03-23T07:21:59.195Z,36.31862259,-98.13358307,2.749819756,2.14,ml,38,65.59526062,0.2217802256,0.5884812585,ok,ok2022fsoi,2022-03-23T07:25:44.741Z,"Oklahoma",earthquake,2.041297076,1.564282909,,30,automatic,ok,ok
 2022-03-23T07:17:09.910Z,19.320499420166,-155.112503051758,5.40999984741211,2.24,ml,39,158,,0.180000007,hv,hv72959742,2022-03-23T07:22:39.470Z,"16 km S of Fern Forest, Hawaii",earthquake,0.54,0.790000021,3.2,8,automatic,hv,hv
 2022-03-23T07:14:17.830Z,38.8056679,-122.779335,2.21,0.67,md,10,67,0.007653,0.01,nc,nc73709176,2022-03-23T07:15:55.019Z,"4km NNW of The Geysers, CA",earthquake,0.34,0.82,0.14,2,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-23T04:56:40.890Z,65.4022,-145.0146,2.2,1.5,ml,,,,1.1,ak,ak0223rosa5z,2022-03-23T05:03:54.650Z,"21 km SSW of Central, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-23T04:53:57.010Z,35.6818333,-117.4068333,5.81,0.69,ml,9,187,0.1053,0.1,ci,ci39975039,2022-03-23T04:57:26.588Z,"10km SSW of Trona, CA",earthquake,0.57,1.7,0.099,8,automatic,ci,ci
 2022-03-23T04:44:21.110Z,38.7758331,-122.7216644,1.71,0.9,md,8,96,0.0139,0.01,nc,nc73709121,2022-03-23T04:52:33.637Z,"3km W of Anderson Springs, CA",earthquake,0.61,0.41,0.07,3,automatic,nc,nc
-2022-03-23T04:41:38.620Z,39.3426667,-122.843,3.17,1.8,md,27,55,0.1883,0.12,nc,nc73709116,2022-03-23T07:24:10.556Z,"12km SE of Lake Pillsbury, CA",earthquake,0.2,1.43,0.156,25,reviewed,nc,nc
+2022-03-23T04:41:38.620Z,39.3426667,-122.843,3.17,1.8,md,27,55,0.1883,0.12,nc,nc73709116,2022-03-23T07:44:14.672Z,"12km SE of Lake Pillsbury, CA",earthquake,0.2,1.43,0.156,25,reviewed,nc,nc
 2022-03-23T04:37:23.244Z,26.8265,126.6356,10,4.8,mww,,76,1.462,0.75,us,us6000h6vm,2022-03-23T05:18:04.040Z,"124 km WNW of Naha, Japan",earthquake,7.7,1.9,0.098,10,reviewed,us,us
 2022-03-23T04:24:33.250Z,32.6248333,-115.5765,1.62,1.7,ml,14,132,0.1288,0.17,ci,ci39975031,2022-03-23T04:28:22.384Z,"5km N of Progreso, B.C., MX",earthquake,0.7,0.72,0.147,23,automatic,ci,ci
 2022-03-23T04:24:10.910Z,32.6295,-115.5798333,1.92,1.65,ml,14,130,0.1252,0.22,ci,ci39975023,2022-03-23T04:27:54.372Z,"6km N of Progreso, B.C., MX",earthquake,0.64,0.95,0.198,21,automatic,ci,ci
@@ -288,4 +289,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T08:07:16.900Z,19.1396675109863,-155.452163696289,29.1499996185303,2.04,ml,48,168,,0.140000001,hv,hv72958827,2022-03-22T08:12:49.060Z,"7 km SSE of Pāhala, Hawaii",earthquake,0.5,0.769999981,4.24,6,automatic,hv,hv
 2022-03-22T08:06:55.240Z,46.9066667,-112.6596667,11.74,1.64,ml,23,73,0.005,0.26,mb,mb80541174,2022-03-22T14:10:45.340Z,"5 km SSE of Lincoln, Montana",earthquake,0.4,0.6,0.339,6,reviewed,mb,mb
 2022-03-22T07:50:11.580Z,17.9778333333333,-66.9731666666667,9.13,2.06,md,3,172,,0.04,pr,pr71341273,2022-03-22T08:26:42.520Z,"6 km W of Fuig, Puerto Rico",earthquake,2.32,1.19,0.123718373491792,2,reviewed,pr,pr
-2022-03-22T07:41:53.040Z,19.1786670684814,-155.468338012695,35.7599983215332,2.05999994,md,41,99,,0.119999997,hv,hv72958812,2022-03-22T07:45:15.190Z,"2 km SSE of Pāhala, Hawaii",earthquake,0.67,0.790000021,1.64999998,18,automatic,hv,hv
