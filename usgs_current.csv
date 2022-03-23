@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-23T10:03:14.260Z,37.9749985,-122.0598297,13.31,1.98,md,38,99,0.06233,0.12,nc,nc73709226,2022-03-23T10:06:23.465Z,"2km SE of Pacheco, CA",earthquake,0.26,0.48,0.12,32,automatic,nc,nc
+2022-03-23T09:56:36.530Z,40.1373329,-123.821167,22.58,2.84,md,20,86,0.06297,0.11,nc,nc73709221,2022-03-23T10:03:11.520Z,"2km N of Redway, CA",earthquake,0.38,0.34,0.11,18,automatic,nc,nc
 2022-03-23T09:48:41.660Z,35.725,-117.4848333,0.33,0.7,ml,10,173,0.1288,0.16,ci,ci39975111,2022-03-23T09:52:15.058Z,"9km WSW of Searles Valley, CA",earthquake,0.47,31.61,0.12,8,automatic,ci,ci
 2022-03-23T09:42:23.020Z,35.6181667,-117.439,5.58,0.82,ml,11,167,0.03682,0.18,ci,ci39975103,2022-03-23T09:45:55.437Z,"17km S of Searles Valley, CA",earthquake,0.77,0.91,0.16,7,automatic,ci,ci
 2022-03-23T09:38:11.880Z,35.7613333,-118.0121667,5.26,0.67,ml,10,139,0.1181,0.2,ci,ci39975095,2022-03-23T09:41:52.989Z,"22km SSW of Little Lake, CA",earthquake,0.58,11.33,0.024,6,automatic,ci,ci
@@ -282,6 +284,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-22T10:23:24.973Z,39.2202,-120.0832,8,-0.1,ml,7,137.69,0.036,0.0826,nn,nn00835809,2022-03-23T02:38:37.188Z,"0 km S of Carnelian Bay, California",earthquake,,1.5,0.46,4,reviewed,nn,nn
 2022-03-22T10:11:10.780Z,17.9771666666667,-66.9873333333333,10.94,1.88,md,3,171,,0.02,pr,pr71341303,2022-03-22T10:19:39.920Z,"6 km E of La Parguera, Puerto Rico",earthquake,2.06,0.76,0.0442530271338639,3,reviewed,pr,pr
 2022-03-22T10:11:02.010Z,34.3355,-118.4713333,8.21,1.25,ml,26,137,0.03316,0.21,ci,ci39974111,2022-03-22T18:58:03.487Z,"4km NW of Sylmar, CA",earthquake,0.36,0.53,0.106,12,reviewed,ci,ci
-2022-03-22T10:09:41.300Z,38.8395,-122.8366667,1.2,1.36,md,45,52,0.001295,0.05,nc,nc73708716,2022-03-22T18:18:16.386Z,"10km NW of The Geysers, CA",earthquake,0.12,0.19,0.16,12,reviewed,nc,nc
-2022-03-22T10:07:17.180Z,37.4263333,-112.9508333,2.73,1.22,ml,6,216,0.1557,0.08,uu,uu60486637,2022-03-22T14:49:26.370Z,"24 km ESE of Kanarraville, Utah",earthquake,1.1,1.34,0.183,3,reviewed,uu,uu
-2022-03-22T10:04:04.970Z,35.9191667,-117.6865,4.09,1.1,ml,21,68,0.04101,0.1,ci,ci39974103,2022-03-22T18:51:42.560Z,"20km E of Little Lake, CA",earthquake,0.12,0.29,0.108,8,reviewed,ci,ci
