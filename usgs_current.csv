@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-25T06:36:48.660Z,19.1854991912842,-155.429504394531,33.9099998474121,2.03999996,md,23,168,,0.109999999,hv,hv72961462,2022-03-25T06:39:51.050Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.81,1.24000001,0.300000012,5,automatic,hv,hv
+2022-03-25T06:35:45.000Z,38.8231659,-122.8529968,2.36,0.37,md,9,128,0.0206,0.02,nc,nc73710091,2022-03-25T06:37:18.973Z,"10km WNW of The Geysers, CA",earthquake,0.41,1.01,,1,automatic,nc,nc
+2022-03-25T06:33:18.111Z,63.0847,-151.4666,8.4,2,ml,,,,0.61,ak,ak0223v0wv4z,2022-03-25T06:35:54.168Z,"52 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-03-25T06:28:45.496Z,59.544,-152.6951,74.8,1.9,ml,,,,0.51,ak,ak0223v0vum2,2022-03-25T06:30:36.907Z,"48 km WNW of Nanwalek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-25T06:22:08.430Z,34.1423333,-117.4581667,4.51,0.73,ml,22,123,0.1111,0.17,ci,ci39977599,2022-03-25T06:25:51.688Z,"5km N of Fontana, CA",earthquake,0.39,0.79,0.232,12,automatic,ci,ci
 2022-03-25T06:01:54.472Z,57.3941,-155.4321,70.8,2.4,ml,,,,0.64,ak,ak0223v0q6mt,2022-03-25T06:12:12.040Z,"61 km WSW of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-25T05:55:52.490Z,38.8424988,-122.8231659,1.77,0.37,md,9,95,0.01038,0.01,nc,nc73710081,2022-03-25T06:12:16.560Z,"9km WNW of Cobb, CA",earthquake,0.36,0.76,,1,automatic,nc,nc
 2022-03-25T05:43:44.510Z,35.6286667,-117.4055,6.09,1.07,ml,14,150,0.06249,0.18,ci,ci39977583,2022-03-25T05:47:21.239Z,"15km S of Trona, CA",earthquake,0.52,0.97,0.148,6,automatic,ci,ci
@@ -111,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T19:16:39.080Z,40.5033333,-122.1021667,13.75,1.62,md,18,52,0.0369,0.16,nc,nc73709901,2022-03-25T04:51:11.079Z,"9km SE of Millville, CA",earthquake,0.48,0.74,0.137,18,reviewed,nc,nc
 2022-03-24T19:06:22.065Z,41.9483,-119.6268,9.1,0.8,ml,4,307.03,0.505,0.0995,nn,nn00835990,2022-03-25T02:40:13.902Z,"44 km ENE of Fort Bidwell, California",earthquake,,7.4,0.73,2,reviewed,nn,nn
 2022-03-24T19:04:28.220Z,38.8308334,-122.8058319,1.61,0.85,md,10,119,0.008133,0.02,nc,nc73709896,2022-03-24T19:26:13.620Z,"7km W of Cobb, CA",earthquake,0.38,0.67,,1,automatic,nc,nc
-2022-03-24T18:50:51.910Z,38.5225,-119.5331667,0.9,2.23,md,15,74,0.0426,0.04,nc,nc73709891,2022-03-25T04:26:13.928Z,"5km W of Walker, CA",earthquake,0.18,0.68,0.25,27,reviewed,nc,nc
+2022-03-24T18:50:51.910Z,38.5225,-119.5331667,0.9,2.23,md,15,74,0.0426,0.04,nc,nc73709891,2022-03-25T06:27:16.621Z,"5km W of Walker, CA",earthquake,0.18,0.68,0.25,27,reviewed,nc,nc
 2022-03-24T18:49:39.980Z,19.1861667633057,-155.432327270508,32.9799995422363,2.07999992,md,31,159,,0.100000001,hv,hv72961032,2022-03-24T18:53:02.580Z,"5 km ESE of Pāhala, Hawaii",earthquake,0.69,0.800000012,1.03999996,11,automatic,hv,hv
 2022-03-24T18:47:52.290Z,33.956,-116.7611667,20.52,0.6,ml,14,97,0.08794,0.17,ci,ci39977031,2022-03-24T20:07:44.925Z,"5km NNE of Cabazon, CA",earthquake,0.45,1.13,0.118,6,reviewed,ci,ci
 2022-03-24T18:41:34.460Z,44.6645,-110.6671667,5.3,0.38,md,10,97,0.04897,0.13,uu,uu60486897,2022-03-24T21:33:14.820Z,"34 km E of West Yellowstone, Montana",earthquake,0.37,0.93,0.401,5,reviewed,uu,uu
@@ -258,7 +263,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T09:45:26.760Z,38.800499,-122.7766647,1.08,0.62,md,16,69,0.01143,0.04,nc,nc73709566,2022-03-24T10:12:14.383Z,"3km NW of The Geysers, CA",earthquake,0.24,0.43,0.07,3,automatic,nc,nc
 2022-03-24T09:45:23.390Z,33.8865,-116.6531667,14.44,0.92,ml,42,71,0.106,0.11,ci,ci39976471,2022-03-24T17:17:55.330Z,"10km W of Garnet, CA",earthquake,0.13,0.29,0.198,25,reviewed,ci,ci
 2022-03-24T09:43:28.690Z,60.0643333333333,-153.039333333333,1.49,-0.3,ml,4,287,,0.23,av,av91521261,2022-03-25T02:13:19.330Z,"Southern Alaska",earthquake,2.02,0.75,0.250026228868493,4,reviewed,av,av
-2022-03-24T09:42:10.537Z,41.9659,-119.5731,1.4,2.8,ml,5,154.11,0.547,0.0758,nn,nn00835978,2022-03-25T02:40:06.752Z,"49 km ENE of Fort Bidwell, California",earthquake,,4.1,0.64,4,reviewed,nn,nn
+2022-03-24T09:42:10.537Z,41.9659,-119.5731,1.4,2.8,ml,5,154.11,0.547,0.0758,nn,nn00835978,2022-03-25T06:17:45.040Z,"49 km ENE of Fort Bidwell, California",earthquake,,4.1,0.64,4,reviewed,nn,nn
 2022-03-24T09:33:25.140Z,36.1193333,-117.8656667,3.84,0.93,ml,25,43,0.008923,0.11,ci,ci39976463,2022-03-24T17:11:26.993Z,"11km NE of Coso Junction, CA",earthquake,0.21,0.25,0.193,12,reviewed,ci,ci
 2022-03-24T09:14:12.730Z,37.4895,-118.8613333,4.22,0.28,md,9,301,0.1036,0.06,nc,nc73709551,2022-03-24T09:46:03.894Z,"18km WSW of Toms Place, CA",earthquake,0.95,1.85,0.188,9,reviewed,nc,nc
 2022-03-24T09:07:42.680Z,46.8505,-121.75883333333333,2.27,0.29,ml,10,96,0.02315,0.06,uw,uw61815697,2022-03-24T17:23:37.230Z,"23 km ENE of Ashford, Washington",earthquake,0.32,0.66,0.08295778875205145,4,reviewed,uw,uw
@@ -293,6 +298,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-24T06:47:56.130Z,38.8363342,-122.7894974,2.01,0.97,md,13,76,0.002175,0.01,nc,nc73709536,2022-03-24T07:04:12.281Z,"6km WNW of Cobb, CA",earthquake,0.33,0.55,0.28,2,automatic,nc,nc
 2022-03-24T06:41:26.150Z,19.1801662445068,-155.486663818359,31.8099994659424,2.32,ml,45,141,,0.129999995,hv,hv72960662,2022-03-24T07:59:18.040Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.44,0.670000017,4.02,7,automatic,hv,hv
 2022-03-24T06:41:19.673Z,31.52942457,-104.0633189,6.131567383,2,ml,18,63,0.009628466821,0.2,tx,tx2022fuim,2022-03-24T18:09:33.455Z,"35 km NW of Toyah, Texas",earthquake,1.012207154,1.106186069,0.1,6,reviewed,tx,tx
-2022-03-24T06:30:51.595Z,41.9475,-119.5307,0.1,1.2,ml,4,309.69,0.576,0.0907,nn,nn00835973,2022-03-25T02:40:03.775Z,"52 km E of Fort Bidwell, California",earthquake,,4,0.96,3,reviewed,nn,nn
-2022-03-24T06:28:42.037Z,63.1147,-149.8205,86.1,1.4,ml,,,,0.68,ak,ak0223tdchwr,2022-03-24T06:31:04.910Z,"53 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-03-24T06:20:40.480Z,35.8831667,-117.6971667,5.5,0.54,ml,16,74,0.07493,0.1,ci,ci39976423,2022-03-24T15:29:31.632Z,"20km ESE of Little Lake, CA",earthquake,0.15,0.64,0.055,5,reviewed,ci,ci
