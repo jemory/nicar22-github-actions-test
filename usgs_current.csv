@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-26T19:43:00.610Z,37.4654999,-118.8085022,6.95,2.41,md,19,119,0.1254,0.04,nc,nc73710756,2022-03-26T19:46:00.310Z,"16km SW of Toms Place, CA",earthquake,0.32,1.62,0.2,25,automatic,nc,nc
-2022-03-26T19:33:01.590Z,38.8361664,-122.8108368,1.94,0.89,md,21,55,0.01277,0.03,nc,nc73710751,2022-03-26T19:34:35.546Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.19,4,automatic,nc,nc
+2022-03-26T19:53:03.220Z,38.8219986,-122.7648315,1.9,0.47,md,10,119,0.009345,0.01,nc,nc73710761,2022-03-26T19:54:40.519Z,"4km W of Cobb, CA",earthquake,0.32,0.55,0.09,2,automatic,nc,nc
+2022-03-26T19:43:00.610Z,37.4654999,-118.8085022,6.95,2.41,md,19,119,0.1254,0.04,nc,nc73710756,2022-03-26T19:49:10.082Z,"16km SW of Toms Place, CA",earthquake,0.32,1.62,0.2,25,automatic,nc,nc
+2022-03-26T19:33:01.590Z,38.8361664,-122.8108368,1.94,0.89,md,21,55,0.01277,0.03,nc,nc73710751,2022-03-26T19:51:14.097Z,"8km WNW of Cobb, CA",earthquake,0.2,0.43,0.19,4,automatic,nc,nc
 2022-03-26T19:26:17.170Z,34.0351667,-116.9568333,13.78,0.94,ml,18,85,0.01949,0.12,ci,ci39979239,2022-03-26T19:29:56.727Z,"8km E of Yucaipa, CA",earthquake,0.29,0.57,0.237,19,automatic,ci,ci
 2022-03-26T19:10:06.420Z,33.3808333,-116.268,9.96,1.69,ml,38,104,0.03938,0.28,ci,ci39979231,2022-03-26T19:20:54.160Z,"17km NE of Borrego Springs, CA",earthquake,0.44,0.82,0.159,25,automatic,ci,ci
 2022-03-26T19:08:30.570Z,35.7766667,-117.582,7.12,1,ml,12,149,0.04098,0.1,ci,ci39979223,2022-03-26T19:12:14.836Z,"16km W of Searles Valley, CA",earthquake,0.32,0.46,0.11,6,automatic,ci,ci
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T17:06:30.820Z,38.7901649,-122.7259979,1.58,0.46,md,8,94,0.01087,0.01,nc,nc73710671,2022-03-26T17:30:14.294Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.72,0.08,2,automatic,nc,nc
 2022-03-26T16:43:51.370Z,38.8231667,-122.7678333,2.38,0.38,md,16,102,0.007472,0.03,nc,nc73710661,2022-03-26T19:08:12.809Z,"4km W of Cobb, CA",earthquake,0.35,0.38,0.184,3,reviewed,nc,nc
 2022-03-26T16:42:37.710Z,34.0155,-117.5831667,2.91,1.49,ml,48,39,0.02094,0.19,ci,ci39979071,2022-03-26T16:53:20.660Z,"6km SE of Ontario, CA",earthquake,0.21,0.34,0.224,30,automatic,ci,ci
+2022-03-26T16:26:31.630Z,39.4381667,-123.1288333,8.69,1.16,md,6,197,0.06453,0.03,nc,nc71127524,2022-03-26T19:55:34.783Z,"15km WNW of Lake Pillsbury, CA",earthquake,0.47,0.93,0.498,6,reviewed,nc,nc
 2022-03-26T16:26:13.920Z,38.7946667,-122.767,3.02,-0.07,md,17,71,0.008236,0.02,nc,nc73710656,2022-03-26T19:40:03.314Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.34,0.047,4,reviewed,nc,nc
 2022-03-26T16:19:10.180Z,38.810833,-122.822998,2.12,0.9,md,23,59,0.005212,0.03,nc,nc73710651,2022-03-26T16:37:12.988Z,"7km WNW of The Geysers, CA",earthquake,0.19,0.41,0.21,4,automatic,nc,nc
 2022-03-26T16:12:42.505Z,61.3814,-145.9464,34.1,1.8,ml,,,,0.64,ak,ak0223wua3i0,2022-03-26T16:32:24.389Z,"35 km NE of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -68,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-26T12:09:40.620Z,19.1911659240723,-155.469833374023,31.3700008392334,2.54,ml,44,97,,0.100000001,hv,hv72962687,2022-03-26T12:37:19.040Z,"1 km SE of Pāhala, Hawaii",earthquake,0.65,0.709999979,3.41,18,automatic,hv,hv
 2022-03-26T12:09:17.179Z,39.9716,-119.6423,1.6,1.2,ml,10,116.62,0.143,0.1388,nn,nn00836085,2022-03-26T12:12:39.252Z,"Nevada",earthquake,,6,0.37,6,automatic,nn,nn
 2022-03-26T12:01:26.250Z,36.5858333,-121.1853333,6.55,0.94,md,17,139,0.0141,0.07,nc,nc73710561,2022-03-26T18:28:26.994Z,"7km NNW of Pinnacles, CA",earthquake,0.28,0.37,0.233,11,reviewed,nc,nc
-2022-03-26T11:53:01.950Z,38.5153333,-119.5418333,-0.78,2.59,md,20,71,0.04867,0.09,nc,nc73710551,2022-03-26T18:46:14.772Z,"5km W of Walker, CA",earthquake,0.21,0.51,0.203,63,reviewed,nc,nc
+2022-03-26T11:53:01.950Z,38.5153333,-119.5418333,-0.78,2.59,md,20,71,0.04867,0.09,nc,nc73710551,2022-03-26T19:53:11.106Z,"5km W of Walker, CA",earthquake,0.21,0.51,0.203,63,reviewed,nc,nc
 2022-03-26T11:50:05.540Z,38.8328323,-122.8199997,1.31,0.78,md,17,58,0.0122,0.05,nc,nc73710546,2022-03-26T13:35:15.806Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.4,3,automatic,nc,nc
 2022-03-26T11:41:21.186Z,37.3397,-115.0205,12.7,2.7,ml,27,84.97,0.738,0.3811,nn,nn00836078,2022-03-26T12:04:21.040Z,"13 km ESE of Alamo, Nevada",earthquake,,0.5,0.35,19,automatic,nn,nn
 2022-03-26T11:40:08.288Z,60.4396,-151.9918,29.6,1.4,ml,,,,0.4,ak,ak0223wrguws,2022-03-26T11:46:35.241Z,"38 km WNW of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -199,7 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-25T20:27:25.820Z,46.199666666666666,-122.1865,1.96,0.08,ml,11,74,0.003028,0.12,uw,uw61816302,2022-03-25T21:25:20.770Z,"37 km NNE of Amboy, Washington",earthquake,0.35,0.43,0.28875117273276035,7,reviewed,uw,uw
 2022-03-25T20:25:04.180Z,38.8320007,-122.8069992,2.17,1.14,md,26,45,0.008922,0.02,nc,nc73710321,2022-03-25T23:37:14.728Z,"7km W of Cobb, CA",earthquake,0.2,0.38,0.26,5,automatic,nc,nc
 2022-03-25T20:10:13.680Z,39.1338333,-122.2536667,-0.51,2.09,md,31,62,0.02738,0.16,nc,nc73710311,2022-03-26T05:56:12.940Z,"9km WSW of Williams, CA",earthquake,0.25,0.7,0.217,32,reviewed,nc,nc
-2022-03-25T19:57:50.220Z,32.7696667,-116.919,-0.43,1.5,mh,9,109,0.03927,0.25,ci,ci39978343,2022-03-26T00:39:05.623Z,"3km NNE of Rancho San Diego, CA",quarry blast,0.72,31.61,,0,reviewed,ci,ci
-2022-03-25T19:51:03.267Z,36.8191,-116.2061,5.7,-0.4,ml,4,161.87,0.092,0.0529,nn,nn00836044,2022-03-26T02:39:03.872Z,"50 km ESE of Beatty, Nevada",earthquake,,6.1,0,1,reviewed,nn,nn
-2022-03-25T19:50:05.820Z,17.9003333333333,-66.9228333333333,11.08,2.17,md,4,272,,0.08,pr,pr71342018,2022-03-25T20:21:35.970Z,"8 km SSW of Guánica, Puerto Rico",earthquake,0.81,1.19,0.0516435835395268,2,reviewed,pr,pr
-2022-03-25T19:50:00.560Z,38.4207,-118.9124,3.6,0.9,ml,14,163.85,0.362,0.1614,nn,nn00836028,2022-03-25T20:22:42.342Z,"27 km WSW of Hawthorne, Nevada",earthquake,,5.7,0.35,3,reviewed,nn,nn
