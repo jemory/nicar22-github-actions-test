@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-03-30T11:18:26.250Z,36.6481667,-121.265831,8.57,1.45,md,11,134,0.05412,0.06,nc,nc73712261,2022-03-30T11:20:04.236Z,"16km SSE of Tres Pinos, CA",earthquake,0.53,0.82,0.3,8,automatic,nc,nc
 2022-03-30T11:01:18.280Z,19.2231674194336,-155.406494140625,32.4099998474121,2.16,ml,46,142,,0.109999999,hv,hv72967432,2022-03-30T11:06:48.530Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.53,0.829999983,3.06,6,automatic,hv,hv
 2022-03-30T10:52:09.359Z,64.6995,-148.4182,0,1.2,ml,,,,1.08,ak,ak02243d3dyg,2022-03-30T11:12:28.199Z,"25 km SW of Ester, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-03-30T10:49:11.780Z,35.6846667,-117.4538333,4.93,0.75,ml,10,117,0.09819,0.16,ci,ci39981735,2022-03-30T10:52:47.066Z,"10km SSW of Searles Valley, CA",earthquake,0.6,1.19,0.197,8,automatic,ci,ci
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-30T08:43:22.342Z,61.1097,-148.0431,8.6,1.1,ml,,,,1.29,ak,ak02243bumek,2022-03-30T08:45:53.864Z,"51 km NE of Whittier, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-30T08:39:10.500Z,18.0221666666667,-66.7595,14.14,2.18,md,15,110,,0.17,pr,pr71342673,2022-03-30T08:59:40.490Z,"1 km ENE of Magas Arriba, Puerto Rico",earthquake,0.41,0.51,0.161128304622299,9,reviewed,pr,pr
 2022-03-30T08:10:21.714Z,62.1171,-149.6818,34.5,1.5,ml,,,,0.71,ak,ak02243bnjma,2022-03-30T08:18:00.943Z,"10 km ESE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-03-30T08:06:20.733Z,-4.8571,133.7139,10,4.8,mb,,84,2.417,0.7,us,us7000gycq,2022-03-30T08:21:34.040Z,"136 km NE of Tual, Indonesia",earthquake,6.8,1.6,0.131,18,reviewed,us,us
+2022-03-30T08:06:20.733Z,-4.8571,133.7139,10,4.8,mb,,84,2.417,0.7,us,us7000gycq,2022-03-30T08:21:34.040Z,"Near the south coast of Papua, Indonesia",earthquake,6.8,1.6,0.131,18,reviewed,us,us
 2022-03-30T07:52:39.097Z,38.0363,-117.8916,6.3,1,ml,11,159.94,0.116,0.3337,nn,nn00836306,2022-03-30T07:56:17.631Z,"38 km NW of Silver Peak, Nevada",earthquake,,0.9,0.54,5,automatic,nn,nn
 2022-03-30T07:50:39.772Z,61.1583,-150.0258,21.4,1.4,ml,,,,0.53,ak,ak02243baq21,2022-03-30T07:52:53.924Z,"9 km SW of Anchorage, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-30T07:44:39.662Z,-6.1366,104.3106,63.85,5,mb,,42,2.221,1.3,us,us7000gyc2,2022-03-30T08:10:39.040Z,"131 km SW of Bandar Lampung, Indonesia",earthquake,7.8,6.7,0.072,122,reviewed,us,us
@@ -282,5 +283,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T11:29:34.881Z,64.7308,-148.9665,5.4,1.4,ml,,,,0.87,ak,ak02241q0lji,2022-03-29T11:34:58.615Z,"16 km NNE of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-29T11:29:06.470Z,58.2848333333333,-154.973,2.16,-0.31,ml,6,135,,0.12,av,av91053103,2022-03-30T03:17:27.460Z,"85 km NNW of Karluk, Alaska",earthquake,0.44,0.91,0.177861574715964,6,reviewed,av,av
 2022-03-29T11:26:29.152Z,36.7393,-116.2744,2.7,-0.2,ml,6,232.16,0.051,0.1424,nn,nn00836272,2022-03-30T02:38:33.998Z,"47 km ESE of Beatty, Nevada",earthquake,,5,0.09,3,reviewed,nn,nn
-2022-03-29T11:19:05.137Z,36.7458,-116.2819,9.1,-0.1,ml,12,94.21,0.056,0.0661,nn,nn00836261,2022-03-30T02:38:09.989Z,"46 km ESE of Beatty, Nevada",earthquake,,1.2,0.71,6,reviewed,nn,nn
-2022-03-29T11:17:29.530Z,34.0463333,-117.5125,8.23,0.93,ml,19,122,0.03798,0.12,ci,ci39981039,2022-03-29T15:22:00.233Z,"5km NNW of Glen Avon, CA",earthquake,0.21,0.43,0.125,3,reviewed,ci,ci
