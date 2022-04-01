@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-01T07:16:16.900Z,38.833168,-122.8024979,2.27,0.85,md,11,69,0.01084,0.01,nc,nc73712986,2022-04-01T07:17:53.722Z,"7km W of Cobb, CA",earthquake,0.37,0.9,,1,automatic,nc,nc
-2022-04-01T06:59:22.870Z,33.995,-118.4233333,8.82,2.27,ml,68,55,0.033,0.3,ci,ci39983383,2022-04-01T07:29:22.403Z,"3km ENE of Marina del Rey, CA",earthquake,0.35,0.63,0.199,25,automatic,ci,ci
+2022-04-01T07:32:26.500Z,33.4123333,-116.3475,8.76,1.16,ml,38,36,0.05906,0.2,ci,ci39983399,2022-04-01T07:43:07.680Z,"18km N of Borrego Springs, CA",earthquake,0.29,0.76,0.167,27,automatic,ci,ci
+2022-04-01T07:16:16.900Z,38.833168,-122.8024979,2.27,0.85,md,11,69,0.01084,0.01,nc,nc73712986,2022-04-01T07:41:23.470Z,"7km W of Cobb, CA",earthquake,0.37,0.9,,1,automatic,nc,nc
+2022-04-01T07:14:12.770Z,-7.2767,106.0777,20.16,5.3,mww,,33,1.57,1.08,us,us7000gywf,2022-04-01T07:42:46.680Z,"61 km WSW of Pelabuhanratu, Indonesia",earthquake,5.4,4.5,0.083,14,reviewed,us,us
+2022-04-01T06:59:22.870Z,33.995,-118.4233333,8.82,2.27,ml,68,55,0.033,0.3,ci,ci39983383,2022-04-01T07:39:43.256Z,"3km ENE of Marina del Rey, CA",earthquake,0.35,0.63,0.199,25,automatic,ci,ci
 2022-04-01T06:56:22.647Z,31.67320541,-104.3889687,6.979931641,3.8,ml,10,69,0.09542366743,0.2,tx,tx2022giza,2022-04-01T07:29:12.373Z,"55 km S of Whites City, New Mexico",earthquake,1.266833134,1.729760603,0.1,6,reviewed,tx,tx
 2022-04-01T06:54:47.206Z,62.262,-150.8792,67.4,2,ml,,,,0.74,ak,ak02246lsuvi,2022-04-01T07:04:43.054Z,"26 km SSW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-01T06:27:52.586Z,31.6382,-104.4182,5,2.8,ml,,101,0.076,0.33,us,us7000gyw7,2022-04-01T06:39:11.040Z,"59 km S of Whites City, New Mexico",earthquake,1.3,1,0.074,35,reviewed,us,us
@@ -241,6 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-31T07:55:37.784Z,38.1954,-117.8826,7.9,1.6,ml,16,114.1,0.081,0.1043,nn,nn00836414,2022-03-31T17:13:35.672Z,"29 km SE of Mina, Nevada",earthquake,,1.4,0.41,5,reviewed,nn,nn
 2022-03-31T07:47:25.780Z,33.1716667,-116.0161667,3.68,1.53,ml,52,33,0.03228,0.2,ci,ci39982367,2022-03-31T16:14:54.070Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.18,0.37,0.097,39,reviewed,ci,ci
 2022-03-31T07:47:15.910Z,17.959,-66.9083333333333,11.45,1.26,md,7,208,,0.13,pr,pr71342818,2022-03-31T08:47:25.620Z,"1 km S of Guánica, Puerto Rico",earthquake,0.65,0.81,0.0389878562140717,7,reviewed,pr,pr
-2022-03-31T07:42:00.720Z,38.8266678,-122.814003,3,0.36,md,8,132,0.004483,0.02,nc,nc73712601,2022-03-31T08:33:16.149Z,"7km NW of The Geysers, CA",earthquake,0.62,1.59,,1,automatic,nc,nc
-2022-03-31T07:41:37.913Z,-22.3148,170.0587,10,4.7,mb,,82,2.434,0.89,us,us7000gynm,2022-03-31T08:34:56.040Z,"240 km ESE of Tadine, New Caledonia",earthquake,5.6,1.9,0.112,24,reviewed,us,us
-2022-03-31T07:36:35.990Z,18.0005,-66.9053333333333,13.9,2.03,md,4,130,,0.08,pr,pr71342813,2022-03-31T08:48:56.090Z,"1 km NE of Fuig, Puerto Rico",earthquake,0.81,0.72,0.182225428154433,3,reviewed,pr,pr
