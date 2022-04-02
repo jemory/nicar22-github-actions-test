@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-02T18:46:34.320Z,38.7983322,-122.7508316,1.5,0.86,md,15,97,0.02768,0.02,nc,nc73713471,2022-04-02T18:48:06.170Z,"2km NNE of The Geysers, CA",earthquake,0.26,0.68,0.01,4,automatic,nc,nc
 2022-04-02T18:24:00.760Z,38.8411674,-122.8771667,2.53,0.62,md,9,109,0.005722,0.01,nc,nc73713461,2022-04-02T18:25:37.294Z,"13km NW of The Geysers, CA",earthquake,0.48,0.62,0.27,2,automatic,nc,nc
 2022-04-02T18:10:18.650Z,33.666,-116.7328333,16.74,0.72,ml,23,69,0.04766,0.19,ci,ci39984695,2022-04-02T18:13:50.689Z,"8km S of Idyllwild, CA",earthquake,0.45,0.66,0.215,19,automatic,ci,ci
 2022-04-02T18:01:01.530Z,35.6686668,-121.0540009,5.63,1.6,md,14,97,0.08228,0.03,nc,nc73713456,2022-04-02T18:18:15.848Z,"12km NNE of Cambria, CA",earthquake,0.34,0.96,0.08,9,automatic,nc,nc
@@ -221,6 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-01T19:02:41.950Z,40.5503333,-121.8138333,16.53,1.63,md,16,66,0.121,0.14,nc,nc73713136,2022-04-02T00:20:12.578Z,"9km NE of Shingletown, CA",earthquake,0.51,1.62,0.296,16,reviewed,nc,nc
 2022-04-01T19:00:36.830Z,34.9915,-118.1841667,-0.8,1.3,ml,15,52,0.1182,0.18,ci,ci39983943,2022-04-01T23:58:44.080Z,"7km S of Mojave, CA",quarry blast,0.4,31.61,0.075,8,reviewed,ci,ci
 2022-04-01T18:57:04.520Z,44.351,-115.1881667,13.78,1.95,ml,9,83,0.937,0.11,mb,mb80541959,2022-04-01T20:40:15.130Z,"24 km NW of Stanley, Idaho",earthquake,0.4,1.61,0.167,9,reviewed,mb,mb
-2022-04-01T18:42:51.090Z,19.1478333333333,-155.467,31.65,1.54,md,22,215,,0.12,hv,hv72970277,2022-04-01T22:00:04.330Z,"6 km SSE of Pāhala, Hawaii",earthquake,0.59,0.79,0.0837581532577886,12,reviewed,hv,hv
-2022-04-01T18:39:00.157Z,6.8919,-73.0535,142.77,4.5,mb,,71,0.993,0.88,us,us7000gz2y,2022-04-01T21:51:01.040Z,"10 km S of Piedecuesta, Colombia",earthquake,6.3,7.2,0.063,79,reviewed,us,us
-2022-04-01T18:38:51.060Z,59.8779,-153.2462,129.98,3.1,ml,,62,0.118,0.61,us,us7000gz30,2022-04-01T19:54:17.040Z,"49 km ENE of Pedro Bay, Alaska",earthquake,5,4.9,0.041,78,reviewed,us,us
