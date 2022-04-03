@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-03T02:54:42.789Z,17.9563,-66.9655,10,2.5,ml,,194,0.076,0.27,us,us7000gzak,2022-04-03T03:05:44.040Z,"Puerto Rico region",earthquake,1.9,1.5,0.059,38,reviewed,us,us
+2022-04-03T03:27:19.280Z,19.5026664733887,-155.660507202148,0.579999983310699,1.97000003,md,14,91,,0.150000006,hv,hv72971842,2022-04-03T03:32:50.340Z,"22 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.45,1.5,1.97000003,4,automatic,hv,hv
+2022-04-03T02:54:42.890Z,17.9681666666667,-66.9833333333333,7.71,3,md,31,172,,0.16,pr,pr71343163,2022-04-03T03:39:04.950Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.3,0.16,0.145104821621742,18,reviewed,pr,pr
 2022-04-03T02:52:07.819Z,36.4353,-117.1046,4.2,0.5,ml,9,308.02,0.307,0.104,nn,nn00836607,2022-04-03T02:55:21.294Z,"22 km W of Furnace Creek, California",earthquake,,3,1.2,3,automatic,nn,nn
 2022-04-03T02:02:22.160Z,18.5973333333333,-66.7446666666667,13.59,2.9,md,12,224,,0.25,pr,pr71343148,2022-04-03T03:08:50.060Z,"13 km NNE of Carrizales, Puerto Rico",earthquake,0.75,0.65,0.102100947606584,10,reviewed,pr,pr
 2022-04-03T01:58:28.980Z,33.2315,-116.0618333,5.96,0.98,ml,30,96,0.0912,0.27,ci,ci39984943,2022-04-03T02:02:11.588Z,"12km NNE of Ocotillo Wells, CA",earthquake,0.46,2.13,0.146,23,automatic,ci,ci
@@ -43,7 +44,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T22:08:34.420Z,38.774334,-122.7201691,1.13,1.77,md,23,95,0.0157,0.04,nc,nc73713536,2022-04-03T02:14:12.620Z,"2km W of Anderson Springs, CA",earthquake,0.26,0.52,0.1,8,automatic,nc,nc
 2022-04-02T22:05:15.391Z,-17.0794,-174.5839,10,5.2,mb,,63,4.151,1.05,us,us7000gz9i,2022-04-02T22:25:10.040Z,"150 km SW of Hihifo, Tonga",earthquake,9.5,1.9,0.041,197,reviewed,us,us
 2022-04-02T22:04:01.900Z,34.2688333,-116.6978333,15.95,1.57,ml,6,180,0.262,0.13,ci,ci39984855,2022-04-02T22:07:56.201Z,"14km E of Big Bear City, CA",earthquake,0.77,31.61,0.224,22,automatic,ci,ci
-2022-04-02T22:03:37.450Z,38.8203333,-122.7995,2.51,1.51,md,47,31,0.008808,0.03,nc,nc73713531,2022-04-03T01:48:12.488Z,"6km NW of The Geysers, CA",earthquake,0.15,0.29,0.063,13,reviewed,nc,nc
+2022-04-02T22:03:37.450Z,38.8203333,-122.7995,2.51,1.51,md,47,31,0.008808,0.03,nc,nc73713531,2022-04-03T03:22:13.994Z,"6km NW of The Geysers, CA",earthquake,0.15,0.29,0.063,13,reviewed,nc,nc
 2022-04-02T21:45:01.180Z,33.488,-116.4855,15.05,0.82,ml,21,76,0.06118,0.15,ci,ci39984839,2022-04-02T21:48:31.266Z,"19km ESE of Anza, CA",earthquake,0.3,0.48,0.146,21,automatic,ci,ci
 2022-04-02T21:41:24.350Z,32.5151,-104.4427,1.83,2.8,ml,,78,0.485,0.52,us,us7000gz9h,2022-04-02T21:55:00.040Z,"22 km WNW of La Huerta, New Mexico",earthquake,2.3,2.4,0.085,18,reviewed,us,us
 2022-04-02T21:34:01.010Z,17.9598333333333,-66.8818333333333,11.51,2.25,md,6,206,,0.12,pr,pr71343113,2022-04-02T22:22:12.550Z,"2 km SSE of Maria Antonia, Puerto Rico",earthquake,0.84,0.67,,1,reviewed,pr,pr
@@ -218,6 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T03:51:31.495Z,38.3597,-119.3216,0,1,ml,11,161.42,0.093,0.1475,nn,nn00836542,2022-04-02T03:55:42.953Z,"13 km NW of Bridgeport, California",earthquake,,14.9,0.55,6,automatic,nn,nn
 2022-04-02T03:50:26.822Z,38.3449,-119.3414,6.2,1.1,ml,8,247.08,0.645,0.1203,nn,nn00836541,2022-04-02T03:54:42.993Z,"13 km NW of Bridgeport, California",earthquake,,0,0.32,4,automatic,nn,nn
 2022-04-02T03:45:30.580Z,38.7923317,-122.809166,3.36,0.84,md,10,103,0.00622,0.02,nc,nc73713226,2022-04-02T05:03:16.063Z,"5km WNW of The Geysers, CA",earthquake,0.55,0.89,,1,automatic,nc,nc
-2022-04-02T03:40:57.390Z,35.7215004,-117.5733337,8.46,1.1,ml,18,140,0.09607,0.1,ci,ci39984255,2022-04-02T03:44:25.701Z,"14km NE of Ridgecrest, CA",earthquake,0.42,1.09,0.062,4,automatic,ci,ci
-2022-04-02T03:27:27.310Z,47.6571667,-113.7,9.94,1.01,ml,16,125,0.251,0.15,mb,mb80542004,2022-04-02T14:36:18.780Z,"14 km N of Condon, Montana",earthquake,0.37,1.22,0.262,3,reviewed,mb,mb
-2022-04-02T03:25:21.184Z,36.6329,-115.8785,0,0.9,ml,15,161.83,0.128,0.2821,nn,nn00836539,2022-04-02T03:28:25.705Z,"19 km WNW of Indian Springs, Nevada",earthquake,,8.3,0.84,12,automatic,nn,nn
