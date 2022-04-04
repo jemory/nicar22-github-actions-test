@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-04T23:42:13.320Z,33.4798333,-116.5468333,6.15,0.36,ml,13,157,0.04859,0.21,ci,ci39986471,2022-04-04T23:46:04.358Z,"14km SE of Anza, CA",earthquake,0.69,0.82,0.303,9,automatic,ci,ci
 2022-04-04T23:18:48.277Z,62.9257,-150.3895,84.9,2.1,ml,,,,0.53,ak,ak0224bubjy5,2022-04-04T23:30:53.729Z,"51 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-04T23:13:19.743Z,65.4579,-148.4752,4.6,1.8,ml,,,,0.24,ak,ak0224buaf6o,2022-04-04T23:27:00.690Z,"8 km SSE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-04T23:03:09.188Z,64.9809,-147.3415,0.5,1.3,ml,,,,0.97,ak,ak0224bu897m,2022-04-04T23:05:43.825Z,"13 km E of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -223,7 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T03:11:16.340Z,38.8240013,-122.7955017,2.85,0.35,md,7,88,0.0114,0.01,nc,nc73713986,2022-04-04T03:33:15.586Z,"6km NNW of The Geysers, CA",earthquake,0.48,1.5,,1,automatic,nc,nc
 2022-04-04T02:54:39.770Z,34.0245,-117.1588333,9.78,0.96,ml,28,131,0.04008,0.16,ci,ci39985583,2022-04-04T17:36:34.840Z,"4km SSE of Redlands, CA",earthquake,0.27,0.61,0.146,23,reviewed,ci,ci
 2022-04-04T02:45:11.777Z,65.6749,-145.4421,4.2,1.8,ml,,,,0.76,ak,ak0224bhz5qj,2022-04-04T02:49:39.878Z,"31 km WNW of Central, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-04T02:42:54.140Z,36.6408348,-121.2634964,10.61,2.78,md,45,66,0.05088,0.08,nc,nc73713976,2022-04-04T16:52:58.104Z,"16km NW of Pinnacles, CA",earthquake,0.19,0.38,0.15,67,automatic,nc,nc
+2022-04-04T02:42:54.140Z,36.6421667,-121.2656667,10.35,2.73,md,62,66,0.0503,0.08,nc,nc73713976,2022-04-04T23:42:11.084Z,"16km NW of Pinnacles, CA",earthquake,0.14,0.24,0.142,116,reviewed,nc,nc
 2022-04-04T02:33:43.330Z,17.9403333333333,-66.9111666666667,12.36,2.29,md,7,217,,0.1,pr,pr71343293,2022-04-04T03:35:26.070Z,"3 km S of Guánica, Puerto Rico",earthquake,0.75,0.59,0.0483511723860675,5,reviewed,pr,pr
 2022-04-04T02:32:43.290Z,34.0358333,-117.2585,15.82,0.98,ml,21,135,0.1059,0.19,ci,ci39985567,2022-04-04T13:20:33.973Z,"1km S of Loma Linda, CA",earthquake,0.43,0.83,0.176,19,reviewed,ci,ci
 2022-04-04T02:26:42.094Z,57.0429,-155.6147,57,2.5,ml,,,,0.63,ak,ak0224bhv5h1,2022-04-04T02:31:34.388Z,"88 km W of Akhiok, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -253,7 +254,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T00:08:15.570Z,38.7874985,-122.7676697,1.82,0.84,md,11,84,0.01451,0.02,nc,nc73713921,2022-04-04T00:34:15.482Z,"2km NW of The Geysers, CA",earthquake,0.38,0.56,0.46,2,automatic,nc,nc
 2022-04-04T00:03:31.587Z,-22.4542,169.9229,10,4.6,mb,,117,2.295,0.59,us,us7000gzgv,2022-04-04T00:28:27.040Z,"233 km ESE of Tadine, New Caledonia",earthquake,6.6,2,0.181,9,reviewed,us,us
 2022-04-04T00:01:24.580Z,44.754,-110.9765,9.91,1.8,ml,17,98,0.02179,0.17,uu,uu60488387,2022-04-04T13:44:29.430Z,"14 km NE of West Yellowstone, Montana",earthquake,0.41,0.73,0.123,4,reviewed,uu,uu
-2022-04-03T23:55:12.110Z,37.2721667,-121.646,5.29,1.21,md,25,48,0.02532,0.08,nc,nc73713916,2022-04-04T23:34:18.408Z,"16km N of Morgan Hill, CA",earthquake,0.19,0.49,0.23,24,reviewed,nc,nc
-2022-04-03T23:46:27.056Z,-22.5126,170.0243,10,4.6,mb,,94,2.384,0.63,us,us7000gzgs,2022-04-04T00:14:21.040Z,"245 km ESE of Tadine, New Caledonia",earthquake,9.8,1.9,0.14,15,reviewed,us,us
-2022-04-03T23:44:19.290Z,38.8066673,-122.8205032,2.11,0.93,md,17,66,0.007125,0.03,nc,nc73713906,2022-04-04T02:15:16.151Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.49,0.24,3,automatic,nc,nc
-2022-04-03T23:40:32.730Z,38.8330002,-122.8016663,1.5,0.36,md,5,154,0.01036,0,nc,nc73713901,2022-04-04T01:49:15.951Z,"7km W of Cobb, CA",earthquake,1.3,1.52,,1,automatic,nc,nc
+2022-04-03T23:55:12.110Z,37.2721667,-121.646,5.29,1.21,md,25,48,0.02532,0.08,nc,nc73713916,2022-04-04T23:42:11.209Z,"16km N of Morgan Hill, CA",earthquake,0.19,0.49,0.23,24,reviewed,nc,nc
