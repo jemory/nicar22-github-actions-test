@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-05T15:52:27.980Z,34.1885,-116.7106667,9.04,1.2,ml,14,254,0.2749,0.43,ci,ci39986855,2022-04-05T15:56:05.327Z,"15km ESE of Big Bear City, CA",earthquake,5.52,31.61,0.362,18,automatic,ci,ci
 2022-04-05T15:42:07.606Z,63.3763,-147.406,13.4,1.3,ml,,,,0.73,ak,ak0224dd8hnc,2022-04-05T15:45:00.219Z,"77 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-05T15:39:13.449Z,61.5403,-146.4022,19.9,1.8,ml,,,,1,ak,ak0224dd7uy8,2022-04-05T15:41:39.282Z,"45 km N of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-05T15:29:00.030Z,36.0735,-117.8616667,1.38,1.41,ml,12,140,0.04433,0.12,ci,ci39986847,2022-04-05T15:32:31.845Z,"8km ENE of Coso Junction, CA",earthquake,0.25,0.28,0.15,19,automatic,ci,ci
@@ -42,7 +43,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-05T11:13:37.050Z,33.4893333,-116.7536667,6.19,0.72,ml,24,46,0.07246,0.14,ci,ci39986687,2022-04-05T11:17:18.144Z,"10km SW of Anza, CA",earthquake,0.2,0.67,0.117,18,automatic,ci,ci
 2022-04-05T11:00:43.700Z,33.3051667,-116.2895,10.48,0.85,ml,22,112,0.05948,0.25,ci,ci39986671,2022-04-05T11:04:26.265Z,"10km NE of Borrego Springs, CA",earthquake,0.5,0.78,0.109,18,automatic,ci,ci
 2022-04-05T10:51:25.970Z,37.602,-118.8038333,3.92,0.51,md,10,246,0.02337,0.02,nc,nc73714661,2022-04-05T15:29:23.779Z,"12km WNW of Toms Place, CA",earthquake,1.2,0.63,0.059,9,reviewed,nc,nc
-2022-04-05T10:47:35.020Z,33.3075,-116.3153333,10.1,2.4,ml,82,16,0.05493,0.2,ci,ci39986663,2022-04-05T10:58:54.400Z,"8km NE of Borrego Springs, CA",earthquake,0.19,0.46,0.159,25,automatic,ci,ci
+2022-04-05T10:47:34.980Z,33.3056667,-116.3188333,10.75,2.4,ml,101,16,0.04558,0.18,ci,ci39986663,2022-04-05T15:54:45.610Z,"8km NE of Borrego Springs, CA",earthquake,0.12,0.26,0.158,108,reviewed,ci,ci
 2022-04-05T10:30:10.668Z,58.8518,-154.2484,119.3,1.7,ml,,,,0.6,ak,ak0224da6r9u,2022-04-05T10:55:07.040Z,"72 km SSE of Kokhanok, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-05T10:28:38.020Z,19.4313335418701,-155.714996337891,-3.13000011444092,1.74000001,md,32,149,,0.189999998,hv,hv72974052,2022-04-05T10:31:43.910Z,"15 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.57,0.270000011,1.22000003,10,automatic,hv,hv
 2022-04-05T10:25:02.040Z,36.1633333,-118.025,1.68,1.36,ml,14,81,0.1451,0.12,ci,ci39986655,2022-04-05T13:44:20.829Z,"13km S of Olancha, CA",earthquake,0.27,0.43,0.215,16,reviewed,ci,ci
@@ -195,6 +196,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T16:10:47.867Z,61.7376,-149.7415,29.8,1.9,ml,,,,0.43,ak,ak0224bq3sy9,2022-04-04T16:13:18.578Z,"12 km NNE of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-04T16:09:03.940Z,61.5256,-149.9014,36.1,1.3,ml,,,,0.61,ak,ak0224bq3hui,2022-04-04T16:11:16.301Z,"2 km E of Big Lake, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-04-04T16:06:56.658Z,-17.4861,167.8682,23.6,6,mww,,32,2.125,0.91,us,usd000h551,2022-04-05T06:08:56.174Z,"Vanuatu",earthquake,7,3.4,0.046,45,reviewed,us,us
-2022-04-04T15:52:06.640Z,33.5225,-116.5326667,12.16,0.9,ml,42,41,0.03494,0.17,ci,ci39985911,2022-04-04T19:03:31.800Z,"14km ESE of Anza, CA",earthquake,0.17,0.31,0.155,25,reviewed,ci,ci
-2022-04-04T15:52:02.540Z,38.8320007,-122.81633,1.17,0.36,md,10,119,0.009885,0.02,nc,nc73714191,2022-04-04T16:20:13.307Z,"8km NW of The Geysers, CA",earthquake,0.33,0.79,,1,automatic,nc,nc
-2022-04-04T15:46:06.290Z,19.2091674804688,-155.417831420898,33.6800003051758,1.89999998,md,40,157,,0.119999997,hv,hv72973207,2022-04-04T15:49:27.390Z,"6 km E of Pāhala, Hawaii",earthquake,0.61,0.850000024,1.67999995,14,automatic,hv,hv
