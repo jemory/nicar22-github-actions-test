@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-06T18:34:38.976Z,66.7397,-146.7222,3,2.3,ml,,,,0.97,ak,ak0224f2ihmx,2022-04-06T18:41:40.455Z,"33 km SSW of Venetie, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-04-06T18:52:38.740Z,35.991333,-120.5528336,3.17,1.23,md,13,117,0.02233,0.06,nc,nc73715141,2022-04-06T18:54:12.842Z,"15km NW of Parkfield, CA",earthquake,0.46,1.09,0.34,4,automatic,nc,nc
+2022-04-06T18:47:29.675Z,63.3315,-145.4156,12.7,1.5,ml,,,,0.56,ak,ak0224f2l98k,2022-04-06T18:53:23.917Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-04-06T18:43:52.610Z,38.2824,-118.5546,0,0.6,ml,8,279.52,0.05,0.4712,nn,nn00836777,2022-04-06T18:48:09.136Z,"27 km SSE of Hawthorne, Nevada",earthquake,,0.9,0.99,5,automatic,nn,nn
+2022-04-06T18:42:39.990Z,38.8278351,-122.8536682,1.84,0.37,md,7,129,0.00252,0.01,nc,nc73715136,2022-04-06T18:44:12.733Z,"10km WNW of The Geysers, CA",earthquake,0.49,0.71,,1,automatic,nc,nc
+2022-04-06T18:34:38.976Z,66.7397,-146.7222,3,2.3,ml,,,,0.97,ak,ak0224f2ihmx,2022-04-06T18:46:29.349Z,"33 km SSW of Venetie, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-06T18:31:01.150Z,19.2181663513184,-155.39533996582,31.2000007629395,1.98000002,md,31,158,,0.119999997,hv,hv72975467,2022-04-06T18:34:09.710Z,"8 km E of Pāhala, Hawaii",earthquake,0.54,0.920000017,1.03999996,7,automatic,hv,hv
 2022-04-06T18:27:10.470Z,19.4535007476807,-155.889007568359,6.51999998092651,2.26,ml,36,216,,0.25,hv,hv72975462,2022-04-06T18:32:41.030Z,"2 km W of Honaunau-Napoopoo, Hawaii",earthquake,1.05,0.680000007,3.53,8,automatic,hv,hv
 2022-04-06T18:11:21.950Z,36.8916664,-121.6193314,0.67,1.98,md,8,87,0.02309,0.04,nc,nc73715131,2022-04-06T18:39:17.648Z,"2km E of Aromas, CA",earthquake,0.32,0.63,0.46,8,automatic,nc,nc
@@ -11,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T17:10:02.795Z,63.3744,-150.1943,15.4,1.3,ml,,,,0.79,ak,ak0224f1ru2f,2022-04-06T17:12:02.511Z,"62 km W of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-06T17:00:00.050Z,38.4836667,-112.839,0.03,0.13,md,10,198,0.01413,0.07,uu,uu60030379,2022-04-06T18:31:46.950Z,"17 km ENE of Milford, Utah",earthquake,0.42,0.2,0.559,3,reviewed,uu,uu
 2022-04-06T16:59:47.260Z,38.4833333,-112.8401667,0.05,0.85,ml,10,196,0.01349,0.06,uu,uu60489107,2022-04-06T18:23:32.060Z,"17 km ENE of Milford, Utah",earthquake,0.4,4.83,0.045,2,reviewed,uu,uu
+2022-04-06T16:59:36.580Z,38.4828333,-112.8426667,0.07,-0.44,md,6,197,0.02624,0.06,uu,uu60030384,2022-04-06T18:44:08.830Z,"17 km ENE of Milford, Utah",earthquake,0.7,31.61,0.447,3,reviewed,uu,uu
 2022-04-06T16:55:11.990Z,18.2176666666667,-67.0173333333333,20.97,2.44,md,16,79,,0.21,pr,pr71343588,2022-04-06T17:11:15.900Z,"4 km SW of Las Marías, Puerto Rico",earthquake,0.49,1.04,0.0978450986997308,10,reviewed,pr,pr
 2022-04-06T16:32:52.276Z,62.1689,-150.2313,44.5,1.8,ml,,,,0.67,ak,ak0224f1b802,2022-04-06T16:43:32.158Z,"16 km S of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-06T16:22:47.960Z,38.8294983,-122.8033371,1.81,0.89,md,23,41,0.008052,0.02,nc,nc73715096,2022-04-06T16:48:14.948Z,"7km W of Cobb, CA",earthquake,0.21,0.38,0.13,4,automatic,nc,nc
