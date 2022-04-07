@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T10:48:49.970Z,37.6503334,-121.8199997,12.02,1.3,md,10,107,0.0297,0.07,nc,nc73715466,2022-04-07T10:50:28.001Z,"5km ESE of Pleasanton, CA",earthquake,0.49,0.87,0.16,9,automatic,nc,nc
 2022-04-07T10:34:50.270Z,38.8283348,-122.8069992,2.12,0.35,md,10,77,0.005486,0.01,nc,nc73715461,2022-04-07T10:36:28.065Z,"7km NW of The Geysers, CA",earthquake,0.43,1.24,,1,automatic,nc,nc
 2022-04-07T10:33:42.070Z,19.2465000152588,-155.404998779297,34.1300010681152,2.16,ml,45,130,,0.150000006,hv,hv72976087,2022-04-07T10:39:11.520Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.790000021,0.2,3,automatic,hv,hv
-2022-04-07T10:27:03.430Z,38.833168,-122.7901688,1.53,0.85,md,7,91,0.005235,0.02,nc,nc73715451,2022-04-07T10:28:37.807Z,"6km WNW of Cobb, CA",earthquake,0.58,1.35,,1,automatic,nc,nc
+2022-04-07T10:27:03.430Z,38.833168,-122.7901688,1.53,0.85,md,7,91,0.005235,0.02,nc,nc73715451,2022-04-07T10:44:15.394Z,"6km WNW of Cobb, CA",earthquake,0.58,1.35,,1,automatic,nc,nc
 2022-04-07T10:24:27.830Z,19.236499786377,-155.408340454102,32.25,1.75999999,md,42,134,,0.140000001,hv,hv72976072,2022-04-07T10:27:49.380Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.59,0.99000001,0.699999988,13,automatic,hv,hv
 2022-04-07T10:21:29.790Z,19.1674995422363,-155.484832763672,33.9799995422363,2.35,ml,43,148,,0.140000001,hv,hv72976067,2022-04-07T10:26:58.580Z,"3 km S of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.39,10,automatic,hv,hv
 2022-04-07T10:13:50.044Z,8.9514,-40.5089,10,5.1,mb,,78,12.634,0.82,us,us7000h0c6,2022-04-07T10:39:08.040Z,"central Mid-Atlantic Ridge",earthquake,8.7,1.8,0.047,151,reviewed,us,us
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T04:38:05.530Z,38.8206673,-122.7850037,1.51,0.84,md,7,106,0.008131,0.02,nc,nc73715341,2022-04-07T04:55:17.307Z,"5km W of Cobb, CA",earthquake,0.62,1.27,,1,automatic,nc,nc
 2022-04-07T04:35:29.390Z,36.4245,-117.9256667,0.08,2.44,ml,25,63,0.1599,0.2,ci,ci39987815,2022-04-07T04:46:44.010Z,"17km NNE of Olancha, CA",earthquake,0.39,1.3,0.171,26,automatic,ci,ci
 2022-04-07T04:19:21.100Z,58.5429,-154.3981,4.7,2.2,ml,,,,0.28,ak,ak0224ghmijy,2022-04-07T04:25:26.043Z,"102 km SSE of Kokhanok, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-07T04:17:28.704Z,38.1565,-117.9607,9.2,0.7,ml,9,135.96,0.017,0.0653,nn,nn00836817,2022-04-07T04:21:39.985Z,"Nevada",earthquake,,0.6,0.17,4,automatic,nn,nn
+2022-04-07T04:17:28.704Z,38.1565,-117.9607,9.2,0.7,ml,9,135.96,0.017,0.0653,nn,nn00836817,2022-04-07T04:21:39.985Z,"29 km SSE of Mina, Nevada",earthquake,,0.6,0.17,4,automatic,nn,nn
 2022-04-07T04:14:47.910Z,34.0758333,-117.4751667,2.15,0.75,ml,8,122,0.03839,0.11,ci,ci39987807,2022-04-07T04:18:18.764Z,"3km SSW of Fontana, CA",earthquake,0.51,0.61,0.11,13,automatic,ci,ci
 2022-04-07T04:06:34.764Z,60.8605,-149.0286,17.2,1.6,ml,,,,0.36,ak,ak0224ghjras,2022-04-07T04:10:00.761Z,"11 km SE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-07T04:00:07.360Z,38.8286667,-122.8146667,1.75,0.94,md,20,44,0.00637,0.01,nc,nc73715326,2022-04-07T06:05:23.699Z,"8km NW of The Geysers, CA",earthquake,0.2,0.48,0.07,4,automatic,nc,nc
@@ -266,4 +267,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T11:21:26.300Z,39.3443333,-123.7296667,3.3,1.58,md,16,142,0.03241,0.06,nc,nc73715016,2022-04-06T14:47:25.160Z,"7km NE of Mendocino, CA",earthquake,0.48,0.77,0.148,14,reviewed,nc,nc
 2022-04-06T11:17:45.450Z,38.8433342,-122.8246689,1.89,0.78,md,17,74,0.009686,0.04,nc,nc73715011,2022-04-06T11:45:16.113Z,"9km WNW of Cobb, CA",earthquake,0.28,0.53,0.41,2,automatic,nc,nc
 2022-04-06T11:01:42.579Z,59.9129,-152.1638,80.3,1.4,ml,,,,0.18,ak,ak0224ey5e29,2022-04-06T11:04:08.156Z,"24 km NW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-04-06T10:45:55.970Z,32.652,-115.736,7.54,1.12,ml,22,106,0.008541,0.22,ci,ci39987223,2022-04-06T15:25:40.043Z,"16km WNW of Progreso, B.C., MX",earthquake,0.53,0.57,0.235,9,reviewed,ci,ci
