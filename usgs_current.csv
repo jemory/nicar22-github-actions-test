@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-07T22:22:27.170Z,46.61866760253906,-119.82250213623047,6.73000001907349,1.52999997,md,17,126,,0.0599999987,uw,uw61820357,2022-04-07T22:25:24.380Z,"9 km SE of Desert Aire, Washington",earthquake,0.35,0.189999998,0.300000012,5,automatic,uw,uw
+2022-04-07T22:40:23.962Z,38.2089,-117.8514,3.9,1.3,ml,8,117.96,0.105,0.1339,nn,nn00836879,2022-04-07T22:44:08.723Z,"30 km SE of Mina, Nevada",earthquake,,2,1.18,6,automatic,nn,nn
+2022-04-07T22:37:17.751Z,63.1079,-150.4864,30.7,1.5,ml,,,,1.31,ak,ak0224gsg633,2022-04-07T22:47:13.558Z,"69 km NNE of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-07T22:36:28.690Z,38.7798347,-122.7668304,1.04,0.45,md,15,87,0.00914,0.03,nc,nc73715696,2022-04-07T22:38:04.362Z,"1km WNW of The Geysers, CA",earthquake,0.26,0.49,0.21,4,automatic,nc,nc
+2022-04-07T22:22:27.150Z,46.618,-119.821,7.17,1.59,ml,20,58,0.04087,0.06,uw,uw61820357,2022-04-07T22:39:09.290Z,"10 km SE of Desert Aire, Washington",earthquake,0.18,0.15,0.10687541938405287,16,reviewed,uw,uw
 2022-04-07T22:21:49.630Z,38.7890015,-122.7683334,1.39,0.15,md,13,79,0.01342,0.02,nc,nc73715691,2022-04-07T22:23:24.069Z,"2km NW of The Geysers, CA",earthquake,0.27,0.49,0.09,3,automatic,nc,nc
 2022-04-07T22:17:16.490Z,33.0661667,-115.0055,-0.2,1.79,ml,14,65,0.09648,0.23,ci,ci39988335,2022-04-07T22:36:24.458Z,"45km NE of Holtville, CA",quarry blast,0.53,31.61,0.219,6,reviewed,ci,ci
 2022-04-07T22:06:48.048Z,64.6245,-149.371,13.7,1.3,ml,,,,0.98,ak,ak0224gs9l7c,2022-04-07T22:15:38.550Z,"12 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-07T21:50:12.470Z,38.8348351,-122.8115005,1.8,0.36,md,7,161,0.01148,0.01,nc,nc73715676,2022-04-07T22:31:20.804Z,"8km W of Cobb, CA",earthquake,0.56,1.28,,1,automatic,nc,nc
+2022-04-07T21:46:33.060Z,46.6165,-119.81916666666666,7.23,1.04,ml,14,84,0.03945,0.09,uw,uw61820342,2022-04-07T22:46:53.240Z,"10 km SE of Desert Aire, Washington",earthquake,0.27,0.15,0.15480282916528942,12,reviewed,uw,uw
 2022-04-07T21:25:47.920Z,17.9585,-67.0993333333333,9.5,2.37,md,10,236,,0.13,pr,pr71343683,2022-04-07T21:37:17.490Z,"5 km WSW of La Parguera, Puerto Rico",earthquake,0.87,0.49,0.297812066499985,6,reviewed,pr,pr
 2022-04-07T21:14:16.420Z,-21.1333,-68.8384,130.25,4.3,mb,,52,0.612,0.44,us,us7000h0iv,2022-04-07T22:15:28.040Z,"146 km N of Calama, Chile",earthquake,6.2,6.3,0.16,11,reviewed,us,us
 2022-04-07T21:13:25.890Z,39.6867,-119.7373,3.6,1.2,ml,8,99.47,0.117,0.133,nn,nn00836861,2022-04-07T21:17:07.527Z,"4 km NNW of Spanish Springs, Nevada",earthquake,,11.4,0.24,7,automatic,nn,nn
@@ -106,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T12:23:54.222Z,38.8798,-119.648,0,0.7,ml,4,251.79,0.033,0.0807,nn,nn00836872,2022-04-07T22:06:01.625Z,"2 km NNW of Carter Springs, Nevada",earthquake,,0,0.35,2,reviewed,nn,nn
 2022-04-07T12:22:07.620Z,54.5591666666667,-163.302666666667,11.48,1.54,ml,8,212,,0.21,av,av91531731,2022-04-07T20:10:09.980Z,"33 km SSE of False Pass, Alaska",earthquake,1.04,1.48,0.226200179837325,9,reviewed,av,av
 2022-04-07T12:11:13.490Z,38.7896667,-122.7665,0.84,0.43,md,10,166,0.01216,0.03,nc,nc71127714,2022-04-07T20:07:19.931Z,"2km NNW of The Geysers, CA",earthquake,0.44,0.69,0.491,2,reviewed,nc,nc
-2022-04-07T12:11:10.640Z,38.8451667,-122.817,1.93,0.39,md,22,50,0.0107,0.03,nc,nc73715496,2022-04-07T20:39:17.142Z,"8km WNW of Cobb, CA",earthquake,0.18,0.34,0.347,3,reviewed,nc,nc
+2022-04-07T12:11:10.640Z,38.8451667,-122.817,1.93,0.39,md,22,50,0.0107,0.03,nc,nc73715496,2022-04-07T22:38:20.852Z,"8km WNW of Cobb, CA",earthquake,0.18,0.34,0.347,3,reviewed,nc,nc
 2022-04-07T12:09:42.740Z,38.5521,-119.5306,6.4,0.9,ml,5,226.35,0.035,0.0711,nn,nn00836871,2022-04-07T22:02:53.066Z,"2 km SW of Coleville, California",earthquake,,1.8,0.34,4,reviewed,nn,nn
 2022-04-07T12:09:14.809Z,40.1592,-119.6293,6.7,0.2,ml,3,239.34,0.08,0.0082,nn,nn00836870,2022-04-07T21:59:38.239Z,"23 km N of Sutcliffe, Nevada",earthquake,,25.3,0.05,2,reviewed,nn,nn
 2022-04-07T11:54:09.500Z,19.1569995880127,-155.467834472656,29.7099990844727,1.88,md,36,121,,0.170000002,hv,hv72976172,2022-04-07T11:57:33.260Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.78,1.12,0.819999993,12,automatic,hv,hv
@@ -286,4 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T23:11:40.476Z,61.0495,-152.3388,102.9,0.3,ml,,,,0.7,ak,ak0224f5cqg0,2022-04-06T23:24:31.432Z,"64 km W of Tyonek, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-04-06T22:58:53.310Z,44.3095,-115.161,8.9,2.58,ml,11,82,0.921,0.23,mb,mb80542434,2022-04-07T14:07:52.290Z,"20 km WNW of Stanley, Idaho",earthquake,0.66,1.47,0.209,16,reviewed,mb,mb
 2022-04-06T22:55:50.180Z,34.1031667,-117.5773333,10.79,0.92,ml,28,62,0.03684,0.14,ci,ci39987671,2022-04-07T15:44:12.725Z,"2km S of Rancho Cucamonga, CA",earthquake,0.24,0.38,0.119,9,reviewed,ci,ci
-2022-04-06T22:38:43.420Z,35.9305,-117.6613333,3.68,0.01,ml,9,72,0.01951,0.06,ci,ci39987663,2022-04-07T15:45:39.970Z,"22km E of Little Lake, CA",earthquake,0.19,0.36,0.105,4,reviewed,ci,ci
