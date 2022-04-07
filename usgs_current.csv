@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-07T09:12:31.880Z,64.0286,-150.5487,9.6,1.9,ml,,,,1.06,ak,ak0224gkk7e8,2022-04-07T09:15:17.279Z,"70 km W of Ferry, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-07T09:06:13.400Z,38.8364983,-122.8083344,2.11,1.12,md,21,52,0.01315,0.02,nc,nc73715431,2022-04-07T09:15:10.762Z,"8km WNW of Cobb, CA",earthquake,0.22,0.52,0.42,4,automatic,nc,nc
+2022-04-07T09:03:10.970Z,38.815834,-122.7628326,1.9,1.37,md,29,61,0.01418,0.03,nc,nc73715426,2022-04-07T09:12:10.739Z,"4km WSW of Cobb, CA",earthquake,0.22,0.34,0.15,8,automatic,nc,nc
+2022-04-07T09:02:04.840Z,38.8143349,-122.7610016,1.62,2.35,md,46,51,0.01373,0.07,nc,nc73715421,2022-04-07T09:08:10.714Z,"3km WSW of Cobb, CA",earthquake,0.19,0.26,0.1,24,automatic,nc,nc
+2022-04-07T08:54:51.996Z,62.9577,-149.6763,65.1,1.6,ml,,,,0.73,ak,ak0224gk7tf7,2022-04-07T08:57:29.340Z,"60 km SW of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-07T08:49:50.380Z,38.8339996,-122.8160019,1.61,0.36,md,7,89,0.01156,0.01,nc,nc73715411,2022-04-07T08:51:22.847Z,"8km NW of The Geysers, CA",earthquake,0.51,1.74,,1,automatic,nc,nc
 2022-04-07T08:43:19.226Z,18.7946,-155.2088,10,2.5,ml,,276,0.472,0.7,us,us7000h0bl,2022-04-07T08:53:02.040Z,"49 km SE of Naalehu, Hawaii",earthquake,2.5,2,0.069,28,reviewed,us,us
 2022-04-07T08:22:23.790Z,38.8371658,-122.800499,1.94,0.85,md,9,130,0.008027,0.02,nc,nc73715401,2022-04-07T08:40:15.565Z,"7km WNW of Cobb, CA",earthquake,0.36,0.88,,1,automatic,nc,nc
@@ -60,6 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T02:24:06.880Z,61.5001,-150.1162,34.8,1.6,ml,,,,0.8,ak,ak0224gggots,2022-04-07T02:37:02.576Z,"8 km WSW of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-07T02:19:29.280Z,36.1845,-117.8726667,6.23,0.95,ml,16,96,0.06832,0.15,ci,ci39987727,2022-04-07T02:22:55.799Z,"16km SE of Olancha, CA",earthquake,0.37,0.72,0.203,6,automatic,ci,ci
 2022-04-07T02:12:35.010Z,38.7923333,-122.7248333,2.09,1.99,md,79,41,0.006544,0.06,nc,nc73715286,2022-04-07T07:11:24.060Z,"3km ENE of The Geysers, CA",earthquake,0.11,0.14,0.204,51,reviewed,nc,nc
+2022-04-07T02:02:10.320Z,40.7018333,-122.2706667,19.17,1.59,md,15,108,0.08788,0.14,nc,nc73715276,2022-04-07T09:02:10.688Z,"8km NNW of Bella Vista, CA",earthquake,0.44,0.65,0.117,15,reviewed,nc,nc
 2022-04-07T01:50:26.990Z,38.7991676,-122.7508316,2.37,0.84,md,11,99,0.00709,0.02,nc,nc73715271,2022-04-07T02:17:25.414Z,"2km N of The Geysers, CA",earthquake,0.4,0.92,0.02,3,automatic,nc,nc
 2022-04-07T01:47:24.410Z,38.6245,-119.8145,3.08,2.06,md,30,48,0.04254,0.1,nc,nc73715266,2022-04-07T07:44:10.251Z,"7km SSW of Markleeville, CA",earthquake,0.18,0.58,0.225,30,reviewed,nc,nc
 2022-04-07T01:36:19.300Z,35.8263333,-117.673,8.15,1.63,ml,25,41,0.06226,0.16,ci,ci39987719,2022-04-07T01:47:01.750Z,"23km N of Ridgecrest, CA",earthquake,0.24,0.69,0.157,25,automatic,ci,ci
@@ -263,5 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T09:24:18.982Z,31.64014936,-104.2240075,7.699755859,2.4,ml,13,66,0.04699107205,0.1,tx,tx2022gshk,2022-04-07T02:58:08.993Z,"54 km NW of Toyah, Texas",earthquake,1.123384051,2.001634282,0.2,8,reviewed,tx,tx
 2022-04-06T09:22:16.299Z,10.8538,-62.7364,116.4,4.9,mb,,65,1.655,0.7,us,us7000h046,2022-04-06T20:13:01.355Z,"56 km WNW of Güiria, Venezuela",earthquake,8.4,5.2,0.027,432,reviewed,us,us
 2022-04-06T09:21:26.170Z,17.904,-66.8936666666667,14.29,1.98,md,8,248,,0.09,pr,pr71343563,2022-04-06T09:31:45.910Z,"7 km SSE of Guánica, Puerto Rico",earthquake,0.57,0.53,0.180553652362784,6,reviewed,pr,pr
-2022-04-06T09:04:44.785Z,39.1362,-119.7102,8.4,0.1,ml,5,127.46,0.098,0.0703,nn,nn00836788,2022-04-07T02:38:30.917Z,"5 km ESE of Carson City, Nevada",earthquake,,4.9,0,1,reviewed,nn,nn
-2022-04-06T08:59:37.390Z,38.8148346,-122.824501,2.15,1.05,md,20,57,0.006989,0.02,nc,nc73714981,2022-04-06T09:01:10.882Z,"7km NW of The Geysers, CA",earthquake,0.23,0.4,0.15,5,automatic,nc,nc
