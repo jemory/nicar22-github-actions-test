@@ -1,11 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-08T09:44:32.750Z,35.3165016,-118.5490036,3.21,2.01,ml,51,66,0.1078,0.17,ci,ci39988543,2022-04-08T09:46:37.912Z,"22km NNW of Tehachapi, CA",earthquake,0.23,1.03,0.269,30,automatic,ci,ci
+2022-04-08T09:41:36.690Z,35.3203333,-118.5396667,2.51,1.21,ml,19,82,0.1015,0.17,ci,ci39988535,2022-04-08T09:45:07.071Z,"22km NNW of Tehachapi, CA",earthquake,0.33,0.56,0.188,18,automatic,ci,ci
+2022-04-08T09:37:08.682Z,65.2997,-158.2413,6.1,3,ml,,,,0.63,ak,ak0224i88vy0,2022-04-08T09:46:24.973Z,"northern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-08T09:35:54.730Z,35.3128319,-118.5370026,2.29,3.22,ml,101,30,0.09745,0.2,ci,ci39988527,2022-04-08T09:46:50.570Z,"22km NNW of Tehachapi, CA",earthquake,0.18,0.47,0.279,21,automatic,ci,ci
+2022-04-08T09:33:31.130Z,34.305,-116.8275,6.78,0.96,ml,14,93,0.04291,0.18,ci,ci39988519,2022-04-08T09:37:05.569Z,"5km NNE of Big Bear City, CA",earthquake,0.47,1.31,0.243,17,automatic,ci,ci
 2022-04-08T09:22:13.433Z,61.9252,-149.3981,19.7,1.4,ml,,,,0.66,ak,ak0224i85nmj,2022-04-08T09:24:32.026Z,"21 km NNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-08T09:13:13.340Z,38.8321648,-122.8178329,1.71,0.85,md,9,70,0.01521,0.02,nc,nc73715896,2022-04-08T09:14:51.035Z,"8km NW of The Geysers, CA",earthquake,0.32,1.41,,1,automatic,nc,nc
+2022-04-08T09:13:13.340Z,38.8321648,-122.8178329,1.71,0.85,md,9,70,0.01521,0.02,nc,nc73715896,2022-04-08T09:32:15.894Z,"8km NW of The Geysers, CA",earthquake,0.32,1.41,,1,automatic,nc,nc
 2022-04-08T09:03:42.018Z,-22.4831,-68.8121,126.9,4,mb,,59,0.736,0.9,us,us7000h0m5,2022-04-08T09:30:58.040Z,"11 km ESE of Calama, Chile",earthquake,3.5,7.6,0.156,11,reviewed,us,us
 2022-04-08T08:58:12.620Z,34.3033333,-117.01,5.15,1.55,ml,52,54,0.08448,0.2,ci,ci39988511,2022-04-08T09:01:53.351Z,"11km NW of Big Bear Lake, CA",earthquake,0.31,1.02,0.172,28,automatic,ci,ci
 2022-04-08T08:52:51.210Z,19.1966667175293,-155.399169921875,32.810001373291,1.78999996,md,42,160,,0.119999997,hv,hv72977692,2022-04-08T08:56:02.010Z,"8 km E of Pāhala, Hawaii",earthquake,0.61,0.899999976,0.709999979,17,automatic,hv,hv
 2022-04-08T08:50:00.480Z,38.824501,-122.7665024,2.03,0.87,md,20,120,0.006529,0.03,nc,nc73715891,2022-04-08T09:07:19.742Z,"4km W of Cobb, CA",earthquake,0.27,0.42,0.13,4,automatic,nc,nc
-2022-04-08T08:06:18.265Z,60.7505,-150.782,36.2,1.3,ml,,,,0.26,ak,ak0224i7gsxu,2022-04-08T08:08:36.218Z,"19 km SSW of Point Possession, Alaska",earthquake,,6.2,,,automatic,ak,ak
+2022-04-08T08:06:18.265Z,60.7505,-150.782,36.2,1.3,ml,,,,0.26,ak,ak0224i7gsxu,2022-04-08T08:08:36.218Z,"Kenai Peninsula, Alaska",earthquake,,6.2,,,automatic,ak,ak
 2022-04-08T07:58:14.980Z,17.8283333333333,-66.7785,5.56,2.55,md,10,262,,0.12,pr,pr71343723,2022-04-08T08:23:24.790Z,"18 km SSE of Indios, Puerto Rico",earthquake,0.83,0.51,0.224909958982118,4,reviewed,pr,pr
 2022-04-08T07:55:04.970Z,35.8938333,-117.7078333,2.7,0.43,ml,10,66,0.07131,0.08,ci,ci39988495,2022-04-08T07:58:29.964Z,"18km ESE of Little Lake, CA",earthquake,0.17,0.26,0.141,4,automatic,ci,ci
 2022-04-08T07:49:30.150Z,35.664,-117.5615,6.34,1.42,ml,20,86,0.1119,0.16,ci,ci39988487,2022-04-08T07:53:09.669Z,"11km ENE of Ridgecrest, CA",earthquake,0.28,1.11,0.157,19,automatic,ci,ci
@@ -72,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-08T00:37:23.407Z,64.9032,-150.7147,30,1.5,ml,,,,0.57,ak,ak0224i2vzn9,2022-04-08T00:51:45.255Z,"11 km SSW of Manley Hot Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-08T00:30:54.894Z,-7.4533,126.8925,274.48,4.7,mb,,28,3.459,0.74,us,us7000h0k6,2022-04-08T00:46:02.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.1,7.4,0.077,51,reviewed,us,us
 2022-04-08T00:14:23.809Z,-22.1317,-68.7774,118.17,4.2,mb,,97,0.908,0.91,us,us7000h0k5,2022-04-08T00:38:22.040Z,"39 km NNE of Calama, Chile",earthquake,4.3,8.8,0.215,6,reviewed,us,us
-2022-04-08T00:02:52.350Z,19.13450050354,-155.46549987793,44.7700004577637,2.28,ml,11,252,,0.0799999982,hv,hv72976912,2022-04-08T00:08:23.300Z,"7 km S of Pāhala, Hawaii",earthquake,4.65,9.02999973,0.35,3,automatic,hv,hv
+2022-04-08T00:02:52.350Z,19.13450050354,-155.46549987793,44.7700004577637,2.28,ml,11,252,,0.0799999982,hv,hv72976912,2022-04-08T00:08:23.300Z,"Island of Hawaii, Hawaii",earthquake,4.65,9.02999973,0.35,3,automatic,hv,hv
 2022-04-07T23:56:07.150Z,38.7916667,-122.7618333,1.08,0.29,md,17,62,0.009097,0.03,nc,nc73715736,2022-04-08T08:31:15.526Z,"2km NNW of The Geysers, CA",earthquake,0.17,0.36,0.205,4,reviewed,nc,nc
 2022-04-07T23:44:45.053Z,62.2656,-148.9342,19.7,1.4,ml,,,,0.61,ak,ak0224gt35sn,2022-04-07T23:56:22.038Z,"49 km ENE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-07T23:37:55.810Z,19.1998333333333,-155.435166666667,33.67,3.7,ml,59,137,,0.11,hv,hv72976872,2022-04-08T05:46:50.172Z,"4 km E of Pāhala, Hawaii",earthquake,0.35,0.4,0.209371564880878,41,reviewed,hv,hv
@@ -264,6 +269,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-07T09:52:55.292Z,6.2916,125.7609,159.03,4.5,mb,,119,0.793,0.66,us,us7000h0c3,2022-04-07T11:41:49.040Z,"10 km ENE of Talagutong, Philippines",earthquake,9.8,7.9,0.124,19,reviewed,us,us
 2022-04-07T09:49:57.320Z,44.9625,-114.4795,8.98,1.63,ml,16,89,0.466,0.24,mb,mb80542479,2022-04-07T14:18:51.120Z,"51 km WSW of Salmon, Idaho",earthquake,0.56,1.22,0.161,12,reviewed,mb,mb
 2022-04-07T09:48:22.319Z,38.2039,-117.7185,0.5,1.5,ml,14,161.92,0.127,0.1138,nn,nn00836828,2022-04-07T09:52:02.881Z,"39 km ESE of Mina, Nevada",earthquake,,5.9,0.14,8,automatic,nn,nn
-2022-04-07T09:44:38.670Z,38.8218346,-122.7636642,1.57,0.36,md,11,176,0.009909,0.03,nc,nc73715446,2022-04-07T10:23:23.262Z,"4km W of Cobb, CA",earthquake,0.51,1.15,,1,automatic,nc,nc
-2022-04-07T09:36:45.913Z,61.334,-151.0194,53.3,1.2,ml,,,,0.82,ak,ak0224gkpdnz,2022-04-07T09:44:15.104Z,"21 km N of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-07T09:33:43.890Z,35.86333333,-96.60133333,7.67,1.29,ml,77,52,0.0863830487,0.27,ok,ok2022gudf,2022-04-07T12:53:38.842Z,"5 km SSW of Shamrock, Oklahoma",earthquake,,0.6,0.2,34,reviewed,ok,ok
