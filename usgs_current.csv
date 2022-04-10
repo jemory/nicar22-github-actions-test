@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-10T15:33:11.606Z,62.4519,-148.2641,35.4,2.7,ml,,,,0.65,ak,ak0224lmvay0,2022-04-10T15:42:08.265Z,"73 km N of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-04-10T15:32:25.210Z,60.7603,-143.8091,25.1,1.1,ml,,,,1.71,ak,ak0224lmv4db,2022-04-10T15:41:57.862Z,"88 km SSW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-04-10T15:33:11.570Z,62.4529,-148.2666,35.1,2.7,ml,,,,0.64,ak,ak0224lmvay0,2022-04-10T15:47:47.040Z,"73 km N of Chickaloon, Alaska",earthquake,,1.4,,,automatic,ak,ak
+2022-04-10T15:32:25.210Z,60.7603,-143.8091,25.1,1.1,ml,,,,1.71,ak,ak0224lmv4db,2022-04-10T15:44:39.577Z,"88 km SSW of McCarthy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-10T15:09:40.657Z,61.13,-148.333,11.6,2,ml,,,,0.86,ak,ak0224lmq815,2022-04-10T15:34:34.355Z,"43 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-10T15:04:06.381Z,61.4416,-151.1604,19,0.7,ml,,,,0.3,ak,ak0224lmp2tc,2022-04-10T15:16:28.423Z,"33 km N of Beluga, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-10T15:00:23.105Z,-6.4966,152.5636,10,4.9,mb,,50,7.875,0.37,us,us7000h13y,2022-04-10T15:39:31.040Z,"240 km S of Kokopo, Papua New Guinea",earthquake,9.8,1.9,0.055,104,reviewed,us,us
@@ -80,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-10T03:48:18.490Z,19.138334274292,-155.48616027832,33.8600006103516,2.00999999,md,34,168,,0.109999999,hv,hv72979347,2022-04-10T03:51:32.050Z,"7 km S of Pāhala, Hawaii",earthquake,0.73,0.99000001,1.01999998,7,automatic,hv,hv
 2022-04-10T03:45:09.520Z,43.4798333,-110.7365,5.09,1.56,ml,12,94,0.024,0.14,mb,mb80542754,2022-04-10T14:34:36.030Z,"2 km E of Jackson, Wyoming",earthquake,0.47,0.92,0.233,9,reviewed,mb,mb
 2022-04-10T03:30:04.390Z,43.4615,-110.5976667,4.9,1.49,ml,11,138,0.114,0.16,mb,mb80542749,2022-04-10T14:19:59.970Z,"Wyoming",earthquake,0.48,2.6,0.14,10,reviewed,mb,mb
+2022-04-10T03:27:13.830Z,33.4855,-116.5573333,8.17,1.01,ml,39,49,0.03918,0.14,ci,ci39989719,2022-04-10T15:53:01.020Z,"13km SE of Anza, CA",earthquake,0.16,0.34,0.187,20,reviewed,ci,ci
 2022-04-10T03:24:14.140Z,35.899,-117.7075,6.83,0.78,ml,11,66,0.06731,0.15,ci,ci39989711,2022-04-10T03:27:59.782Z,"18km ESE of Little Lake, CA",earthquake,0.41,1.18,0.157,10,automatic,ci,ci
 2022-04-10T03:23:40.681Z,54.7404,-164.1408,9.58,4,ml,,148,0.42,0.84,us,us7000h10g,2022-04-10T03:34:22.040Z,"48 km WSW of False Pass, Alaska",earthquake,6.9,4.2,0.085,18,reviewed,us,us
 2022-04-10T03:04:05.931Z,-11.7235,-75.1144,18.71,5,mb,,91,1.711,0.97,us,us7000h10f,2022-04-10T15:12:49.676Z,"3 km W of Comas, Peru",earthquake,7.3,5.5,0.044,165,reviewed,us,us
@@ -179,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T16:14:30.050Z,38.800499,-122.7743301,1.41,0.55,md,17,73,0.01142,0.02,nc,nc73716316,2022-04-09T17:09:13.326Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.43,0.35,4,automatic,nc,nc
 2022-04-09T16:13:22.524Z,-0.0447,122.0381,270.65,4.2,mb,,108,1.232,0.71,us,us7000h0x5,2022-04-09T18:54:46.040Z,"130 km NW of Luwuk, Indonesia",earthquake,11.4,8.3,0.137,16,reviewed,us,us
 2022-04-09T15:59:28.659Z,63.871,-148.7646,10,0.5,ml,,,,0.48,ak,ak0224jzhjut,2022-04-09T16:09:23.374Z,"10 km E of Healy, Alaska",earthquake,,1.7,,,reviewed,ak,ak
-2022-04-09T15:49:09.480Z,-36.5929,78.8474,10,5.8,mww,,46,32.358,1.15,us,us7000h0x2,2022-04-09T21:37:18.353Z,"Mid-Indian Ridge",earthquake,6.2,1.8,0.066,22,reviewed,us,us
