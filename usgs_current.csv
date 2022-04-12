@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-12T04:10:21.550Z,38.7584991,-122.7403336,1.54,1.31,md,17,100,0.02486,0.04,nc,nc73717321,2022-04-12T04:37:19.933Z,"2km SSE of The Geysers, CA",earthquake,0.29,0.54,0.1,4,automatic,nc,nc
+2022-04-12T04:46:57.594Z,62.9639,-151.3101,23.1,1.5,ml,,,,1.3,ak,ak0224orh40v,2022-04-12T04:52:48.704Z,"59 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-12T04:45:31.159Z,58.561,-152.1484,38.4,2,ml,,,,0.43,ak,ak0224orguf8,2022-04-12T04:53:14.974Z,"71 km NE of Aleneva, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-12T04:10:21.550Z,38.7584991,-122.7403336,1.54,1.31,md,17,100,0.02486,0.04,nc,nc73717321,2022-04-12T04:52:11.021Z,"2km SSE of The Geysers, CA",earthquake,0.29,0.54,0.1,4,automatic,nc,nc
 2022-04-12T04:09:27.312Z,60.3862,-152.2573,76.6,0.9,ml,,,,0.54,ak,ak0224or94ch,2022-04-12T04:21:04.918Z,"49 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-12T04:05:30.082Z,62.7249,-151.8619,8.5,1.4,ml,,,,0.74,ak,ak0224or89ow,2022-04-12T04:07:48.155Z,"61 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-12T04:03:13.870Z,34.0786667,-117.2995,14.53,1.14,ml,22,136,0.1058,0.2,ci,ci39990615,2022-04-12T04:06:51.656Z,"1km ENE of Colton, CA",earthquake,0.46,0.89,0.121,26,automatic,ci,ci
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-12T02:25:34.570Z,19.1686668395996,-155.466171264648,33.6399993896484,2.01999998,md,29,207,,0.140000001,hv,hv72981292,2022-04-12T02:31:13.220Z,"4 km SSE of Pāhala, Hawaii",earthquake,1.01,0.910000026,1.83000004,6,automatic,hv,hv
 2022-04-12T02:23:15.696Z,59.7676,-153.1081,103.7,1.3,ml,,,,0.74,ak,ak0224oq589q,2022-04-12T02:29:47.054Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-12T02:15:14.980Z,38.8306656,-122.8190002,1.91,2.22,md,31,64,0.01007,0.02,nc,nc73717281,2022-04-12T03:01:10.409Z,"8km NW of The Geysers, CA",earthquake,0.18,0.3,0.12,10,automatic,nc,nc
-2022-04-12T02:13:33.540Z,38.8301659,-122.8186646,1.84,1.6,md,28,49,0.009526,0.02,nc,nc73717276,2022-04-12T02:46:10.324Z,"8km NW of The Geysers, CA",earthquake,0.17,0.35,0.11,6,automatic,nc,nc
+2022-04-12T02:13:33.540Z,38.8301659,-122.8186646,1.84,1.6,md,28,49,0.009526,0.02,nc,nc73717276,2022-04-12T04:57:19.055Z,"8km NW of The Geysers, CA",earthquake,0.17,0.35,0.11,6,automatic,nc,nc
 2022-04-12T02:10:58.723Z,60.3783,-152.3293,75.9,0.6,ml,,,,0.72,ak,ak0224oq2j9w,2022-04-12T02:21:18.243Z,"51 km NW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-12T01:52:40.108Z,62.0955,-148.434,30.7,1,ml,,,,1.02,ak,ak0224opq2av,2022-04-12T01:55:28.936Z,"33 km N of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-12T01:40:50.194Z,63.2591,-151.1081,0.9,1.4,ml,,,,0.69,ak,ak0224opnihi,2022-04-12T01:51:34.387Z,"43 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -212,6 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-11T05:12:09.609Z,60.7133,-147.5468,0,1.9,ml,,,,0.72,ak,ak0224n4btaa,2022-04-11T05:24:37.034Z,"50 km WSW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-11T05:11:46.155Z,57.289,-153.5502,28.2,3.3,ml,,,,0.58,ak,ak0224n4bocm,2022-04-11T07:27:15.040Z,"17 km WNW of Old Harbor, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-11T05:10:54.220Z,44.7605,-110.9721667,10.33,0.11,md,7,164,0.02425,0.08,uu,uu60490177,2022-04-11T18:29:18.710Z,"15 km NE of West Yellowstone, Montana",earthquake,0.75,0.58,0.211,5,reviewed,uu,uu
-2022-04-11T04:58:14.230Z,61.4348,-147.4622,18,1.7,ml,,,,0.66,ak,ak0224n408x0,2022-04-11T05:13:59.924Z,"42 km SSE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-11T04:57:51.036Z,63.6615,-149.3746,9.3,1.4,ml,,,,1.36,ak,ak0224n4041y,2022-04-11T05:10:21.664Z,"24 km WSW of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-04-11T04:57:21.222Z,62.5429,-148.9447,18.4,0.4,ml,,,,0.59,ak,ak0224n401eq,2022-04-11T16:02:45.348Z,"60 km E of Chase, Alaska",earthquake,,3.4,,,reviewed,ak,ak
