@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-14T05:45:21.680Z,38.7811661,-122.7646637,0.86,0.86,md,8,100,0.01046,0.01,nc,nc73718151,2022-04-14T05:46:54.579Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.97,,1,automatic,nc,nc
-2022-04-14T05:42:41.400Z,64.7381,-147.3384,0,0.6,ml,,,,0.87,ak,ak0224s34cok,2022-04-14T05:51:10.396Z,"1 km SSE of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-14T05:37:01.520Z,37.5784988,-118.8636703,3.58,1.05,md,11,219,0.02977,0.01,nc,nc73718136,2022-04-14T05:38:34.569Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.72,0.87,0.16,11,automatic,nc,nc
+2022-04-14T06:10:40.750Z,33.9088333,-117.6875,14.29,0.84,ml,21,69,0.003754,0.25,ci,ci39991999,2022-04-14T06:14:16.930Z,"12km S of Chino, CA",earthquake,0.73,1.03,0.175,12,automatic,ci,ci
+2022-04-14T05:45:21.680Z,38.7811661,-122.7646637,0.86,0.86,md,8,100,0.01046,0.01,nc,nc73718151,2022-04-14T06:04:18.279Z,"1km WNW of The Geysers, CA",earthquake,0.32,0.97,,1,automatic,nc,nc
+2022-04-14T05:42:41.400Z,64.7381,-147.3384,0,0.6,ml,,,,0.87,ak,ak0224s34cok,2022-04-14T06:01:47.957Z,"1 km SSE of North Pole, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-14T05:37:01.520Z,37.5784988,-118.8636703,3.58,1.05,md,11,219,0.02977,0.01,nc,nc73718136,2022-04-14T05:53:27.220Z,"12km ESE of Mammoth Lakes, CA",earthquake,0.72,0.87,0.16,11,automatic,nc,nc
 2022-04-14T05:36:45.099Z,63.4964,-150.8348,14.7,1.1,ml,,,,0.96,ak,ak0224s332my,2022-04-14T05:51:09.613Z,"44 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-14T05:23:21.800Z,35.845,-117.671,5.35,0.78,ml,12,85,0.06647,0.08,ci,ci39991991,2022-04-14T05:27:01.455Z,"24km ESE of Little Lake, CA",earthquake,0.25,0.8,0.2,11,automatic,ci,ci
 2022-04-14T05:15:19.650Z,33.8455009,-118.4053345,9.46,1.79,ml,28,224,0.08877,0.32,ci,ci39991983,2022-04-14T05:19:14.590Z,"2km WSW of Redondo Beach, CA",earthquake,1.86,1.94,0.31,11,automatic,ci,ci
@@ -261,5 +262,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T06:37:18.358Z,62.967,-151.0159,125.7,1.4,ml,,,,0.13,ak,ak0224qg5bej,2022-04-13T06:39:37.082Z,"53 km NNW of Petersville, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-13T06:26:04.364Z,31.65136749,-104.1864141,8.728076172,2.2,ml,10,128,0.155637372,0.3,tx,tx2022hewb,2022-04-13T18:12:35.555Z,"52 km NW of Toyah, Texas",earthquake,3.151021844,11.368435270000003,0.2,2,reviewed,tx,tx
 2022-04-13T06:23:28.790Z,38.8354988,-122.80233,2.3,0.36,md,8,110,0.01352,0.04,nc,nc73717746,2022-04-13T06:41:16.397Z,"7km WNW of Cobb, CA",earthquake,0.44,1.66,,1,automatic,nc,nc
-2022-04-13T06:14:39.106Z,26.7503,126.4946,10,4.6,mb,,67,1.591,0.73,us,us7000h1np,2022-04-13T06:53:28.040Z,"132 km WNW of Naha, Japan",earthquake,7.4,1.8,0.093,35,reviewed,us,us
-2022-04-13T06:13:58.554Z,38.168,-117.8919,10.9,1.1,ml,15,137.71,0.061,0.1702,nn,nn00837106,2022-04-13T17:29:55.361Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.65,6,reviewed,nn,nn
