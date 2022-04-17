@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-17T05:21:46.580Z,35.6628333,-118.3928333,3.62,1.4,ml,30,34,0.0464,0.19,ci,ci40238720,2022-04-17T05:25:19.003Z,"8km SE of Wofford Heights, CA",earthquake,0.31,0.65,0.192,21,automatic,ci,ci
+2022-04-17T05:35:21.015Z,63.1806,-150.6459,10.4,1.2,ml,,,,0.94,ak,ak0224x1oujm,2022-04-17T05:37:56.131Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-17T05:21:46.580Z,35.6628333,-118.3928333,3.62,1.4,ml,30,34,0.0464,0.19,ci,ci40238720,2022-04-17T05:32:26.540Z,"8km SE of Wofford Heights, CA",earthquake,0.31,0.65,0.192,21,automatic,ci,ci
 2022-04-17T05:09:58.570Z,38.8354988,-122.7911682,1.88,1.14,md,19,53,0.002976,0.01,nc,nc73718690,2022-04-17T05:27:55.527Z,"6km WNW of Cobb, CA",earthquake,0.22,0.4,0.03,3,automatic,nc,nc
 2022-04-17T05:09:56.180Z,60.3059,-139.662,0,1.6,ml,,,,0.68,ak,ak0224x1jcn6,2022-04-17T05:20:31.825Z,"84 km N of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T05:06:44.770Z,19.2514991760254,-155.389831542969,30.4300003051758,1.87,md,27,134,,0.150000006,hv,hv72987452,2022-04-17T05:09:58.510Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.829999983,0.589999974,5,automatic,hv,hv
@@ -221,5 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-16T05:51:31.370Z,38.8326667,-122.8061667,1.99,-0.25,md,8,112,0.009748,0.01,nc,nc73718215,2022-04-16T11:33:34.482Z,"7km W of Cobb, CA",earthquake,0.34,0.36,,1,reviewed,nc,nc
 2022-04-16T05:51:03.670Z,38.8145,-122.824,2.46,0.37,md,15,71,0.006928,0.02,nc,nc71127984,2022-04-16T14:09:33.831Z,"7km NW of The Geysers, CA",earthquake,0.29,0.61,0.102,4,reviewed,nc,nc
 2022-04-16T05:41:49.970Z,17.9823333333333,-66.8636666666667,16.79,1.42,md,6,169,,0.06,pr,pr71344748,2022-04-16T06:15:25.960Z,"2 km E of Maria Antonia, Puerto Rico",earthquake,0.51,0.58,0.0679945876139498,5,reviewed,pr,pr
-2022-04-16T05:38:27.890Z,38.8131667,-122.8223333,2.13,0.37,md,18,64,0.006857,0.02,nc,nc73718210,2022-04-16T20:14:53.117Z,"7km NW of The Geysers, CA",earthquake,0.22,0.45,0.158,3,reviewed,nc,nc
-2022-04-16T05:33:20.770Z,38.8313332,-122.817337,1.7,1.18,md,23,51,0.009748,0.02,nc,nc73718205,2022-04-16T08:43:55.944Z,"8km NW of The Geysers, CA",earthquake,0.18,0.39,0.45,3,automatic,nc,nc
