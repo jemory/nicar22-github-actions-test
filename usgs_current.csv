@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-18T17:37:15.407Z,64.8597,-147.2839,21.9,1.5,ml,,,,0.21,ak,ak0224ywdtb9,2022-04-18T17:40:23.177Z,"11 km W of Two Rivers, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-18T17:13:56.940Z,33.5876667,-116.8086667,7.94,0.41,ml,12,163,0.03768,0.09,ci,ci40240056,2022-04-18T17:17:33.950Z,"13km WNW of Anza, CA",earthquake,0.43,0.59,0.1,5,automatic,ci,ci
 2022-04-18T16:59:18.290Z,38.8273315,-122.8043365,1.81,0.75,md,14,75,0.005961,0.01,nc,nc73719720,2022-04-18T17:25:40.477Z,"7km NW of The Geysers, CA",earthquake,0.28,0.5,0.23,3,automatic,nc,nc
 2022-04-18T16:54:51.880Z,42.5093333,-111.2948333,15.53,1.37,md,5,298,0.5336,0.21,uu,uu60492327,2022-04-18T17:14:13.750Z,"6 km ENE of Georgetown, Idaho",earthquake,7.24,31.61,0.053,4,reviewed,uu,uu
@@ -30,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T13:57:37.840Z,35.8606667,-117.6973333,9.13,1.61,ml,25,49,0.0756,0.13,ci,ci40239768,2022-04-18T14:08:29.500Z,"21km ESE of Little Lake, CA",earthquake,0.2,0.5,0.222,25,automatic,ci,ci
 2022-04-18T13:51:30.126Z,61.7416,-148.1919,16.8,1,ml,,,,0.27,ak,ak0224yu341g,2022-04-18T13:59:46.196Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-18T13:43:46.406Z,59.7779,-150.8963,31.9,1.7,ml,,,,0.78,ak,ak0224yu1fkm,2022-04-18T13:59:45.434Z,"9 km SSE of Fox River, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-18T13:40:48.790Z,37.4368333,-118.6125,3.09,0.72,md,7,133,0.09227,0.15,nc,nc73719625,2022-04-18T15:31:00.753Z,"3km NNW of Round Valley, CA",earthquake,0.7,31.61,0.487,7,reviewed,nc,nc
+2022-04-18T13:40:48.530Z,37.4141667,-118.6023333,9.4,1.03,md,9,114,0.06839,0.03,nc,nc73719625,2022-04-18T17:45:46.107Z,"0km W of Round Valley, CA",earthquake,0.64,1.52,0.327,10,reviewed,nc,nc
 2022-04-18T13:38:58.069Z,21.5484,121.0265,10,4.6,mb,,276,1.264,0.78,us,us7000h32q,2022-04-18T14:14:17.040Z,"58 km SSE of Hengchun, Taiwan",earthquake,6.5,1.9,0.079,49,reviewed,us,us
 2022-04-18T13:33:23.960Z,35.7738333,-117.588,7.89,0.79,ml,9,154,0.04253,0.15,ci,ci40239736,2022-04-18T13:36:55.421Z,"17km W of Searles Valley, CA",earthquake,0.46,0.75,0.128,7,automatic,ci,ci
 2022-04-18T13:31:06.690Z,35.7785,-117.5925,7.77,1.18,ml,17,78,0.03738,0.17,ci,ci40239720,2022-04-18T13:34:44.382Z,"17km W of Searles Valley, CA",earthquake,0.35,0.74,0.152,13,automatic,ci,ci
@@ -265,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-17T17:56:51.960Z,17.9886666666667,-66.8096666666667,16.61,2.3,md,25,168,,0.26,pr,pr71344908,2022-04-17T19:35:53.760Z,"1 km ESE of Indios, Puerto Rico",earthquake,0.51,0.43,0.0894870645929489,11,reviewed,pr,pr
 2022-04-17T17:55:43.629Z,60.2064,-141.6865,0,1.4,ml,,,,1.24,ak,ak0224x8ydse,2022-04-17T18:10:49.672Z,"132 km WNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-17T17:48:54.855Z,60.7788,-150.8548,54.8,1.5,ml,,,,0.49,ak,ak0224x8wwrb,2022-04-17T18:00:52.222Z,"18 km SSW of Point Possession, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-04-17T17:38:24.195Z,63.31,-151.005,9.6,1.2,ml,,,,0.7,ak,ak0224x8up6z,2022-04-17T17:46:23.802Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-17T17:35:33.460Z,38.8361664,-122.8239975,1.17,0.86,md,7,136,0.01562,0.07,nc,nc73718970,2022-04-17T19:13:53.430Z,"9km NW of The Geysers, CA",earthquake,0.75,1.83,,1,automatic,nc,nc
-2022-04-17T17:34:53.350Z,38.8185005,-122.7886658,1.32,0.92,md,20,42,0.00814,0.04,nc,nc73718965,2022-04-17T18:46:53.254Z,"5km NNW of The Geysers, CA",earthquake,0.21,0.41,0.05,4,automatic,nc,nc
