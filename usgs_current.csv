@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-21T15:27:04.470Z,38.831501,-122.81633,1.74,1.04,md,27,51,0.009455,0.03,nc,nc73721260,2022-04-21T15:29:42.348Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.16,5,automatic,nc,nc
+2022-04-21T15:22:45.425Z,65.1034,-149.0478,2.9,1.8,ml,,,,1.11,ak,ak02253tpu5k,2022-04-21T15:33:36.564Z,"15 km ESE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-21T15:04:47.740Z,33.1796667,-116.8396667,14.12,0.8,ml,14,142,0.08806,0.27,ci,ci40243120,2022-04-21T15:08:33.638Z,"10km SW of Lake Henshaw, CA",earthquake,0.71,1.45,0.136,15,automatic,ci,ci
 2022-04-21T15:04:38.990Z,33.8335,-117.3286667,19.27,1.33,ml,11,73,0.1434,0.24,ci,ci40243112,2022-04-21T15:08:16.401Z,"3km W of Mead Valley, CA",earthquake,0.96,2.17,0.278,29,automatic,ci,ci
 2022-04-21T14:56:07.943Z,60.2277,-153.2317,136.6,1.5,ml,,,,0.41,ak,ak02253tblzu,2022-04-21T14:59:16.891Z,"60 km E of Port Alsworth, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -16,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T13:37:25.360Z,44.8918333,-111.4943333,8.99,0.5,ml,11,135,0.076,0.21,mb,mb80543704,2022-04-21T14:39:26.220Z,"27 km WNW of Hebgen Lake Estates, Montana",earthquake,0.51,1.07,0.055,4,reviewed,mb,mb
 2022-04-21T13:35:26.770Z,38.3815,-112.1666667,3.51,1.74,ml,22,100,0.1272,0.18,uu,uu60493162,2022-04-21T15:01:31.950Z,"9 km SE of Marysvale, Utah",earthquake,0.51,1.54,0.237,8,reviewed,uu,uu
 2022-04-21T13:18:30.970Z,44.8231667,-111.4728333,14.13,0.26,ml,8,200,0.031,0.12,mb,mb80543714,2022-04-21T14:55:41.380Z,"23 km WNW of Hebgen Lake Estates, Montana",earthquake,0.98,0.86,0.255,4,reviewed,mb,mb
+2022-04-21T13:17:32.050Z,-6.9588,129.7431,136.83,4.4,mb,,91,1.847,0.75,us,us6000hf9g,2022-04-21T15:39:03.040Z,"Banda Sea",earthquake,8,4.9,0.11,24,reviewed,us,us
 2022-04-21T13:16:09.753Z,59.8077,-153.4325,141.2,2.1,ml,,,,0.78,ak,ak02253shlwf,2022-04-21T13:56:23.996Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-21T12:58:32.420Z,33.6518333,-116.7076667,13.52,0.78,ml,24,83,0.05943,0.12,ci,ci40243064,2022-04-21T13:11:02.156Z,"10km S of Idyllwild, CA",earthquake,0.25,0.41,0.239,24,reviewed,ci,ci
 2022-04-21T12:38:55.362Z,46.1114,152.8325,16.8,5,mww,,68,6.999,1.12,us,us6000hf98,2022-04-21T14:51:25.040Z,"Kuril Islands",earthquake,8.7,3.6,0.086,13,reviewed,us,us
@@ -64,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T08:21:07.323Z,31.9667,-102.3108,1.47,2.6,mb_lg,,42,0.203,0.55,us,us6000hf7q,2022-04-21T13:18:37.377Z,"8 km SE of Gardendale, Texas",earthquake,1.3,5.7,0.208,6,reviewed,us,us
 2022-04-21T08:20:59.481Z,11.7186,-86.9856,49.76,4.3,mb,,132,0.838,0.81,us,us6000hf7r,2022-04-21T13:39:06.729Z,"51 km W of Masachapa, Nicaragua",earthquake,4.1,10,0.142,14,reviewed,us,us
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T15:13:03.159Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
+2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T15:37:52.567Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
 2022-04-21T07:38:44.203Z,38.5539,-119.4114,1.6,1.5,ml,9,133.06,0.054,0.1193,nn,nn00837590,2022-04-21T07:42:54.995Z,"7 km NE of Walker, California",earthquake,,0.9,0.22,5,automatic,nn,nn
 2022-04-21T07:18:03.050Z,38.8193321,-122.7633362,2.22,0.85,md,9,175,0.01225,0.02,nc,nc73721180,2022-04-21T07:43:16.955Z,"4km W of Cobb, CA",earthquake,0.46,0.97,,1,automatic,nc,nc
@@ -230,7 +233,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T16:06:09.600Z,46.5563333,-111.9618333,-2,1.58,ml,10,146,0.068,0.18,mb,mb80543699,2022-04-21T14:29:00.310Z,"2 km E of South Hills, Montana",quarry blast,0.81,31.61,0.198,6,reviewed,mb,mb
 2022-04-20T15:59:56.553Z,62.5534,-151.214,77.8,1.6,ml,,,,0.51,ak,ak022526eg0b,2022-04-20T16:06:07.445Z,"23 km WNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-20T15:50:05.590Z,58.2581666666667,-154.952166666667,-2.2,-0.23,ml,4,154,,0.12,av,av91055443,2022-04-21T00:50:20.790Z,"82 km NNW of Karluk, Alaska",earthquake,0.41,4.7,0.272135992509381,4,reviewed,av,av
-2022-04-20T15:41:23.850Z,54.5803333333333,-163.361833333333,10.15,0.75,ml,4,300,,0.22,av,av91055438,2022-04-21T00:45:30.210Z,"30 km S of False Pass, Alaska",earthquake,1.57,1.88,0.233560941266386,3,reviewed,av,av
-2022-04-20T15:32:10.151Z,62.0446,-150.8689,64.6,1.6,ml,,,,0.41,ak,ak0225268k38,2022-04-20T15:46:28.134Z,"28 km ENE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-20T15:31:23.112Z,52.1347,-172.2228,67.46,3.5,mb,,200,1.143,0.53,us,us6000hf30,2022-04-20T21:21:04.040Z,"135 km E of Atka, Alaska",earthquake,8,17.1,0.157,10,reviewed,us,us
-2022-04-20T15:30:29.040Z,35.6166667,-117.464,8.52,1.14,ml,9,157,0.03014,0.14,ci,ci40242264,2022-04-20T15:34:07.627Z,"18km SSW of Searles Valley, CA",earthquake,0.44,0.58,0.149,9,automatic,ci,ci
