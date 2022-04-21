@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-21T10:34:55.031Z,34.86614609,-95.30908966,31.2671032,2.18,ml,16,192.325634,0.1049589887,1.329581888,ok,ok2022htuh,2022-04-21T10:37:20.013Z,"5 km S of Wilburton, Oklahoma",earthquake,7.984201435,5.303841005,,12,automatic,ok,ok
+2022-04-21T10:33:49.254Z,60.7345,-151.6884,58.1,1.5,ml,,,,0.94,ak,ak02253qt1ae,2022-04-21T10:36:47.373Z,"22 km WNW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-21T10:28:51.210Z,38.7911682,-122.7606659,0.84,0.84,md,13,123,0.02032,0.06,nc,nc73721220,2022-04-21T10:31:25.237Z,"2km NNW of The Geysers, CA",earthquake,0.31,0.72,0.01,3,automatic,nc,nc
 2022-04-21T10:01:47.913Z,61.3826,-150.0557,33.2,1.5,ml,,,,0.59,ak,ak02253qm69z,2022-04-21T10:06:56.949Z,"4 km WNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-21T09:58:50.150Z,19.2813339233398,-155.384002685547,2.75999999046326,2.04,ml,38,132,,0.200000003,hv,hv72991337,2022-04-21T10:04:20.210Z,"13 km NE of Pāhala, Hawaii",earthquake,0.47,1.24000001,3.63,6,automatic,hv,hv
 2022-04-21T09:49:05.571Z,60.2362,-153.0341,122.9,1.4,ml,,,,0.84,ak,ak02253qaxrj,2022-04-21T09:52:17.191Z,"71 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -15,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T08:21:26.754Z,59.021,-155.4378,250,2.1,ml,,,,0.93,ak,ak02253pjjr7,2022-04-21T08:24:21.691Z,"42 km SE of Igiugig, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-04-21T08:21:07.323Z,31.9667,-102.3108,1.47,2.6,mb_lg,,42,0.203,0.55,us,us6000hf7q,2022-04-21T10:13:48.762Z,"8 km SE of Gardendale, Texas",earthquake,1.3,5.7,0.208,6,reviewed,us,us
 2022-04-21T07:44:40.025Z,61.9611,-150.8479,12,1.4,ml,,,,0.57,ak,ak02253p32nf,2022-04-21T08:04:03.012Z,"29 km E of Skwentna, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T10:14:09.216Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
+2022-04-21T07:42:46.447Z,11.5538,-86.9919,25.33,6.7,mww,,47,0.937,0.91,us,us6000hf75,2022-04-21T10:33:58.221Z,"58 km WSW of Masachapa, Nicaragua",earthquake,4.7,3.7,0.049,40,reviewed,us,us
 2022-04-21T07:42:42.150Z,17.9541666666667,-66.9095,9.56,2.29,md,7,205,,0.23,pr,pr71345293,2022-04-21T07:56:49.424Z,"1 km S of Guánica, Puerto Rico",earthquake,1.16,0.82,0.143854195980437,4,reviewed,pr,pr
 2022-04-21T07:38:44.203Z,38.5539,-119.4114,1.6,1.5,ml,9,133.06,0.054,0.1193,nn,nn00837590,2022-04-21T07:42:54.995Z,"7 km NE of Walker, California",earthquake,,0.9,0.22,5,automatic,nn,nn
 2022-04-21T07:18:03.050Z,38.8193321,-122.7633362,2.22,0.85,md,9,175,0.01225,0.02,nc,nc73721180,2022-04-21T07:43:16.955Z,"4km W of Cobb, CA",earthquake,0.46,0.97,,1,automatic,nc,nc
@@ -227,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-20T10:52:04.241Z,38.6909,-118.8958,6,0.9,ml,11,102.01,0.399,0.0968,nn,nn00837561,2022-04-21T02:38:41.253Z,"13 km WNW of Walker Lake, Nevada",earthquake,,14.2,0.25,4,reviewed,nn,nn
 2022-04-20T10:50:47.050Z,58.3601666666667,-154.771833333333,4.75,-0.15,ml,6,165,,0.1,av,av91055428,2022-04-20T23:58:40.140Z,"90 km NNW of Karluk, Alaska",earthquake,1.01,0.62,0.144893239191953,6,reviewed,av,av
 2022-04-20T10:44:40.260Z,56.3903333333333,-159.180333333333,2.53,0.81,ml,5,293,,0.28,av,av91541796,2022-04-20T23:34:53.300Z,"29 km WNW of Chignik Lake, Alaska",earthquake,0.99,0.99,0.0957524430718211,5,reviewed,av,av
-2022-04-20T10:39:08.680Z,32.9088333,-115.5121667,5.74,1.59,ml,37,79,0.04149,0.26,ci,ci40242056,2022-04-20T22:24:45.234Z,"8km SSE of Brawley, CA",earthquake,0.25,0.39,0.211,13,reviewed,ci,ci
-2022-04-20T10:39:02.465Z,61.1739,-145.2885,19.1,1.6,ml,,,,0.83,ak,ak022523avhi,2022-04-20T10:42:09.132Z,"54 km S of Tonsina, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-20T10:27:39.990Z,44.2276667,-115.035,8.4,1.51,ml,8,106,0.732,0.16,mb,mb80543634,2022-04-20T14:58:58.510Z,"7 km W of Stanley, Idaho",earthquake,0.79,1.54,0.179,8,reviewed,mb,mb
