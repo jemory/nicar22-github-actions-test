@@ -33,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T06:01:13.270Z,33.649,-116.74,12.82,2.01,ml,64,34,0.05872,0.17,ci,ci40243648,2022-04-22T06:08:49.870Z,"10km S of Idyllwild, CA",earthquake,0.18,0.32,0.179,26,automatic,ci,ci
 2022-04-22T05:57:39.680Z,36.5800018,-121.1744995,5.45,1.33,md,10,121,0.01207,0.12,nc,nc73721590,2022-04-22T08:22:17.744Z,"6km NNW of Pinnacles, CA",earthquake,0.69,0.94,0.26,4,automatic,nc,nc
 2022-04-22T05:41:52.913Z,61.8409,-146.3203,135.1,2.1,ml,,,,0.97,ak,ak02255bf1v6,2022-04-22T05:47:30.017Z,"26 km SSE of Mendeltna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-04-22T05:28:57.650Z,35.6915,-121.105,5.73,1.07,md,19,90,0.04067,0.05,nc,nc73721585,2022-04-22T10:47:47.354Z,"9km NE of San Simeon, CA",earthquake,0.45,0.6,0.101,10,reviewed,nc,nc
 2022-04-22T05:27:35.282Z,56.2835,-161.6478,206.8,5.3,mww,,31,0.947,1.6,us,us6000hfh7,2022-04-22T09:37:47.181Z,"41 km NW of Nelson Lagoon, Alaska",earthquake,6.4,4.4,0.036,73,reviewed,us,us
 2022-04-22T05:27:30.303Z,59.2208,-153.4682,95.5,1.9,ml,,,,0.84,ak,ak02255bbw05,2022-04-22T05:51:01.040Z,"69 km ESE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-22T05:17:44.206Z,38.5496,-119.499,8.5,1.6,ml,16,88.66,0.04,0.3828,nn,nn00837668,2022-04-22T05:21:10.687Z,"California-Nevada border region",earthquake,,0.4,0.22,9,automatic,nn,nn
@@ -70,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T02:03:13.030Z,19.193000793457,-155.478164672852,36.560001373291,2.18000007,md,40,105,,0.129999995,hv,hv72992027,2022-04-22T02:06:22.970Z,"1 km S of Pāhala, Hawaii",earthquake,0.69,1.13999999,0.879999995,21,automatic,hv,hv
 2022-04-22T01:44:32.840Z,38.8014984,-122.8106689,1.22,0.83,md,10,90,0.01363,0.03,nc,nc73721510,2022-04-22T01:47:08.250Z,"5km WNW of The Geysers, CA",earthquake,0.34,0.79,0.46,2,automatic,nc,nc
 2022-04-22T01:40:59.360Z,19.2531661987305,-155.393661499023,32.8800010681152,2.13,ml,44,132,,0.119999997,hv,hv72992012,2022-04-22T01:46:30.580Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.57,0.790000021,0.24,4,automatic,hv,hv
-2022-04-22T01:26:20.580Z,40.2975,-124.439,14.66,1.81,md,13,260,0.0743,0.08,nc,nc73721505,2022-04-22T10:42:47.560Z,"13km WSW of Petrolia, CA",earthquake,0.52,0.28,0.149,8,reviewed,nc,nc
+2022-04-22T01:26:20.580Z,40.2975,-124.439,14.66,1.81,md,13,260,0.0743,0.08,nc,nc73721505,2022-04-22T10:52:15.601Z,"13km WSW of Petrolia, CA",earthquake,0.52,0.28,0.149,8,reviewed,nc,nc
 2022-04-22T01:20:06.020Z,38.8196678,-122.8031693,1.75,0.83,md,17,42,0.006553,0.02,nc,nc73721500,2022-04-22T02:16:15.581Z,"6km NW of The Geysers, CA",earthquake,0.22,0.57,0.45,2,automatic,nc,nc
 2022-04-22T01:15:26.640Z,19.2013339996338,-155.415664672852,33.5400009155273,1.85000002,md,32,158,,0.100000001,hv,hv72991982,2022-04-22T01:18:41.730Z,"6 km E of Pāhala, Hawaii",earthquake,0.87,0.730000019,1.13999999,8,automatic,hv,hv
 2022-04-22T01:04:32.700Z,33.5905,-116.8103333,7.29,0.53,ml,17,99,0.03872,0.15,ci,ci40243528,2022-04-22T01:08:07.968Z,"13km WNW of Anza, CA",earthquake,0.37,0.58,0.2,12,automatic,ci,ci
@@ -246,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-21T11:09:22.490Z,51.8716666666667,-177.852666666667,5.66,0.71,ml,4,228,,0.15,av,av91542516,2022-04-21T20:58:17.680Z,"83 km W of Adak, Alaska",earthquake,0.78,1.57,0.281368563295371,4,reviewed,av,av
 2022-04-21T11:04:17.069Z,65.1378,-148.9801,11.2,1.1,ml,,,,0.53,ak,ak02253r86n9,2022-04-21T11:25:00.842Z,"17 km E of Minto, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-21T11:01:43.176Z,61.3031,-150.0585,40.8,1.1,ml,,,,0.49,ak,ak02253r7lid,2022-04-21T11:04:14.965Z,"7 km SW of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-21T10:52:54.548Z,61.7662,-149.6882,34.9,1.3,ml,,,,0.69,ak,ak02253qx4b2,2022-04-21T11:04:17.230Z,"16 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-21T10:51:07.980Z,33.52,-116.7441667,2.53,0.59,ml,28,37,0.04564,0.12,ci,ci40243008,2022-04-21T21:08:22.326Z,"8km WSW of Anza, CA",earthquake,0.12,0.17,0.118,16,reviewed,ci,ci
-2022-04-21T10:46:35.567Z,60.5292,-145.2758,9.3,1.9,ml,,,,0.73,ak,ak02253qvskd,2022-04-21T11:02:53.572Z,"26 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
