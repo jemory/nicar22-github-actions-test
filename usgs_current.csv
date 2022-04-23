@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-23T14:50:12.140Z,38.8023338,-122.8188324,2.28,0.49,md,13,75,0.01039,0.02,nc,nc73722295,2022-04-23T14:51:50.393Z,"6km WNW of The Geysers, CA",earthquake,0.5,0.81,0.35,2,automatic,nc,nc
+2022-04-23T14:48:32.501Z,35.0802002,-96.28342438,1.110862494,2.2,ml,14,164.7806931,0.2456471175,0.7703261927,ok,ok2022hxtr,2022-04-23T14:51:19.761Z,"3 km WSW of Horntown, Oklahoma",earthquake,4.5537948,3.29612323,,10,automatic,ok,ok
+2022-04-23T14:41:39.870Z,35.9755,-117.391,0.09,2.04,ml,23,109,0.1215,0.18,ci,ci40244360,2022-04-23T14:45:26.324Z,"23km N of Searles Valley, CA",earthquake,0.4,31.61,0.131,26,automatic,ci,ci
 2022-04-23T14:32:14.721Z,63.5977,-147.8938,33.8,1.4,ml,,,,0.8,ak,ak02257496b2,2022-04-23T14:34:44.702Z,"52 km ESE of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-04-23T14:30:11.250Z,38.8673325,-122.8048325,0.93,0.87,md,14,161,0.01208,0.03,nc,nc73722285,2022-04-23T14:31:50.428Z,"9km NW of Cobb, CA",earthquake,0.46,0.61,,1,automatic,nc,nc
-2022-04-23T14:30:00.610Z,38.8428345,-122.8398361,2.11,0.87,md,16,120,0.005432,0.01,nc,nc73722280,2022-04-23T14:31:35.639Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.01,2,automatic,nc,nc
+2022-04-23T14:30:00.610Z,38.8428345,-122.8398361,2.11,0.87,md,16,120,0.005432,0.01,nc,nc73722280,2022-04-23T14:51:11.722Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.01,2,automatic,nc,nc
 2022-04-23T14:28:51.630Z,33.8033333,-117.7926667,10.86,1.89,ml,56,66,0.02529,0.21,ci,ci40244352,2022-04-23T14:40:21.250Z,"2km ESE of Villa Park, CA",earthquake,0.28,0.5,0.122,27,automatic,ci,ci
 2022-04-23T14:19:02.103Z,63.4807,-148.4353,10.2,1.1,ml,,,,0.6,ak,ak0225746d1e,2022-04-23T14:22:09.427Z,"27 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-23T14:18:51.206Z,57.3763,-155.5715,12.8,1.9,ml,,,,0.56,ak,ak022574694v,2022-04-23T14:26:16.350Z,"70 km WSW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -140,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T21:32:41.530Z,38.7798347,-122.7676697,1.01,1.12,md,27,87,0.009224,0.04,nc,nc73721965,2022-04-22T22:21:20.824Z,"1km WNW of The Geysers, CA",earthquake,0.22,0.32,0.15,6,automatic,nc,nc
 2022-04-22T21:10:52.977Z,31.6918408,-104.3102548,7.725463867,2.7,ml,18,58,0.04365457108,0.3,tx,tx2022hwkt,2022-04-22T21:50:00.040Z,"54 km S of Whites City, New Mexico",earthquake,1.026159937,0.9013421563,0.1,8,reviewed,tx,tx
 2022-04-22T21:08:22.830Z,44.8133333,-110.8115,6.94,0.33,md,8,110,0.03736,0.11,uu,uu60493897,2022-04-22T21:48:16.790Z,"20 km SSW of Mammoth, Wyoming",earthquake,0.66,0.8,0.222,4,reviewed,uu,uu
-2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T14:32:26.090Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
+2022-04-22T21:07:48.292Z,43.0608,18.1759,10,5.7,mww,,24,1.018,0.9,us,us6000hfqj,2022-04-23T14:52:22.024Z,"14 km NNE of Ljubinje, Bosnia and Herzegovina",earthquake,4.2,1.8,0.039,63,reviewed,us,us
 2022-04-22T20:43:10.280Z,46.35816666666667,-122.423,3.89,0.34,ml,13,121,0.07703,0.13,uw,uw61833426,2022-04-22T23:25:48.720Z,"19 km SSE of Mossyrock, Washington",earthquake,0.75,2.09,0.1728670818875393,4,reviewed,uw,uw
 2022-04-22T20:41:26.430Z,38.7966652,-122.7555008,2.09,0.56,md,12,90,0.005144,0.01,nc,nc73721955,2022-04-22T21:29:29.507Z,"2km N of The Geysers, CA",earthquake,0.29,0.61,0.07,3,automatic,nc,nc
 2022-04-22T20:31:18.860Z,19.406665802002,-155.240997314453,2.16000008583069,1.82,ml,13,94,,0.140000001,hv,hv72992782,2022-04-22T20:36:49.410Z,"4 km S of Volcano, Hawaii",earthquake,0.33,0.300000012,1.27,4,automatic,hv,hv
@@ -209,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-22T14:57:28.370Z,38.8341675,-122.8160019,1.78,0.85,md,16,58,0.01171,0.01,nc,nc73721815,2022-04-22T17:16:14.950Z,"8km W of Cobb, CA",earthquake,0.27,0.71,,1,automatic,nc,nc
 2022-04-22T14:57:26.070Z,58.1741666666667,-155.392833333333,4.75,0.65,ml,7,226,,0.06,av,av91543061,2022-04-22T23:35:31.400Z,"Alaska Peninsula",earthquake,0.38,0.63,0.212189339356135,7,reviewed,av,av
 2022-04-22T14:55:21.794Z,61.5684,-148.033,7.1,1.7,ml,,,,1.03,ak,ak02255gurub,2022-04-22T14:59:39.716Z,"33 km SW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-22T14:51:25.060Z,38.8186684,-122.8075027,3,0.82,md,28,39,0.005129,0.02,nc,nc73721810,2022-04-22T15:09:18.196Z,"6km NW of The Geysers, CA",earthquake,0.25,0.41,0.28,3,automatic,nc,nc
-2022-04-22T14:49:23.623Z,37.1304,-115.4686,0,0.9,ml,8,325.04,0.407,0.1373,nn,nn00837741,2022-04-23T02:39:08.317Z,"37 km SW of Alamo, Nevada",earthquake,,0,0.31,5,reviewed,nn,nn
