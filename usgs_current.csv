@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-24T09:15:57.880Z,19.2598323822021,-155.395172119141,30.7800006866455,1.86000001,md,30,147,,0.159999996,hv,hv72993972,2022-04-24T09:19:15.120Z,"10 km NE of Pāhala, Hawaii",earthquake,0.91,0.639999986,1.86000001,4,automatic,hv,hv
 2022-04-24T08:34:18.310Z,36.3135,-118.0845,-0.53,1.57,ml,20,92,0.1262,0.17,ci,ci40244856,2022-04-24T08:38:04.882Z,"8km WNW of Olancha, CA",earthquake,0.39,31.61,0.106,19,automatic,ci,ci
 2022-04-24T08:27:25.600Z,35.5965,-117.3941667,8.19,1.28,ml,19,132,0.05634,0.19,ci,ci40244848,2022-04-24T08:38:32.090Z,"19km S of Trona, CA",earthquake,0.47,0.78,0.133,16,automatic,ci,ci
 2022-04-24T08:25:38.060Z,19.2261657714844,-155.417831420898,34.2799987792969,2.34,ml,50,134,,0.140000001,hv,hv72993952,2022-04-24T08:33:28.593Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.5,0.720000029,3.42,13,automatic,hv,hv
@@ -146,7 +147,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T18:12:47.710Z,17.96,-66.8378333333333,12.99,2.36,md,7,204,,0.12,pr,pr71345658,2022-04-23T18:26:40.710Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.67,0.57,0.0845447481364121,7,reviewed,pr,pr
 2022-04-23T17:59:23.790Z,19.1626663208008,-155.481170654297,35.7099990844727,1.91999996,md,34,109,,0.119999997,hv,hv72993462,2022-04-23T18:03:39.640Z,"Island of Hawaii, Hawaii",earthquake,0.52,0.699999988,0.560000002,9,automatic,hv,hv
 2022-04-23T17:58:56.270Z,17.9558333333333,-66.8441666666667,12.4,3.27,md,28,173,,0.13,pr,pr71345653,2022-04-23T18:32:32.210Z,"4 km SSW of Indios, Puerto Rico",earthquake,0.31,0.22,0.0611668051435519,9,reviewed,pr,pr
-2022-04-23T17:53:49.130Z,24.5553,121.9479,35,4.1,mb,,70,0.498,0.53,us,us6000hfvu,2022-04-24T05:55:18.543Z,"29 km SE of Yilan, Taiwan",earthquake,2.6,2,0.234,5,reviewed,us,us
+2022-04-23T17:53:49.130Z,24.5553,121.9479,35,4.1,mb,,70,0.498,0.53,us,us6000hfvu,2022-04-24T09:09:17.205Z,"29 km SE of Yilan, Taiwan",earthquake,2.6,2,0.234,5,reviewed,us,us
 2022-04-23T17:44:56.610Z,17.9388,-66.8393,10,3.46,md,22,180,0.0539,0.23,pr,pr2022113001,2022-04-23T18:10:19.232Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.51,0.58,0.24,15,reviewed,pr,pr
 2022-04-23T17:38:29.170Z,17.9408333333333,-66.838,12.93,2.42,md,12,179,,0.13,pr,pr71345623,2022-04-23T18:20:54.390Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.44,0.42,0.140514418710136,6,reviewed,pr,pr
 2022-04-23T17:32:52.693Z,61.3022,-150.7884,52.7,1.6,ml,,,,0.55,ak,ak0225761k2a,2022-04-23T17:35:16.142Z,"23 km NE of Beluga, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -155,7 +156,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T17:21:27.580Z,17.9421666666667,-66.8393333333333,12.32,2.88,md,31,178,,0.22,pr,pr71345608,2022-04-23T17:40:31.430Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.43,0.3,0.115799223721451,17,reviewed,pr,pr
 2022-04-23T17:09:44.470Z,35.5345,-117.362,8.97,1.61,ml,18,106,0.00975,0.15,ci,ci40244448,2022-04-23T17:20:57.410Z,"26km S of Trona, CA",earthquake,0.33,0.49,0.113,22,automatic,ci,ci
 2022-04-23T17:09:31.200Z,37.4888333,-118.595,9.84,1.17,md,21,55,0.1343,0.04,nc,nc73722335,2022-04-24T02:30:14.227Z,"8km N of Round Valley, CA",earthquake,0.44,1.82,0.102,14,reviewed,nc,nc
-2022-04-23T17:07:47.699Z,62.2787,-150.1513,1.9,2.4,ml,,,,0.82,ak,ak022575w6sg,2022-04-23T18:55:17.173Z,"5 km SSW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-23T17:07:47.699Z,62.2787,-150.1513,1.9,2.4,ml,,,,0.82,ak,ak022575w6sg,2022-04-24T09:11:03.795Z,"5 km SSW of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-04-23T16:59:26.450Z,36.6751671,-121.3160019,2.15,1.91,md,17,168,0.0405,0.1,nc,nc73722330,2022-04-23T19:07:15.284Z,"13km S of Tres Pinos, CA",earthquake,0.45,0.84,0.09,15,automatic,nc,nc
 2022-04-23T16:44:56.121Z,36.3537,19.5819,10,4.7,mb,,67,2.053,0.79,us,us6000hfvc,2022-04-23T17:08:35.040Z,"187 km SW of Lithakiá, Greece",earthquake,5.7,1.4,0.102,29,reviewed,us,us
 2022-04-23T16:28:02.400Z,35.721,-117.486,1.58,1.15,ml,15,109,0.131,0.16,ci,ci40244432,2022-04-23T16:31:36.608Z,"9km SW of Searles Valley, CA",earthquake,0.33,0.64,0.116,11,automatic,ci,ci
@@ -230,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-23T09:51:58.150Z,38.8648338,-122.7835007,2.15,0.75,md,10,180,0.01458,0.02,nc,nc73722220,2022-04-23T12:16:15.866Z,"7km NW of Cobb, CA",earthquake,0.75,0.76,0.14,2,automatic,nc,nc
 2022-04-23T09:42:40.359Z,-22.9045,-66.2585,282.17,4.3,mb,,83,1.771,0.84,us,us6000hftq,2022-04-23T10:21:10.040Z,"61 km WSW of Abra Pampa, Argentina",earthquake,7,10.4,0.169,11,reviewed,us,us
 2022-04-23T09:37:09.380Z,38.8274994,-122.8043365,1.75,0.94,md,24,44,0.006073,0.02,nc,nc73722215,2022-04-23T11:50:15.696Z,"7km NW of The Geysers, CA",earthquake,0.2,0.36,0.06,5,automatic,nc,nc
-2022-04-23T09:14:48.800Z,44.4595,-115.2096667,4.63,1.99,ml,10,82,0.843,0.22,mb,mb80543864,2022-04-23T14:35:19.810Z,"34 km NW of Stanley, Idaho",earthquake,0.63,1.5,0.243,11,reviewed,mb,mb
-2022-04-23T09:10:53.550Z,38.8370018,-122.7916641,1.68,0.36,md,8,90,0.001743,0.02,nc,nc73722210,2022-04-23T11:23:21.525Z,"6km WNW of Cobb, CA",earthquake,0.46,1.04,,1,automatic,nc,nc
