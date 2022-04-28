@@ -1,8 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-04-28T19:23:46.940Z,38.8255005,-122.7648315,2.12,1.07,md,20,126,0.006355,0.03,nc,nc73725826,2022-04-28T19:25:20.991Z,"4km W of Cobb, CA",earthquake,0.29,0.5,0.16,5,automatic,nc,nc
-2022-04-28T19:22:18.210Z,61.6192,-150.3749,48.7,1.3,ml,,,,0.37,ak,ak0225fguxx8,2022-04-28T19:26:13.004Z,"11 km NE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-28T19:14:47.496Z,62.9785,-150.7921,109.2,1.9,ml,,,,0.56,ak,ak0225fgtagg,2022-04-28T19:26:14.868Z,"53 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-04-28T19:07:12.320Z,37.0131683,-119.7681656,0.12,2.01,md,7,202,0.1451,0.21,nc,nc73725821,2022-04-28T19:18:15.208Z,"6km NW of Friant, CA",earthquake,1.64,13.45,0.04,5,automatic,nc,nc
+2022-04-28T19:22:18.207Z,61.619,-150.3746,48.7,1.3,ml,,,,0.36,ak,ak0225fguxx8,2022-04-28T19:31:22.391Z,"11 km NE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-28T19:14:47.496Z,62.9785,-150.7921,109.2,1.9,ml,,,,0.56,ak,ak0225fgtagg,2022-04-28T19:34:20.225Z,"53 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-28T19:07:12.320Z,37.0131683,-119.7681656,0.12,2.01,md,7,202,0.1451,0.21,nc,nc73725821,2022-04-28T19:29:11.280Z,"6km NW of Friant, CA",earthquake,1.64,13.45,0.04,5,automatic,nc,nc
 2022-04-28T19:01:38.960Z,38.8188324,-122.8115005,1.41,0.84,md,10,90,0.00469,0.02,nc,nc73725816,2022-04-28T19:18:14.208Z,"7km NW of The Geysers, CA",earthquake,0.31,0.77,,1,automatic,nc,nc
 2022-04-28T18:46:49.416Z,63.4928,-151.2714,6.6,0.7,ml,,,,0.34,ak,ak0225fgepwx,2022-04-28T18:49:17.956Z,"23 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-28T18:26:57.070Z,38.7820015,-122.753334,1.77,0.83,md,14,98,0.01304,0.02,nc,nc73725796,2022-04-28T18:41:20.970Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.46,0.03,3,automatic,nc,nc
@@ -143,7 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T05:28:40.670Z,46.95933333333333,-121.969,12.86,0.29,ml,11,84,0.01209,0.11,uw,uw61834831,2022-04-28T18:51:20.390Z,"14 km SSE of Carbonado, Washington",earthquake,0.69,1.12,0.10937299771632958,3,reviewed,uw,uw
 2022-04-28T05:28:23.900Z,34.0998333,-118.2196667,10.75,1.26,ml,29,54,0.02463,0.11,ci,ci40247408,2022-04-28T15:19:30.758Z,"3km SW of Highland Park, CA",earthquake,0.18,0.31,0.093,12,reviewed,ci,ci
 2022-04-28T05:27:11.310Z,34.9133333,-119.5631667,9.49,1.85,ml,38,47,0.09563,0.26,ci,ci40247400,2022-04-28T15:11:51.780Z,"22km SW of Maricopa, CA",earthquake,0.31,0.74,0.152,25,reviewed,ci,ci
-2022-04-28T05:26:05.110Z,39.1874,-119.5761,6.8,-0.2,ml,3,237.55,0.1,0.049,nn,nn00838020,2022-04-28T18:07:32.244Z,"5 km SSE of Dayton, Nevada",earthquake,,10.1,0,1,reviewed,nn,nn
+2022-04-28T05:26:05.110Z,39.1874,-119.5761,6.8,-0.2,ml,3,237.55,0.1,0.049,nn,nn00838020,2022-04-28T18:07:32.244Z,"Nevada",earthquake,,10.1,0,1,reviewed,nn,nn
 2022-04-28T05:18:06.580Z,35.947,-117.686,2.52,1.76,ml,22,75,0.02892,0.14,ci,ci40247392,2022-04-28T12:46:40.568Z,"20km E of Little Lake, CA",earthquake,0.23,0.32,0.13,26,reviewed,ci,ci
 2022-04-28T05:18:01.790Z,38.8013344,-122.8203354,3.13,1.2,md,14,80,0.01021,0.02,nc,nc73725421,2022-04-28T08:42:14.047Z,"6km WNW of The Geysers, CA",earthquake,0.38,1,0.61,3,automatic,nc,nc
 2022-04-28T05:14:39.550Z,17.98,-66.8526666666667,16.06,2.53,md,7,185,,0.08,pr,pr71346568,2022-04-28T05:32:49.180Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.41,0.66,0.14975866846873,4,reviewed,pr,pr
@@ -166,7 +166,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T03:48:34.590Z,47.603,-121.80533333333334,16.29,2.35,ml,40,105,0.1054,0.16,uw,uw61834816,2022-04-28T18:38:54.241Z,"7 km ENE of Fall City, Washington",earthquake,0.33,0.49,0.16368511937874253,18,reviewed,uw,uw
 2022-04-28T03:42:57.368Z,37.9956,-118.605,5.5,0.7,ml,6,346.77,0.268,0.1445,nn,nn00838017,2022-04-28T17:58:14.967Z,"22 km NNW of Benton, California",earthquake,,51.5,0,1,reviewed,nn,nn
 2022-04-28T03:35:24.470Z,19.2303333282471,-155.397171020508,31.2099990844727,1.99000001,md,34,148,,0.119999997,hv,hv72997087,2022-04-28T03:39:26.630Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.76,0.790000021,0.75999999,7,automatic,hv,hv
-2022-04-28T03:33:39.903Z,56.3596,-156.4956,83.1,5.2,ml,,,,0.57,ak,ak0225f7eevn,2022-04-28T15:54:24.647Z,"118 km E of Chignik, Alaska",earthquake,,1.5,,,reviewed,ak,ak
+2022-04-28T03:33:39.903Z,56.3596,-156.4956,83.1,5.2,ml,,,,0.57,ak,ak0225f7eevn,2022-04-28T19:36:37.336Z,"118 km E of Chignik, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-04-28T03:17:00.190Z,45.336166666666664,-121.72483333333334,5.38,-0.38,md,5,122,0.02622,0.11,uw,uw61834806,2022-04-28T18:21:21.280Z,"4 km NNE of Government Camp, Oregon",earthquake,0.55,1.17,0.047806761102560213,4,reviewed,uw,uw
 2022-04-28T03:04:41.763Z,58.7944,-154.3066,88.8,0.9,ml,,,,0.18,ak,ak0225f78738,2022-04-28T03:15:40.376Z,"76 km SSE of Kokhanok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-04-28T03:03:11.824Z,62.1565,-151.4514,76.7,1.4,ml,,,,0.51,ak,ak0225f77x45,2022-04-28T03:07:32.455Z,"18 km N of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -243,5 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T19:47:24.420Z,36.6885,-120.8808333,9.15,1.63,md,26,125,0.07509,0.14,nc,nc73725206,2022-04-28T00:48:13.969Z,"29km NE of Pinnacles, CA",earthquake,0.44,0.99,0.22,27,reviewed,nc,nc
 2022-04-27T19:44:41.070Z,35.8928333,-117.7173333,8.64,1.18,ml,19,63,0.07729,0.05,ci,ci40247104,2022-04-27T20:12:04.735Z,"18km ESE of Little Lake, CA",earthquake,0.11,0.3,0.212,8,reviewed,ci,ci
 2022-04-27T19:40:14.864Z,64.6902,-149.3382,20.1,1.1,ml,,,,0.36,ak,ak0225dtfg1i,2022-04-27T19:51:20.147Z,"14 km NW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-04-27T19:31:26.560Z,43.4683333,-110.8705,6.92,0.76,ml,7,194,0.066,0.11,mb,mb80544349,2022-04-28T15:24:48.270Z,"3 km S of Wilson, Wyoming",earthquake,0.63,1.27,0.271,5,reviewed,mb,mb
-2022-04-27T19:31:11.470Z,43.466,-110.8606667,6.22,0.74,ml,7,195,0.074,0.2,mb,mb80544279,2022-04-28T15:20:06.980Z,"4 km SSE of Wilson, Wyoming",earthquake,1.45,2.51,0.229,7,reviewed,mb,mb
