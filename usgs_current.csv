@@ -1,12 +1,15 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-28T19:07:12.320Z,37.0131683,-119.7681656,0.12,2.01,md,7,202,0.1451,0.21,nc,nc73725821,2022-04-28T19:08:50.397Z,"6km NW of Friant, CA",earthquake,1.64,13.45,0.04,5,automatic,nc,nc
-2022-04-28T19:01:38.960Z,38.8188324,-122.8115005,1.41,0.84,md,10,90,0.00469,0.02,nc,nc73725816,2022-04-28T19:03:15.637Z,"7km NW of The Geysers, CA",earthquake,0.31,0.77,,1,automatic,nc,nc
+2022-04-28T19:23:46.940Z,38.8255005,-122.7648315,2.12,1.07,md,20,126,0.006355,0.03,nc,nc73725826,2022-04-28T19:25:20.991Z,"4km W of Cobb, CA",earthquake,0.29,0.5,0.16,5,automatic,nc,nc
+2022-04-28T19:22:18.210Z,61.6192,-150.3749,48.7,1.3,ml,,,,0.37,ak,ak0225fguxx8,2022-04-28T19:26:13.004Z,"11 km NE of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-28T19:14:47.496Z,62.9785,-150.7921,109.2,1.9,ml,,,,0.56,ak,ak0225fgtagg,2022-04-28T19:26:14.868Z,"53 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-04-28T19:07:12.320Z,37.0131683,-119.7681656,0.12,2.01,md,7,202,0.1451,0.21,nc,nc73725821,2022-04-28T19:18:15.208Z,"6km NW of Friant, CA",earthquake,1.64,13.45,0.04,5,automatic,nc,nc
+2022-04-28T19:01:38.960Z,38.8188324,-122.8115005,1.41,0.84,md,10,90,0.00469,0.02,nc,nc73725816,2022-04-28T19:18:14.208Z,"7km NW of The Geysers, CA",earthquake,0.31,0.77,,1,automatic,nc,nc
 2022-04-28T18:46:49.416Z,63.4928,-151.2714,6.6,0.7,ml,,,,0.34,ak,ak0225fgepwx,2022-04-28T18:49:17.956Z,"23 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-28T18:26:57.070Z,38.7820015,-122.753334,1.77,0.83,md,14,98,0.01304,0.02,nc,nc73725796,2022-04-28T18:41:20.970Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.46,0.03,3,automatic,nc,nc
 2022-04-28T18:15:49.425Z,62.3417,-148.0879,43.8,0.9,ml,,,,0.26,ak,ak0225fg82qi,2022-04-28T18:25:26.398Z,"63 km NNW of Glacier View, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-28T17:44:10.861Z,59.9167,-139.4135,4.3,1.5,ml,,,,1.28,ak,ak0225ffsrum,2022-04-28T17:53:51.080Z,"44 km NNE of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-28T17:30:13.980Z,19.1821670532227,-155.488830566406,31.4200000762939,2.1400001,md,44,76,,0.140000001,hv,hv72997777,2022-04-28T17:33:24.400Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.65,0.879999995,1.86000001,22,automatic,hv,hv
-2022-04-28T17:08:58.136Z,31.61202303,-103.9696211,9.267944336,4.1,ml,11,92,0.08232762361,0.1,tx,tx2022ihbu,2022-04-28T17:43:29.399Z,"36 km WSW of Mentone, Texas",earthquake,1.005672039,1.143516902,0.2,12,reviewed,tx,tx
+2022-04-28T17:08:58.136Z,31.61202303,-103.9696211,9.267944336,4.1,ml,11,92,0.08232762361,0.1,tx,tx2022ihbu,2022-04-28T19:13:20.883Z,"36 km WSW of Mentone, Texas",earthquake,1.005672039,1.143516902,0.2,12,reviewed,tx,tx
 2022-04-28T17:06:39.390Z,33.9435,-117.0026667,16.5,1.6,ml,61,37,0.1173,0.15,ci,ci40247800,2022-04-28T18:26:38.410Z,"3km WNW of Beaumont, CA",earthquake,0.14,0.41,0.156,46,reviewed,ci,ci
 2022-04-28T16:48:41.530Z,38.7560005,-122.7246704,2.95,1.5,md,23,115,0.005586,0.04,nc,nc73725751,2022-04-28T19:07:15.137Z,"4km SW of Anderson Springs, CA",earthquake,0.29,0.47,0.07,7,automatic,nc,nc
 2022-04-28T16:36:56.603Z,60.1843,-152.7117,100.3,1.9,ml,,,,0.33,ak,ak0225ff5q3v,2022-04-28T16:53:23.255Z,"59 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -16,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T16:18:38.660Z,38.7898331,-122.7251663,2.2,0.87,md,8,93,0.01118,0.01,nc,nc73725736,2022-04-28T16:37:15.203Z,"3km ENE of The Geysers, CA",earthquake,0.41,1.42,0.16,4,automatic,nc,nc
 2022-04-28T16:16:59.680Z,35.9658333,-117.363,2.49,1.33,ml,24,53,0.09882,0.12,ci,ci40247776,2022-04-28T17:56:49.644Z,"22km N of Searles Valley, CA",earthquake,0.19,0.51,0.205,13,reviewed,ci,ci
 2022-04-28T16:05:20.477Z,58.1009,-154.5271,51.3,0.9,ml,,,,0.38,ak,ak0225fez03z,2022-04-28T16:07:06.569Z,"59 km N of Karluk, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-04-28T16:04:26.352Z,56.2667,-148.5584,10,3.1,ml,,173,2.674,0.46,us,us7000h5n1,2022-04-28T19:14:58.040Z,"271 km SE of Chiniak, Alaska",earthquake,7.2,2,0.059,38,reviewed,us,us
 2022-04-28T16:03:46.070Z,33.9513333,-117.1796667,13.64,1.12,ml,26,81,0.006951,0.16,ci,ci40247768,2022-04-28T18:28:39.010Z,"5km ENE of Moreno Valley, CA",earthquake,0.25,0.5,0.185,19,reviewed,ci,ci
 2022-04-28T16:00:38.404Z,38.1666,-117.8691,7.6,1.5,ml,16,111.56,0.076,0.1463,nn,nn00838011,2022-04-28T16:47:07.875Z,"32 km SE of Mina, Nevada",earthquake,,1.6,0.66,6,reviewed,nn,nn
 2022-04-28T15:57:27.980Z,36.0295,-117.8145,2.16,0.77,ml,12,60,0.04014,0.05,ci,ci40247760,2022-04-28T18:19:49.893Z,"12km E of Coso Junction, CA",earthquake,0.1,0.14,0.287,8,reviewed,ci,ci
@@ -47,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T13:23:13.960Z,34.917,-119.0095,7.42,1.82,ml,41,64,0.05806,0.18,ci,ci40247640,2022-04-28T17:37:26.090Z,"8km WSW of Grapevine, CA",earthquake,0.24,0.54,0.113,24,reviewed,ci,ci
 2022-04-28T13:21:13.263Z,-3.9519,146.6595,10,6,mww,,40,5.495,1.01,us,us7000h5mc,2022-04-28T15:27:11.429Z,"170 km NE of Madang, Papua New Guinea",earthquake,7.9,1.8,0.078,16,reviewed,us,us
 2022-04-28T13:17:50.531Z,61.5845,-148.1923,21,1.1,ml,,,,0.78,ak,ak0225fd9c6e,2022-04-28T13:22:41.790Z,"27 km SSE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-04-28T13:08:33.390Z,46.28816604614258,-122.3115005493164,12.2600002288818,1.13999999,md,24,159,0.02057,0.180000007,uw,uw61834861,2022-04-28T17:20:40.540Z,"29 km SSE of Mossyrock, Washington",earthquake,1.41,1.22000003,1.33000004,4,reviewed,uw,uw
+2022-04-28T13:08:33.360Z,46.289833333333334,-122.31383333333333,12.39,1.04,ml,25,117,0.01273,0.16,uw,uw61834861,2022-04-28T19:18:22.430Z,"29 km SSE of Mossyrock, Washington",earthquake,0.87,0.51,0.12694179840214959,15,reviewed,uw,uw
 2022-04-28T13:02:38.183Z,60.463,-144.8545,21.6,1.1,ml,,,,0.62,ak,ak0225fd63ii,2022-04-28T13:04:10.662Z,"50 km E of Cordova, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-28T13:02:32.660Z,34.0026667,-116.8516667,13.38,0.63,ml,15,102,0.08696,0.13,ci,ci40247624,2022-04-28T17:24:43.142Z,"9km NNE of Banning, CA",earthquake,0.37,0.91,0.074,7,reviewed,ci,ci
 2022-04-28T13:00:44.850Z,38.8255005,-122.8073349,1.54,0.5,md,16,40,0.003,0.02,nc,nc73725666,2022-04-28T13:32:14.018Z,"7km NW of The Geysers, CA",earthquake,0.23,0.55,0.35,2,automatic,nc,nc
