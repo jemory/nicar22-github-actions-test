@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-29T10:48:17.400Z,33.5955,-116.8055,6.53,0.68,ml,21,71,0.0346,0.15,ci,ci40248256,2022-04-29T10:51:55.200Z,"13km WNW of Anza, CA",earthquake,0.24,0.49,0.229,18,automatic,ci,ci
+2022-04-29T10:44:19.410Z,38.8276672,-122.8150024,2.02,0.85,md,13,69,0.01629,0.01,nc,nc73726141,2022-04-29T10:53:10.977Z,"8km NW of The Geysers, CA",earthquake,0.3,0.82,,1,automatic,nc,nc
 2022-04-29T10:27:27.130Z,19.3308334350586,-155.136840820312,5.76000022888184,1.75999999,md,36,112,,0.209999993,hv,hv72998417,2022-04-29T10:30:42.740Z,"14 km S of Fern Forest, Hawaii",earthquake,0.53,0.75,0.119999997,13,automatic,hv,hv
 2022-04-29T10:25:23.820Z,33.6546667,-116.7751667,14.24,1.06,ml,38,63,0.06151,0.15,ci,ci40248232,2022-04-29T10:29:00.091Z,"11km SSW of Idyllwild, CA",earthquake,0.19,0.37,0.197,25,automatic,ci,ci
 2022-04-29T10:24:55.270Z,33.6618333,-116.7738333,14.51,0.85,ml,29,87,0.06845,0.16,ci,ci40248224,2022-04-29T10:28:32.727Z,"10km SSW of Idyllwild, CA",earthquake,0.25,0.49,0.184,22,automatic,ci,ci
@@ -15,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T09:12:06.800Z,33.589,-118.262,0.97,1.66,ml,21,108,0.1261,0.36,ci,ci40248184,2022-04-29T09:15:56.192Z,"17km S of San Pedro, CA",earthquake,0.7,31.61,0.118,29,automatic,ci,ci
 2022-04-29T09:06:26.581Z,62.3226,-149.6742,53,1.2,ml,,,,0.44,ak,ak0225gycjk2,2022-04-29T09:08:31.478Z,"20 km NNE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-04-29T08:38:17.990Z,34.0208333,-116.3208333,4.44,1.01,ml,28,58,0.07503,0.18,ci,ci40248176,2022-04-29T08:41:59.004Z,"13km S of Joshua Tree, CA",earthquake,0.25,0.65,0.156,20,automatic,ci,ci
-2022-04-29T08:35:14.260Z,40.5583344,-121.6620026,1.56,2.05,md,9,177,0.07686,0.14,nc,nc73726121,2022-04-29T10:39:13.899Z,"5km NNE of Viola, CA",earthquake,1,2.45,0.15,8,automatic,nc,nc
+2022-04-29T08:35:14.260Z,40.5583344,-121.6620026,1.56,2.05,md,9,177,0.07686,0.14,nc,nc73726121,2022-04-29T10:45:10.932Z,"5km NNE of Viola, CA",earthquake,1,2.45,0.15,8,automatic,nc,nc
 2022-04-29T08:33:28.671Z,-4.4878,-104.9475,10,5.6,mww,,109,22.798,0.5,us,us7000h5t8,2022-04-29T10:36:22.066Z,"central East Pacific Rise",earthquake,13.6,1.9,0.098,10,reviewed,us,us
 2022-04-29T08:22:16.090Z,33.4148333,-116.6108333,6.62,0.57,ml,23,69,0.07537,0.16,ci,ci40248168,2022-04-29T08:25:52.334Z,"15km N of Warner Springs, CA",earthquake,0.3,0.67,0.143,15,automatic,ci,ci
 2022-04-29T08:02:07.157Z,38.156,-117.873,8.6,0.9,ml,9,132.69,0.07,0.1949,nn,nn00838046,2022-04-29T08:06:18.848Z,"33 km SE of Mina, Nevada",earthquake,,1.2,0.23,4,automatic,nn,nn
@@ -125,7 +127,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T19:48:53.298Z,38.4011,-116.2021,0,2,ml,5,132.96,0.837,0.158,nn,nn00838021,2022-04-28T21:31:04.809Z,"93 km NNW of Rachel, Nevada",earthquake,,2.8,0.34,2,reviewed,nn,nn
 2022-04-28T19:42:33.240Z,18.1191666666667,-66.9841666666667,16.32,2.08,md,4,176,,0.08,pr,pr71346648,2022-04-28T20:19:46.180Z,"5 km NNW of Sabana Grande, Puerto Rico",earthquake,1.46,0.92,0.0604121744953703,4,reviewed,pr,pr
 2022-04-28T19:42:10.870Z,44.0827,147.7965,68.75,4.4,mb,,182,3.748,0.53,us,us7000h5q0,2022-04-28T21:06:34.040Z,"91 km ENE of Shikotan, Russia",earthquake,14,9.7,0.066,67,reviewed,us,us
-2022-04-28T19:24:07.390Z,17.9296666666667,-66.8721666666667,11.05,2.54,md,7,219,,0.14,pr,pr71346633,2022-04-28T19:48:54.700Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,0.86,0.59,0.120541961987528,3,reviewed,pr,pr
+2022-04-28T19:24:07.390Z,17.9296666666667,-66.8721666666667,11.05,2.54,md,7,219,,0.14,pr,pr71346633,2022-04-28T19:48:54.700Z,"Puerto Rico region",earthquake,0.86,0.59,0.120541961987528,3,reviewed,pr,pr
 2022-04-28T19:23:46.940Z,38.8255005,-122.7648315,2.12,1.07,md,20,126,0.006355,0.03,nc,nc73725826,2022-04-28T21:06:14.922Z,"4km W of Cobb, CA",earthquake,0.29,0.5,0.16,5,automatic,nc,nc
 2022-04-28T19:22:18.849Z,61.6286,-150.3742,44.8,1.2,ml,,,,0.61,ak,ak0225fguxx8,2022-04-28T20:59:33.612Z,"11 km NE of Susitna, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-04-28T19:14:47.496Z,62.9785,-150.7921,109.2,1.9,ml,,,,0.56,ak,ak0225fgtagg,2022-04-28T19:34:20.225Z,"53 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -215,5 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-28T11:04:00.280Z,38.8349991,-122.8166656,1.86,0.66,md,15,61,0.01513,0.02,nc,nc73725626,2022-04-28T11:05:34.890Z,"8km W of Cobb, CA",earthquake,0.23,0.69,0.23,2,automatic,nc,nc
 2022-04-28T11:01:55.230Z,38.8380013,-122.836998,1.37,0.86,md,12,111,0.001318,0.01,nc,nc73725621,2022-04-28T11:51:14.308Z,"10km NW of The Geysers, CA",earthquake,0.31,0.61,,1,automatic,nc,nc
 2022-04-28T10:58:13.426Z,53.2078,-164.0352,21,2.2,ml,,,,0.9,ak,ak0225fbpscg,2022-04-28T19:39:24.155Z,"154 km SE of Akutan, Alaska",earthquake,,13.9,,,reviewed,ak,ak
-2022-04-28T10:53:52.170Z,38.7941666,-122.784668,3.32,0.84,md,18,89,0.002724,0.03,nc,nc73725611,2022-04-28T11:29:20.159Z,"3km NW of The Geysers, CA",earthquake,0.3,0.55,,3,automatic,nc,nc
-2022-04-28T10:45:18.710Z,46.18816666666667,-122.1855,4.74,-0.17,md,5,137,0.02619,0.04,uw,uw61834856,2022-04-28T19:10:15.390Z,"36 km NNE of Amboy, Washington",earthquake,0.41,1.24,,1,reviewed,uw,uw
