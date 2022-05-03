@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-03T21:00:56.854Z,36.00073242,-96.07439423,30.73154831,1.76,ml,12,187.8731537,0.1531642079,0.7987011944,ok,ok2022iqmz,2022-05-03T21:03:31.511Z,"3 km E of Sapulpa, Oklahoma",earthquake,11.37498676,6.106653541,,8,automatic,ok,ok
 2022-05-03T20:34:53.540Z,36.8548317,-121.6106644,5.88,1.17,md,11,111,0.03315,0.14,nc,nc73728991,2022-05-03T20:45:10.928Z,"5km SE of Aromas, CA",earthquake,0.54,1.01,0.18,9,automatic,nc,nc
 2022-05-03T20:34:52.530Z,33.5188333,-116.7455,2.63,0.6,ml,35,36,0.04627,0.11,ci,ci40251488,2022-05-03T20:51:34.268Z,"8km WSW of Anza, CA",earthquake,0.12,0.17,0.087,13,reviewed,ci,ci
-2022-05-03T20:33:44.960Z,38.8349991,-122.8021698,1.93,0.85,md,15,58,0.009843,0.02,nc,nc73728986,2022-05-03T20:42:10.909Z,"7km WNW of Cobb, CA",earthquake,0.28,0.74,,1,automatic,nc,nc
+2022-05-03T20:33:44.960Z,38.8349991,-122.8021698,1.93,0.85,md,15,58,0.009843,0.02,nc,nc73728986,2022-05-03T21:08:15.075Z,"7km WNW of Cobb, CA",earthquake,0.28,0.74,,1,automatic,nc,nc
+2022-05-03T20:32:05.920Z,18.019,-66.746,13.79,2.22,md,9,130,,0.12,pr,pr71347268,2022-05-03T21:03:55.960Z,"2 km E of Magas Arriba, Puerto Rico",earthquake,0.51,0.34,0.0914526582667214,7,reviewed,pr,pr
 2022-05-03T20:18:15.740Z,38.8236656,-122.8026657,3.1,0.84,md,11,66,0.005793,0.01,nc,nc73728981,2022-05-03T20:44:15.921Z,"6km NW of The Geysers, CA",earthquake,0.4,0.96,,1,automatic,nc,nc
 2022-05-03T20:16:53.190Z,38.8366661,-122.8246689,1.81,0.83,md,23,80,0.008664,0.02,nc,nc73728976,2022-05-03T20:35:21.872Z,"9km NW of The Geysers, CA",earthquake,0.2,0.4,0.35,3,automatic,nc,nc
+2022-05-03T20:14:21.198Z,43.6765,11.2329,10,3.3,ml,,60,0.153,0.73,us,us7000h6ut,2022-05-03T21:14:43.815Z,"1 km WSW of Impruneta, Italy",earthquake,3.9,2,0.063,33,reviewed,us,us
 2022-05-03T20:00:39.750Z,32.8141667,-117.0751667,-0.11,0.73,ml,28,96,0.06091,0.21,ci,ci40251424,2022-05-03T20:31:08.057Z,"7km NW of La Mesa, CA",quarry blast,0.53,31.61,0.101,6,reviewed,ci,ci
-2022-05-03T19:58:40.035Z,59.7962,-153.6042,125.1,3.8,ml,,,,0.97,ak,ak0225nqrfsc,2022-05-03T20:57:10.718Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
+2022-05-03T19:58:40.035Z,59.7962,-153.6042,125.1,3.8,ml,,,,0.97,ak,ak0225nqrfsc,2022-05-03T21:02:53.040Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-05-03T19:56:57.920Z,36.3236656,-120.9189987,5.6,1.61,md,12,182,0.02858,0.08,nc,nc73728971,2022-05-03T20:13:15.742Z,"22km NE of King City, CA",earthquake,0.58,0.5,0.28,9,automatic,nc,nc
 2022-05-03T19:41:52.730Z,44.718,-111.1273333,6.49,0.25,ml,9,119,0.05903,0.17,uu,uu60495492,2022-05-03T20:02:50.180Z,"6 km NNW of West Yellowstone, Montana",earthquake,0.46,1.3,0.258,2,reviewed,uu,uu
 2022-05-03T19:22:39.350Z,37.4113333,-118.5933333,9.85,1.22,md,10,122,0.06281,0.05,nc,nc73728961,2022-05-03T20:57:16.003Z,"0km SE of Round Valley, CA",earthquake,0.46,1.04,0.202,8,reviewed,nc,nc
@@ -40,8 +43,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T16:17:01.050Z,56.9401666666667,-158.513,25.16,0.74,ml,4,303,,0.34,av,av91057143,2022-05-03T17:00:19.710Z,"7 km E of Port Heiden, Alaska",earthquake,4.22,3.52,0.109382397744771,4,reviewed,av,av
 2022-05-03T16:16:16.840Z,56.8686666666667,-158.095833333333,14.97,0.3,ml,4,214,,0.13,av,av91549921,2022-05-03T16:47:19.400Z,"33 km ESE of Port Heiden, Alaska",earthquake,1.05,1.24,0.284117176014859,4,reviewed,av,av
 2022-05-03T16:01:23.808Z,38.21,-117.8698,4.5,1.2,ml,9,190.69,0.1,0.1338,nn,nn00838233,2022-05-03T16:05:37.291Z,"28 km SE of Mina, Nevada",earthquake,,2.9,0.31,6,automatic,nn,nn
-2022-05-03T15:50:49.698Z,43.6518,11.2624,6.67,3.5,ml,,60,0.128,0.47,us,us7000h6tk,2022-05-03T20:57:43.063Z,"2 km WSW of Strada in Chianti, Italy",earthquake,2.1,7.8,0.063,33,reviewed,us,us
-2022-05-03T15:44:19.670Z,19.3271675109863,-155.808837890625,8.77000045776367,1.96000004,md,12,142,,0.150000006,hv,hv73002087,2022-05-03T15:47:16.350Z,"15 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.6,1.09000003,0.980000019,3,automatic,hv,hv
+2022-05-03T15:50:49.698Z,43.6518,11.2624,6.67,3.5,ml,,60,0.128,0.47,us,us7000h6tk,2022-05-03T21:08:07.228Z,"2 km WSW of Strada in Chianti, Italy",earthquake,2.1,7.8,0.063,33,reviewed,us,us
+2022-05-03T15:44:19.580Z,19.3356666666667,-155.807166666667,8.2,2.07,md,35,136,,0.14,hv,hv73002087,2022-05-03T21:12:49.870Z,"14 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.34,0.29,0.152865378638036,16,reviewed,hv,hv
 2022-05-03T15:41:39.540Z,19.1976666666667,-155.384833333333,31.81,3.07,ml,53,163,,0.14,hv,hv73002082,2022-05-03T20:53:08.422Z,"Hawaii region, Hawaii",earthquake,0.43,0.53,0.18644780015542,37,reviewed,hv,hv
 2022-05-03T15:41:15.200Z,18.0423333333333,-66.832,11.91,2.1,md,6,125,,0.23,pr,pr71347258,2022-05-03T15:51:10.970Z,"2 km ENE of Yauco, Puerto Rico",earthquake,1.06,2.33,0.140038658814786,5,reviewed,pr,pr
 2022-05-03T15:29:07.620Z,38.8223343,-122.803833,3.07,0.96,md,22,44,0.004989,0.01,nc,nc73728886,2022-05-03T16:09:17.297Z,"6km NW of The Geysers, CA",earthquake,0.23,0.57,0.21,3,automatic,nc,nc
@@ -103,6 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T11:37:51.338Z,2.9472,127.82,128.71,4.2,mb,,106,2.207,0.41,us,us7000h6sj,2022-05-03T13:34:36.040Z,"136 km N of Tobelo, Indonesia",earthquake,9.4,7.9,0.11,23,reviewed,us,us
 2022-05-03T11:22:07.192Z,61.0427,-150.3954,16.1,2,ml,,,,0.75,ak,ak0225nls6pe,2022-05-03T11:26:12.290Z,"20 km NE of Point Possession, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-03T11:07:46.549Z,61.1736,-151.429,64.6,1.8,ml,,,,0.45,ak,ak0225nlp1zi,2022-05-03T11:10:26.557Z,"18 km W of Beluga, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-05-03T11:05:15.210Z,58.3965,-154.967333333333,1.44,-0.21,ml,7,180,,0.12,av,av91549876,2022-05-03T21:05:03.580Z,"97 km NNW of Karluk, Alaska",earthquake,0.43,0.95,0.251591303396872,7,reviewed,av,av
 2022-05-03T10:54:20.240Z,38.8363342,-122.8113327,1.6,0.85,md,10,57,0.01296,0.01,nc,nc73728681,2022-05-03T11:15:15.492Z,"8km WNW of Cobb, CA",earthquake,0.32,1.22,,1,automatic,nc,nc
 2022-05-03T10:49:28.390Z,17.9731666666667,-66.8058333333333,14.07,2.27,md,4,206,,0.11,pr,pr71347238,2022-05-03T11:01:23.250Z,"2 km SSE of Indios, Puerto Rico",earthquake,3.18,0.77,0.107505824150534,4,reviewed,pr,pr
 2022-05-03T10:44:31.550Z,38.8388329,-122.8215027,1.31,1.05,md,16,81,0.01092,0.06,nc,nc73728676,2022-05-03T11:04:15.417Z,"9km WNW of Cobb, CA",earthquake,0.26,0.63,0.15,2,automatic,nc,nc
@@ -224,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-02T21:39:52.750Z,38.831665,-122.8089981,2.12,0.85,md,14,67,0.008301,0.01,nc,nc73728441,2022-05-02T22:10:12.639Z,"8km W of Cobb, CA",earthquake,0.29,0.77,,1,automatic,nc,nc
 2022-05-02T21:37:21.920Z,45.0831667,-111.731,-2,1.22,ml,15,123,0.266,0.28,mb,mb80544729,2022-05-03T14:31:08.040Z,"28 km SE of Virginia City, Montana",quarry blast,1.1,31.61,0.067,4,reviewed,mb,mb
 2022-05-02T21:26:15.350Z,37.4108315,-121.7608337,6.32,2.46,md,61,39,0.03842,0.08,nc,nc73728431,2022-05-03T14:30:20.203Z,"8km NE of Alum Rock, CA",earthquake,0.13,0.42,0.17,68,automatic,nc,nc
-2022-05-02T21:13:06.720Z,32.9288333,-116.2885,6.88,0.89,ml,24,92,0.02858,0.15,ci,ci40250784,2022-05-02T22:15:22.890Z,"26km ENE of Pine Valley, CA",earthquake,0.21,0.32,0.182,10,reviewed,ci,ci
