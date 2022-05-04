@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-04T07:40:41.177Z,60.9449,-151.9432,76.9,1,ml,,,,0.69,ak,ak0225p71qas,2022-05-04T07:44:05.422Z,"45 km NW of Nikiski, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-04T07:39:05.838Z,38.181,-117.8984,3.1,1.8,ml,18,139.68,0.064,0.2693,nn,nn00838289,2022-05-04T07:42:52.745Z,"29 km SE of Mina, Nevada",earthquake,,1,0.92,12,automatic,nn,nn
 2022-05-04T07:27:40.420Z,33.4546667,-116.536,10.01,0.35,ml,11,81,0.06823,0.05,ci,ci40251768,2022-05-04T07:31:12.507Z,"17km SE of Anza, CA",earthquake,0.27,0.54,0.161,4,automatic,ci,ci
 2022-05-04T07:27:27.550Z,19.191333770752,-155.469833374023,32.939998626709,1.99000001,md,36,95,,0.109999999,hv,hv73002532,2022-05-04T07:30:31.400Z,"1 km SE of Pāhala, Hawaii",earthquake,0.73,0.910000026,1.12,15,automatic,hv,hv
 2022-05-04T07:18:23.540Z,35.4546667,-118.3131667,4.73,1.33,ml,23,75,0.163,0.24,ci,ci40251760,2022-05-04T07:29:22.470Z,"22km SE of Bodfish, CA",earthquake,0.35,1.61,0.15,19,automatic,ci,ci
@@ -239,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-03T07:49:03.257Z,-25.324,179.8529,488.24,5,mb,,76,4.394,1.28,us,us7000h6ry,2022-05-03T08:02:40.040Z,"south of the Fiji Islands",earthquake,11.3,7.5,0.087,42,reviewed,us,us
 2022-05-03T07:46:49.880Z,38.8323326,-122.80233,1.55,0.85,md,9,93,0.01078,0.02,nc,nc73728606,2022-05-03T08:02:17.302Z,"7km W of Cobb, CA",earthquake,0.4,0.75,,1,automatic,nc,nc
 2022-05-03T07:46:20.280Z,35.7853333,-117.6243333,9.4,1.66,ml,32,47,0.03736,0.14,ci,ci40251032,2022-05-03T15:23:22.000Z,"19km NNE of Ridgecrest, CA",earthquake,0.17,0.36,0.192,21,reviewed,ci,ci
-2022-05-03T07:44:15.304Z,-20.8427,-178.4796,596.21,4.5,mb,,127,4.496,0.89,us,us7000h6ru,2022-05-03T08:16:14.040Z,"Fiji region",earthquake,9.4,7.5,0.077,49,reviewed,us,us
-2022-05-03T07:43:02.290Z,17.9965,-66.8365,16.2,2.07,md,3,330,,0.08,pr,pr71347213,2022-05-03T07:54:21.540Z,"1 km W of Indios, Puerto Rico",earthquake,4.29,0.96,0.084652560184463,3,reviewed,pr,pr
-2022-05-03T07:37:06.660Z,44.4658333,-115.2043333,6.95,1.77,ml,10,82,0.839,0.17,mb,mb80544789,2022-05-03T14:58:53.950Z,"34 km NW of Stanley, Idaho",earthquake,0.48,1.46,0.228,10,reviewed,mb,mb
