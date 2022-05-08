@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-05-08T04:30:54.840Z,33.3628333,-116.3648333,9.98,0.99,ml,20,62,0.04623,0.17,ci,ci40254440,2022-05-08T04:34:30.774Z,"12km N of Borrego Springs, CA",earthquake,0.31,0.64,0.15,22,automatic,ci,ci
-2022-05-08T04:25:39.036Z,62.2795,-149.1633,25,1.8,ml,,,,0.84,ak,ak0225vrbll1,2022-05-08T04:43:11.949Z,"38 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-08T04:16:01.682Z,61.0211,-151.9305,94.3,3.8,ml,,,,0.71,ak,ak0225vr9lag,2022-05-08T04:46:22.903Z,"43 km W of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-05-08T04:25:39.036Z,62.2795,-149.1633,25,1.8,ml,,,,0.84,ak,ak0225vrbll1,2022-05-08T04:58:06.981Z,"38 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-08T04:16:02.401Z,61.0023,-151.9671,94.7,3.9,ml,,,,0.77,ak,ak0225vr9lag,2022-05-08T05:00:28.661Z,"45 km W of Tyonek, Alaska",earthquake,,0.1,,,reviewed,ak,ak
 2022-05-08T04:13:55.370Z,38.8051682,-122.8138351,2.95,1.29,md,27,62,0.01254,0.02,nc,nc73730676,2022-05-08T04:46:10.861Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.45,0.11,4,automatic,nc,nc
 2022-05-08T04:13:26.410Z,38.833168,-122.7904968,1.83,1.3,md,24,50,0.005235,0.02,nc,nc73730671,2022-05-08T04:46:12.860Z,"6km WNW of Cobb, CA",earthquake,0.19,0.44,0.17,4,automatic,nc,nc
 2022-05-08T04:13:08.668Z,54.591,-156.1031,10,3.8,mb,,173,2.037,0.78,us,us7000h7vq,2022-05-08T04:37:30.040Z,"south of Alaska",earthquake,8.7,2,0.208,6,reviewed,us,us
@@ -108,7 +108,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T12:29:57.687Z,-27.3036,-69.3885,120.56,4.4,mb,,152,0.52,0.75,us,us7000h7sa,2022-05-07T12:53:07.040Z,"93 km E of Copiapó, Chile",earthquake,6.2,4.8,0.309,4,reviewed,us,us
 2022-05-07T12:24:57.712Z,61.5073,-149.9012,39,1,ml,,,,0.7,ak,ak0225u8jjly,2022-05-07T12:27:38.022Z,"3 km ESE of Big Lake, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-07T12:17:47.470Z,17.9321666666667,-66.8621666666667,11.03,2.1,md,6,218,,0.07,pr,pr71347773,2022-05-07T14:53:34.210Z,"5 km SSE of Maria Antonia, Puerto Rico",earthquake,1.48,0.63,0.0635267759613882,4,reviewed,pr,pr
-2022-05-07T12:16:23.010Z,35.5303333,-118.5086667,1.58,2.68,ml,41,34,0.1351,0.21,ci,ci40254184,2022-05-07T17:53:25.290Z,"7km SSW of Bodfish, CA",earthquake,0.26,1,0.15,26,automatic,ci,ci
+2022-05-07T12:16:23.010Z,35.5303333,-118.5086667,1.58,2.68,ml,41,34,0.1351,0.21,ci,ci40254184,2022-05-08T04:58:18.096Z,"7km SSW of Bodfish, CA",earthquake,0.26,1,0.15,26,automatic,ci,ci
 2022-05-07T11:53:56.936Z,26.7775,126.4617,10,5.5,mww,,39,1.619,0.89,us,us7000h7s7,2022-05-07T13:59:10.716Z,"136 km WNW of Naha, Japan",earthquake,6,1.9,0.058,29,reviewed,us,us
 2022-05-07T11:52:21.608Z,62.1572,-147.4941,20.2,1.8,ml,,,,0.93,ak,ak0225u8418h,2022-05-07T12:03:59.557Z,"29 km NW of Eureka Roadhouse, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-07T11:39:48.640Z,38.8320007,-122.8138351,2.22,0.85,md,17,50,0.009081,0.01,nc,nc73730411,2022-05-07T13:07:13.553Z,"8km NW of The Geysers, CA",earthquake,0.25,0.53,,1,automatic,nc,nc
@@ -183,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-07T05:12:54.201Z,52.63,-168.2442,48.38,3.3,mb,,202,0.764,1.19,us,us7000h7qg,2022-05-07T08:48:25.040Z,"54 km SE of Nikolski, Alaska",earthquake,6.2,12.8,0.154,10,reviewed,us,us
 2022-05-07T05:04:40.800Z,46.201,-122.18533333333333,7.54,0.39,ml,16,136,0.004026,0.22,uw,uw61828972,2022-05-07T14:43:06.800Z,"38 km NNE of Amboy, Washington",earthquake,0.66,0.55,0.07390975154222101,8,reviewed,uw,uw
 2022-05-07T05:02:48.050Z,17.9771666666667,-66.8461666666667,17.27,1.7,md,9,194,,0.11,pr,pr71347688,2022-05-07T08:37:15.860Z,"3 km WSW of Indios, Puerto Rico",earthquake,0.51,0.8,0.284387563082131,8,reviewed,pr,pr
-2022-05-07T05:01:08.850Z,36.102,-117.8721667,2.64,1.37,ml,13,105,0.02093,0.15,ci,ci40254048,2022-05-07T05:04:39.630Z,"9km NE of Coso Junction, CA",earthquake,0.35,0.61,0.191,16,automatic,ci,ci
