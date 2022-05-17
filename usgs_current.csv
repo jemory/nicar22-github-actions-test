@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-17T17:51:29.030Z,38.8084984,-122.8180008,2.94,2.04,md,40,47,0.00874,0.04,nc,nc73735046,2022-05-17T17:53:03.942Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.33,0.06,12,automatic,nc,nc
+2022-05-17T17:47:46.370Z,33.747,-116.7461667,20.34,0.55,ml,13,138,0.02568,0.27,ci,ci40021303,2022-05-17T17:51:22.380Z,"3km WNW of Idyllwild, CA",earthquake,1.37,1.13,0.106,8,automatic,ci,ci
+2022-05-17T17:44:37.379Z,61.0722,-151.5518,72,1.6,ml,,,,0.45,ak,ak0226av0fbp,2022-05-17T17:50:10.583Z,"22 km W of Tyonek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-17T16:58:08.930Z,34.0068333,-116.4456667,6.45,0.7,ml,19,58,0.07277,0.2,ci,ci40021223,2022-05-17T17:01:42.229Z,"7km NE of Desert Hot Springs, CA",earthquake,0.33,0.72,0.112,9,automatic,ci,ci
 2022-05-17T16:56:17.130Z,34.013,-116.4455,7.4,0.74,ml,21,91,0.07269,0.25,ci,ci40021215,2022-05-17T16:59:48.854Z,"8km NE of Desert Hot Springs, CA",earthquake,0.46,0.99,0.161,13,automatic,ci,ci
 2022-05-17T16:53:30.100Z,36.037,-117.7235,1.51,1.19,ml,14,120,0.03584,0.1,ci,ci40021207,2022-05-17T16:57:01.199Z,"20km NE of Little Lake, CA",earthquake,0.22,0.29,0.148,16,automatic,ci,ci
 2022-05-17T16:46:03.193Z,61.3157,-151.409,77.5,1,ml,,,,0.68,ak,ak0226aufcb6,2022-05-17T16:48:41.963Z,"26 km NW of Beluga, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-17T16:24:49.860Z,38.8240013,-122.8088303,1.39,0.84,md,10,108,0.001145,0.02,nc,nc73735041,2022-05-17T16:34:10.854Z,"7km NW of The Geysers, CA",earthquake,0.39,0.86,,1,automatic,nc,nc
+2022-05-17T16:24:49.860Z,38.8240013,-122.8088303,1.39,0.84,md,10,108,0.001145,0.02,nc,nc73735041,2022-05-17T17:46:11.590Z,"7km NW of The Geysers, CA",earthquake,0.39,0.86,,1,automatic,nc,nc
 2022-05-17T16:20:07.820Z,18.0186666666667,-66.8076666666667,12.93,2.29,md,9,156,,0.19,pr,pr71349158,2022-05-17T16:34:45.380Z,"1 km W of Guayanilla, Puerto Rico",earthquake,0.52,0.61,0.0387209395023835,7,reviewed,pr,pr
 2022-05-17T16:17:42.110Z,62.4025,-149.5872,25.2,2.8,ml,,,,0.67,ak,ak0226au97rm,2022-05-17T16:50:37.040Z,"27 km ESE of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-17T16:16:21.360Z,38.831665,-122.7991638,1.49,0.85,md,5,122,0.009633,0,nc,nc73735036,2022-05-17T17:06:10.057Z,"7km W of Cobb, CA",earthquake,0.84,1.39,,1,automatic,nc,nc
@@ -80,7 +83,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:13:23.050Z,48.2925,-121.87483333333333,7.99,1.06,ml,10,85,0.1034,0.12,uw,uw61832107,2022-05-17T09:13:01.780Z,"4 km ENE of Oso, Washington",earthquake,0.32,0.61,0.3745844935444441,3,reviewed,uw,uw
 2022-05-17T08:11:02.870Z,48.30466666666667,-121.86833333333334,0.91,1.84,ml,19,56,0.1163,0.15,uw,uw61832102,2022-05-17T09:09:28.779Z,"5 km NE of Oso, Washington",earthquake,0.31,0.83,0.20047769472052357,11,reviewed,uw,uw
 2022-05-17T08:09:42.747Z,60.5796,-151.5728,74.5,1.2,ml,,,,0.46,ak,ak0226apg18i,2022-05-17T08:11:29.889Z,"14 km WSW of Salamatof, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T17:34:28.044Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
+2022-05-17T08:07:34.290Z,48.2945,-121.86866666666667,3.56,3.56,ml,14,138,0.1067,0.19,uw,uw61832097,2022-05-17T17:48:50.944Z,"5 km ENE of Oso, Washington",earthquake,0.44,16.61,0.2374928676328958,3,reviewed,uw,uw
 2022-05-17T08:05:46.855Z,61.8356,-149.675,37.4,0.9,ml,,,,0.5,ak,ak0226apf6ot,2022-05-17T08:07:50.457Z,"21 km ENE of Willow, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-17T08:04:30.520Z,35.7176667,-117.5328333,9.42,0.82,ml,6,170,0.1111,0.12,ci,ci40020911,2022-05-17T13:43:35.950Z,"13km WSW of Searles Valley, CA",earthquake,0.56,1.22,0.139,8,reviewed,ci,ci
 2022-05-17T07:44:45.750Z,35.8245,-117.6376667,10.4,0.93,ml,12,91,0.03379,0.08,ci,ci40020903,2022-05-17T07:48:23.721Z,"22km WNW of Searles Valley, CA",earthquake,0.26,0.44,0.165,9,automatic,ci,ci
@@ -92,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T07:19:33.835Z,-36.8148,-71.5353,10,4.6,mb,,103,0.259,1.21,us,us6000hlqm,2022-05-17T07:54:09.040Z,"33 km SE of Coihueco, Chile",earthquake,4.4,1.8,0.132,17,reviewed,us,us
 2022-05-17T07:16:35.670Z,37.5496667,-118.8508333,0.59,0.22,md,9,295,0.04383,0.03,nc,nc73734901,2022-05-17T08:53:11.498Z,"15km SE of Mammoth Lakes, CA",earthquake,4.56,2.15,0.23,7,reviewed,nc,nc
 2022-05-17T07:11:30.693Z,-3.5657,140.2848,108.16,4.6,mb,,131,8.048,0.99,us,us6000hlql,2022-05-17T07:26:46.040Z,"113 km SSW of Abepura, Indonesia",earthquake,11.4,7.4,0.091,36,reviewed,us,us
-2022-05-17T06:47:28.580Z,34.1343333,-117.0616667,7.11,2.46,ml,92,21,0.04113,0.18,ci,ci40020887,2022-05-17T09:56:34.040Z,"9km SSE of Running Springs, CA",earthquake,0.16,0.58,0.146,24,automatic,ci,ci
+2022-05-17T06:47:28.580Z,34.1343333,-117.0616667,7.11,2.46,ml,92,21,0.04113,0.18,ci,ci40020887,2022-05-17T17:43:33.145Z,"9km SSE of Running Springs, CA",earthquake,0.16,0.58,0.146,24,automatic,ci,ci
 2022-05-17T06:36:41.300Z,33.8835,-116.869,13.68,0.64,ml,33,80,0.07766,0.13,ci,ci40020871,2022-05-17T14:50:00.753Z,"5km S of Banning, CA",earthquake,0.18,0.4,0.132,9,reviewed,ci,ci
 2022-05-17T06:35:06.175Z,62.9418,-149.6004,84.3,1,ml,,,,0.64,ak,ak0226aoentl,2022-05-17T06:36:57.367Z,"59 km SSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-17T06:08:52.900Z,17.9751666666667,-66.9495,8.19,1.95,md,4,173,,0.09,pr,pr71349108,2022-05-17T06:49:08.000Z,"3 km WSW of Fuig, Puerto Rico",earthquake,2.69,0.96,0.131121107340057,3,reviewed,pr,pr
@@ -141,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T02:05:21.770Z,35.3453333,-117.9388333,7.94,1.37,ml,22,77,0.04995,0.17,ci,ci40020791,2022-05-17T02:09:02.798Z,"25km N of California City, CA",earthquake,0.32,0.71,0.223,23,automatic,ci,ci
 2022-05-17T01:54:21.580Z,33.533,-116.436,5.26,0.87,ml,38,62,0.01287,0.19,ci,ci40020783,2022-05-17T01:57:58.048Z,"19km SW of La Quinta, CA",earthquake,0.23,0.53,0.144,23,automatic,ci,ci
 2022-05-17T01:52:55.427Z,62.1573,-148.529,40.8,0.7,ml,,,,0.36,ak,ak0226alj8rq,2022-05-17T01:54:41.684Z,"40 km N of Chickaloon, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2022-05-17T01:51:46.940Z,34.2313333,-117.6111667,9.73,0.85,ml,19,76,0.03995,0.16,ci,ci40020775,2022-05-17T01:55:24.886Z,"11km WSW of Lytle Creek, CA",earthquake,0.37,0.63,0.165,19,automatic,ci,ci
+2022-05-17T01:51:46.940Z,34.2308333,-117.6098333,9.32,0.79,ml,27,54,0.04113,0.12,ci,ci40020775,2022-05-17T17:45:18.362Z,"11km WSW of Lytle Creek, CA",earthquake,0.2,0.31,0.076,8,reviewed,ci,ci
 2022-05-17T01:44:22.877Z,-56.4757,177.7039,10,5.5,mww,,76,12.885,0.82,us,us6000hlnb,2022-05-17T15:25:07.840Z,"south of New Zealand",earthquake,8,1.7,0.066,22,reviewed,us,us
 2022-05-17T01:39:43.550Z,37.4805,-118.8555,-0.11,1,md,12,151,0.1113,0.03,nc,nc73734821,2022-05-17T08:31:10.256Z,"18km WSW of Toms Place, CA",earthquake,0.7,2.55,0.169,10,reviewed,nc,nc
 2022-05-17T01:33:46.430Z,33.7888333,-116.9411667,12.21,1.26,ml,61,49,0.02934,0.18,ci,ci40020767,2022-05-17T17:21:52.610Z,"2km ENE of San Jacinto, CA",earthquake,0.16,0.4,0.126,42,reviewed,ci,ci
@@ -217,4 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-16T18:05:54.880Z,43.1935,-122.98966666666666,-0.82,0.87,md,6,238,0.1391,0.13,uw,uw61831842,2022-05-16T20:08:19.490Z,"15 km SE of Glide, Oregon",explosion,1.24,31.61,0.04185380468491351,4,reviewed,uw,uw
 2022-05-16T18:00:39.530Z,33.8516667,-117.6491667,10.58,0.76,ml,16,90,0.06539,0.13,ci,ci40020407,2022-05-16T21:28:18.265Z,"8km WSW of Corona, CA",earthquake,0.3,0.5,0.104,5,reviewed,ci,ci
 2022-05-16T17:55:19.620Z,38.8151665,-122.8014984,1.33,1.16,md,27,35,0.008666,0.05,nc,nc73734691,2022-05-16T21:15:10.312Z,"6km NW of The Geysers, CA",earthquake,0.18,0.32,0.1,6,automatic,nc,nc
-2022-05-16T17:40:50.100Z,19.2016666666667,-155.614666666667,0.41,2.28,ml,43,61,,0.22,hv,hv73014332,2022-05-16T22:30:20.950Z,"14 km W of Pāhala, Hawaii",earthquake,0.27,0.3,0.105907968369183,10,reviewed,hv,hv
