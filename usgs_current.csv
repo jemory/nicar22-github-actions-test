@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-20T11:12:50.640Z,38.7898331,-122.7610016,0.59,1.67,md,25,76,0.01082,0.04,nc,nc73735951,2022-05-20T11:14:26.647Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.36,0.07,8,automatic,nc,nc
+2022-05-20T11:29:34.680Z,33.6056667,-116.6941667,2.46,0.45,ml,14,71,0.05394,0.26,ci,ci40023039,2022-05-20T11:33:14.610Z,"6km NNW of Anza, CA",earthquake,0.46,0.67,0.121,6,automatic,ci,ci
+2022-05-20T11:12:50.640Z,38.7898331,-122.7610016,0.59,1.67,md,25,76,0.01082,0.04,nc,nc73735951,2022-05-20T11:23:10.569Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.36,0.07,8,automatic,nc,nc
 2022-05-20T11:08:41.740Z,38.8144989,-122.8148346,2.57,1.17,md,19,49,0.00963,0.03,nc,nc73735946,2022-05-20T11:19:10.550Z,"6km NW of The Geysers, CA",earthquake,0.27,0.64,,1,automatic,nc,nc
 2022-05-20T10:57:32.570Z,34.4361667,-119.394,6.38,1.1,ml,13,104,0.08024,0.16,ci,ci40023031,2022-05-20T11:01:08.784Z,"12km ENE of Carpinteria, CA",earthquake,0.67,1.66,0.093,6,automatic,ci,ci
 2022-05-20T10:44:48.073Z,9.5863,-84.8275,11.05,4.4,mb,,196,0.71,0.85,us,us6000hml1,2022-05-20T11:05:05.040Z,"21 km W of Jacó, Costa Rica",earthquake,3.4,6.8,0.202,11,reviewed,us,us
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T22:10:48.208Z,62.6713,-149.9126,18,1,ml,,,,0.47,ak,ak0226e8v0tw,2022-05-19T22:23:39.888Z,"26 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T22:01:57.488Z,61.5965,-149.8182,51.7,1.7,ml,,,,0.34,ak,ak0226e8t43s,2022-05-19T22:14:21.055Z,"3 km S of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-19T21:53:54.140Z,38.8226662,-122.805336,3.18,0.96,md,19,52,0.003772,0.02,nc,nc73735811,2022-05-19T22:05:11.789Z,"7km NW of The Geysers, CA",earthquake,0.25,0.6,0.21,3,automatic,nc,nc
-2022-05-19T21:43:10.617Z,62.1713,-152.0458,108.5,1.4,ml,,,,0.79,ak,ak0226e8gkyj,2022-05-19T22:01:01.165Z,"39 km WNW of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-19T21:43:10.617Z,62.1713,-152.0458,108.5,1.4,ml,,,,0.79,ak,ak0226e8gkyj,2022-05-19T22:01:01.165Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-19T21:35:49.640Z,38.8279991,-122.8519974,1.82,0.95,md,13,70,0.003835,0.01,nc,nc73735806,2022-05-19T21:45:10.672Z,"10km NW of The Geysers, CA",earthquake,0.26,0.47,0.22,3,automatic,nc,nc
 2022-05-19T21:34:24.745Z,62.1693,-150.2838,19.9,1,ml,,,,0.2,ak,ak0226e8eolm,2022-05-19T21:46:16.513Z,"16 km S of Trapper Creek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-05-19T21:32:46.750Z,17.9481666666667,-66.9108333333333,11.05,2.33,md,8,209,,0.19,pr,pr71349448,2022-05-19T21:55:44.610Z,"2 km S of Guánica, Puerto Rico",earthquake,0.96,0.59,0.0615499537212467,5,reviewed,pr,pr
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T11:52:08.877Z,28.42803955,-98.80457261,16.50695801,2.6,ml,11,98,0.3348141815,0.3,tx,tx2022jtax,2022-05-19T21:16:48.847Z,"4 km S of Fowlerton, Texas",earthquake,3.266392125,2.089475491,0.1,6,reviewed,tx,tx
 2022-05-19T11:50:10.450Z,19.2255001068115,-155.407836914062,32.4599990844727,2,md,39,140,,0.129999995,hv,hv73017122,2022-05-19T11:53:29.420Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.66,0.790000021,0.74000001,13,automatic,hv,hv
 2022-05-19T11:49:10.870Z,33.5795,-116.7371667,15.5,0.28,ml,22,66,0.01406,0.09,ci,ci40022319,2022-05-19T19:03:47.159Z,"6km WNW of Anza, CA",earthquake,0.21,0.34,0.092,6,reviewed,ci,ci
-2022-05-19T11:25:06.714Z,36.7969,-116.0805,6,0.1,ml,6,165.84,0.016,0.1058,nn,nn00839186,2022-05-20T02:39:01.379Z,"44 km NW of Indian Springs, Nevada",earthquake,,2.5,0.26,3,reviewed,nn,nn
