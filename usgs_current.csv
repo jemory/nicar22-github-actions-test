@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-20T11:38:16.700Z,36.1058333,-117.8836667,3.46,1.77,ml,18,63,0.02611,0.11,ci,ci40023063,2022-05-20T11:41:52.409Z,"9km NE of Coso Junction, CA",earthquake,0.18,0.37,0.219,27,automatic,ci,ci
+2022-05-20T11:38:06.140Z,36.3788333,-117.6518333,20.37,1.14,ml,9,314,0.1864,0.39,ci,ci40023055,2022-05-20T11:41:43.025Z,"33km ENE of Olancha, CA",earthquake,3.13,3.93,0.135,3,automatic,ci,ci
+2022-05-20T11:32:41.840Z,33.8416667,-116.7471667,9.36,0.43,ml,14,244,0.04256,0.18,ci,ci40023047,2022-05-20T11:36:19.265Z,"9km SSE of Cabazon, CA",earthquake,1.11,0.77,0.133,8,automatic,ci,ci
 2022-05-20T11:29:34.680Z,33.6056667,-116.6941667,2.46,0.45,ml,14,71,0.05394,0.26,ci,ci40023039,2022-05-20T11:33:14.610Z,"6km NNW of Anza, CA",earthquake,0.46,0.67,0.121,6,automatic,ci,ci
 2022-05-20T11:12:50.640Z,38.7898331,-122.7610016,0.59,1.67,md,25,76,0.01082,0.04,nc,nc73735951,2022-05-20T11:23:10.569Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.36,0.07,8,automatic,nc,nc
 2022-05-20T11:08:41.740Z,38.8144989,-122.8148346,2.57,1.17,md,19,49,0.00963,0.03,nc,nc73735946,2022-05-20T11:19:10.550Z,"6km NW of The Geysers, CA",earthquake,0.27,0.64,,1,automatic,nc,nc
@@ -13,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T10:03:56.440Z,17.8715,-67.0021666666667,20.9,2.25,md,7,260,,0.25,pr,pr71349543,2022-05-20T10:31:32.480Z,"12 km SSE of La Parguera, Puerto Rico",earthquake,2.08,2.08,0.0517395998489079,5,reviewed,pr,pr
 2022-05-20T09:59:59.076Z,63.2892,-151.6489,0,2.1,ml,,,,0.95,ak,ak0226foy9ec,2022-05-20T10:02:04.733Z,"28 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-20T09:40:56.700Z,36.85567856,-97.7804718,1.751062155,2.48,ml,37,66.40628052,0.06359626353,0.4605584784,ok,ok2022jusc,2022-05-20T10:06:51.040Z,"6 km NW of Medford, Oklahoma",earthquake,2.102444102,1.597442509,,29,automatic,ok,ok
-2022-05-20T09:40:10.940Z,17.9153,-66.8736,13,3.66,md,23,195,0.0601,0.15,pr,pr2022140000,2022-05-20T11:17:44.767Z,"Puerto Rico region",earthquake,0.57,0.38,0.1,12,reviewed,pr,pr
+2022-05-20T09:40:10.940Z,17.9153,-66.8736,13,3.66,md,23,195,0.0601,0.15,pr,pr2022140000,2022-05-20T11:42:31.377Z,"Puerto Rico region",earthquake,0.57,0.38,0.1,12,reviewed,pr,pr
 2022-05-20T09:30:06.342Z,57.793,-155.4858,70.7,2,ml,,,,0.29,ak,ak0226forxj5,2022-05-20T09:34:34.564Z,"66 km WNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-05-20T09:11:41.497Z,58.5268,-153.133,52.9,1.4,ml,,,,0.47,ak,ak0226fonxnp,2022-05-20T09:13:55.676Z,"53 km NNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-05-20T09:08:37.230Z,33.657,-116.7361667,15.4,0.31,ml,14,87,0.05706,0.16,ci,ci40022999,2022-05-20T09:12:13.210Z,"9km S of Idyllwild, CA",earthquake,0.55,0.89,0.085,5,automatic,ci,ci
@@ -65,7 +68,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T02:43:55.680Z,38.8186684,-122.793335,3.06,1.08,md,24,35,0.01079,0.04,nc,nc73735856,2022-05-20T03:58:09.854Z,"6km NW of The Geysers, CA",earthquake,0.25,0.53,0.22,3,automatic,nc,nc
 2022-05-20T00:50:57.860Z,19.1733341217041,-155.47966003418,33.0099983215332,1.75999999,md,31,198,,0.129999995,hv,hv73017677,2022-05-20T00:54:06.720Z,"3 km S of Pāhala, Hawaii",earthquake,0.72,1.17999995,1.64999998,6,automatic,hv,hv
 2022-05-20T00:41:41.072Z,61.7542,-151.0069,66.4,2.2,ml,,,,0.57,ak,ak0226fjhgm6,2022-05-20T01:24:09.410Z,"33 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-05-20T00:36:37.224Z,29.9289,102.7237,10,4.9,mb,,37,8.633,0.75,us,us6000hmi0,2022-05-20T04:17:52.881Z,"74 km E of Kangding, China",earthquake,8.3,1.9,0.052,117,reviewed,us,us
+2022-05-20T00:36:37.224Z,29.9289,102.7237,10,4.9,mb,,37,8.633,0.75,us,us6000hmi0,2022-05-20T11:41:35.232Z,"74 km E of Kangding, China",earthquake,8.3,1.9,0.052,117,reviewed,us,us
 2022-05-20T00:35:47.130Z,37.8035,-121.9625,20.76,1.78,md,44,65,0.06018,0.11,nc,nc73735866,2022-05-20T08:23:11.648Z,"3km NNE of San Ramon, CA",earthquake,0.23,0.27,0.134,35,reviewed,nc,nc
 2022-05-20T00:24:43.780Z,36.4565,-117.9543333,9.57,1.91,ml,15,127,0.1028,0.14,ci,ci40022879,2022-05-20T00:28:30.027Z,"18km SE of Lone Pine, CA",earthquake,0.29,0.62,0.138,25,automatic,ci,ci
 2022-05-20T00:20:41.550Z,37.401,-118.4178333,7.7,1.12,md,7,126,0.02961,0.04,nc,nc73735836,2022-05-20T10:04:10.142Z,"2km N of Dixon Lane-Meadow Creek, CA",earthquake,0.52,0.71,0.135,4,reviewed,nc,nc
