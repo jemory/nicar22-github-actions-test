@@ -66,7 +66,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T12:19:01.562Z,38.5655,-119.5144,7.3,0.8,ml,10,158.83,0.021,0.0997,nn,nn00839266,2022-05-21T12:23:29.224Z,"0 km W of Coleville, California",earthquake,,0.7,0.16,4,automatic,nn,nn
 2022-05-21T12:16:06.360Z,38.8363342,-122.8051682,1.95,0.36,md,9,79,0.01176,0.01,nc,nc73736286,2022-05-21T14:24:10.359Z,"7km WNW of Cobb, CA",earthquake,0.4,1.26,,1,automatic,nc,nc
 2022-05-21T11:57:21.845Z,39.2272,-120.089,8.1,0.1,ml,6,86.93,0.035,0.0514,nn,nn00839273,2022-05-21T17:32:46.154Z,"0 km W of Carnelian Bay, California",earthquake,,1.5,0,1,reviewed,nn,nn
-2022-05-21T11:54:18.320Z,37.63,-122.036,2.48,1.23,md,33,58,0.02493,0.07,nc,nc73736281,2022-05-21T20:38:11.605Z,"4km ESE of Hayward, CA",earthquake,0.13,0.25,0.1,24,reviewed,nc,nc
+2022-05-21T11:54:18.320Z,37.63,-122.036,2.48,1.23,md,33,58,0.02493,0.07,nc,nc73736281,2022-05-21T21:05:11.790Z,"4km ESE of Hayward, CA",earthquake,0.13,0.25,0.1,24,reviewed,nc,nc
 2022-05-21T11:52:22.448Z,84.2179,-0.4147,10,4.5,mb,,86,5.609,0.72,us,us6000hmwf,2022-05-21T12:14:01.040Z,"north of Svalbard",earthquake,9.4,1.9,0.047,132,reviewed,us,us
 2022-05-21T11:22:53.334Z,64.3431,-149.703,4,1.1,ml,,,,0.78,ak,ak0226hdgj5h,2022-05-21T11:38:40.552Z,"24 km W of Anderson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-21T11:21:26.040Z,34.0763333,-116.6723333,0,0.77,ml,9,256,0.2194,0.14,ci,ci40023623,2022-05-21T11:25:08.459Z,"9km WNW of Morongo Valley, CA",earthquake,1.5,2.96,0.219,16,automatic,ci,ci
@@ -101,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T08:11:33.050Z,84.2549,-4.0234,10,4.5,mb,,80,5.815,0.67,us,us6000hmvg,2022-05-21T10:21:03.040Z,"north of Svalbard",earthquake,6.4,1.9,0.084,41,reviewed,us,us
 2022-05-21T08:11:13.040Z,40.5040016,-122.9645004,35.4,2.59,md,11,119,0.07229,0.24,nc,nc73736226,2022-05-21T10:44:11.112Z,"19km ESE of Hayfork, CA",earthquake,1.18,3.11,0.07,8,automatic,nc,nc
 2022-05-21T08:03:08.884Z,84.1853,-1.6539,10,4.2,mb,,113,5.636,0.91,us,us6000hmvd,2022-05-21T08:20:08.040Z,"north of Svalbard",earthquake,11.9,1.9,0.121,19,reviewed,us,us
-2022-05-21T07:56:26.450Z,36.569,-121.1228333,8.84,1.77,md,31,96,0.04146,0.06,nc,nc73736221,2022-05-21T20:20:13.498Z,"4km NNE of Pinnacles, CA",earthquake,0.22,0.25,0.211,30,reviewed,nc,nc
+2022-05-21T07:56:26.450Z,36.569,-121.1228333,8.84,1.77,md,31,96,0.04146,0.06,nc,nc73736221,2022-05-21T21:05:17.790Z,"4km NNE of Pinnacles, CA",earthquake,0.22,0.25,0.211,30,reviewed,nc,nc
 2022-05-21T07:50:11.000Z,17.9576666666667,-67.0086666666667,10.45,1.96,md,5,209,,0.03,pr,pr71349708,2022-05-21T08:34:28.810Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.58,0.78,0.0137939616726659,5,reviewed,pr,pr
 2022-05-21T07:48:14.410Z,18.0348333333333,-66.8033333333333,14.75,2.41,md,23,89,,0.19,pr,pr71349703,2022-05-21T14:26:04.757Z,"2 km NW of Guayanilla, Puerto Rico",earthquake,0.34,0.55,0.134375768703549,11,reviewed,pr,pr
 2022-05-21T07:43:28.051Z,60.6025,-147.241,11.5,2.6,ml,,,,0.56,ak,ak0226hb78uj,2022-05-21T07:55:29.472Z,"42 km SW of Tatitlek, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -201,5 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T21:18:37.250Z,61.9082,-149.2848,18.9,1.2,ml,,,,0.52,ak,ak0226fvumlp,2022-05-20T21:31:33.304Z,"18 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-20T21:16:35.790Z,49.39933333333333,-120.5235,-0.37,1.9000000000000001,ml,12,187,0.5862,0.3,uw,uw61842206,2022-05-21T03:11:11.480Z,"6 km S of Princeton, Canada",explosion,1.59,31.61,0.2170421078300706,5,reviewed,uw,uw
 2022-05-20T21:15:43.183Z,-20.7801,-69.2209,106.73,4.1,mb,,77,0.361,0.4,us,us6000hms5,2022-05-20T21:32:09.040Z,"115 km ESE of Iquique, Chile",earthquake,5.4,4.3,0.26,4,reviewed,us,us
-2022-05-20T21:01:08.600Z,17.9793333333333,-66.9571666666667,9.78,2.16,md,11,171,,0.09,pr,pr71349598,2022-05-20T21:23:14.580Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.33,0.53,0.0550892920663921,8,reviewed,pr,pr
-2022-05-20T20:53:03.130Z,35.9233333,-117.6526667,3.28,-0.07,ml,5,139,0.02459,0.08,ci,ci40023335,2022-05-20T22:35:45.515Z,"23km E of Little Lake, CA",earthquake,0.29,0.51,0.196,2,reviewed,ci,ci
