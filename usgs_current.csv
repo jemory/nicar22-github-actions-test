@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-22T20:39:37.800Z,38.833168,-122.7993317,1.39,0.46,md,13,49,0.008756,0.02,nc,nc73736786,2022-05-22T20:41:12.164Z,"7km W of Cobb, CA",earthquake,0.29,0.63,0.39,2,automatic,nc,nc
+2022-05-22T20:39:37.800Z,38.833168,-122.7993317,1.39,0.46,md,13,49,0.008756,0.02,nc,nc73736786,2022-05-22T20:50:10.305Z,"7km W of Cobb, CA",earthquake,0.29,0.63,0.39,2,automatic,nc,nc
 2022-05-22T20:33:05.490Z,38.8504982,-122.7906647,1.1,1.21,md,18,143,0.006673,0.03,nc,nc73736781,2022-05-22T20:44:10.260Z,"7km WNW of Cobb, CA",earthquake,0.23,0.34,0.09,4,automatic,nc,nc
 2022-05-22T20:28:18.260Z,19.1746673583984,-155.487670898438,31.5799999237061,2.0999999,md,36,87,,0.119999997,hv,hv73020127,2022-05-22T20:31:38.080Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.54,0.889999986,1.79999995,14,automatic,hv,hv
 2022-05-22T20:13:30.740Z,38.8131676,-122.7978363,1.35,0.84,md,11,97,0.005556,0.01,nc,nc73736766,2022-05-22T20:23:11.138Z,"5km NW of The Geysers, CA",earthquake,0.26,0.61,,1,automatic,nc,nc
@@ -77,8 +77,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T11:34:01.323Z,31.65932778,-104.4028396,7.185595703,3.2,ml,22,82,0.08400786585,0.3,tx,tx2022jymv,2022-05-22T12:23:13.764Z,"57 km S of Whites City, New Mexico",earthquake,1.559351667,1.87996305,0.2,16,reviewed,tx,tx
 2022-05-22T11:32:12.823Z,63.4633,-148.2211,8.1,1.3,ml,,,,0.88,ak,ak0226j11xoi,2022-05-22T11:52:00.309Z,"37 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-22T11:27:33.515Z,60.1635,-153.2433,139.7,1.9,ml,,,,0.53,ak,ak0226j10wpr,2022-05-22T11:39:56.593Z,"59 km E of Port Alsworth, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-05-22T11:22:09.500Z,19.6565,-156.027666666667,18.54,2.3,ml,27,240,,0.2,hv,hv73019802,2022-05-22T17:47:49.556Z,"3 km WNW of Kailua-Kona, Hawaii",earthquake,0.66,0.99,0.227090553792977,5,reviewed,hv,hv
+2022-05-22T11:22:09.500Z,19.6565,-156.027666666667,18.54,2.3,ml,27,240,,0.2,hv,hv73019802,2022-05-22T20:55:35.914Z,"3 km WNW of Kailua-Kona, Hawaii",earthquake,0.66,0.99,0.227090553792977,5,reviewed,hv,hv
 2022-05-22T11:08:30.032Z,63.2587,-149.4727,2.8,1.5,ml,,,,0.68,ak,ak0226j0wttn,2022-05-22T11:27:23.994Z,"30 km WSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-22T11:06:59.509Z,62.9672,-149.161,19.6,1,ml,,,,0.68,ak,ak0226j0wfey,2022-05-22T20:52:48.537Z,"48 km SSW of Cantwell, Alaska",earthquake,,0.2,,,reviewed,ak,ak
 2022-05-22T11:01:15.030Z,19.3169994354248,-155.440338134766,5.65999984741211,1.78999996,md,35,114,,0.230000004,hv,hv73019797,2022-05-22T11:05:11.780Z,"13 km NNE of Pāhala, Hawaii",earthquake,0.48,1.05999994,0.409999996,21,automatic,hv,hv
 2022-05-22T10:48:33.800Z,38.8030014,-122.8048325,1.37,0.68,md,15,50,0.008946,0.02,nc,nc73736571,2022-05-22T11:22:15.923Z,"5km NW of The Geysers, CA",earthquake,0.26,0.47,0.13,2,automatic,nc,nc
 2022-05-22T10:45:55.068Z,38.1631,-117.9,10.3,0.5,ml,8,166.94,0.053,0.0577,nn,nn00839331,2022-05-22T10:49:53.535Z,"31 km SE of Mina, Nevada",earthquake,,0.7,0.5,4,automatic,nn,nn
@@ -95,7 +96,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-22T10:00:22.930Z,35.8791667,-117.695,14.55,0.77,ml,11,75,0.07756,0.13,ci,ci40024055,2022-05-22T10:03:57.730Z,"20km ESE of Little Lake, CA",earthquake,0.37,0.66,0.148,9,automatic,ci,ci
 2022-05-22T09:58:56.955Z,47.5011,-115.8448,5,3,ml,,68,1.011,0.45,us,us6000hn38,2022-05-22T19:18:41.138Z,"4 km NW of Mullan, Idaho",earthquake,5.1,2,0.036,102,reviewed,us,us
 2022-05-22T09:54:59.730Z,33.6715,-116.7683333,10.92,0.5,ml,23,71,0.06004,0.2,ci,ci40024047,2022-05-22T09:58:27.820Z,"9km SSW of Idyllwild, CA",earthquake,0.46,0.67,0.15,11,automatic,ci,ci
-2022-05-22T09:49:45.460Z,19.6448333333333,-155.974,11.1,4.69,ml,56,164,,0.18,hv,hv73019747,2022-05-22T20:42:52.753Z,"2 km E of Kailua-Kona, Hawaii",earthquake,0.46,0.64,0.160592475336264,42,reviewed,hv,hv
+2022-05-22T09:49:45.460Z,19.6448333333333,-155.974,11.1,4.69,ml,56,164,,0.18,hv,hv73019747,2022-05-22T20:58:23.248Z,"2 km E of Kailua-Kona, Hawaii",earthquake,0.46,0.64,0.160592475336264,42,reviewed,hv,hv
 2022-05-22T09:46:30.930Z,36.0573333,-117.326,1.3,1.79,ml,21,113,0.1696,0.19,ci,ci40024039,2022-05-22T13:20:44.490Z,"33km N of Trona, CA",earthquake,0.44,0.87,0.161,25,reviewed,ci,ci
 2022-05-22T09:37:42.275Z,36.5407,70.2373,211.82,4.4,mb,,68,0.643,0.42,us,us6000hn2y,2022-05-22T11:08:19.040Z,"34 km E of Farkhār, Afghanistan",earthquake,5.3,5.3,0.11,24,reviewed,us,us
 2022-05-22T09:34:14.680Z,33.1388333,-116.1723333,11.61,0.58,ml,15,133,0.01722,0.19,ci,ci40024031,2022-05-22T09:37:43.528Z,"4km W of Ocotillo Wells, CA",earthquake,0.65,0.68,0.097,6,automatic,ci,ci
@@ -194,4 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-21T21:42:30.510Z,17.9826666666667,-66.9895,4.98,2,md,5,162,,0.08,pr,pr71349788,2022-05-21T22:09:32.230Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.4,1.12,0.136285500697753,5,reviewed,pr,pr
 2022-05-21T21:30:12.272Z,31.6018,-103.996,5,2.7,mb_lg,,54,0.255,0.53,us,us6000hmz3,2022-05-21T21:42:17.040Z,"37 km NNW of Toyah, Texas",earthquake,1.5,2,0.1,41,reviewed,us,us
 2022-05-21T21:28:30.416Z,0.9466,125.4164,75.33,4.6,mb,,61,1.957,1.12,us,us6000hmz6,2022-05-21T21:54:09.040Z,"68 km SE of Tondano, Indonesia",earthquake,5.1,7.3,0.085,41,reviewed,us,us
-2022-05-21T20:58:23.940Z,17.9846666666667,-66.856,13.63,2.29,md,4,290,,0.03,pr,pr71349783,2022-05-21T22:23:04.970Z,"3 km ENE of Maria Antonia, Puerto Rico",earthquake,0.64,0.51,0.0755541974829828,3,reviewed,pr,pr
