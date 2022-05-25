@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-25T11:44:58.900Z,59.8646,-152.4509,94.9,1.2,ml,,,,0.36,ak,ak0226nzqnb6,2022-05-25T11:48:23.684Z,"36 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-25T11:40:47.126Z,60.7764,-152.317,94.7,1.3,ml,,,,1.24,ak,ak0226nzprjx,2022-05-25T11:48:22.156Z,"56 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-05-25T12:06:53.193Z,40.1321,-119.5358,7.6,1.4,ml,11,155.36,0.155,0.241,nn,nn00839569,2022-05-25T12:10:34.777Z,"20 km NNE of Sutcliffe, Nevada",earthquake,,1.3,0.19,8,automatic,nn,nn
+2022-05-25T12:01:15.620Z,38.7400017,-122.7376633,-0.71,1.29,md,10,120,0.01379,0.27,nc,nc73737736,2022-05-25T12:10:10.978Z,"4km SSE of The Geysers, CA",earthquake,0.84,2.59,0.15,4,automatic,nc,nc
+2022-05-25T12:00:44.870Z,38.7458344,-122.7348328,1.1,1.94,md,19,78,0.03467,0.08,nc,nc73737741,2022-05-25T12:03:27.882Z,"4km SSE of The Geysers, CA",earthquake,0.31,0.56,0.05,5,automatic,nc,nc
+2022-05-25T11:55:15.460Z,36.1013333,-117.8838333,3.39,0.92,ml,10,198,0.02852,0.13,ci,ci40026167,2022-05-25T11:59:00.193Z,"8km NE of Coso Junction, CA",earthquake,0.47,0.64,0.165,7,automatic,ci,ci
+2022-05-25T11:54:15.040Z,36.0228333,-117.7741667,0.9,0.92,ml,10,65,0.0076,0.15,ci,ci40026159,2022-05-25T11:57:48.022Z,"15km NE of Little Lake, CA",earthquake,0.28,0.34,0.184,8,automatic,ci,ci
+2022-05-25T11:48:46.140Z,33.3206667,-116.2866667,7.91,0.55,ml,20,156,0.04581,0.21,ci,ci40026151,2022-05-25T11:52:20.985Z,"11km NE of Borrego Springs, CA",earthquake,0.59,0.74,0.165,10,automatic,ci,ci
+2022-05-25T11:44:58.959Z,59.8636,-152.4404,94.1,1.2,ml,,,,0.38,ak,ak0226nzqnb6,2022-05-25T11:57:29.812Z,"35 km WNW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-05-25T11:40:47.126Z,60.7764,-152.317,94.7,1.5,ml,,,,1.24,ak,ak0226nzprjx,2022-05-25T11:53:41.736Z,"56 km W of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-25T11:31:27.310Z,36.0526667,-117.8411667,1.99,0.49,ml,6,129,0.06002,0.11,ci,ci40026143,2022-05-25T11:34:58.869Z,"10km E of Coso Junction, CA",earthquake,0.41,0.33,0.031,4,automatic,ci,ci
 2022-05-25T11:31:00.299Z,61.2835,-151.9083,93.6,1.7,ml,,,,0.57,ak,ak0226nznnby,2022-05-25T11:42:19.902Z,"47 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-25T11:29:05.304Z,61.9025,-150.878,70.1,1.2,ml,,,,0.45,ak,ak0226nznbfm,2022-05-25T11:42:19.117Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -12,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T10:43:14.101Z,60.9086,-150.3922,48.6,1.7,ml,,,,0.76,ak,ak0226nz4wj7,2022-05-25T11:04:04.771Z,"16 km E of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-05-25T10:43:01.780Z,36.529335,-120.981163,13.52,1.73,md,18,126,0.06795,0.14,nc,nc73737731,2022-05-25T11:09:18.644Z,"14km E of Pinnacles, CA",earthquake,0.44,0.85,0.35,7,automatic,nc,nc
 2022-05-25T10:38:53.889Z,40.0922,-119.487,4.8,2.2,ml,16,145.52,0.203,0.2057,nn,nn00839562,2022-05-25T10:42:48.291Z,"18 km NNE of Sutcliffe, Nevada",earthquake,,0.9,0.29,12,automatic,nn,nn
-2022-05-25T10:38:07.039Z,45.176,-122.6421,19.65,2.6,ml,,46,0.111,0.53,us,us7000hce9,2022-05-25T11:12:32.781Z,"6 km WNW of Molalla, Oregon",earthquake,2.2,5.7,0.04,81,reviewed,us,us
+2022-05-25T10:38:07.039Z,45.176,-122.6421,19.65,2.6,ml,,46,0.111,0.53,us,us7000hce9,2022-05-25T12:08:55.844Z,"6 km WNW of Molalla, Oregon",earthquake,2.2,5.7,0.04,81,reviewed,us,us
 2022-05-25T10:18:41.862Z,40.1198,-119.4453,4.3,1.1,ml,8,249,0.225,0.358,nn,nn00839561,2022-05-25T10:22:02.024Z,"23 km NE of Sutcliffe, Nevada",earthquake,,2.7,0.25,4,automatic,nn,nn
 2022-05-25T10:11:42.861Z,55.0571,-159.4977,6.34,3.1,ml,,138,0.232,0.68,us,us7000hce7,2022-05-25T10:40:13.040Z,"70 km ESE of Sand Point, Alaska",earthquake,4.2,8.9,0.06,36,reviewed,us,us
 2022-05-25T10:09:30.510Z,32.538166,-116.1839981,11.99,1.47,ml,27,115,0.1281,0.16,ci,ci40026111,2022-05-25T10:12:56.375Z,"28km ESE of Campo, CA",earthquake,0.33,0.88,0.35,3,automatic,ci,ci
@@ -42,6 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T08:52:17.220Z,32.5351667,-116.1886667,10.89,1.06,ml,18,121,0.1327,0.17,ci,ci40026071,2022-05-25T08:55:53.210Z,"27km ESE of Campo, CA",earthquake,0.32,0.83,0.251,7,automatic,ci,ci
 2022-05-25T08:45:25.434Z,38.1871,-117.8861,6.2,0.5,ml,9,176.58,0.075,0.1386,nn,nn00839533,2022-05-25T08:49:20.666Z,"29 km SE of Mina, Nevada",earthquake,,1.3,0.44,4,automatic,nn,nn
 2022-05-25T08:16:34.333Z,64.7031,-152.6635,10.8,1,ml,,,,0.31,ak,ak0226nxsak7,2022-05-25T08:21:55.391Z,"59 km SSW of Tanana, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-25T08:10:27.490Z,36.4506667,-92.6973333,11.6,2.07,md,6,115,0.1516,0.15,nm,nm60151343,2022-05-25T12:04:33.670Z,"11 km SW of Pontiac, Missouri",earthquake,1.69,2.59,0.061,5,reviewed,nm,nm
 2022-05-25T08:07:21.639Z,62.4623,-149.5418,16.4,1.1,ml,,,,0.51,ak,ak0226nxqc4k,2022-05-25T08:21:54.612Z,"28 km E of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-25T07:58:20.360Z,32.5955,-115.5241667,3.44,1.99,ml,23,140,0.07612,0.24,ci,ci40026063,2022-05-25T08:08:53.950Z,"6km ENE of Progreso, B.C., MX",earthquake,0.78,0.93,0.224,26,automatic,ci,ci
 2022-05-25T07:58:15.809Z,64.9897,-146.9174,7.9,0.9,ml,,,,0.51,ak,ak0226nxftl8,2022-05-25T08:13:39.287Z,"12 km N of Pleasant Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -248,10 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-24T12:28:17.600Z,51.8878333333333,-177.837666666667,4.38,-0.02,ml,4,251,,0.17,av,av91571676,2022-05-25T01:24:16.940Z,"82 km W of Adak, Alaska",earthquake,1.01,2.61,0.0662595377732176,4,reviewed,av,av
 2022-05-24T12:24:19.929Z,36.6481,-116.4128,6.3,0.6,ml,17,102.27,0.051,0.1337,nn,nn00839445,2022-05-24T14:04:36.123Z,"42 km SE of Beatty, Nevada",earthquake,,2.2,0.96,7,reviewed,nn,nn
 2022-05-24T12:13:28.920Z,46.2875,-122.30966666666667,7.53,0.28,ml,9,111,0.01924,0.09,uw,uw61834792,2022-05-24T18:17:45.800Z,"30 km SSE of Mossyrock, Washington",earthquake,0.45,0.42,0.17376447298436926,6,reviewed,uw,uw
-2022-05-24T12:12:48.925Z,38.1671,-117.9031,10,2.7,ml,24,53.6,0.053,0.1303,nn,nn00839442,2022-05-25T11:36:19.040Z,"30 km SE of Mina, Nevada",earthquake,,0.8,0.17,9,reviewed,nn,nn
-2022-05-24T12:07:34.479Z,59.5976,-152.9674,75.8,0.7,ml,,,,0.38,ak,ak0226mckr1j,2022-05-24T12:09:53.758Z,"65 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-24T11:58:28.420Z,44.7526667,-111.0821667,11.71,0.35,ml,11,113,0.05456,0.09,uu,uu60499377,2022-05-24T15:29:14.410Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.33,0.61,0.152,2,reviewed,uu,uu
-2022-05-24T11:57:10.086Z,38.7485,-118.4727,0,-0.3,ml,4,319.6,0.127,0.0797,nn,nn00839498,2022-05-25T02:38:02.206Z,"26 km ENE of Walker Lake, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2022-05-24T11:52:58.950Z,44.764,-111.0816667,10.46,-0.36,md,6,120,0.05399,0.17,uu,uu60030609,2022-05-24T15:24:34.830Z,"8 km E of Hebgen Lake Estates, Montana",earthquake,0.95,1.35,0.262,4,reviewed,uu,uu
-2022-05-24T11:52:42.210Z,44.7513333,-111.0893333,12.5,0.44,ml,11,92,0.04647,0.12,uu,uu60499372,2022-05-24T15:20:25.810Z,"8 km ESE of Hebgen Lake Estates, Montana",earthquake,0.55,1.11,0.157,2,reviewed,uu,uu
-2022-05-24T11:50:03.373Z,61.551,-150.9858,67,1.1,ml,,,,0.34,ak,ak0226mc8gt8,2022-05-24T11:54:26.025Z,"25 km W of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
