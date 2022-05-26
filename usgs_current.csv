@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-26T22:46:18.210Z,35.2933333,-119.393,16.97,2.27,ml,26,72,0.04627,0.23,ci,ci40027711,2022-05-26T22:50:06.191Z,"14km SSE of Buttonwillow, CA",earthquake,0.4,1.07,0.177,26,automatic,ci,ci
 2022-05-26T22:25:41.197Z,53.8377,-164.0694,19.74,3.7,mb,,165,0.76,0.53,us,us7000hcva,2022-05-26T22:44:12.040Z,"116 km ESE of Akutan, Alaska",earthquake,2.9,8.8,0.139,13,reviewed,us,us
-2022-05-26T22:16:54.820Z,35.61,-117.4116667,4.77,1.03,ml,8,180,0.04739,0.17,ci,ci40027695,2022-05-26T22:20:25.555Z,"17km S of Trona, CA",earthquake,0.89,0.95,0.073,12,automatic,ci,ci
-2022-05-26T22:16:33.340Z,38.8361664,-122.8116684,1.79,0.85,md,9,99,0.01281,0.01,nc,nc73738366,2022-05-26T22:25:10.813Z,"8km WNW of Cobb, CA",earthquake,0.35,1.11,,1,automatic,nc,nc
+2022-05-26T22:16:54.690Z,35.6018333,-117.4081667,5.87,1.01,ml,19,79,0.04662,0.13,ci,ci40027695,2022-05-26T22:54:18.970Z,"18km S of Trona, CA",earthquake,0.22,0.39,0.065,7,reviewed,ci,ci
+2022-05-26T22:16:33.340Z,38.8361664,-122.8116684,1.79,0.85,md,9,99,0.01281,0.01,nc,nc73738366,2022-05-26T22:49:16.960Z,"8km WNW of Cobb, CA",earthquake,0.35,1.11,,1,automatic,nc,nc
 2022-05-26T21:53:07.460Z,32.2281667,-115.284,0.38,1.55,ml,13,147,0.1916,0.18,ci,ci40027647,2022-05-26T22:45:17.601Z,"11km W of Alberto Oviedo Mota, B.C., MX",earthquake,0.38,1.03,0.246,5,reviewed,ci,ci
 2022-05-26T21:46:02.650Z,18.7885,-68.6563333333333,49.52,2.92,md,5,191,,0.45,pr,pr71350913,2022-05-26T22:15:15.270Z,"15 km N of Otra Banda, Dominican Republic",earthquake,26.51,14.61,0.157575097380502,4,reviewed,pr,pr
 2022-05-26T21:37:32.600Z,33.5148333,-116.4371667,8.17,0.51,ml,17,105,0.01284,0.16,ci,ci40027631,2022-05-26T21:41:09.222Z,"20km SW of La Quinta, CA",earthquake,0.35,0.72,0.063,9,automatic,ci,ci
@@ -35,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-26T17:58:57.140Z,38.836834,-122.8079987,2.15,0.85,md,15,51,0.01352,0.01,nc,nc73738296,2022-05-26T18:38:15.133Z,"8km WNW of Cobb, CA",earthquake,0.26,0.5,,1,automatic,nc,nc
 2022-05-26T17:53:00.794Z,61.5346,-146.4774,3.9,1.7,ml,,,,0.83,ak,ak0226pqwefp,2022-05-26T17:55:32.015Z,"45 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-26T17:48:23.330Z,44.8606667,-111.5078333,14.48,0.59,ml,11,133,0.063,0.23,mb,mb80547114,2022-05-26T19:30:30.360Z,"27 km WNW of Hebgen Lake Estates, Montana",earthquake,0.55,0.86,0.202,4,reviewed,mb,mb
-2022-05-26T17:38:21.129Z,31.65459698,-104.423249,6.671435547,2.6,ml,17,64,0.06756586643,0.3,tx,tx2022kggw,2022-05-26T18:11:57.774Z,"57 km S of Whites City, New Mexico",earthquake,1.301646333,1.271913928,0.1,11,reviewed,tx,tx
+2022-05-26T17:38:21.129Z,31.65459698,-104.423249,6.671435547,2.6,ml,17,64,0.06756586643,0.3,tx,tx2022kggw,2022-05-26T22:54:32.040Z,"57 km S of Whites City, New Mexico",earthquake,1.301646333,1.271913928,0.1,11,reviewed,tx,tx
 2022-05-26T17:37:13.220Z,37.2978333,-120.0128333,23.53,2.44,md,14,81,0.1371,0.14,nc,nc73738286,2022-05-26T22:06:09.707Z,"21km S of Mariposa, CA",earthquake,0.38,0.55,0.209,36,reviewed,nc,nc
 2022-05-26T17:27:28.940Z,38.8326683,-122.8081665,2.23,0.96,md,26,46,0.009379,0.01,nc,nc73738281,2022-05-26T17:36:10.775Z,"8km W of Cobb, CA",earthquake,0.18,0.41,0.07,4,automatic,nc,nc
 2022-05-26T17:22:43.890Z,38.8421669,-122.879837,2.47,0.84,md,19,97,0.004846,0.03,nc,nc73738276,2022-05-26T17:32:10.741Z,"13km ENE of Cloverdale, CA",earthquake,0.28,0.53,0.04,3,automatic,nc,nc
@@ -280,5 +281,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-25T22:58:59.820Z,42.5241667,-111.4635,4.47,1.35,md,7,278,0.4709,0.2,uu,uu60499622,2022-05-26T14:59:48.130Z,"8 km WNW of Georgetown, Idaho",earthquake,5.95,1.79,0.17,6,reviewed,uu,uu
 2022-05-25T22:58:50.990Z,35.9615,-117.707,4.17,0.55,ml,9,99,0.0479,0.06,ci,ci40026759,2022-05-25T23:26:32.342Z,"18km E of Little Lake, CA",earthquake,0.21,0.36,0.021,3,reviewed,ci,ci
 2022-05-25T22:58:43.868Z,40.1042,-119.474,14.9,0.3,ml,3,241.64,0.208,0.0669,nn,nn00839670,2022-05-26T02:40:34.713Z,"20 km NNE of Sutcliffe, Nevada",earthquake,,6.9,0,1,reviewed,nn,nn
-2022-05-25T22:51:42.982Z,-21.8925,-69.7935,67.17,4.6,mb,,131,0.159,1.03,us,us7000hcj1,2022-05-25T23:43:35.442Z,"47 km ENE of Tocopilla, Chile",earthquake,3.3,4.6,0.061,81,reviewed,us,us
-2022-05-25T22:46:42.610Z,46.878166666666665,-121.76233333333333,-1.96,0.53,ml,6,110,0.04226,0.15,uw,uw61835612,2022-05-26T00:57:46.960Z,"24 km ENE of Ashford, Washington",earthquake,0.64,1.33,0.0232496186303649,3,reviewed,uw,uw
