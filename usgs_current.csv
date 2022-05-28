@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-28T09:52:21.090Z,34.0111667,-116.6833333,9.31,1.17,ml,39,79,0.0401,0.16,ci,ci40029055,2022-05-28T09:56:27.201Z,"10km WSW of Morongo Valley, CA",earthquake,0.23,0.6,0.159,28,automatic,ci,ci
+2022-05-28T09:51:22.430Z,33.6381667,-117.999,13.42,1.68,ml,38,120,0.06566,0.3,ci,ci40029047,2022-05-28T09:55:26.005Z,"6km S of Huntington Beach, CA",earthquake,0.55,0.98,0.147,29,automatic,ci,ci
+2022-05-28T09:50:29.450Z,33.6391667,-117.992,13.5,1.49,ml,26,174,0.0609,0.3,ci,ci40029039,2022-05-28T09:54:23.983Z,"6km S of Huntington Beach, CA",earthquake,0.75,0.94,0.244,31,automatic,ci,ci
 2022-05-28T09:39:46.618Z,61.6009,-146.3445,36.7,1.4,ml,,,,1.06,ak,ak0226sx4q1x,2022-05-28T09:42:06.238Z,"48 km SSE of Nelchina, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-28T09:39:29.970Z,36.1066667,-117.9058333,4.13,1.09,ml,15,67,0.04269,0.19,ci,ci40029031,2022-05-28T09:43:08.976Z,"8km NNE of Coso Junction, CA",earthquake,0.38,0.55,0.139,15,automatic,ci,ci
 2022-05-28T09:23:16.160Z,19.1788330078125,-155.483840942383,31.7099990844727,2.22,ml,42,77,,0.150000006,hv,hv73025612,2022-05-28T09:28:46.630Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.730000019,4.62,4,automatic,hv,hv
@@ -209,5 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T10:19:53.850Z,38.5096667,-122.7215,7.79,0.91,md,15,67,0.1125,0.07,nc,nc73738551,2022-05-27T17:10:12.669Z,"3km E of Larkfield-Wikiup, CA",earthquake,0.3,0.85,0.315,13,reviewed,nc,nc
 2022-05-27T10:01:01.950Z,51.9663333333333,178.396,9.46,0.26,ml,4,340,,0.12,av,av91060458,2022-05-28T07:40:14.540Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,3.01,1.62,0.200369971925546,4,reviewed,av,av
 2022-05-27T09:59:39.370Z,33.4208333,-116.6138333,9.12,0.83,ml,43,38,0.07431,0.15,ci,ci40028047,2022-05-27T17:48:28.420Z,"16km N of Warner Springs, CA",earthquake,0.18,0.42,0.164,23,reviewed,ci,ci
-2022-05-27T09:57:29.570Z,38.786335,-122.7498322,-0.09,0.86,md,9,135,0.0107,0.02,nc,nc73738546,2022-05-27T10:52:15.457Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.69,,1,automatic,nc,nc
-2022-05-27T09:56:15.590Z,33.4955,-116.4968333,14.5,0.19,ml,23,60,0.06562,0.11,ci,ci40028039,2022-05-27T16:25:42.673Z,"18km ESE of Anza, CA",earthquake,0.21,0.4,0.128,7,reviewed,ci,ci
