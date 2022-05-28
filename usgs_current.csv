@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-28T11:17:30.090Z,19.1776676177979,-155.501998901367,36.0299987792969,2.29999995,md,47,87,,0.119999997,hv,hv73025712,2022-05-28T11:20:36.690Z,"3 km SW of Pāhala, Hawaii",earthquake,0.46,0.670000017,0.460000008,29,automatic,hv,hv
+2022-05-28T11:26:02.080Z,33.736,-117.7696667,3.91,1.08,ml,7,188,0.1463,0.24,ci,ci40029119,2022-05-28T11:29:36.280Z,"4km SE of North Tustin, CA",earthquake,1.21,2.45,0.28,11,automatic,ci,ci
+2022-05-28T11:17:30.090Z,19.1776676177979,-155.501998901367,36.0299987792969,1.74,ml,47,87,,0.119999997,hv,hv73025712,2022-05-28T11:23:00.530Z,"3 km SW of Pāhala, Hawaii",earthquake,0.46,0.670000017,4.8,5,automatic,hv,hv
 2022-05-28T11:15:26.773Z,63.3473,-153.5652,0,1.4,ml,,,,0.91,ak,ak0226sy6eiy,2022-05-28T11:17:50.709Z,"55 km NE of Nikolai, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-28T11:09:03.253Z,57.5122,-153.3909,3.7,1.5,ml,,,,0.56,ak,ak0226sy529g,2022-05-28T11:11:50.353Z,"34 km N of Old Harbor, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-05-28T10:58:19.460Z,33.6221667,-118.0083333,14.82,1.17,ml,18,228,0.08263,0.15,ci,ci40029103,2022-05-28T11:01:59.526Z,"7km W of Newport Beach, CA",earthquake,0.85,0.49,0.242,17,automatic,ci,ci
+2022-05-28T10:56:48.500Z,17.8921666666667,-66.8833333333333,15.46,2.21,md,10,237,,0.07,pr,pr71351133,2022-05-28T11:26:11.140Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.62,0.0491861157979709,5,reviewed,pr,pr
 2022-05-28T10:55:16.810Z,34.9505,-119.2101667,0.62,1.05,ml,9,165,0.1026,0.24,ci,ci40029095,2022-05-28T10:58:54.467Z,"13km NNW of Pine Mountain Club, CA",earthquake,0.63,0.75,0.141,10,automatic,ci,ci
 2022-05-28T10:47:31.480Z,34.0813333,-117.2606667,13.86,0.88,ml,22,74,0.06472,0.21,ci,ci40029087,2022-05-28T10:51:13.880Z,"4km N of Loma Linda, CA",earthquake,0.39,0.83,0.247,18,automatic,ci,ci
 2022-05-28T10:43:43.590Z,18.0591666666667,-67.5328333333333,8.09,2.48,md,7,270,,0.19,pr,pr71351128,2022-05-28T11:16:19.070Z,"36 km W of Puerto Real, Puerto Rico",earthquake,1.17,1.78,0.091353142736514,5,reviewed,pr,pr
@@ -202,5 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T11:41:38.460Z,58.3096666666667,-154.8155,2.68,-0.18,ml,5,201,,0.18,av,av91060463,2022-05-28T07:44:31.680Z,"85 km NNW of Karluk, Alaska",earthquake,0.66,1.31,0.13551706880521,5,reviewed,av,av
 2022-05-27T11:40:50.660Z,33.9913333,-116.7746667,17.28,0.58,ml,27,46,0.05164,0.13,ci,ci40028119,2022-05-27T18:07:49.359Z,"8km N of Cabazon, CA",earthquake,0.22,0.48,0.093,11,reviewed,ci,ci
 2022-05-27T11:38:50.649Z,38.543,-119.4599,5.8,1.4,ml,15,137.07,0.042,0.1132,nn,nn00839824,2022-05-27T11:42:19.271Z,"3 km NNE of Walker, California",earthquake,,0.6,0.2,12,automatic,nn,nn
-2022-05-27T11:25:51.430Z,38.8224983,-122.7656631,2.28,0.85,md,8,189,0.008625,0.01,nc,nc73738586,2022-05-27T13:04:15.257Z,"4km W of Cobb, CA",earthquake,0.72,0.84,,1,automatic,nc,nc
-2022-05-27T11:24:48.490Z,53.8435,-166.4685,11.3,0.36,ml,13,209,,0.08,av,av91060468,2022-05-28T07:49:53.640Z,"5 km SE of Unalaska, Alaska",earthquake,0.5,0.38,0.287384725105597,12,reviewed,av,av
