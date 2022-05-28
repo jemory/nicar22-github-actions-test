@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-05-27T23:53:02.619Z,38.1631,-117.9008,10.7,1.1,ml,10,156.12,0.052,0.0969,nn,nn00839841,2022-05-27T23:57:11.393Z,"31 km SE of Mina, Nevada",earthquake,,0.8,0.43,5,automatic,nn,nn
 2022-05-27T23:01:26.570Z,19.2266674041748,-155.402328491211,30.6399993896484,1.98000002,md,33,147,,0.119999997,hv,hv73025107,2022-05-27T23:04:39.580Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.61,0.699999988,0.469999999,9,automatic,hv,hv
 2022-05-27T22:55:52.610Z,33.4046667,-117.0661667,8.99,0.83,ml,15,122,0.2895,0.27,ci,ci40028727,2022-05-27T22:59:29.185Z,"4km NNE of Pala, CA",earthquake,0.91,31.61,0.284,15,automatic,ci,ci
 2022-05-27T22:51:22.362Z,62.4055,-151.2791,78.9,1.2,ml,,,,0.26,ak,ak0226rhej2k,2022-05-27T22:57:48.077Z,"28 km WSW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -214,6 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T00:06:19.180Z,38.7916679,-122.8085022,3.17,1.17,md,19,80,0.0054,0.02,nc,nc73738416,2022-05-27T03:28:10.647Z,"5km WNW of The Geysers, CA",earthquake,0.27,0.7,,1,automatic,nc,nc
 2022-05-27T00:01:10.130Z,34.2741667,-118.4378333,10.7,1,ml,18,114,0.03517,0.13,ci,ci40027775,2022-05-27T00:13:46.374Z,"2km S of San Fernando, CA",earthquake,0.39,0.6,0.124,5,reviewed,ci,ci
 2022-05-27T00:00:22.030Z,38.7916679,-122.7383347,2.69,0.37,md,10,94,0.008512,0.01,nc,nc73738411,2022-05-27T01:09:15.817Z,"2km NE of The Geysers, CA",earthquake,0.29,1.03,,1,automatic,nc,nc
-2022-05-26T23:58:56.460Z,36.19416667,-98.805,6.61,1.38,ml,33,150,0.1934620361,0.15,ok,ok2022kgtk,2022-05-27T13:37:06.564Z,"10 km ESE of Chester, Oklahoma",earthquake,,0.5,0.19,13,reviewed,ok,ok
-2022-05-26T23:53:45.150Z,35.6173333,-117.3675,1.41,0.08,ml,5,187,0.08308,0.11,ci,ci40027767,2022-05-27T00:09:46.814Z,"16km S of Trona, CA",earthquake,1.08,0.96,,1,reviewed,ci,ci
-2022-05-26T23:49:13.260Z,38.8343333,-122.8075,2.54,0.28,md,21,50,0.01111,0.03,nc,nc73738406,2022-05-27T17:52:11.910Z,"7km W of Cobb, CA",earthquake,0.24,0.48,0.279,2,reviewed,nc,nc
