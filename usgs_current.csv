@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-28T06:06:08.710Z,35.7761667,-117.5981667,6.12,1.48,ml,22,81,0.03949,0.16,ci,ci40028919,2022-05-28T06:09:52.388Z,"18km W of Searles Valley, CA",earthquake,0.3,0.59,0.188,23,automatic,ci,ci
+2022-05-28T06:33:12.822Z,60.0594,-150.7019,11.4,1.1,ml,,,,0.82,ak,ak0226svb2c2,2022-05-28T06:35:25.465Z,"26 km NNE of Fox River, Alaska",earthquake,,1.7,,,automatic,ak,ak
+2022-05-28T06:27:23.770Z,35.6335,-117.4516667,8.92,0.95,ml,10,156,0.04768,0.18,ci,ci40028927,2022-05-28T06:30:56.463Z,"16km SSW of Searles Valley, CA",earthquake,0.87,1.1,0.26,7,automatic,ci,ci
+2022-05-28T06:10:23.450Z,18.0141666666667,-67.0015,10.16,2.18,md,6,121,,0.15,pr,pr71351098,2022-05-28T06:28:20.140Z,"6 km NE of La Parguera, Puerto Rico",earthquake,0.73,1.18,0.0496609964325518,5,reviewed,pr,pr
+2022-05-28T06:06:08.710Z,35.7761667,-117.5981667,6.12,1.48,ml,22,81,0.03949,0.16,ci,ci40028919,2022-05-28T06:41:29.185Z,"18km W of Searles Valley, CA",earthquake,0.3,0.59,0.188,23,automatic,ci,ci
 2022-05-28T05:52:37.610Z,33.5323333,-116.7246667,13.39,0.43,ml,22,38,0.03463,0.24,ci,ci40028903,2022-05-28T05:56:13.585Z,"5km WSW of Anza, CA",earthquake,0.49,0.75,0.092,8,automatic,ci,ci
 2022-05-28T05:47:30.830Z,19.1766662597656,-155.487670898438,31.1200008392334,1.74000001,md,28,90,,0.140000001,hv,hv73025407,2022-05-28T05:50:51.800Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.8,1.28999996,1.75999999,4,automatic,hv,hv
 2022-05-28T05:47:24.798Z,18.9193,-68.3849,30.57,2.9,ml,,148,0.402,0.65,us,us7000hd81,2022-05-28T05:57:45.040Z,"37 km N of Punta Cana, Dominican Republic",earthquake,5.8,11.8,0.058,39,reviewed,us,us
@@ -36,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T01:04:25.120Z,33.6965,-116.693,16.64,0.68,ml,16,141,0.02292,0.11,ci,ci40028783,2022-05-28T01:08:04.289Z,"5km SSE of Idyllwild, CA",earthquake,0.36,0.41,0.178,13,automatic,ci,ci
 2022-05-28T00:54:51.646Z,-9.3253,123.6273,101.54,4.3,mb,,79,0.762,0.8,us,us7000hd7a,2022-05-28T01:32:39.040Z,"34 km NNW of Naisano Dua, Indonesia",earthquake,4.7,7.7,0.134,16,reviewed,us,us
 2022-05-28T00:52:24.460Z,33.9048333,-117.0446667,14.64,1.01,ml,30,81,0.1404,0.21,ci,ci40028775,2022-05-28T01:03:18.660Z,"7km WSW of Beaumont, CA",earthquake,0.31,0.59,0.214,32,automatic,ci,ci
+2022-05-28T00:51:45.188Z,31.665955,-104.3727558,8.111083984,1.9,ml,11,87,0.09212434003,0.3,tx,tx2022kiqr,2022-05-28T06:19:11.351Z,"56 km S of Whites City, New Mexico",earthquake,1.719528153,1.586984279,0.2,7,reviewed,tx,tx
 2022-05-28T00:50:52.070Z,17.9616666666667,-66.9005,7.08,1.78,md,6,218,,0.05,pr,pr71351058,2022-05-28T01:34:21.230Z,"1 km SE of Guánica, Puerto Rico",earthquake,0.37,0.42,0.127530958814467,6,reviewed,pr,pr
 2022-05-28T00:42:05.870Z,36.2394981,-120.8116684,6.72,3.18,ml,64,57,0.025,0.15,nc,nc73738836,2022-05-28T04:35:21.109Z,"22km ENE of San Lucas, CA",earthquake,0.3,0.51,0.292,24,automatic,nc,nc
 2022-05-28T00:38:52.510Z,33.5936667,-116.8088333,6.93,0.46,ml,15,116,0.03734,0.18,ci,ci40028751,2022-05-28T00:42:24.337Z,"13km WNW of Anza, CA",earthquake,0.51,0.61,0.17,11,automatic,ci,ci
@@ -100,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T16:02:21.230Z,19.2198333740234,-155.511337280273,34.8199996948242,2,ml,48,65,,0.109999999,hv,hv73024787,2022-05-27T16:07:52.190Z,"3 km WNW of Pāhala, Hawaii",earthquake,0.55,0.850000024,3.9,10,automatic,hv,hv
 2022-05-27T16:01:22.790Z,33.8506667,-117.4955,2.28,1.59,ml,48,52,0.05353,0.14,ci,ci40028423,2022-05-27T18:28:27.247Z,"4km SE of Home Gardens, CA",quarry blast,0.17,0.3,0.159,20,reviewed,ci,ci
 2022-05-27T16:01:15.428Z,52.0823,-173.4957,76.58,3.5,mb,,193,0.418,0.47,us,us7000hd4x,2022-05-27T20:57:01.040Z,"49 km ESE of Atka, Alaska",earthquake,11.6,11.6,0.165,9,reviewed,us,us
-2022-05-27T15:54:20.620Z,36.6073341,-121.2095032,6.4,1.75,md,11,127,0.04051,0.06,nc,nc73738681,2022-05-27T18:25:12.121Z,"10km NW of Pinnacles, CA",earthquake,0.43,0.8,0.23,6,automatic,nc,nc
+2022-05-27T15:54:20.590Z,36.6068333,-121.2103333,6.68,1.69,md,25,101,0.0404,0.07,nc,nc73738681,2022-05-28T06:33:16.290Z,"10km NW of Pinnacles, CA",earthquake,0.32,0.55,0.231,23,reviewed,nc,nc
 2022-05-27T15:47:28.824Z,14.0303,144.6883,186.61,4.5,mb,,91,0.472,0.63,us,us7000hd4e,2022-05-27T16:08:26.040Z,"58 km NNW of Yigo Village, Guam",earthquake,8.9,4.5,0.094,33,reviewed,us,us
 2022-05-27T15:42:51.930Z,33.5571667,-117.9396667,9.32,1.56,ml,13,263,0.1487,0.19,ci,ci40028399,2022-05-27T18:12:29.576Z,"7km S of Newport Beach, CA",earthquake,0.83,1.3,0.119,13,reviewed,ci,ci
 2022-05-27T15:39:14.290Z,33.9351667,-116.0373333,2.86,1.4,ml,38,51,0.07292,0.2,ci,ci40028391,2022-05-27T17:37:16.220Z,"23km S of Twentynine Palms, CA",earthquake,0.27,0.64,0.15,26,reviewed,ci,ci
@@ -191,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-27T06:46:44.620Z,38.791832,-122.8096695,3.28,0.74,md,17,109,0.006233,0.02,nc,nc73738521,2022-05-27T07:25:14.190Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.82,0.11,2,automatic,nc,nc
 2022-05-27T06:44:15.970Z,38.792,-122.8086667,2.96,0.45,md,31,79,0.005709,0.03,nc,nc73738516,2022-05-27T22:15:13.471Z,"5km WNW of The Geysers, CA",earthquake,0.21,0.36,0.131,4,reviewed,nc,nc
 2022-05-27T06:44:08.020Z,38.7916679,-122.809166,3.1,0.62,md,21,80,0.005816,0.02,nc,nc73738511,2022-05-27T08:53:22.659Z,"5km WNW of The Geysers, CA",earthquake,0.28,0.64,0.51,3,automatic,nc,nc
-2022-05-27T06:39:46.300Z,19.0686664581299,-155.410339355469,34.25,2.18,ml,45,200,,0.150000006,hv,hv73024497,2022-05-27T06:45:17.960Z,"16 km SSE of Pāhala, Hawaii",earthquake,0.69,0.889999986,3.12,8,automatic,hv,hv
-2022-05-27T06:22:21.770Z,33.4085,-116.4433333,13.89,0.74,ml,39,65,0.1035,0.16,ci,ci40027991,2022-05-27T17:39:43.590Z,"18km NNW of Borrego Springs, CA",earthquake,0.22,0.48,0.133,23,reviewed,ci,ci
-2022-05-27T06:20:36.610Z,18.015,-66.7505,12.35,2.57,md,34,133,,0.21,pr,pr71350988,2022-05-27T06:42:57.850Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.25,0.29,0.179975489260065,20,reviewed,pr,pr
