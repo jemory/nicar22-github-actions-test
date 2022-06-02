@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-02T08:22:40.570Z,35.6031667,-117.3898333,8.95,0.65,ml,9,182,0.08073,0.15,ci,ci40032263,2022-06-02T08:26:16.435Z,"18km S of Trona, CA",earthquake,0.77,1.29,0.155,5,automatic,ci,ci
 2022-06-02T07:55:23.660Z,35.6838333,-117.4126667,4.57,0.86,ml,11,129,0.1633,0.15,ci,ci40032255,2022-06-02T07:58:48.282Z,"9km S of Searles Valley, CA",earthquake,0.58,1.58,0.081,9,automatic,ci,ci
-2022-06-02T07:55:00.590Z,32.9426651,-116.3228302,6.87,1.58,ml,12,95,0.02023,0.1,ci,ci40032247,2022-06-02T07:58:34.281Z,"24km NE of Pine Valley, CA",earthquake,0.54,0.66,0.55,12,automatic,ci,ci
+2022-06-02T07:55:00.590Z,32.9426651,-116.3228302,6.87,1.58,ml,12,95,0.02023,0.1,ci,ci40032247,2022-06-02T08:09:06.660Z,"24km NE of Pine Valley, CA",earthquake,0.54,0.66,0.55,12,automatic,ci,ci
 2022-06-02T07:51:22.740Z,32.9395,-116.328,7.45,0.79,ml,13,78,0.0256,0.19,ci,ci40032239,2022-06-02T07:54:58.252Z,"23km NE of Pine Valley, CA",earthquake,0.41,0.55,0.112,5,automatic,ci,ci
 2022-06-02T07:48:26.830Z,35.8945,-117.6953333,9.21,0.68,ml,10,100,0.06458,0.09,ci,ci40032231,2022-06-02T07:52:02.237Z,"20km ESE of Little Lake, CA",earthquake,0.39,0.99,0.077,8,automatic,ci,ci
 2022-06-02T07:43:42.519Z,60.922,-150.5186,50.9,1.3,ml,,,,0.56,ak,ak022715nfuz,2022-06-02T07:45:46.405Z,"9 km E of Point Possession, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -14,6 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-02T07:03:09.987Z,51.2048,178.7851,36.53,4.1,mb,,187,0.763,0.63,us,us7000he9q,2022-06-02T07:27:26.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,4.6,12.2,0.058,82,reviewed,us,us
 2022-06-02T07:00:11.780Z,34.2855,-117.4755,12.18,1.04,ml,22,55,0.0446,0.21,ci,ci40032215,2022-06-02T07:15:13.700Z,"4km NE of Lytle Creek, CA",earthquake,0.37,0.7,0.209,22,automatic,ci,ci
 2022-06-02T06:30:37.862Z,51.2769,178.8063,10,4.7,mb,,134,0.695,0.8,us,us7000he9g,2022-06-02T07:10:43.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,8,1.9,0.035,252,reviewed,us,us
+2022-06-02T06:24:16.296Z,-26.6939,-178.3079,282.83,4.2,mb,,221,12.185,0.36,us,us7000he9j,2022-06-02T08:11:30.040Z,"south of the Fiji Islands",earthquake,8.6,12,0.132,17,reviewed,us,us
 2022-06-02T06:12:18.252Z,61.1787,-146.9278,10.6,1.5,ml,,,,0.19,ak,ak022714vb6p,2022-06-02T06:15:32.114Z,"31 km W of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-02T06:03:17.786Z,23.706,122.5286,8.03,4.5,mb,,57,0.876,0.31,us,us7000he9b,2022-06-02T06:32:57.040Z,"96 km SSW of Yonakuni, Japan",earthquake,4.1,5.3,0.15,13,reviewed,us,us
 2022-06-02T05:44:01.160Z,17.948,-66.9435,10.42,2.05,md,5,217,,0.07,pr,pr71351908,2022-06-02T06:31:41.110Z,"4 km SW of Guánica, Puerto Rico",earthquake,0.61,0.94,0.0494922871172645,5,reviewed,pr,pr
@@ -172,7 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T08:43:34.255Z,39.3417,-119.7697,0,0.1,ml,7,147.86,0.011,0.1286,nn,nn00840102,2022-06-02T02:38:10.180Z,"10 km WNW of Virginia City, Nevada",earthquake,,2.2,0.37,3,reviewed,nn,nn
 2022-06-01T08:39:02.230Z,19.0566,-67.1098,13,3.53,md,22,225,0.5891,0.22,pr,pr2022152003,2022-06-01T11:33:23.117Z,"62 km N of Isabela, Puerto Rico",earthquake,0.69,1.45,0.09,14,reviewed,pr,pr
 2022-06-01T08:30:46.736Z,39.5952,-119.0892,11.6,0.9,ml,14,115.14,0.256,0.1815,nn,nn00840052,2022-06-02T02:37:50.616Z,"14 km E of Fernley, Nevada",earthquake,,2.9,0.28,6,reviewed,nn,nn
-2022-06-01T08:29:49.585Z,64.3473,-149.4425,11.8,1.2,ml,,,,0.65,ak,ak0226zimjhq,2022-06-01T08:51:00.901Z,"12 km W of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-01T08:07:45.276Z,60.0502,-152.7898,101.9,1.5,ml,,,,0.71,ak,ak0226zihth4,2022-06-01T08:11:18.177Z,"60 km W of Happy Valley, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-06-01T08:06:45.470Z,36.1406667,-117.9218333,5.23,0.82,ml,7,216,0.05891,0.06,ci,ci40031543,2022-06-01T13:16:15.647Z,"11km NNE of Coso Junction, CA",earthquake,0.39,0.54,0.136,5,reviewed,ci,ci
-2022-06-01T08:03:37.758Z,30.1484,142.5633,10,4.4,mb,,137,3.774,0.67,us,us7000he19,2022-06-01T09:34:26.040Z,"Izu Islands, Japan region",earthquake,12.1,1.9,0.109,24,reviewed,us,us
