@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-02T08:57:49.310Z,35.6266667,-117.9558333,5.1,0.77,ml,9,164,0.05628,0.29,ci,ci40032271,2022-06-02T09:01:28.629Z,"13km W of Inyokern, CA",earthquake,1.18,31.61,0.207,11,automatic,ci,ci
 2022-06-02T08:36:00.571Z,61.196,-151.9022,13.3,0.6,ml,,,,0.48,ak,ak0227167a7n,2022-06-02T08:38:35.211Z,"43 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-02T08:29:11.057Z,61.3985,-147.4957,19.8,1.9,ml,,,,0.74,ak,ak0227165t0n,2022-06-02T08:31:56.292Z,"46 km S of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-02T08:22:40.570Z,35.6031667,-117.3898333,8.95,0.65,ml,9,182,0.08073,0.15,ci,ci40032263,2022-06-02T08:26:16.435Z,"18km S of Trona, CA",earthquake,0.77,1.29,0.155,5,automatic,ci,ci
@@ -170,5 +171,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-01T09:30:08.800Z,37.5408325,-118.8108368,4.7,1.01,md,11,233,0.05121,0.01,nc,nc73739786,2022-06-01T10:04:10.556Z,"12km WSW of Toms Place, CA",earthquake,1.77,0.8,0.11,10,automatic,nc,nc
 2022-06-01T09:29:11.876Z,64.2667,-149.971,3.8,1.3,ml,,,,0.74,ak,ak0226zj7w6t,2022-06-01T09:32:56.021Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-01T09:12:12.796Z,38.8864,-119.6382,0,0.4,ml,5,226.49,0.024,0.188,nn,nn00840104,2022-06-02T02:38:11.017Z,"2 km N of Carter Springs, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2022-06-01T09:00:08.122Z,30.4155,102.9892,10,5.9,mww,,18,9.09,1.05,us,us7000he1h,2022-06-02T04:28:17.292Z,"45 km W of Linqiong, China",earthquake,7.9,1.8,0.069,20,reviewed,us,us
-2022-06-01T08:59:37.230Z,19.1588325500488,-155.469833374023,31.1499996185303,2.05999994,md,42,112,,0.129999995,hv,hv73030267,2022-06-01T09:02:55.840Z,"4 km S of Pāhala, Hawaii",earthquake,0.53,0.699999988,1.13,16,automatic,hv,hv
