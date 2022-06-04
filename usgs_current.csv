@@ -33,7 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T17:28:45.799Z,38.0942,-118.2448,0,0.6,ml,8,201.12,0.258,0.187,nn,nn00840309,2022-06-04T21:28:01.301Z,"34 km SSW of Mina, Nevada",earthquake,,0,0.19,6,automatic,nn,nn
 2022-06-04T17:05:10.062Z,38.4955,-119.5207,7.9,1.3,ml,14,91.87,0.065,0.1388,nn,nn00840305,2022-06-04T21:27:35.712Z,"4 km WSW of Walker, California",earthquake,,0.7,0.2,10,automatic,nn,nn
 2022-06-04T16:59:43.703Z,61.5025,-141.0491,2,1.9,ml,,,,0.64,ak,ak02274m6gu5,2022-06-04T17:06:53.386Z,"100 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T21:41:47.040Z,"75 km NE of Samaná, Dominican Republic",earthquake,3,9.98,0.52,4,reviewed,pr,pr
+2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T21:41:47.040Z,"Dominican Republic region",earthquake,3,9.98,0.52,4,reviewed,pr,pr
 2022-06-04T16:56:56.910Z,19.3383333333333,-68.9686666666667,53.8,3.43,md,10,212,,0.56,pr,pr71352393,2022-06-04T18:55:01.940Z,"40 km NNE of Miches, Dominican Republic",earthquake,7.82,3.6,0.0209073856908701,2,reviewed,pr,pr
 2022-06-04T16:51:34.050Z,33.5643333,-116.796,4.94,1.14,ml,43,37,0.03958,0.16,ci,ci40033855,2022-06-04T16:55:24.745Z,"11km W of Anza, CA",earthquake,0.18,0.45,0.2,28,automatic,ci,ci
 2022-06-04T16:51:29.210Z,33.614,-116.4373333,22.06,1.23,ml,26,246,0.09088,0.32,ci,ci40033847,2022-06-04T16:55:08.976Z,"13km WSW of La Quinta, CA",earthquake,1.78,1.31,0.171,3,automatic,ci,ci
@@ -169,7 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T23:17:36.960Z,34.4271667,-118.6285,7.05,1.89,ml,46,29,0.02778,0.22,ci,ci40033535,2022-06-04T00:00:43.240Z,"6km WSW of Valencia, CA",earthquake,0.23,0.44,0.147,24,reviewed,ci,ci
 2022-06-03T22:58:58.296Z,39.8344,27.9818,10,4.3,mb,,36,1.414,0.8,us,us7000hesw,2022-06-04T11:29:34.061Z,"17 km WSW of Susurluk, Turkey",earthquake,4.8,1.9,0.094,32,reviewed,us,us
 2022-06-03T22:57:08.880Z,35.943,-117.6733333,5.03,0.67,ml,12,75,0.01926,0.05,ci,ci40033519,2022-06-03T23:16:34.658Z,"21km E of Little Lake, CA",earthquake,0.17,0.31,0.123,7,reviewed,ci,ci
-2022-06-03T22:45:18.193Z,51.8521,-177.8888,5.2,1.3,ml,,,,0.24,ak,ak0227324n8j,2022-06-04T07:12:43.880Z,"86 km W of Adak, Alaska",earthquake,,11.4,,,reviewed,ak,ak
-2022-06-03T22:43:21.130Z,33.9736667,-116.7983333,17.59,1,ml,25,63,0.06183,0.11,ci,ci40033503,2022-06-03T23:14:18.644Z,"6km N of Cabazon, CA",earthquake,0.23,0.51,0.101,18,reviewed,ci,ci
-2022-06-03T22:41:29.898Z,31.6096,-103.9715,4.31,2.5,ml,,73,0.254,0.22,us,us7000hess,2022-06-04T05:15:55.040Z,"36 km NNW of Toyah, Texas",earthquake,1.1,2.7,0.047,60,reviewed,us,us
-2022-06-03T22:39:49.750Z,35.9431667,-117.6725,5.04,0.86,ml,14,75,0.01856,0.05,ci,ci40033495,2022-06-03T23:10:42.627Z,"21km E of Little Lake, CA",earthquake,0.17,0.3,0.124,9,reviewed,ci,ci
