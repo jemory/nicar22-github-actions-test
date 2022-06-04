@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T19:54:28.648Z,37.2674,-104.4897,5,2.9,ml,,99,0.143,0.83,us,us7000hf0l,2022-06-04T20:17:42.320Z,"5 km NNW of El Moro, Colorado",earthquake,2.1,2,0.043,71,reviewed,us,us
 2022-06-04T19:38:15.906Z,63.1212,-150.5691,92.6,1.7,ml,,,,0.51,ak,ak02274nu7he,2022-06-04T19:41:11.496Z,"70 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-04T18:49:44.120Z,34.0003333,-118.4086667,11.43,1.52,ml,19,92,0.02553,0.26,ci,ci40033927,2022-06-04T18:53:31.323Z,"3km SSW of Culver City, CA",earthquake,0.48,0.52,0.205,28,automatic,ci,ci
 2022-06-04T18:48:41.792Z,32.9085,140.6725,60.51,4.6,mb,,114,0.75,0.9,us,us7000hf0c,2022-06-04T19:10:16.040Z,"Izu Islands, Japan region",earthquake,7.3,5.7,0.05,127,reviewed,us,us
@@ -11,6 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T17:40:47.520Z,35.081,-95.50433333,7.67,2.45,ml,65,88,0,0.22,ok,ok2022kwsl,2022-06-04T18:08:56.862Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.23,15,reviewed,ok,ok
 2022-06-04T17:31:45.720Z,19.1871662139893,-155.489501953125,33.2400016784668,2.3,ml,48,70,,0.109999999,hv,hv73033677,2022-06-04T17:37:16.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.639999986,4.13,18,automatic,hv,hv
 2022-06-04T16:59:43.703Z,61.5025,-141.0491,2,1.9,ml,,,,0.64,ak,ak02274m6gu5,2022-06-04T17:06:53.386Z,"100 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-04T16:58:03.210Z,19.7551,-68.9138,64,3.42,md,12,275,0.5402,0.41,pr,pr2022155004,2022-06-04T20:09:49.128Z,"Dominican Republic region",earthquake,3,9.98,0.52,4,reviewed,pr,pr
 2022-06-04T16:56:56.910Z,19.3383333333333,-68.9686666666667,53.8,3.43,md,10,212,,0.56,pr,pr71352393,2022-06-04T18:55:01.940Z,"40 km NNE of Miches, Dominican Republic",earthquake,7.82,3.6,0.0209073856908701,2,reviewed,pr,pr
 2022-06-04T16:51:34.050Z,33.5643333,-116.796,4.94,1.14,ml,43,37,0.03958,0.16,ci,ci40033855,2022-06-04T16:55:24.745Z,"11km W of Anza, CA",earthquake,0.18,0.45,0.2,28,automatic,ci,ci
 2022-06-04T16:51:29.210Z,33.614,-116.4373333,22.06,1.23,ml,26,246,0.09088,0.32,ci,ci40033847,2022-06-04T16:55:08.976Z,"13km WSW of La Quinta, CA",earthquake,1.78,1.31,0.171,3,automatic,ci,ci
@@ -162,11 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T20:38:44.330Z,53.8586666666667,-166.780166666667,6.61,0.22,ml,6,128,,0.12,av,av91584581,2022-06-04T06:53:57.430Z,"16 km WSW of Dutch Harbor, Alaska",earthquake,0.37,1.12,0.190684832994544,6,reviewed,av,av
 2022-06-03T20:38:34.150Z,33.074,-116.4653333,11.58,0.62,ml,14,83,0.1112,0.16,ci,ci40033415,2022-06-03T22:05:09.091Z,"13km E of Julian, CA",earthquake,0.44,0.94,0.077,5,reviewed,ci,ci
 2022-06-03T20:23:13.130Z,17.97,-66.9853333333333,8.64,2.19,md,5,183,,0.05,pr,pr71352213,2022-06-03T20:42:08.600Z,"6 km E of La Parguera, Puerto Rico",earthquake,0.45,0.84,0.215020618441129,2,reviewed,pr,pr
-2022-06-03T20:18:49.550Z,35.7713333,-117.5731667,7.06,0.92,ml,12,161,0.04853,0.08,ci,ci40033407,2022-06-03T21:55:13.553Z,"15km W of Searles Valley, CA",earthquake,0.38,0.26,0.188,5,reviewed,ci,ci
-2022-06-03T20:13:07.690Z,33.8261667,-117.4801667,-0.66,1.17,ml,30,62,0.03054,0.2,ci,ci40033399,2022-06-03T21:47:38.187Z,"7km SSE of Home Gardens, CA",quarry blast,0.36,31.61,0.119,12,reviewed,ci,ci
-2022-06-03T20:08:54.288Z,60.0642,-152.991,112.1,0.5,ml,,,,0.4,ak,ak022730py30,2022-06-03T20:17:54.135Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,2.3,,,automatic,ak,ak
-2022-06-03T20:07:02.670Z,38.1205,-122.1785,-0.07,1.01,md,10,94,0.02321,0.07,nc,nc73740371,2022-06-03T23:37:22.309Z,"5km E of Vallejo, CA",quarry blast,0.31,31.61,0.139,8,reviewed,nc,nc
-2022-06-03T20:04:25.680Z,43.5186667,-110.6865,3.37,0.15,ml,7,188,0.077,0.09,mb,mb80547764,2022-06-03T20:31:04.150Z,"7 km NE of Jackson, Wyoming",earthquake,0.69,2.39,0.418,4,reviewed,mb,mb
-2022-06-03T19:59:33.057Z,-7.063,129.4617,108.85,4.6,mb,,68,2.037,0.78,us,us7000herc,2022-06-03T21:28:05.040Z,"Kepulauan Babar, Indonesia",earthquake,6.7,6.5,0.06,95,reviewed,us,us
-2022-06-03T19:57:15.617Z,63.3677,-151.951,9.3,1.3,ml,,,,0.99,ak,ak022730exk9,2022-06-03T20:02:54.591Z,"22 km SSW of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-06-03T19:57:15.180Z,51.9245,178.316666666667,6.87,1.59,ml,4,342,,0.07,av,av91061428,2022-06-04T06:36:22.650Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,1.69,3.49,0.0976547647228441,4,reviewed,av,av
