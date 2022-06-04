@@ -1,13 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-04T18:10:55.850Z,34.0136667,-118.4118333,7.89,1.72,ml,38,66,0.02979,0.32,ci,ci40033919,2022-06-04T18:14:35.536Z,"2km WSW of Culver City, CA",earthquake,0.42,0.77,0.129,29,automatic,ci,ci
+2022-06-04T18:06:46.467Z,62.3019,-148.682,8.1,0.8,ml,,,,0.56,ak,ak02274n1zba,2022-06-04T18:13:50.921Z,"57 km NNW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-04T18:06:09.564Z,64.3314,-149.6953,5.9,0.9,ml,,,,1.25,ak,ak02274n1whb,2022-06-04T18:13:53.276Z,"24 km W of Anderson, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-04T17:43:49.990Z,35.7823333,-117.5996667,7.49,0.94,ml,13,140,0.03338,0.15,ci,ci40033895,2022-06-04T17:47:20.964Z,"18km W of Searles Valley, CA",earthquake,0.39,0.62,0.075,8,automatic,ci,ci
 2022-06-04T17:41:32.030Z,33.0378333,-116.427,10.08,0.99,ml,20,83,0.133,0.19,ci,ci40033887,2022-06-04T17:45:04.956Z,"17km ESE of Julian, CA",earthquake,0.37,0.96,0.118,19,automatic,ci,ci
-2022-06-04T17:40:44.558Z,34.8313446,-95.25723267,11.46003914,3.25,ml,39,201.4392653,0.159073323,1.323211288,ok,ok2022kwsl,2022-06-04T17:44:17.744Z,"10 km SSE of Wilburton, Oklahoma",earthquake,5.692347209,2.822201984,,29,automatic,ok,ok
+2022-06-04T17:40:47.520Z,35.081,-95.50433333,7.67,2.45,ml,65,88,0,0.22,ok,ok2022kwsl,2022-06-04T18:08:56.862Z,"13 km WSW of Quinton, Oklahoma",earthquake,,0.5,0.23,15,reviewed,ok,ok
 2022-06-04T17:31:45.720Z,19.1871662139893,-155.489501953125,33.2400016784668,2.3,ml,48,70,,0.109999999,hv,hv73033677,2022-06-04T17:37:16.090Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.55,0.639999986,4.13,18,automatic,hv,hv
 2022-06-04T16:59:43.703Z,61.5025,-141.0491,2,1.9,ml,,,,0.64,ak,ak02274m6gu5,2022-06-04T17:06:53.386Z,"100 km E of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-04T16:51:34.050Z,33.5643333,-116.796,4.94,1.14,ml,43,37,0.03958,0.16,ci,ci40033855,2022-06-04T16:55:24.745Z,"11km W of Anza, CA",earthquake,0.18,0.45,0.2,28,automatic,ci,ci
 2022-06-04T16:51:29.210Z,33.614,-116.4373333,22.06,1.23,ml,26,246,0.09088,0.32,ci,ci40033847,2022-06-04T16:55:08.976Z,"13km WSW of La Quinta, CA",earthquake,1.78,1.31,0.171,3,automatic,ci,ci
-2022-06-04T16:40:35.490Z,35.9996681,-120.5595016,1.35,1.18,md,11,93,0.02096,0.04,nc,nc73740601,2022-06-04T16:57:15.728Z,"16km NW of Parkfield, CA",earthquake,0.29,0.53,0.14,5,automatic,nc,nc
-2022-06-04T16:29:12.704Z,59.7326,-153.046,103.1,2,ml,,,,0.49,ak,ak02274lzyx3,2022-06-04T16:42:15.626Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-04T16:40:35.490Z,35.9996681,-120.5595016,1.35,1.18,md,11,93,0.02096,0.04,nc,nc73740601,2022-06-04T18:14:10.168Z,"16km NW of Parkfield, CA",earthquake,0.29,0.53,0.14,5,automatic,nc,nc
+2022-06-04T16:29:12.704Z,59.7326,-153.046,103.1,2,ml,,,,0.49,ak,ak02274lzyx3,2022-06-04T18:11:20.040Z,"59 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-04T16:23:52.110Z,38.6332,-97.4766,5,3,mb_lg,,116,0.703,0.41,us,us7000hezb,2022-06-04T17:01:27.531Z,"9 km SSW of Gypsum, Kansas",earthquake,3,2,0.044,135,reviewed,us,us
 2022-06-04T16:12:24.619Z,64.6786,-150.6866,4.5,1.5,ml,,,,1.11,ak,ak02274lwcpo,2022-06-04T16:30:30.829Z,"36 km S of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-04T15:57:55.060Z,19.2293338775635,-155.379669189453,31.9699993133545,1.96000004,md,39,157,,0.109999999,hv,hv73033582,2022-06-04T16:01:43.810Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.64,0.720000029,1.38999999,12,automatic,hv,hv
@@ -16,6 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T15:38:15.770Z,19.1749992370605,-155.509994506836,35.7700004577637,1.88,md,32,105,,0.270000011,hv,hv73033577,2022-06-04T15:41:17.670Z,"4 km SW of Pāhala, Hawaii",earthquake,0.96,1.37,1.40999997,6,automatic,hv,hv
 2022-06-04T15:30:20.290Z,39.3019981,-122.8536682,-0.87,2.7,md,32,40,0.1759,0.21,nc,nc73740571,2022-06-04T16:07:15.463Z,"15km SE of Lake Pillsbury, CA",earthquake,0.35,2.5,0.14,29,automatic,nc,nc
 2022-06-04T15:28:13.264Z,62.906,-148.6774,60.1,1.5,ml,,,,0.82,ak,ak02274lebon,2022-06-04T15:45:57.113Z,"55 km SSE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-06-04T15:19:39.824Z,19.8339,121.298,34.44,4.3,mb,,112,2.976,1.09,us,us7000hez5,2022-06-04T18:03:00.040Z,"97 km SW of Basco, Philippines",earthquake,10.1,6.4,0.147,14,reviewed,us,us
 2022-06-04T15:05:42.670Z,33.56,-116.6788333,16.82,0.75,ml,25,49,0.04085,0.19,ci,ci40033815,2022-06-04T15:09:17.659Z,"1km NW of Anza, CA",earthquake,0.33,0.52,0.147,19,automatic,ci,ci
 2022-06-04T14:55:16.875Z,61.6622,-150.9813,64.5,1.8,ml,,,,0.59,ak,ak02274kyooo,2022-06-04T15:06:24.317Z,"28 km WNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-04T14:44:13.476Z,62.433,-153.8048,11.1,1,ml,,,,0.76,ak,ak02274kwbk1,2022-06-04T14:46:59.696Z,"70 km SSE of Nikolai, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -170,7 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-03T18:48:00.822Z,56.5799,-152.4167,0,2.8,ml,,,,0.64,ak,ak02272zrkmc,2022-06-03T18:58:28.470Z,"88 km SE of Old Harbor, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-03T18:30:41.990Z,60.3153,-152.3142,85.8,3,ml,,,,0.61,ak,ak02272znrmr,2022-06-04T02:56:29.549Z,"46 km NW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-03T18:26:33.140Z,59.0106,-152.8166,74.5,1.1,ml,,,,0.47,ak,ak02272zmw46,2022-06-03T18:34:29.654Z,"64 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-03T18:11:22.420Z,34.7335,-116.9518333,2.35,1.75,ml,44,40,0.1463,0.14,ci,ci40033343,2022-06-03T21:34:30.480Z,"20km SSE of Barstow, CA",earthquake,0.12,0.48,0.092,19,reviewed,ci,ci
-2022-06-03T18:07:21.350Z,36.8891667,-121.6138333,1.57,1.44,md,19,72,0.01815,0.05,nc,nc73740351,2022-06-03T20:11:04.385Z,"3km E of Aromas, CA",quarry blast,0.17,0.36,0.186,15,reviewed,nc,nc
-2022-06-03T18:01:07.650Z,33.061,-115.0056667,-0.16,1,ml,10,68,0.09152,0.19,ci,ci40033335,2022-06-03T19:07:34.110Z,"45km NE of Holtville, CA",quarry blast,0.59,31.61,0.078,4,reviewed,ci,ci
-2022-06-03T17:53:31.259Z,59.8825,-151.6049,44.4,1.1,ml,,,,0.34,ak,ak02272z78hn,2022-06-03T17:58:06.680Z,"7 km N of Nikolaevsk, Alaska",earthquake,,4.9,,,automatic,ak,ak
