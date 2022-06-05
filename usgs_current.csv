@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-05T22:40:45.590Z,63.8518,-149.1024,98.2,1.4,ml,,,,3.5,ak,ak02276d6ci7,2022-06-05T22:42:50.906Z,"6 km W of Healy, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-06-05T22:12:02.892Z,6.0297,125.9996,130.55,4.6,mb,,47,1.114,0.97,us,us7000hf7s,2022-06-05T22:28:59.040Z,"33 km E of Lamitan, Philippines",earthquake,9,6.8,0.053,105,reviewed,us,us
 2022-06-05T21:38:17.620Z,60.8264,-151.6899,80,1.8,ml,,,,0.55,ak,ak02276ckfb6,2022-06-05T21:40:46.371Z,"26 km NW of Nikiski, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-05T21:36:03.900Z,33.485,-116.7586667,6.6,1.54,ml,54,30,0.04425,0.21,ci,ci40034503,2022-06-05T21:46:47.970Z,"11km ENE of Aguanga, CA",earthquake,0.19,0.49,0.211,26,automatic,ci,ci
@@ -154,8 +155,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T23:59:13.558Z,51.7562,-131.1251,10,5.1,mww,,141,0.539,0.68,us,us7000hf29,2022-06-05T12:57:42.186Z,"289 km S of Prince Rupert, Canada",earthquake,6.2,1.9,0.071,19,reviewed,us,us
 2022-06-04T23:56:00.786Z,39.688,74.5913,10,4,mb,,141,2.025,1.24,us,us7000hf2d,2022-06-05T01:00:25.040Z,"122 km W of Kashgar, China",earthquake,4.4,2,0.367,2,reviewed,us,us
 2022-06-04T23:54:08.023Z,51.863,178.4272,107.1,2.4,ml,,,,0.42,ak,ak02274qbddr,2022-06-05T03:10:53.450Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.5,,,reviewed,ak,ak
-2022-06-04T23:46:14.240Z,35.6361656,-120.4498367,4.66,2.45,ml,7,105,0.3172,0.2,nc,nc73740686,2022-06-05T00:38:13.371Z,"7km WSW of Shandon, CA",earthquake,0.93,17.85,0.522,14,automatic,nc,nc
-2022-06-04T23:45:34.280Z,41.3161659,-122.6718369,75.11,3.15,ml,13,247,0.1601,0.27,nc,nc73740676,2022-06-05T05:32:51.307Z,"24km SE of Etna, CA",earthquake,3.48,1.55,0.305,16,automatic,nc,nc
 2022-06-04T23:38:12.708Z,52.0779,178.2851,105,6.3,mww,,15,0.215,0.91,us,us7000hf1u,2022-06-05T17:48:26.378Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,6.2,1.8,0.024,162,reviewed,us,us
 2022-06-04T23:34:13.120Z,17.9516666666667,-66.9033333333333,13.01,2.61,md,3,234,,0.03,pr,pr71352423,2022-06-04T23:55:34.850Z,"2 km SSE of Guánica, Puerto Rico",earthquake,2.55,0.78,0.158739410898682,2,reviewed,pr,pr
 2022-06-04T23:30:14.380Z,37.6428333,-118.8926667,-2.31,0.45,md,7,146,0.003657,0.04,nc,nc73740666,2022-06-05T07:27:15.668Z,"8km E of Mammoth Lakes, CA",earthquake,0.35,0.5,0.322,6,reviewed,nc,nc
@@ -165,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-04T23:04:49.501Z,59.7722,-151.9243,67.9,1.4,ml,,,,0.36,ak,ak02274q0q5t,2022-06-04T23:20:10.370Z,"5 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-04T23:04:19.175Z,64.9857,-147.4313,4.7,1,ml,,,,0.73,ak,ak02274q0nsa,2022-06-04T23:17:25.699Z,"9 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-04T22:46:01.550Z,19.1983337402344,-155.395660400391,30.2099990844727,1.97000003,md,42,163,,0.100000001,hv,hv73033922,2022-06-04T22:49:05.200Z,"8 km E of Pāhala, Hawaii",earthquake,0.57,1.00999999,0.140000001,13,automatic,hv,hv
-2022-06-04T22:33:04.530Z,18.4121666666667,-64.8405,94.08,3.01,md,4,348,,0.61,pr,pr71352418,2022-06-04T23:45:17.850Z,"10 km NNW of Cruz Bay, U.S. Virgin Islands",earthquake,27.05,6.88,0.0938778524816486,2,reviewed,pr,pr
