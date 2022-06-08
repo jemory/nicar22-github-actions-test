@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-08T08:45:06.410Z,35.9194984,-117.7086639,3.29,1.44,ml,20,53,0.08831,0.16,ci,ci40036111,2022-06-08T08:47:10.968Z,"18km E of Little Lake, CA",earthquake,0.34,1.05,0.231,5,automatic,ci,ci
+2022-06-08T08:53:26.830Z,33.6733333,-116.7691667,10.75,0.21,ml,15,71,0.06271,0.14,ci,ci40036119,2022-06-08T08:57:08.567Z,"9km SSW of Idyllwild, CA",earthquake,0.44,0.63,0.102,8,automatic,ci,ci
+2022-06-08T08:45:06.350Z,35.917,-117.7055,2.23,1.51,ml,15,63,0.08629,0.2,ci,ci40036111,2022-06-08T08:48:56.763Z,"18km E of Little Lake, CA",earthquake,0.36,0.59,0.134,18,automatic,ci,ci
+2022-06-08T08:39:06.670Z,18.8155,-67.3253333333333,17.61,3.01,md,25,210,,0.24,pr,pr71352928,2022-06-08T08:56:39.750Z,"43 km NW of San Antonio, Puerto Rico",earthquake,0.67,0.69,0.0631415437259903,11,reviewed,pr,pr
 2022-06-08T08:33:37.660Z,34.321,-116.844,5.79,1.43,ml,39,62,0.03023,0.19,ci,ci40036103,2022-06-08T08:44:20.470Z,"7km N of Big Bear City, CA",earthquake,0.28,0.74,0.15,28,automatic,ci,ci
 2022-06-08T08:24:25.290Z,34.3218333,-116.8465,6.5,0.75,ml,10,98,0.03051,0.16,ci,ci40036087,2022-06-08T08:27:57.647Z,"7km N of Big Bear City, CA",earthquake,0.39,0.87,0.172,11,automatic,ci,ci
 2022-06-08T08:15:37.530Z,38.8333321,-122.8153305,2.22,0.85,md,9,88,0.01074,0.01,nc,nc73741421,2022-06-08T08:44:14.994Z,"8km NW of The Geysers, CA",earthquake,0.41,1.23,,1,automatic,nc,nc
@@ -207,4 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T09:26:09.646Z,66.1266,-157.1693,5.7,1.5,ml,,,,1.11,ak,ak02279gfbtw,2022-06-07T09:28:38.851Z,"59 km NW of Huslia, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-07T09:13:31.090Z,46.8725,-112.518,14.41,0.54,ml,9,70,0.044,0.14,mb,mb80548164,2022-06-07T23:44:33.850Z,"15 km SE of Lincoln, Montana",earthquake,0.94,0.43,0.197,3,reviewed,mb,mb
 2022-06-07T09:06:33.439Z,36.69833333,-97.67216667,6.23,1.35,ml,29,54,0.2150577983,0.18,ok,ok2022lboa,2022-06-07T12:20:09.074Z,"10 km W of Lamont, Oklahoma",earthquake,,0.7,0.22,12,reviewed,ok,ok
-2022-06-07T08:59:14.860Z,36.4968333,-121.0718333,5.82,1.11,md,12,96,0.04295,0.07,nc,nc73741126,2022-06-07T17:17:22.420Z,"8km ESE of Pinnacles, CA",earthquake,0.3,0.72,0.156,12,reviewed,nc,nc
