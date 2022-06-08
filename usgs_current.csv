@@ -1,7 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-08T23:06:36.400Z,38.3925018,-122.2839966,4,1.55,md,8,186,0.5273,0.28,nc,nc73743041,2022-06-08T23:08:08.179Z,"7km E of Yountville, CA",earthquake,11.51,19.04,,1,automatic,nc,nc
+2022-06-08T23:23:16.765Z,61.8734,-151.065,68.5,1.9,ml,,,,0.5,ak,ak0227bca470,2022-06-08T23:25:17.672Z,"21 km SE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-08T23:20:23.536Z,65.4647,-152.458,14.1,0.7,ml,,,,0.34,ak,ak0227bc9hkh,2022-06-08T23:22:43.006Z,"37 km NNW of Tanana, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-08T23:17:09.490Z,35.0291667,-117.7138333,0.26,1.51,ml,17,138,0.09565,0.32,ci,ci40036751,2022-06-08T23:21:02.814Z,"7km WNW of Boron, CA",quarry blast,1.15,31.61,0.154,32,automatic,ci,ci
+2022-06-08T23:16:12.412Z,61.8089,-151.7894,103.3,1.7,ml,,,,0.45,ak,ak0227bc8luh,2022-06-08T23:18:24.899Z,"28 km SW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-06-08T23:12:51.447Z,6.8184,-74.1357,86.84,4.5,mb,,72,1.393,0.91,us,us7000hg1t,2022-06-08T23:28:15.040Z,"20 km NNW of Puerto Parra, Colombia",earthquake,6.1,8.8,0.05,119,reviewed,us,us
+2022-06-08T23:12:17.550Z,38.8018341,-122.8115005,0.95,0.49,md,12,83,0.01406,0.03,nc,nc73743051,2022-06-08T23:21:11.374Z,"6km WNW of The Geysers, CA",earthquake,0.26,0.6,0.35,2,automatic,nc,nc
+2022-06-08T23:06:36.400Z,38.3925018,-122.2839966,4,1.55,md,8,186,0.5273,0.28,nc,nc73743041,2022-06-08T23:16:10.320Z,"7km E of Yountville, CA",earthquake,11.51,19.04,,1,automatic,nc,nc
 2022-06-08T23:05:56.575Z,64.9713,-147.5177,0,1.6,ml,,,,0.71,ak,ak0227bc6cdl,2022-06-08T23:07:58.883Z,"4 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-08T22:48:21.530Z,35.5123329,-118.3863297,3.56,3.54,mlr,88,22,0.2021,0.2,ci,ci40036719,2022-06-08T23:07:00.461Z,"13km SE of Bodfish, CA",earthquake,0.17,0.86,0.228,16,reviewed,ci,ci
+2022-06-08T22:48:21.530Z,35.5123329,-118.3863297,3.56,3.54,mlr,88,22,0.2021,0.2,ci,ci40036719,2022-06-08T23:26:24.274Z,"13km SE of Bodfish, CA",earthquake,0.17,0.86,0.228,16,reviewed,ci,ci
 2022-06-08T22:28:41.310Z,19.2005004882812,-155.391494750977,32.4900016784668,1.89999998,md,43,162,,0.129999995,hv,hv73038492,2022-06-08T22:32:05.170Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.239999995,20,automatic,hv,hv
 2022-06-08T22:25:59.760Z,17.9455,-66.9566666666667,16.31,1.92,md,3,218,,0.04,pr,pr71353043,2022-06-08T22:33:56.490Z,"5 km WSW of Guánica, Puerto Rico",earthquake,2.47,0.93,0.0681294618740507,3,reviewed,pr,pr
 2022-06-08T22:21:41.730Z,19.4411659240723,-155.486663818359,6.94000005722046,1.74000001,md,25,68,,0.189999998,hv,hv73038487,2022-06-08T22:24:50.280Z,"26 km N of Pāhala, Hawaii",earthquake,0.48,0.709999979,0.870000005,8,automatic,hv,hv
@@ -19,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T20:35:04.040Z,33.4951667,-116.7468333,6.76,-0.11,ml,9,193,0.06681,0.1,ci,ci40036639,2022-06-08T21:51:45.441Z,"10km SW of Anza, CA",earthquake,0.38,0.52,0.089,3,reviewed,ci,ci
 2022-06-08T20:28:56.290Z,39.417,-110.2675,-3.22,2.16,ml,15,190,0.04518,0.24,uu,uu60500922,2022-06-08T21:03:35.110Z,"18 km SE of Sunnyside, Utah",earthquake,0.98,2.2,0.158,11,reviewed,uu,uu
 2022-06-08T20:16:17.842Z,63.145,-149.7057,78.1,1.3,ml,,,,0.45,ak,ak0227bagbg8,2022-06-08T20:18:21.270Z,"46 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-06-08T20:14:05.850Z,36.5499992,-121.0981674,1.37,2.51,md,23,63,0.05508,0.07,nc,nc73741821,2022-06-08T23:08:19.235Z,"4km ENE of Pinnacles, CA",earthquake,0.23,0.83,0.15,25,automatic,nc,nc
+2022-06-08T20:14:05.850Z,36.5499992,-121.0981674,1.37,2.51,md,23,63,0.05508,0.07,nc,nc73741821,2022-06-08T23:09:17.152Z,"4km ENE of Pinnacles, CA",earthquake,0.23,0.83,0.15,25,automatic,nc,nc
 2022-06-08T20:12:09.482Z,59.4936,-151.8843,65.2,2.2,ml,,,,0.65,ak,ak0227baffxw,2022-06-08T20:13:28.852Z,"11 km WNW of Seldovia, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-08T20:03:11.916Z,62.7085,-151.7859,3.1,2.1,ml,,,,0.94,ak,ak0227badion,2022-06-08T20:06:04.081Z,"57 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-08T19:51:53.510Z,33.6818333,-116.7628333,13.95,0.13,ml,12,134,0.05002,0.07,ci,ci40036615,2022-06-08T20:41:13.978Z,"8km SSW of Idyllwild, CA",earthquake,0.29,0.39,0.098,3,reviewed,ci,ci
@@ -73,12 +79,16 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T16:02:52.760Z,38.4398333,-112.469,4.83,0.48,ml,8,160,0.1703,0.06,uu,uu60500887,2022-06-08T16:27:27.570Z,"20 km W of Marysvale, Utah",earthquake,0.42,31.61,0.004,2,reviewed,uu,uu
 2022-06-08T15:53:46.901Z,59.4954,-152.6073,83.5,1.2,ml,,,,0.22,ak,ak0227b7p5m5,2022-06-08T16:09:00.689Z,"41 km WNW of Nanwalek, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-06-08T15:44:20.652Z,61.6635,-149.5963,27.6,1.9,ml,,,,0.56,ak,ak0227b7n5ox,2022-06-08T15:46:11.161Z,"4 km N of Meadow Lakes, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-08T15:43:49.720Z,34.321,-116.84,4.62,1.31,ml,34,58,0.02888,0.19,ci,ci40036407,2022-06-08T15:47:26.246Z,"7km N of Big Bear City, CA",earthquake,0.29,1.07,0.18,31,automatic,ci,ci
+2022-06-08T15:43:49.630Z,34.3191667,-116.8425,6.73,1.23,ml,40,59,0.03136,0.13,ci,ci40036407,2022-06-08T23:26:38.160Z,"6km N of Big Bear City, CA",earthquake,0.16,0.42,0.164,22,reviewed,ci,ci
+2022-06-08T15:19:53.042Z,40.0712,-119.6926,14,0.1,ml,3,163.71,0.104,0.0119,nn,nn00840619,2022-06-08T23:28:50.970Z,"15 km NNW of Sutcliffe, Nevada",earthquake,,8,0.36,2,reviewed,nn,nn
 2022-06-08T15:16:34.500Z,38.2523,-118.3547,9.6,0.6,ml,13,146.5,0.118,0.0975,nn,nn00840571,2022-06-08T17:23:03.333Z,"26 km SW of Mina, Nevada",earthquake,,2.3,0.26,3,reviewed,nn,nn
+2022-06-08T15:10:30.822Z,37.4215,-113.77,4.3,0.1,ml,3,166.13,0.08,0.0718,nn,nn00840618,2022-06-08T23:25:43.974Z,"11 km NW of Veyo, Utah",earthquake,,13.9,0.05,3,reviewed,nn,nn
 2022-06-08T15:08:53.260Z,19.2221660614014,-155.386840820312,31.3099994659424,1.86000001,md,38,158,,0.129999995,hv,hv73038167,2022-06-08T15:12:00.720Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,1,0.449999988,5,automatic,hv,hv
 2022-06-08T15:07:03.060Z,33.9793333,-116.9755,13.83,0.85,ml,27,71,0.07543,0.15,ci,ci40036383,2022-06-08T22:58:21.816Z,"6km N of Beaumont, CA",earthquake,0.23,0.7,0.095,17,reviewed,ci,ci
 2022-06-08T15:01:15.325Z,64.4608,-157.7713,5,2.4,ml,,,,0.77,ak,ak0227b7dxm3,2022-06-08T21:25:44.040Z,"32 km SSE of Nulato, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-08T14:58:53.030Z,19.2318325042725,-155.388671875,31.8500003814697,2.13000011,md,44,146,,0.119999997,hv,hv73038162,2022-06-08T15:02:07.710Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.53,0.889999986,1.13999999,14,automatic,hv,hv
+2022-06-08T14:55:45.497Z,38.4557,-117.9054,0,0.6,ml,7,331.89,0.197,0.0598,nn,nn00840617,2022-06-08T23:19:32.745Z,"19 km ENE of Mina, Nevada",earthquake,,0,0,1,reviewed,nn,nn
+2022-06-08T14:49:30.599Z,36.4992,-115.2417,9.6,0.6,ml,5,154.16,0.069,0.2185,nn,nn00840616,2022-06-08T23:16:26.158Z,"32 km NNW of Nellis Air Force Base, Nevada",earthquake,,6.7,0.29,2,reviewed,nn,nn
 2022-06-08T14:41:32.920Z,33.283,-116.1145,2.76,3.05,ml,73,33,0.1078,0.19,ci,ci40036375,2022-06-08T22:35:32.207Z,"15km W of Salton City, CA",earthquake,0.17,0.43,0.126,22,reviewed,ci,ci
 2022-06-08T14:40:13.780Z,35.6835,-117.4931667,10.69,0.95,ml,17,85,0.1,0.14,ci,ci40036367,2022-06-08T22:13:03.115Z,"12km SW of Searles Valley, CA",earthquake,0.36,0.64,0.201,10,reviewed,ci,ci
 2022-06-08T14:40:00.371Z,61.6632,-150.385,50,1.4,ml,,,,0.91,ak,ak0227b70tnp,2022-06-08T14:41:43.429Z,"14 km NNE of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -91,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T13:06:26.171Z,39.5069,-119.5898,9.6,0.6,ml,8,114.85,0.227,0.1724,nn,nn00840614,2022-06-08T23:07:06.367Z,"14 km ESE of Sparks, Nevada",earthquake,,4.8,0.3,6,reviewed,nn,nn
 2022-06-08T13:05:39.700Z,44.378,-115.2183333,9.51,2.42,ml,12,84,0.846,0.26,mb,mb80548259,2022-06-08T19:16:56.640Z,"28 km NW of Stanley, Idaho",earthquake,0.69,1.34,0.247,20,reviewed,mb,mb
 2022-06-08T13:04:55.590Z,38.835,-122.813,2.31,0.57,md,14,56,0.01181,0.02,nc,nc73741506,2022-06-08T21:49:15.610Z,"8km W of Cobb, CA",earthquake,0.27,0.74,,1,reviewed,nc,nc
-2022-06-08T12:59:47.790Z,36.5448333,-121.1366667,8.78,2.68,md,66,62,0.0149,0.09,nc,nc73741501,2022-06-08T20:41:22.202Z,"2km NNE of Pinnacles, CA",earthquake,0.15,0.3,0.194,61,reviewed,nc,nc
+2022-06-08T12:59:47.790Z,36.5448333,-121.1366667,8.78,2.68,md,66,62,0.0149,0.09,nc,nc73741501,2022-06-08T23:22:17.239Z,"2km NNE of Pinnacles, CA",earthquake,0.15,0.3,0.194,61,reviewed,nc,nc
 2022-06-08T12:51:35.068Z,60.3304,-152.5044,99,1.9,ml,,,,0.31,ak,ak0227b5we02,2022-06-08T12:53:36.951Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-08T12:50:19.189Z,59.7584,-153.2635,125,1.6,ml,,,,0.29,ak,ak0227b5w526,2022-06-08T13:05:12.040Z,"47 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-08T12:48:54.970Z,33.6713333,-116.7163333,14.45,0.64,ml,24,86,0.03977,0.13,ci,ci40036311,2022-06-08T13:02:49.636Z,"8km S of Idyllwild, CA",earthquake,0.26,0.42,0.102,17,reviewed,ci,ci
@@ -214,7 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-08T05:02:24.500Z,34.3178333,-116.8411667,5.17,1.55,ml,38,56,0.03218,0.16,ci,ci40035991,2022-06-08T13:35:59.650Z,"6km N of Big Bear City, CA",earthquake,0.23,0.64,0.168,28,reviewed,ci,ci
 2022-06-08T05:00:41.810Z,38.4833,-117.9342,4.9,0.6,ml,13,169.32,0.181,0.0878,nn,nn00840553,2022-06-08T17:16:50.421Z,"18 km NE of Mina, Nevada",earthquake,,8.5,0.29,4,reviewed,nn,nn
 2022-06-08T04:55:12.840Z,38.8115005,-122.783165,2.41,2.37,md,50,38,0.002615,0.06,nc,nc73741376,2022-06-08T06:08:17.038Z,"4km NNW of The Geysers, CA",earthquake,0.16,0.24,0.17,30,automatic,nc,nc
-2022-06-08T04:39:19.564Z,8.5991,-71.3951,10,4.5,mb,,59,0.803,0.8,us,us7000hftl,2022-06-08T05:40:19.643Z,"17 km WNW of Ejido, Venezuela",earthquake,2.4,1.9,0.061,78,reviewed,us,us
+2022-06-08T04:39:19.470Z,8.6018,-71.4034,10,4.5,mb,,59,0.81,0.35,us,us7000hftl,2022-06-08T23:24:55.419Z,"18 km WNW of Ejido, Venezuela",earthquake,3.3,1.9,0.061,78,reviewed,us,us
 2022-06-08T04:38:06.030Z,37.4695,-121.7765,6.07,1.68,md,62,35,0.05016,0.07,nc,nc73741371,2022-06-08T22:52:15.020Z,"12km NNE of Alum Rock, CA",earthquake,0.12,0.33,0.173,46,reviewed,nc,nc
 2022-06-08T04:32:36.910Z,47.65133333333333,-120.2595,5.4,0.32,md,6,120,0.02563,0.06,uw,uw61840517,2022-06-08T19:13:18.660Z,"4 km SW of Entiat, Washington",earthquake,0.35,0.45,0.34636946895234644,5,reviewed,uw,uw
 2022-06-08T04:22:41.627Z,63.1872,-144.4344,6.9,0.7,ml,,,,0.5,ak,ak0227b0ypwi,2022-06-08T04:24:26.758Z,"44 km NW of Mentasta Lake, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -262,7 +272,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-07T23:59:47.815Z,51.0479,-173.3995,25.3,1.9,ml,,,,0.61,ak,ak02279oyk1f,2022-06-08T00:25:29.474Z,"139 km SSE of Atka, Alaska",earthquake,,14.2,,,reviewed,ak,ak
 2022-06-07T23:50:04.520Z,33.3261667,-116.3376667,11.1,0.91,ml,39,62,0.02468,0.19,ci,ci40035815,2022-06-08T00:29:12.071Z,"8km NNE of Borrego Springs, CA",earthquake,0.25,0.43,0.106,18,reviewed,ci,ci
 2022-06-07T23:43:30.120Z,31.6658107,-104.3953623,7.905419922,2.4,ml,12,86,0.08990827129,0.2,tx,tx2022lcqy,2022-06-08T21:10:18.752Z,"56 km S of Whites City, New Mexico",earthquake,1.440648949,2.388634196,0.1,7,reviewed,tx,tx
-2022-06-07T23:26:32.020Z,35.8776667,-117.6866667,9.31,1.68,ml,28,43,0.09007,0.12,ci,ci40035807,2022-06-08T00:34:14.040Z,"21km ESE of Little Lake, CA",earthquake,0.15,0.38,0.187,21,reviewed,ci,ci
-2022-06-07T23:22:01.950Z,35.051,-117.6668333,-0.79,1.57,ml,22,80,0.1188,0.14,ci,ci40035799,2022-06-08T00:22:55.689Z,"6km NNW of Boron, CA",quarry blast,0.35,31.61,0.198,28,reviewed,ci,ci
-2022-06-07T23:14:32.264Z,39.3324,-120.1453,10,-0.4,ml,3,197.01,0.093,0.015,nn,nn00840530,2022-06-08T02:38:04.874Z,"3 km E of Truckee, California",earthquake,,4.9,0.55,2,reviewed,nn,nn
-2022-06-07T23:10:50.579Z,55.2091,-156.6832,7.6,3.9,ml,,,,0.92,ak,ak02279oo1os,2022-06-08T00:18:09.797Z,"162 km SE of Chignik, Alaska",earthquake,,2,,,reviewed,ak,ak
