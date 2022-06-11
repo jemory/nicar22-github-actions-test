@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T08:24:07.178Z,32.40142822,-101.598347,13.5723877,2.9,ml,10,94,0.1974227172,0.1,tx,tx2022liuq,2022-06-11T09:40:46.504Z,"western Texas",earthquake,1.357160701,2.253064249,0.1,8,reviewed,tx,tx
 2022-06-11T08:06:53.501Z,-7.9872,-13.675,10,4.8,mb,,138,0.68,0.67,us,us7000hgpe,2022-06-11T08:30:31.040Z,"81 km E of Georgetown, Saint Helena",earthquake,7.9,1.9,0.116,23,reviewed,us,us
 2022-06-11T08:03:09.090Z,19.1946659088135,-155.49299621582,36.0499992370605,1.76999998,md,40,68,,0.170000002,hv,hv73040862,2022-06-11T08:06:17.050Z,"1 km WSW of Pāhala, Hawaii",earthquake,0.65,1.16999996,0.879999995,8,automatic,hv,hv
-2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"Puerto Rico region",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
+2022-06-11T07:52:42.060Z,17.978,-66.8405,17.03,2.44,md,4,198,,0.11,pr,pr71353493,2022-06-11T08:12:09.640Z,"2 km SW of Indios, Puerto Rico",earthquake,0.75,0.84,0.0715309651305334,3,reviewed,pr,pr
 2022-06-11T07:45:02.360Z,17.9893333333333,-66.977,6.84,2.14,md,4,174,,0.08,pr,pr71353488,2022-06-11T08:08:08.130Z,"6 km W of Fuig, Puerto Rico",earthquake,1.8,1.39,0.0305241230336799,3,reviewed,pr,pr
 2022-06-11T07:44:20.255Z,62.2475,-150.1417,12.5,1.7,ml,,,,0.63,ak,ak0227g1hqax,2022-06-11T07:46:42.781Z,"8 km S of Talkeetna, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-11T07:41:59.860Z,18.009,-66.8258333333333,14.71,2.76,md,6,157,,0.11,pr,pr71353483,2022-06-11T10:39:02.137Z,"1 km NNW of Indios, Puerto Rico",earthquake,0.44,0.91,0.170971430842863,3,reviewed,pr,pr
@@ -91,10 +91,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T21:30:55.220Z,38.7563324,-122.7131653,1.86,1.37,md,18,76,0.01055,0.06,nc,nc73743741,2022-06-11T00:27:11.220Z,"3km SW of Anderson Springs, CA",earthquake,0.29,0.38,0.06,6,automatic,nc,nc
 2022-06-10T21:17:10.550Z,49.324,-120.4535,-0.49,1.85,ml,9,208,0.5418,0.45,uw,uw61841537,2022-06-11T00:00:46.940Z,"15 km SSE of Princeton, Canada",explosion,2.22,31.61,0.11967269231186539,5,reviewed,uw,uw
 2022-06-10T21:15:07.460Z,33.717,-116.75,17.02,0.66,ml,13,187,0.03189,0.09,ci,ci40038135,2022-06-10T21:41:03.179Z,"4km SW of Idyllwild, CA",earthquake,0.3,0.33,0.192,9,reviewed,ci,ci
+2022-06-10T20:53:25.970Z,53.8475,-166.6402,8.5,-0.1,ml,,,,0.06,ak,ak0227elqyk5,2022-06-11T10:47:56.099Z,"7 km WSW of Unalaska, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-06-10T20:51:21.283Z,27.6539,85.3923,13.94,3.6,mb,,155,0.176,0.68,us,us7000hgnj,2022-06-11T05:35:34.088Z,"2 km S of Madhyapur Thimi, Nepal",earthquake,7.3,5.9,0.151,11,reviewed,us,us
 2022-06-10T20:43:10.200Z,-39.3049,-74.7988,10,4.5,mb,,152,1.206,0.94,us,us7000hgli,2022-06-10T22:00:11.040Z,"134 km WNW of Corral, Chile",earthquake,7.7,1.7,0.14,15,reviewed,us,us
 2022-06-10T20:39:39.820Z,38.5198333,-122.4293333,9.85,1.17,md,13,72,0.0903,0.07,nc,nc73743731,2022-06-11T08:36:14.672Z,"4km ENE of Saint Helena, CA",earthquake,0.23,0.8,0.237,16,reviewed,nc,nc
 2022-06-10T20:24:21.459Z,40.0918,-119.4598,10.3,0.5,ml,3,240.76,0.223,0.086,nn,nn00840768,2022-06-11T02:38:20.730Z,"19 km NE of Sutcliffe, Nevada",earthquake,,21,0.12,3,reviewed,nn,nn
+2022-06-10T20:22:54.010Z,53.9951666666667,-166.139833333333,15.49,0.7,ml,12,311,,0.13,av,av91596076,2022-06-11T10:44:29.320Z,"28 km WSW of Akutan, Alaska",earthquake,0.76,1.19,0.174094658130765,11,reviewed,av,av
 2022-06-10T20:18:19.741Z,-20.8852,-175.6983,135.4,4.8,mb,,124,6.676,0.91,us,us7000hglc,2022-06-10T20:55:45.040Z,"58 km WNW of Haveluloto, Tonga",earthquake,12,7.5,0.1,35,reviewed,us,us
 2022-06-10T20:12:24.800Z,38.9941,-119.9997,10.6,1.3,ml,14,121.72,0.052,0.1462,nn,nn00840737,2022-06-11T02:37:55.365Z,"3 km WSW of Zephyr Cove, Nevada",earthquake,,1.2,0.33,5,reviewed,nn,nn
 2022-06-10T20:02:21.462Z,61.6567,-149.7515,49.7,1.6,ml,,,,0.36,ak,ak0227elg0op,2022-06-10T20:08:02.282Z,"4 km NE of Houston, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -190,10 +192,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-10T11:09:38.600Z,33.0308333,-116.2945,3.55,2.19,ml,63,29,0.07639,0.15,ci,ci40037847,2022-06-10T17:14:58.270Z,"20km SW of Ocotillo Wells, CA",earthquake,0.16,0.74,0.123,11,reviewed,ci,ci
 2022-06-10T11:06:59.040Z,35.5073333,-118.3931667,5.64,1.79,ml,43,38,0.1685,0.15,ci,ci40037839,2022-06-10T19:20:26.530Z,"13km SE of Bodfish, CA",earthquake,0.13,0.71,0.231,27,reviewed,ci,ci
 2022-06-10T10:54:04.342Z,31.63339912,-104.4316623,6.157275391,2.3,ml,12,66,0.06867100483,0.2,tx,tx2022lheb,2022-06-10T21:10:14.600Z,"60 km S of Whites City, New Mexico",earthquake,1.270306889,1.98424188,0.1,7,reviewed,tx,tx
-2022-06-10T10:52:38.300Z,46.722,-121.91266666666667,2.44,0.360000014,md,15,145,0.01839,0.09,uw,uw61841322,2022-06-10T17:59:55.490Z,"9 km ESE of Ashford, Washington",earthquake,0.41,0.92,0.349999994,2,reviewed,uw,uw
-2022-06-10T10:51:33.155Z,58.3054,-154.9522,2.5,0.3,ml,,,,0.51,ak,ak0227efs7mr,2022-06-11T07:56:45.886Z,"87 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-06-10T10:51:30.090Z,19.1749992370605,-155.488662719727,31.1399993896484,1.70000005,md,40,147,,0.129999995,hv,hv73039957,2022-06-10T10:54:37.910Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.779999971,0.980000019,7,automatic,hv,hv
-2022-06-10T10:50:43.043Z,39.2207,-120.0794,7.7,0.1,ml,6,98.13,0.039,0.0785,nn,nn00840747,2022-06-11T02:38:06.478Z,"0 km SSE of Carnelian Bay, California",earthquake,,1.8,0.05,2,reviewed,nn,nn
-2022-06-10T10:50:14.670Z,39.7561667,-123.4231667,7.86,1.84,md,24,50,0.06885,0.12,nc,nc73743586,2022-06-10T18:43:15.812Z,"9km NE of Laytonville, CA",earthquake,0.23,0.42,0.14,27,reviewed,nc,nc
-2022-06-10T10:50:04.020Z,31.62096692,-103.9753095,7.082763671999999,2,ml,9,64,0.1093055222,0.2,tx,tx2022lhdy,2022-06-10T20:39:53.608Z,"36 km WSW of Mentone, Texas",earthquake,1.947002583,2.413775455,0.2,7,reviewed,tx,tx
-2022-06-10T10:45:07.220Z,18.167,-64.0101666666667,110.73,3.44,md,9,319,,0.54,pr,pr71353373,2022-06-10T12:15:15.260Z,"84 km ESE of Cruz Bay, U.S. Virgin Islands",earthquake,7.14,3.53,0.179962618371812,6,reviewed,pr,pr
