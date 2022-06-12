@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T22:54:52.720Z,18.036,-66.8248333333333,15.45,2.32,md,6,141,,0.14,pr,pr71353823,2022-06-12T23:09:06.360Z,"2 km E of Yauco, Puerto Rico",earthquake,0.55,1.17,0.161335859404834,5,reviewed,pr,pr
 2022-06-12T22:48:17.470Z,32.3756667,-115.2301667,23.43,2.65,ml,16,107,0.1493,0.32,ci,ci40039015,2022-06-12T22:52:08.509Z,"4km WNW of Delta, B.C., MX",earthquake,1.13,2.59,0.178,29,automatic,ci,ci
+2022-06-12T22:46:50.241Z,-7.7215,-13.6799,10,4.8,mb,,76,0.705,0.6,us,us7000hgzv,2022-06-12T23:20:24.040Z,"83 km ENE of Georgetown, Saint Helena",earthquake,7.2,1.9,0.107,27,reviewed,us,us
 2022-06-12T22:44:40.890Z,32.4316673,-115.1493301,2.64,3.11,ml,14,145,0.1322,0.33,ci,ci40039007,2022-06-12T22:47:13.135Z,"10km NNE of Delta, B.C., MX",earthquake,0.76,0.79,0.342,23,automatic,ci,ci
 2022-06-12T22:34:04.559Z,-7.3304,120.1758,571.82,4.8,mb,,55,2.339,0.89,us,us7000hgzp,2022-06-12T22:49:15.040Z,"132 km NNE of Labuan Bajo, Indonesia",earthquake,9.1,8.1,0.074,57,reviewed,us,us
 2022-06-12T22:31:04.605Z,35.5718,84.0599,21.8,4.3,mb,,98,7.817,0.39,us,us7000hgzn,2022-06-12T22:43:43.040Z,"Xinjiang-Xizang border region",earthquake,8.7,6.2,0.147,13,reviewed,us,us
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T21:54:19.650Z,17.978,-67.008,10.65,1.52,md,5,166,,0.06,pr,pr71353813,2022-06-12T22:17:26.820Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.53,0.78,0.0426147776289034,5,reviewed,pr,pr
 2022-06-12T21:53:27.380Z,17.9863333333333,-66.8875,11.37,1.79,md,5,120,,0.08,pr,pr71353808,2022-06-12T22:11:30.300Z,"0 km NNE of Maria Antonia, Puerto Rico",earthquake,0.73,1.26,0.00802361390302453,3,reviewed,pr,pr
 2022-06-12T21:47:51.630Z,17.9871666666667,-66.82,15.87,1.71,md,6,184,,0.05,pr,pr71353803,2022-06-12T21:58:52.730Z,"0 km S of Indios, Puerto Rico",earthquake,0.44,0.63,0.129057802242998,5,reviewed,pr,pr
-2022-06-12T21:41:16.030Z,38.8376656,-122.80867,1.9,0.85,md,7,113,0.01429,0.01,nc,nc73744521,2022-06-12T21:57:13.178Z,"8km WNW of Cobb, CA",earthquake,0.44,1.25,,1,automatic,nc,nc
+2022-06-12T21:41:16.030Z,38.8376656,-122.80867,1.9,0.85,md,7,113,0.01429,0.01,nc,nc73744521,2022-06-12T23:08:10.566Z,"8km WNW of Cobb, CA",earthquake,0.44,1.25,,1,automatic,nc,nc
 2022-06-12T21:27:08.489Z,62.3676,-148.5647,35.2,0.9,ml,,,,0.68,ak,ak0227hx9h6o,2022-06-12T21:29:20.911Z,"63 km N of Chickaloon, Alaska",earthquake,,4.9,,,automatic,ak,ak
 2022-06-12T21:05:20.026Z,11.181,-86.8084,35,4.3,mb,,170,1.107,0.61,us,us7000hgzj,2022-06-12T21:19:18.040Z,"74 km SSW of Masachapa, Nicaragua",earthquake,5.5,2,0.082,42,reviewed,us,us
 2022-06-12T21:03:53.007Z,38.1329,-118.0041,3,1.8,ml,12,137.31,0.068,0.1861,nn,nn00840811,2022-06-12T21:07:45.135Z,"30 km SSE of Mina, Nevada",earthquake,,1.2,0.23,8,automatic,nn,nn
@@ -181,9 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T23:47:14.165Z,62.5809,-151.0783,80.6,1.4,ml,,,,0.54,ak,ak0227gb1ans,2022-06-11T23:49:37.486Z,"18 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-06-11T23:43:19.272Z,59.5607,-151.8947,68.6,1.1,ml,,,,0.1,ak,ak0227gb0fzh,2022-06-12T06:39:34.227Z,"16 km WNW of Seldovia Village, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-06-11T23:37:38.360Z,38.8413315,-122.8238297,1.24,0.76,md,18,88,0.009507,0.04,nc,nc73744221,2022-06-12T01:32:10.835Z,"9km WNW of Cobb, CA",earthquake,0.25,0.41,0.11,4,automatic,nc,nc
-2022-06-11T23:15:37.880Z,18.7601666666667,-68.2958333333333,15.45,3.09,md,15,187,,0.49,pr,pr71353613,2022-06-11T23:33:06.520Z,"22 km NNE of Punta Cana, Dominican Republic",earthquake,1.86,4.49,0.0953862786821451,14,reviewed,pr,pr
-2022-06-11T23:10:01.860Z,33.2356667,-116.1043333,9.05,1.56,ml,62,49,0.09593,0.19,ci,ci40038607,2022-06-12T20:52:20.210Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.15,0.57,0.159,53,reviewed,ci,ci
-2022-06-11T23:09:35.997Z,50.7132,-173.8049,42.1,2.1,ml,,,,0.9,ak,ak0227gat8cv,2022-06-11T23:41:01.608Z,"167 km S of Atka, Alaska",earthquake,,341.2,,,reviewed,ak,ak
-2022-06-11T22:58:54.700Z,37.56,-118.8608333,3.78,0.49,md,8,281,0.03916,0.03,nc,nc73744196,2022-06-12T21:26:10.994Z,"14km SE of Mammoth Lakes, CA",earthquake,0.78,1.19,0.245,8,reviewed,nc,nc
-2022-06-11T22:56:48.130Z,38.8326683,-122.7996674,1.13,0.36,md,7,92,0.009267,0.01,nc,nc73744191,2022-06-11T23:39:14.097Z,"7km W of Cobb, CA",earthquake,0.38,0.75,,1,automatic,nc,nc
-2022-06-11T22:56:41.190Z,38.8321648,-122.7976685,1.26,0.85,md,8,127,0.008462,0.01,nc,nc73744186,2022-06-11T23:28:14.032Z,"7km W of Cobb, CA",earthquake,0.58,0.84,,1,automatic,nc,nc
