@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T17:16:36.740Z,38.5373344,-122.6135025,7.2,1.76,md,19,127,0.119,0.06,nc,nc73744451,2022-06-12T17:18:13.886Z,"6km SSW of Calistoga, CA",earthquake,0.38,1.11,0.2,12,automatic,nc,nc
+2022-06-12T17:16:17.953Z,61.5439,-146.3815,29,1.5,ml,,,,0.78,ak,ak0227hutemb,2022-06-12T17:18:44.474Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-12T17:02:59.670Z,38.7676659,-122.7353363,-0.82,0.38,md,8,92,0.01019,0.26,nc,nc73744441,2022-06-12T17:19:13.490Z,"2km ESE of The Geysers, CA",earthquake,0.65,3.4,,1,automatic,nc,nc
 2022-06-12T16:57:07.806Z,61.8421,-150.0804,35.3,1.1,ml,,,,0.48,ak,ak0227hugql8,2022-06-12T16:59:33.424Z,"10 km NNW of Willow, Alaska",earthquake,,7.7,,,automatic,ak,ak
+2022-06-12T16:55:20.530Z,17.9418333333333,-66.953,18.02,1.93,md,6,215,,0.4,pr,pr71353788,2022-06-12T17:20:04.150Z,"5 km SW of Guánica, Puerto Rico",earthquake,1.78,2.19,0.0326624764940238,4,reviewed,pr,pr
 2022-06-12T16:38:26.990Z,34.2875,-118.4428333,8.82,1.3,ml,26,38,0.03066,0.28,ci,ci40038887,2022-06-12T16:42:07.086Z,"0km W of San Fernando, CA",earthquake,0.43,0.78,0.185,29,automatic,ci,ci
 2022-06-12T16:35:19.910Z,58.1573,-156.614,169.2,2.1,ml,,,,0.66,ak,ak0227huc2jf,2022-06-12T16:38:38.472Z,"45 km E of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-06-12T16:33:48.050Z,35.6628333,-117.5296667,9.97,1.07,ml,12,139,0.1623,0.2,ci,ci40038879,2022-06-12T16:37:27.961Z,"14km ENE of Ridgecrest, CA",earthquake,0.59,1.47,0.151,13,automatic,ci,ci
-2022-06-12T16:32:20.139Z,-23.4861,-66.5824,207.38,4.6,mb,,43,1.561,0.42,us,us7000hgyd,2022-06-12T16:53:51.040Z,"85 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.8,6.2,0.034,256,reviewed,us,us
+2022-06-12T16:32:20.215Z,-23.4872,-66.5856,208.15,4.6,mb,,43,1.559,0.44,us,us7000hgyd,2022-06-12T17:05:53.040Z,"85 km NNW of San Antonio de los Cobres, Argentina",earthquake,7.7,4,0.034,263,reviewed,us,us
 2022-06-12T16:28:33.700Z,35.022,-116.963,4.94,2.09,ml,16,57,0.1489,0.12,ci,ci40038871,2022-06-12T16:39:39.880Z,"15km NNE of Barstow, CA",earthquake,0.26,2.17,0.138,26,automatic,ci,ci
 2022-06-12T16:25:52.000Z,17.9441666666667,-66.9701666666667,16.85,1.9,md,6,220,,0.12,pr,pr71353783,2022-06-12T16:49:56.170Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.64,1.03,0.214887954067222,5,reviewed,pr,pr
 2022-06-12T16:19:52.450Z,33.7113333,-116.7478333,15.78,0.46,ml,13,102,0.03008,0.12,ci,ci40038863,2022-06-12T16:23:28.255Z,"4km SW of Idyllwild, CA",earthquake,0.41,0.54,0.088,9,automatic,ci,ci
@@ -181,7 +185,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T17:48:47.200Z,38.8338318,-122.80867,2.35,0.74,md,18,51,0.01048,0.02,nc,nc73744051,2022-06-11T17:54:11.163Z,"8km W of Cobb, CA",earthquake,0.24,0.59,0.24,3,automatic,nc,nc
 2022-06-11T17:30:28.310Z,39.2233333,-122.7958333,3.31,1.64,md,20,75,0.09813,0.11,nc,nc73744041,2022-06-11T19:10:14.455Z,"12km ENE of Upper Lake, CA",earthquake,0.19,1.37,0.145,19,reviewed,nc,nc
 2022-06-11T17:25:25.960Z,38.8339996,-122.809166,1.97,0.47,md,8,101,0.01061,0.02,nc,nc73744036,2022-06-11T17:34:10.887Z,"8km W of Cobb, CA",earthquake,0.44,0.81,0.39,2,automatic,nc,nc
-2022-06-11T17:16:42.693Z,38.6106,-119.3551,4.1,1.2,ml,12,82.34,0.125,0.1549,nn,nn00840790,2022-06-11T17:21:10.928Z,"California-Nevada border region",earthquake,,4.8,0.1,7,automatic,nn,nn
-2022-06-11T17:05:31.540Z,38.836834,-122.8034973,2.65,0.57,md,11,109,0.01039,0.01,nc,nc73744031,2022-06-11T17:16:10.760Z,"7km WNW of Cobb, CA",earthquake,0.41,0.96,0.28,3,automatic,nc,nc
-2022-06-11T17:01:40.300Z,38.8328323,-122.8081665,1.3,0.85,md,9,96,0.009541,0.02,nc,nc73744026,2022-06-11T17:12:10.726Z,"8km W of Cobb, CA",earthquake,0.39,1.17,,1,automatic,nc,nc
-2022-06-11T17:00:24.680Z,37.5495,-118.8633333,3.73,1.35,md,22,170,0.04875,0.05,nc,nc73744021,2022-06-11T21:59:11.438Z,"14km SE of Mammoth Lakes, CA",earthquake,0.38,0.74,0.106,17,reviewed,nc,nc
