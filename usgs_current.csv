@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-12T17:16:36.740Z,38.5373344,-122.6135025,7.2,1.76,md,19,127,0.119,0.06,nc,nc73744451,2022-06-12T17:18:13.886Z,"6km SSW of Calistoga, CA",earthquake,0.38,1.11,0.2,12,automatic,nc,nc
+2022-06-12T17:16:36.740Z,38.5373344,-122.6135025,7.2,1.76,md,19,127,0.119,0.06,nc,nc73744451,2022-06-12T17:26:10.537Z,"6km SSW of Calistoga, CA",earthquake,0.38,1.11,0.2,12,automatic,nc,nc
 2022-06-12T17:16:17.953Z,61.5439,-146.3815,29,1.5,ml,,,,0.78,ak,ak0227hutemb,2022-06-12T17:18:44.474Z,"46 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-12T17:02:59.670Z,38.7676659,-122.7353363,-0.82,0.38,md,8,92,0.01019,0.26,nc,nc73744441,2022-06-12T17:19:13.490Z,"2km ESE of The Geysers, CA",earthquake,0.65,3.4,,1,automatic,nc,nc
 2022-06-12T16:57:07.806Z,61.8421,-150.0804,35.3,1.1,ml,,,,0.48,ak,ak0227hugql8,2022-06-12T16:59:33.424Z,"10 km NNW of Willow, Alaska",earthquake,,7.7,,,automatic,ak,ak
@@ -11,6 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T16:28:33.700Z,35.022,-116.963,4.94,2.09,ml,16,57,0.1489,0.12,ci,ci40038871,2022-06-12T16:39:39.880Z,"15km NNE of Barstow, CA",earthquake,0.26,2.17,0.138,26,automatic,ci,ci
 2022-06-12T16:25:52.000Z,17.9441666666667,-66.9701666666667,16.85,1.9,md,6,220,,0.12,pr,pr71353783,2022-06-12T16:49:56.170Z,"7 km WSW of Guánica, Puerto Rico",earthquake,0.64,1.03,0.214887954067222,5,reviewed,pr,pr
 2022-06-12T16:19:52.450Z,33.7113333,-116.7478333,15.78,0.46,ml,13,102,0.03008,0.12,ci,ci40038863,2022-06-12T16:23:28.255Z,"4km SW of Idyllwild, CA",earthquake,0.41,0.54,0.088,9,automatic,ci,ci
+2022-06-12T16:16:16.970Z,-23.173,171.8869,10,4.6,mb,,163,4.132,0.57,us,us7000hgyf,2022-06-12T17:24:39.040Z,"southeast of the Loyalty Islands",earthquake,12.4,1.9,0.137,18,reviewed,us,us
 2022-06-12T16:12:12.968Z,57.7478,-154.4728,40.7,1.5,ml,,,,0.63,ak,ak0227hu73rk,2022-06-12T16:19:04.265Z,"19 km N of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-06-12T16:06:01.150Z,17.9383333333333,-66.9721666666667,16.42,1.94,md,3,228,,0.04,pr,pr71353778,2022-06-12T16:42:20.320Z,"7 km WSW of Guánica, Puerto Rico",earthquake,2.57,1.07,0.0112728242238316,3,reviewed,pr,pr
 2022-06-12T16:04:25.092Z,64.7614,-149.2241,19,0.7,ml,,,,0.24,ak,ak0227hu5ez1,2022-06-12T16:06:15.056Z,"18 km NNW of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -183,5 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-11T18:02:55.556Z,56.0081,-150.0406,10,2.9,ml,,221,2.261,1.33,us,us7000hgs0,2022-06-11T21:20:48.040Z,"224 km SE of Chiniak, Alaska",earthquake,8.3,2,0.055,44,reviewed,us,us
 2022-06-11T17:55:02.162Z,-18.9496,-12.3287,10,5.6,mww,,35,6.95,0.75,us,us7000hgrz,2022-06-11T19:57:49.838Z,"southern Mid-Atlantic Ridge",earthquake,9.2,1.9,0.098,10,reviewed,us,us
 2022-06-11T17:48:47.200Z,38.8338318,-122.80867,2.35,0.74,md,18,51,0.01048,0.02,nc,nc73744051,2022-06-11T17:54:11.163Z,"8km W of Cobb, CA",earthquake,0.24,0.59,0.24,3,automatic,nc,nc
-2022-06-11T17:30:28.310Z,39.2233333,-122.7958333,3.31,1.64,md,20,75,0.09813,0.11,nc,nc73744041,2022-06-11T19:10:14.455Z,"12km ENE of Upper Lake, CA",earthquake,0.19,1.37,0.145,19,reviewed,nc,nc
-2022-06-11T17:25:25.960Z,38.8339996,-122.809166,1.97,0.47,md,8,101,0.01061,0.02,nc,nc73744036,2022-06-11T17:34:10.887Z,"8km W of Cobb, CA",earthquake,0.44,0.81,0.39,2,automatic,nc,nc
