@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-13T09:15:36.120Z,36.3063316,-120.885498,6.32,2.21,md,25,105,0.05716,0.05,nc,nc73744891,2022-06-13T09:17:13.460Z,"23km WSW of New Idria, CA",earthquake,0.31,0.47,0.14,20,automatic,nc,nc
+2022-06-13T09:26:51.840Z,38.8256683,-122.8033371,1.62,0.82,md,19,46,0.005731,0.02,nc,nc73744906,2022-06-13T09:35:11.478Z,"7km NW of The Geysers, CA",earthquake,0.22,0.39,0.28,3,automatic,nc,nc
+2022-06-13T09:26:46.330Z,33.239,-116.109,9.83,1.88,ml,54,31,0.09665,0.22,ci,ci40039303,2022-06-13T09:30:28.473Z,"11km N of Ocotillo Wells, CA",earthquake,0.25,0.78,0.139,27,automatic,ci,ci
+2022-06-13T09:23:10.730Z,38.8139992,-122.8205032,2.85,0.57,md,10,154,0.008496,0.01,nc,nc73744896,2022-06-13T09:32:11.328Z,"7km NW of The Geysers, CA",earthquake,0.4,1.11,0.34,2,automatic,nc,nc
+2022-06-13T09:15:36.120Z,36.3063316,-120.885498,6.32,2.21,md,25,105,0.05716,0.05,nc,nc73744891,2022-06-13T09:22:11.263Z,"23km WSW of New Idria, CA",earthquake,0.31,0.47,0.14,20,automatic,nc,nc
 2022-06-13T09:05:04.810Z,38.7866669,-122.7779999,0.73,1.44,md,26,85,0.01012,0.04,nc,nc73744886,2022-06-13T09:13:10.430Z,"2km WNW of The Geysers, CA",earthquake,0.21,0.36,0.04,6,automatic,nc,nc
 2022-06-13T09:04:40.270Z,34.3765,-117.8205,6.22,1.1,ml,29,65,0.08416,0.22,ci,ci40039287,2022-06-13T09:08:21.344Z,"13km SSW of Llano, CA",earthquake,0.32,0.7,0.253,28,automatic,ci,ci
 2022-06-13T08:57:15.080Z,38.829834,-122.8010025,3.45,0.85,md,10,126,0.009568,0.02,nc,nc73744876,2022-06-13T09:05:12.285Z,"7km W of Cobb, CA",earthquake,1.06,1.44,,1,automatic,nc,nc
-2022-06-13T08:56:21.150Z,38.8048325,-122.8101654,2.35,1.56,md,31,58,0.01203,0.05,nc,nc73744871,2022-06-13T09:05:12.157Z,"6km WNW of The Geysers, CA",earthquake,0.18,0.31,0.08,9,automatic,nc,nc
-2022-06-13T08:45:59.110Z,55.8123,-158.1468,81.9,2.3,ml,,,,0.58,ak,ak0227jd65lz,2022-06-13T08:49:03.149Z,"56 km SSE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
+2022-06-13T08:56:21.150Z,38.8048325,-122.8101654,2.35,1.56,md,31,58,0.01203,0.05,nc,nc73744871,2022-06-13T09:27:17.295Z,"6km WNW of The Geysers, CA",earthquake,0.18,0.31,0.08,9,automatic,nc,nc
+2022-06-13T08:45:59.110Z,55.8123,-158.1468,81.9,2.3,ml,,,,0.58,ak,ak0227jd65lz,2022-06-13T09:26:26.040Z,"56 km SSE of Chignik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-06-13T08:42:45.570Z,38.8139992,-122.8216629,2.42,0.99,md,17,68,0.007793,0.03,nc,nc73744866,2022-06-13T09:17:25.232Z,"7km NW of The Geysers, CA",earthquake,0.3,0.62,0.09,3,automatic,nc,nc
 2022-06-13T08:41:44.130Z,33.5005,-116.4416667,0.94,0.6,ml,13,84,0.1119,0.2,ci,ci40039279,2022-06-13T08:45:15.219Z,"22km SW of La Quinta, CA",earthquake,0.42,0.93,0.122,9,automatic,ci,ci
 2022-06-13T08:36:37.210Z,33.6665,-116.7341667,13.62,0.69,ml,17,100,0.05098,0.15,ci,ci40039263,2022-06-13T08:40:07.551Z,"8km S of Idyllwild, CA",earthquake,0.41,0.57,0.204,14,automatic,ci,ci
@@ -187,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-12T09:46:02.470Z,37.4773333,-118.7455,9.97,1.46,md,17,153,0.1307,0.03,nc,nc73744346,2022-06-12T20:30:10.632Z,"11km SSW of Toms Place, CA",earthquake,0.41,1.51,0.124,14,reviewed,nc,nc
 2022-06-12T09:40:30.430Z,33.3295,-116.3115,8.5,0.7,ml,20,147,0.03282,0.19,ci,ci40038727,2022-06-12T09:44:17.112Z,"10km NE of Borrego Springs, CA",earthquake,0.43,0.6,0.126,16,automatic,ci,ci
 2022-06-12T09:38:54.288Z,59.3641,-152.6507,74.7,1.2,ml,,,,0.34,ak,ak0227hq6owz,2022-06-12T09:41:07.472Z,"41 km W of Nanwalek, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-06-12T09:35:09.360Z,47.38816666666666,-122.442,23.17,1.1300000000000001,ml,20,137,0.03634,0.2,uw,uw61850701,2022-06-12T23:42:35.830Z,"6 km SSE of Vashon, Washington",earthquake,0.82,0.64,0.13874790153472794,8,reviewed,uw,uw
-2022-06-12T09:31:44.140Z,19.2231674194336,-155.391662597656,30.7000007629395,1.91999996,md,32,156,,0.140000001,hv,hv73041857,2022-06-12T09:35:09.270Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,0.819999993,0.289999992,5,automatic,hv,hv
-2022-06-12T09:29:44.155Z,64.9196,-147.7193,14.6,0.6,ml,,,,0.35,ak,ak0227hq4s3z,2022-06-12T09:35:13.189Z,"1 km NW of Farmers Loop, Alaska",earthquake,,0.7,,,automatic,ak,ak
