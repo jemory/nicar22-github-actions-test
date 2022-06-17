@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T07:04:06.435Z,65.9481,-146.2739,1.1,1.6,ml,,,,0.33,ak,ak0227pyh7k3,2022-06-17T07:06:32.498Z,"40 km SSW of Birch Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-06-17T06:56:25.840Z,33.1266667,-116.5756667,6.75,1.06,ml,11,144,0.3677,0.1,ci,ci40285856,2022-06-17T06:59:59.443Z,"6km NNE of Julian, CA",earthquake,0.61,9.08,0.144,10,automatic,ci,ci
+2022-06-17T06:55:14.180Z,17.991,-66.8668333333333,18,2.24,md,5,139,,0.07,pr,pr71354573,2022-06-17T07:08:42.880Z,"2 km SSE of Palomas, Puerto Rico",earthquake,0.59,0.65,0.13591871421927,4,reviewed,pr,pr
 2022-06-17T06:36:15.060Z,35.9735,-117.886,2.55,1.85,ml,26,54,0.03435,0.16,ci,ci40285840,2022-06-17T06:46:40.560Z,"4km NNE of Little Lake, CA",earthquake,0.24,0.39,0.244,25,automatic,ci,ci
 2022-06-17T06:28:37.740Z,17.9108333333333,-66.8491666666667,14.02,2.23,md,5,231,,0.13,pr,pr71354568,2022-06-17T06:40:01.700Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.01,0.82,0.20117151903299,4,reviewed,pr,pr
 2022-06-17T06:02:46.290Z,17.9411666666667,-66.8501666666667,12.54,2.27,md,7,186,,0.15,pr,pr71354563,2022-06-17T06:10:10.210Z,"5 km SE of Maria Antonia, Puerto Rico",earthquake,0.53,0.58,0.0340744657154053,5,reviewed,pr,pr
@@ -217,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T09:20:16.890Z,38.8279991,-122.7996674,1.81,0.35,md,6,87,0.009339,0.01,nc,nc73746136,2022-06-16T10:08:17.213Z,"7km W of Cobb, CA",earthquake,0.7,1.64,,1,automatic,nc,nc
 2022-06-16T09:15:06.480Z,0.0184,123.3554,135.72,4.8,mb,,47,1.204,0.83,us,us7000hhr8,2022-06-16T09:53:05.040Z,"66 km SSE of Gorontalo, Indonesia",earthquake,7.8,7.1,0.052,114,reviewed,us,us
 2022-06-16T09:12:00.444Z,38.0161,-115.2288,0,1.5,ml,15,189.27,0.553,0.1883,nn,nn00840999,2022-06-16T16:50:37.200Z,"46 km N of Hiko, Nevada",earthquake,,0,0.49,11,reviewed,nn,nn
-2022-06-16T09:03:55.500Z,38.8256667,-122.7965,1.74,0.41,md,25,41,0.01084,0.02,nc,nc73746126,2022-06-17T06:53:26.732Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.463,3,reviewed,nc,nc
+2022-06-16T09:03:55.500Z,38.8256667,-122.7965,1.74,0.41,md,25,41,0.01084,0.02,nc,nc73746126,2022-06-17T07:13:16.665Z,"6km W of Cobb, CA",earthquake,0.18,0.34,0.463,3,reviewed,nc,nc
 2022-06-16T09:01:40.610Z,38.828167,-122.7993317,2.19,0.85,md,13,81,0.009649,0.01,nc,nc73746121,2022-06-16T09:11:11.879Z,"7km W of Cobb, CA",earthquake,0.31,0.94,,1,automatic,nc,nc
 2022-06-16T08:59:48.650Z,38.8283348,-122.7981644,1.98,0.85,md,9,83,0.01053,0.02,nc,nc73746116,2022-06-16T09:07:10.856Z,"6km W of Cobb, CA",earthquake,0.45,1.09,,1,automatic,nc,nc
 2022-06-16T08:58:13.980Z,35.6905,-117.5181667,10.96,0.81,ml,18,148,0.1133,0.16,ci,ci40041159,2022-06-16T17:21:03.291Z,"13km SW of Searles Valley, CA",earthquake,0.34,0.5,0.115,5,reviewed,ci,ci
@@ -244,5 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T07:33:45.300Z,35.9945,-120.556,3.89,0.85,md,27,69,0.02034,0.06,nc,nc73746076,2022-06-17T05:46:15.133Z,"16km NW of Parkfield, CA",earthquake,0.16,0.25,0.209,13,reviewed,nc,nc
 2022-06-16T07:33:35.520Z,58.2625,-155.004833333333,3.15,-0.47,ml,7,132,,0.21,av,av91063158,2022-06-16T22:02:55.140Z,"83 km NNW of Karluk, Alaska",earthquake,0.61,1.33,0.0920355604519303,7,reviewed,av,av
 2022-06-16T07:32:35.550Z,34.0138333,-116.7945,11.46,0.9,ml,47,40,0.02395,0.16,ci,ci40041127,2022-06-16T16:23:25.413Z,"11km N of Cabazon, CA",earthquake,0.19,0.4,0.138,20,reviewed,ci,ci
-2022-06-16T07:02:21.920Z,37.4536667,-121.7678333,5.08,1.02,md,29,48,0.05293,0.07,nc,nc73746066,2022-06-17T06:06:18.262Z,"11km NNE of Alum Rock, CA",earthquake,0.2,0.47,0.241,26,reviewed,nc,nc
-2022-06-16T06:55:52.070Z,19.2013339996338,-155.386337280273,31.3199996948242,1.96,ml,38,161,,0.129999995,hv,hv73045577,2022-06-16T07:01:22.450Z,"9 km E of Pāhala, Hawaii",earthquake,0.67,1.05999994,5.54,3,automatic,hv,hv
