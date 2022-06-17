@@ -1,7 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T22:46:43.480Z,38.8235016,-122.7971649,2.62,0.86,md,25,33,0.01008,0.03,nc,nc73746856,2022-06-17T22:48:19.753Z,"6km NW of The Geysers, CA",earthquake,0.22,0.45,0.15,5,automatic,nc,nc
+2022-06-17T22:40:15.630Z,38.8240013,-122.7608337,0.01,0.53,md,11,130,0.009593,0.03,nc,nc73746851,2022-06-17T22:41:49.398Z,"3km W of Cobb, CA",earthquake,0.3,0.63,0.38,2,automatic,nc,nc
+2022-06-17T22:39:42.720Z,38.8233337,-122.7616653,0.17,1.6,md,21,128,0.009607,0.05,nc,nc73746841,2022-06-17T22:48:11.072Z,"3km W of Cobb, CA",earthquake,0.24,0.45,0.02,4,automatic,nc,nc
+2022-06-17T22:36:45.790Z,19.1650009155273,-155.478164672852,33.7900009155273,2.01999998,md,35,100,,0.119999997,hv,hv73047187,2022-06-17T22:39:58.400Z,"4 km S of Pāhala, Hawaii",earthquake,0.62,0.810000002,1.07000005,13,automatic,hv,hv
+2022-06-17T22:22:58.537Z,52.9339,159.9654,57.69,4.7,mb,,118,0.8,0.89,us,us7000hi8v,2022-06-17T22:46:58.040Z,"90 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,8.6,6.7,0.043,164,reviewed,us,us
 2022-06-17T22:12:27.998Z,0.1504,96.5746,10,4.5,mb,,85,1.521,0.75,us,us7000hi8t,2022-06-17T22:32:02.040Z,"258 km S of Sinabang, Indonesia",earthquake,8.4,1.9,0.09,36,reviewed,us,us
 2022-06-17T22:10:03.820Z,19.2223339080811,-155.38932800293,30.7900009155273,1.72000003,md,26,151,,0.109999999,hv,hv73047157,2022-06-17T22:13:19.050Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.82,0.860000014,0.600000024,5,automatic,hv,hv
 2022-06-17T22:07:38.401Z,59.7436,-153.1218,107.1,1.6,ml,,,,0.13,ak,ak0227q7ff8w,2022-06-17T22:23:08.040Z,"55 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-17T22:02:56.260Z,32.3783333,-116.2795,5.07,1.25,ml,19,117,0.2746,0.19,ci,ci40286384,2022-06-17T22:42:40.728Z,"31km SE of Campo, CA",earthquake,0.33,31.61,0.109,12,reviewed,ci,ci
 2022-06-17T21:59:10.049Z,63.2914,-151.3681,3.4,1.4,ml,,,,0.9,ak,ak0227q752os,2022-06-17T22:04:21.038Z,"32 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-06-17T20:43:56.970Z,38.1074982,-122.140831,5.39,1.6,md,9,169,0.01666,0.06,nc,nc73746831,2022-06-17T21:02:14.447Z,"7km NNE of Benicia, CA",earthquake,0.45,0.56,0.03,6,automatic,nc,nc
 2022-06-17T20:42:58.900Z,34.6685,-119.5421667,10.72,0.89,ml,8,150,0.1304,0.21,ci,ci40286360,2022-06-17T22:27:54.650Z,"27km NNE of Montecito, CA",earthquake,0.81,1.84,0.032,2,reviewed,ci,ci
@@ -151,7 +157,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T06:38:16.450Z,35.9765,-117.8888333,3.85,0.65,ml,12,121,0.0312,0.08,ci,ci40285848,2022-06-17T15:44:12.206Z,"5km NNE of Little Lake, CA",earthquake,0.16,0.28,0.444,4,reviewed,ci,ci
 2022-06-17T06:37:56.820Z,35.9718333,-117.889,3.01,0.18,ml,6,172,0.03585,0.07,ci,ci37504029,2022-06-17T15:48:39.310Z,"4km NNE of Little Lake, CA",earthquake,0.23,0.58,0.2,2,reviewed,ci,ci
 2022-06-17T06:36:15.010Z,35.976,-117.8878333,2.64,1.94,ml,36,34,0.03174,0.12,ci,ci40285840,2022-06-17T18:53:49.610Z,"5km NNE of Little Lake, CA",earthquake,0.12,0.19,0.246,17,reviewed,ci,ci
-2022-06-17T06:28:43.030Z,38.8266667,-122.8051667,1.79,0.43,md,20,48,0.005036,0.03,nc,nc73746586,2022-06-17T22:38:38.434Z,"7km NW of The Geysers, CA",earthquake,0.18,0.38,0.081,3,reviewed,nc,nc
+2022-06-17T06:28:43.030Z,38.8266667,-122.8051667,1.79,0.43,md,20,48,0.005036,0.03,nc,nc73746586,2022-06-17T22:44:11.046Z,"7km NW of The Geysers, CA",earthquake,0.18,0.38,0.081,3,reviewed,nc,nc
 2022-06-17T06:28:37.740Z,17.9108333333333,-66.8491666666667,14.02,2.23,md,5,231,,0.13,pr,pr71354568,2022-06-17T06:40:01.700Z,"8 km SSE of Maria Antonia, Puerto Rico",earthquake,1.01,0.82,0.20117151903299,4,reviewed,pr,pr
 2022-06-17T06:09:30.890Z,33.5518333,-82.3233333,6.79,2.16,md,9,109,0.6263,0.23,se,se60153543,2022-06-17T15:05:52.737Z,"15 km N of Harlem, Georgia",earthquake,0.63,5.09,0.026,5,reviewed,se,se
 2022-06-17T06:08:57.380Z,44.8,-110.8023333,7.13,0.42,md,10,213,0.03623,0.09,uu,uu60502097,2022-06-17T14:51:06.290Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.83,0.65,0.134,5,reviewed,uu,uu
@@ -235,6 +241,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T23:08:46.230Z,36.1918335,-120.3193359,8.9,1.8,md,13,125,0.1047,0.07,nc,nc73746461,2022-06-17T01:27:10.653Z,"7km NNE of Coalinga, CA",earthquake,0.43,0.71,0.12,8,automatic,nc,nc
 2022-06-16T23:01:35.087Z,63.3029,-149.0749,80.6,1.4,ml,,,,0.45,ak,ak0227okg7t0,2022-06-16T23:03:38.593Z,"11 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-06-16T22:58:05.017Z,43.893,-128.9723,10,3.2,ml,,274,3.565,0.39,us,us7000hhzj,2022-06-16T23:46:47.000Z,"off the coast of Oregon",earthquake,11.1,2,0.048,57,reviewed,us,us
-2022-06-16T22:49:26.758Z,29.05883789,-97.84604779,0.09781901042,2,ml,11,79,0.03661774536,0.2,tx,tx2022ltas,2022-06-17T17:38:39.333Z,"18 km ENE of Falls City, Texas",earthquake,1.799497965,2.908070631,0.1,7,reviewed,tx,tx
-2022-06-16T22:45:07.874Z,18.4617,-81.7204,10,4.3,mb,,69,3.982,0.67,us,us7000hhzh,2022-06-16T23:02:26.040Z,"98 km SSW of George Town, Cayman Islands",earthquake,6.8,1.9,0.048,123,reviewed,us,us
-2022-06-16T22:39:54.060Z,33.0533333,-116.3535,12.65,0.8,ml,19,55,0.09443,0.15,ci,ci40285536,2022-06-17T00:12:30.764Z,"23km S of Borrego Springs, CA",earthquake,0.26,0.74,0.166,9,reviewed,ci,ci
