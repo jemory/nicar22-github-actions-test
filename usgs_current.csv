@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-17T10:55:32.630Z,38.8318329,-122.8138351,2.15,0.97,md,23,43,0.008923,0.02,nc,nc73746661,2022-06-17T10:57:09.446Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.1,4,automatic,nc,nc
-2022-06-17T10:48:08.000Z,18.651,-62.92,10,5.2,Mi,16,,,,pt,pt22168001,2022-06-17T11:03:08.994Z,"50 km NNE of The Valley, Anguilla",earthquake,,,,11,reviewed,pt,pt
+2022-06-17T11:16:45.210Z,19.5041675567627,-155.462493896484,-0.949999988079071,1.97,ml,27,74,,0.209999993,hv,hv73046792,2022-06-17T11:22:15.640Z,"24 km WNW of Volcano, Hawaii",earthquake,0.4,0.74000001,3.85,6,automatic,hv,hv
+2022-06-17T11:11:20.210Z,19.5263328552246,-155.467498779297,0.239999994635582,2.14,ml,24,181,,0.25999999,hv,hv73046787,2022-06-17T11:16:51.880Z,"26 km WNW of Volcano, Hawaii",earthquake,0.64,1.41999996,2.91,6,automatic,hv,hv
+2022-06-17T11:10:06.270Z,33.0618333,-116.4236667,12.51,0.68,ml,18,133,0.1471,0.32,ci,ci40286000,2022-06-17T11:13:37.625Z,"17km E of Julian, CA",earthquake,0.78,1.85,0.096,6,automatic,ci,ci
+2022-06-17T11:08:28.530Z,19.2215003967285,-155.406661987305,33.2999992370605,2.35,ml,43,143,,0.129999995,hv,hv73046782,2022-06-17T11:21:00.040Z,"7 km ENE of Pāhala, Hawaii",earthquake,0.52,0.689999998,3.9,6,automatic,hv,hv
+2022-06-17T11:08:02.510Z,37.3388329,-122.2036667,8.66,2.45,md,44,53,0.02422,0.12,nc,nc73746671,2022-06-17T11:20:54.779Z,"6km SSE of Portola Valley, CA",earthquake,0.19,0.37,0.14,52,automatic,nc,nc
+2022-06-17T10:55:32.630Z,38.8318329,-122.8138351,2.15,0.97,md,23,43,0.008923,0.02,nc,nc73746661,2022-06-17T11:12:13.020Z,"8km NW of The Geysers, CA",earthquake,0.21,0.44,0.1,4,automatic,nc,nc
+2022-06-17T10:48:11.270Z,18.4946,-62.9751,29.4,4.8,mww,,32,0.452,0.54,us,us7000hi2s,2022-06-17T11:19:16.582Z,"31 km NNE of The Valley, Anguilla",earthquake,6.1,5.2,0.098,10,reviewed,us,us
 2022-06-17T10:45:33.790Z,33.6383333,-116.7431667,15.77,0.64,ml,22,90,0.04783,0.14,ci,ci40285992,2022-06-17T10:49:11.487Z,"11km NW of Anza, CA",earthquake,0.36,0.67,0.149,18,automatic,ci,ci
 2022-06-17T10:42:18.815Z,61.5511,-147.4529,82.5,1.1,ml,,,,1.11,ak,ak0227q0hojd,2022-06-17T10:44:07.383Z,"30 km SSE of Glacier View, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-06-17T10:22:07.710Z,33.1718333,-116.127,8.94,0.8,ml,18,111,0.0379,0.2,ci,ci40285976,2022-06-17T10:25:40.350Z,"3km N of Ocotillo Wells, CA",earthquake,0.51,0.84,0.162,7,automatic,ci,ci
@@ -14,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T09:31:47.180Z,35.8008333,-117.6165,10.56,1.18,ml,10,180,0.02144,0.13,ci,ci40285952,2022-06-17T09:35:17.083Z,"20km W of Searles Valley, CA",earthquake,0.9,0.79,0.158,8,automatic,ci,ci
 2022-06-17T09:26:17.530Z,35.878,-117.6831667,4.6,0.98,ml,13,83,0.08769,0.12,ci,ci40285944,2022-06-17T09:29:49.026Z,"21km ESE of Little Lake, CA",earthquake,0.26,0.57,0.058,8,automatic,ci,ci
 2022-06-17T09:22:58.817Z,36.5258,71.2156,221.25,5.1,mww,,36,0.788,0.9,us,us7000hi2g,2022-06-17T10:21:34.838Z,"33 km WSW of Ashkāsham, Afghanistan",earthquake,7.6,5.4,0.093,11,reviewed,us,us
-2022-06-17T09:19:37.620Z,38.8334999,-122.8003311,2.03,0.85,md,12,70,0.009212,0.01,nc,nc73746651,2022-06-17T09:43:13.485Z,"7km W of Cobb, CA",earthquake,0.37,0.81,,1,automatic,nc,nc
+2022-06-17T09:19:37.620Z,38.8334999,-122.8003311,2.03,0.85,md,12,70,0.009212,0.01,nc,nc73746651,2022-06-17T11:08:11.998Z,"7km W of Cobb, CA",earthquake,0.37,0.81,,1,automatic,nc,nc
 2022-06-17T09:16:56.270Z,38.8240013,-122.7955017,2.79,0.75,md,15,58,0.0114,0.01,nc,nc73746646,2022-06-17T10:42:13.847Z,"6km NNW of The Geysers, CA",earthquake,0.28,0.83,0.1,2,automatic,nc,nc
 2022-06-17T09:11:58.732Z,-21.4831,-176.5989,224.58,4.7,mb,,93,6.263,0.69,us,us7000hi2f,2022-06-17T09:32:53.040Z,"148 km WSW of Haveluloto, Tonga",earthquake,9.2,5.5,0.046,143,reviewed,us,us
 2022-06-17T09:10:57.100Z,17.9475,-66.9676666666667,13.27,2.04,md,4,223,,0.04,pr,pr71354598,2022-06-17T10:32:52.590Z,"Puerto Rico region",earthquake,0.62,1.04,0.0273762090359762,4,reviewed,pr,pr
@@ -234,6 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T11:39:43.146Z,31.68101299,-104.4248396,6.131567383,2.9,ml,20,89,0.06591265002,0.3,tx,tx2022lsep,2022-06-16T11:58:23.631Z,"55 km S of Whites City, New Mexico",earthquake,1.028459829,1.035315124,0.1,12,reviewed,tx,tx
 2022-06-16T11:28:10.770Z,18.0685,-67.037,7.34,2.12,md,5,93,,0.07,pr,pr71354348,2022-06-16T12:19:34.916Z,"1 km SSE of San Germán, Puerto Rico",earthquake,1.39,1.68,0.109312474245602,4,reviewed,pr,pr
 2022-06-16T11:25:08.150Z,34.0381667,-117.2411667,16.91,0.74,ml,30,95,0.1201,0.14,ci,ci40041255,2022-06-16T17:50:21.715Z,"2km ESE of Loma Linda, CA",earthquake,0.18,0.5,0.051,11,reviewed,ci,ci
-2022-06-16T11:22:50.200Z,33.9948333,-117.217,11.36,1.01,ml,57,59,0.05992,0.16,ci,ci40041247,2022-06-16T17:53:09.400Z,"7km SE of Loma Linda, CA",earthquake,0.16,0.26,0.086,25,reviewed,ci,ci
-2022-06-16T11:19:54.860Z,39.355,-123.2626667,7.52,1.7,md,22,63,0.07122,0.08,nc,nc73746171,2022-06-16T22:19:10.593Z,"10km SE of Willits, CA",earthquake,0.18,0.49,0.087,20,reviewed,nc,nc
-2022-06-16T11:15:02.910Z,33.2923333,-116.098,-0.08,1.28,ml,41,42,0.09473,0.19,ci,ci40041239,2022-06-16T17:41:16.156Z,"13km W of Salton City, CA",earthquake,0.24,0.61,0.135,22,reviewed,ci,ci
