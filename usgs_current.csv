@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-17T08:35:30.471Z,58.2908,-151.8304,29.4,2.8,ml,,,,0.36,ak,ak0227pz9c8f,2022-06-17T08:37:48.385Z,"56 km NE of Ouzinkie, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-17T08:30:25.586Z,63.1189,-151.3462,0,1.2,ml,,,,1.04,ak,ak0227pz899a,2022-06-17T08:32:13.683Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-06-17T08:29:43.270Z,33.5908333,-116.8031667,7.23,0.37,ml,16,93,0.03273,0.18,ci,ci40285920,2022-06-17T08:33:17.844Z,"13km WNW of Anza, CA",earthquake,0.45,0.69,0.162,11,automatic,ci,ci
 2022-06-17T08:12:32.120Z,36.1765,-117.8221667,8.9,0.76,ml,10,130,0.06448,0.2,ci,ci40285912,2022-06-17T08:16:10.296Z,"18km NE of Coso Junction, CA",earthquake,0.58,1.18,0.114,3,automatic,ci,ci
 2022-06-17T08:07:37.890Z,38.840332,-122.8098297,2.35,0.85,md,6,121,0.01534,0,nc,nc73746631,2022-06-17T08:16:11.180Z,"8km WNW of Cobb, CA",earthquake,0.72,2.88,,1,automatic,nc,nc
 2022-06-17T08:01:59.720Z,36.0915,-117.6871667,0.15,1.86,ml,17,129,0.1019,0.15,ci,ci40285904,2022-06-17T08:05:43.485Z,"24km ENE of Coso Junction, CA",earthquake,0.34,0.6,0.129,26,automatic,ci,ci
@@ -246,4 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-16T08:49:44.860Z,38.8226662,-122.7935028,0.93,0.39,md,11,81,0.01296,0.02,nc,nc73746096,2022-06-16T09:35:27.024Z,"6km NNW of The Geysers, CA",earthquake,0.26,0.85,0.3,2,automatic,nc,nc
 2022-06-16T08:48:56.620Z,38.8276672,-122.7981644,1.87,2.68,md,62,31,0.01023,0.07,nc,nc73746091,2022-06-16T17:12:34.307Z,"6km W of Cobb, CA",earthquake,0.15,0.2,0.11,53,automatic,nc,nc
 2022-06-16T08:47:45.450Z,35.9881667,-117.4056667,1.39,1.29,ml,27,53,0.1388,0.16,ci,ci40041151,2022-06-16T16:48:22.175Z,"24km N of Searles Valley, CA",earthquake,0.23,0.45,0.103,10,reviewed,ci,ci
-2022-06-16T08:40:29.388Z,31.62130883,-104.1270306,6.362939453,1.6,ml,13,81,0.09230598049,0.3,tx,tx2022lryr,2022-06-16T14:15:34.481Z,"46 km NW of Toyah, Texas",earthquake,1.6881142650000003,2.340686437,0.3,10,reviewed,tx,tx
