@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-18T15:36:47.360Z,36.0211678,-120.5784988,2.9,0.59,md,8,134,0.03593,0.04,nc,nc73747061,2022-06-18T15:38:21.499Z,"19km NW of Parkfield, CA",earthquake,0.46,1.41,0.01,3,automatic,nc,nc
+2022-06-18T15:31:15.155Z,62.1226,-147.4978,32.7,1.1,ml,,,,0.43,ak,ak0227rqxtwb,2022-06-18T15:33:04.771Z,"26 km NW of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T15:05:10.272Z,-32.4156,-177.2727,18.77,4.9,mb,,152,3.192,0.91,us,us7000hidx,2022-06-18T15:25:16.040Z,"south of the Kermadec Islands",earthquake,11.7,7.3,0.136,19,reviewed,us,us
 2022-06-18T14:58:18.430Z,61.6822,-147.1749,34.4,1.9,ml,,,,0.32,ak,ak0227rqi6vn,2022-06-18T14:59:25.653Z,"28 km S of Eureka Roadhouse, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-06-18T14:56:07.500Z,35.7648333,-117.5613333,6.94,0.93,ml,13,176,0.0587,0.19,ci,ci40286768,2022-06-18T14:59:42.132Z,"14km W of Searles Valley, CA",earthquake,0.79,1.18,0.081,9,automatic,ci,ci
@@ -73,7 +75,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-18T03:59:17.360Z,19.1916675567627,-155.434173583984,33.7299995422363,1.85000002,md,35,146,,0.109999999,hv,hv73047492,2022-06-18T04:02:28.600Z,"Island of Hawaii, Hawaii",earthquake,0.63,0.879999995,0.360000014,9,automatic,hv,hv
 2022-06-18T03:42:06.240Z,34.054,-118.3241667,10.3,1.41,ml,9,142,0.07057,0.23,ci,ci40286464,2022-06-18T03:45:46.416Z,"4km W of MacArthur Park, CA",earthquake,1.98,4.86,0.433,15,automatic,ci,ci
 2022-06-18T03:09:52.542Z,62.2784,-150.9199,65,1.8,ml,,,,0.53,ak,ak0227rjnzrq,2022-06-18T03:11:51.387Z,"25 km SSW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-06-18T02:57:31.408Z,23.2455,121.4183,16.46,4.4,mb,,158,0.183,0.86,us,us7000hiac,2022-06-18T03:18:34.040Z,"Taiwan",earthquake,2.3,3.3,0.24,5,reviewed,us,us
+2022-06-18T02:57:31.408Z,23.2455,121.4183,16.46,4.4,mb,,158,0.183,0.86,us,us7000hiac,2022-06-18T03:18:34.040Z,"83 km SSW of Hualien City, Taiwan",earthquake,2.3,3.3,0.24,5,reviewed,us,us
 2022-06-18T02:55:12.010Z,17.971,-66.8351666666667,12.28,2.5,md,6,210,,0.05,pr,pr71354778,2022-06-18T03:15:21.160Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.89,0.54,0.00937862584055971,3,reviewed,pr,pr
 2022-06-18T02:49:51.844Z,-32.1497,-177.7086,10,5.2,mww,,84,2.884,1.31,us,us7000hiab,2022-06-18T05:48:01.040Z,"south of the Kermadec Islands",earthquake,5.1,1.8,0.071,19,reviewed,us,us
 2022-06-18T02:33:32.688Z,61.9692,-149.7865,34.7,1.8,ml,,,,0.59,ak,ak0227rj7ntg,2022-06-18T02:35:29.736Z,"21 km S of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -192,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-17T15:58:54.277Z,-10.6062,116.0066,36.75,4.4,mb,,65,2.801,0.75,us,us7000hi6g,2022-06-17T17:15:40.040Z,"208 km S of Lembar, Indonesia",earthquake,8.6,7.3,0.123,19,reviewed,us,us
 2022-06-17T15:53:51.970Z,38.8216667,-122.7634964,2.31,0.95,md,13,121,0.01012,0.01,nc,nc73746751,2022-06-17T16:20:12.818Z,"4km W of Cobb, CA",earthquake,0.31,0.69,0.19,3,automatic,nc,nc
 2022-06-17T15:51:28.800Z,19.4091663360596,-155.260162353516,2.47000002861023,1.92999995,md,14,111,,0.209999993,hv,hv73046917,2022-06-17T15:54:44.190Z,"4 km SW of Volcano, Hawaii",earthquake,0.52,0.400000006,0.529999971,7,automatic,hv,hv
-2022-06-17T15:42:49.020Z,35.7275,-117.6858333,9.23,0.44,ml,12,110,0.06325,0.13,ci,ci40286144,2022-06-17T19:16:02.529Z,"12km N of Ridgecrest, CA",earthquake,0.27,0.59,0.076,5,reviewed,ci,ci
