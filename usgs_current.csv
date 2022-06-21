@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-21T19:08:18.994Z,2.0329,96.4169,24.29,5.2,mww,,68,1.365,0.73,us,us7000hj2w,2022-06-21T19:28:07.040Z,"49 km S of Sinabang, Indonesia",earthquake,7,4.9,0.089,12,reviewed,us,us
 2022-06-21T19:03:20.970Z,38.7709999,-122.720665,1.93,1.05,md,15,97,0.009949,0.04,nc,nc73749141,2022-06-21T19:12:11.651Z,"2km W of Anderson Springs, CA",earthquake,0.31,0.38,0.14,5,automatic,nc,nc
 2022-06-21T18:56:31.090Z,61.4043,-149.9261,39.3,1.1,ml,,,,1.12,ak,ak0227wrhkbp,2022-06-21T18:57:56.494Z,"5 km NNE of Point MacKenzie, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-06-21T18:48:34.720Z,35.245,-118.0691667,1.57,1.12,ml,14,58,0.1019,0.19,ci,ci40288680,2022-06-21T18:52:15.097Z,"15km NNW of California City, CA",earthquake,0.35,0.59,0.116,20,automatic,ci,ci
@@ -168,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-21T02:45:56.064Z,38.1709,-117.9655,3,0.9,ml,14,121.76,0.032,0.166,nn,nn00841346,2022-06-21T17:51:02.511Z,"27 km SSE of Mina, Nevada",earthquake,,0.9,0.42,3,reviewed,nn,nn
 2022-06-21T02:44:08.375Z,63.4623,-148.2635,9.9,1.2,ml,,,,0.15,ak,ak0227whw0at,2022-06-21T02:45:33.270Z,"35 km ENE of Cantwell, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-21T02:41:52.540Z,37.6251667,-118.8776667,-0.38,0.59,md,7,141,0.01321,0.13,nc,nc73748751,2022-06-21T04:25:11.321Z,"9km E of Mammoth Lakes, CA",earthquake,0.76,0.66,0.425,6,reviewed,nc,nc
-2022-06-21T02:40:11.960Z,35.9278333,-117.7138333,2.73,1.44,ml,20,70,0.08698,0.14,ci,ci40288400,2022-06-21T02:43:49.506Z,"17km E of Little Lake, CA",earthquake,0.25,0.55,0.211,19,automatic,ci,ci
+2022-06-21T02:40:11.950Z,35.9271667,-117.7148333,2.8,1.49,ml,32,68,0.08637,0.11,ci,ci40288400,2022-06-21T19:22:04.030Z,"17km E of Little Lake, CA",earthquake,0.11,0.28,0.174,15,reviewed,ci,ci
 2022-06-21T02:38:13.820Z,34.5636667,-119.8206667,5.64,1.71,ml,18,96,0.05275,0.19,ci,ci40288392,2022-06-21T19:14:37.279Z,"14km N of Goleta, CA",earthquake,0.31,0.74,0.058,9,reviewed,ci,ci
 2022-06-21T02:29:39.380Z,33.8021667,-116.25,9.92,0.55,ml,15,128,0.02432,0.1,ci,ci40288384,2022-06-21T19:01:34.947Z,"10km NNW of Indio, CA",earthquake,0.54,0.54,0.103,7,reviewed,ci,ci
 2022-06-21T02:21:04.440Z,38.8274994,-122.8509979,2.27,0.37,md,14,69,0.004589,0.02,nc,nc73748736,2022-06-21T03:17:16.902Z,"10km NW of The Geysers, CA",earthquake,0.31,0.53,0.01,2,automatic,nc,nc
@@ -281,9 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-20T19:38:31.530Z,43.1893333,-110.8973333,12.03,1.56,ml,9,237,0.29,0.2,mb,mb80549424,2022-06-20T20:33:11.370Z,"8 km E of Alpine Northeast, Wyoming",earthquake,1.96,3.53,0.235,8,reviewed,mb,mb
 2022-06-20T19:33:02.470Z,47.4255,-123.98616666666666,-0.24,1.53,ml,12,199,0.2175,0.72,uw,uw61844892,2022-06-21T01:23:32.020Z,"7 km WSW of Amanda Park, Washington",explosion,2.7,31.61,0.052466588074507436,2,reviewed,uw,uw
 2022-06-20T19:31:47.910Z,48.0223333,-115.1131667,3.79,1.29,ml,11,114,0.278,0.14,mb,mb80549434,2022-06-20T20:27:00.330Z,"7 km SSE of Happys Inn, Montana",earthquake,0.53,2.38,0.193,4,reviewed,mb,mb
-2022-06-20T19:26:50.070Z,37.6398333,-118.882,-0.4,0.06,md,9,143,0.01263,0.04,nc,nc73748411,2022-06-20T21:28:18.807Z,"8km E of Mammoth Lakes, CA",earthquake,0.32,0.5,0.111,7,reviewed,nc,nc
-2022-06-20T19:25:08.600Z,33.1463333,-116.4105,10.81,1.07,ml,37,54,0.1217,0.25,ci,ci40288152,2022-06-20T19:28:47.207Z,"13km SSW of Borrego Springs, CA",earthquake,0.35,0.71,0.161,25,automatic,ci,ci
-2022-06-20T19:24:33.610Z,37.6380005,-118.8843307,-0.08,1.6,md,13,134,0.0118,0.03,nc,nc73748401,2022-06-20T19:32:11.097Z,"8km E of Mammoth Lakes, CA",earthquake,0.37,0.3,0.12,13,automatic,nc,nc
-2022-06-20T19:22:59.830Z,37.6395,-118.882,-0.42,0.06,md,8,142,0.01275,0.05,nc,nc73748406,2022-06-20T21:17:27.738Z,"8km E of Mammoth Lakes, CA",earthquake,0.41,0.5,0.109,7,reviewed,nc,nc
-2022-06-20T19:22:46.648Z,59.1032,-153.2902,80.9,1.4,ml,,,,0.28,ak,ak0227v4ceag,2022-06-20T19:25:18.961Z,"83 km WSW of Nanwalek, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-20T19:20:28.090Z,33.144,-116.416,10.87,1.8,ml,62,34,0.1239,0.2,ci,ci40288144,2022-06-20T20:54:15.330Z,"13km SSW of Borrego Springs, CA",earthquake,0.21,0.49,0.153,25,reviewed,ci,ci
