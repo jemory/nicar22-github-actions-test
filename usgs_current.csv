@@ -1,5 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-06-27T18:52:18.410Z,19.2268333435059,-155.392669677734,30.3299999237061,1.97000003,md,39,147,,0.119999997,hv,hv73058047,2022-06-27T18:55:27.300Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.790000021,0.330000013,13,automatic,hv,hv
+2022-06-27T19:11:27.790Z,38.8325005,-122.810997,1.9,0.85,md,10,70,0.009121,0.01,nc,nc73751736,2022-06-27T19:13:03.786Z,"8km W of Cobb, CA",earthquake,0.34,1.1,,1,automatic,nc,nc
+2022-06-27T19:04:01.686Z,63.104,-149.7307,84.3,1.8,ml,,,,0.52,ak,ak02286ozve0,2022-06-27T19:06:25.782Z,"50 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-06-27T18:59:02.840Z,33.8165,-117.4873333,2.4,1.5,ml,39,66,0.03526,0.21,ci,ci40292480,2022-06-27T19:02:53.234Z,"8km SSE of Home Gardens, CA",quarry blast,0.34,0.43,0.243,31,automatic,ci,ci
+2022-06-27T18:58:56.480Z,33.5565,-117.1715,23.41,1.39,ml,12,92,0.2316,0.17,ci,ci40292472,2022-06-27T19:02:34.233Z,"1km WSW of Murrieta Hot Springs, CA",earthquake,0.64,1.55,0.205,4,automatic,ci,ci
+2022-06-27T18:54:37.170Z,34.995,-118.1901667,0.26,1.27,ml,18,75,0.1201,0.23,ci,ci40292464,2022-06-27T18:58:12.213Z,"7km SSW of Mojave, CA",earthquake,0.47,31.61,0.141,22,automatic,ci,ci
+2022-06-27T18:52:18.410Z,19.2268333435059,-155.392669677734,30.3299999237061,2.07,ml,39,147,,0.119999997,hv,hv73058047,2022-06-27T18:57:49.320Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.790000021,0.37,3,automatic,hv,hv
 2022-06-27T18:34:34.000Z,38.7913322,-122.8121643,3.49,0.85,md,9,158,0.007715,0.01,nc,nc73751731,2022-06-27T18:43:11.565Z,"5km WNW of The Geysers, CA",earthquake,0.63,1.57,,1,automatic,nc,nc
 2022-06-27T18:19:41.960Z,19.4656658172607,-155.490325927734,3.5699999332428,1.76,ml,20,81,,0.289999992,hv,hv73057997,2022-06-27T18:25:12.940Z,"27 km W of Volcano, Hawaii",earthquake,0.69,1.34000003,3.09,8,automatic,hv,hv
 2022-06-27T18:15:07.810Z,32.6698333,-115.7368333,7.35,1.45,ml,12,67,0.02227,0.21,ci,ci40292424,2022-06-27T18:18:52.952Z,"18km NW of Progreso, B.C., MX",earthquake,0.53,0.75,0.355,12,automatic,ci,ci
@@ -22,9 +27,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-27T15:59:40.630Z,35.9700012,-120.5223312,10.68,1.5,md,22,60,0.02416,0.06,nc,nc73751686,2022-06-27T18:17:21.443Z,"11km NW of Parkfield, CA",earthquake,0.35,0.54,0.19,13,automatic,nc,nc
 2022-06-27T15:55:52.140Z,33.2678333,-116.096,3.51,0.87,ml,26,63,0.127,0.25,ci,ci40292320,2022-06-27T15:59:23.896Z,"13km WSW of Salton City, CA",earthquake,0.41,1.5,0.117,18,automatic,ci,ci
 2022-06-27T15:54:36.500Z,44.8123333,-110.8371667,4.69,1.18,ml,14,211,0.02581,0.13,uu,uu60503562,2022-06-27T16:10:23.940Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.8,0.38,0.261,4,reviewed,uu,uu
+2022-06-27T15:46:13.200Z,19.4575,-155.5995,-1.32,0.9,md,9,88,,0.1,hv,hv73057842,2022-06-27T19:14:27.180Z,"Island of Hawaii, Hawaii",earthquake,0.3,0.22,0.0989036614468046,6,reviewed,hv,hv
 2022-06-27T15:45:25.017Z,61.3317,-150.6837,41.3,1.7,ml,,,,0.47,ak,ak02286muz4l,2022-06-27T15:47:30.072Z,"25 km SSW of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-06-27T15:30:08.980Z,36.46616667,-96.79066667,0,1.48,ml,23,133,0.02789452614,0.28,ok,ok2022mmos,2022-06-27T16:52:22.495Z,"6 km SW of Ralston, Oklahoma",quarry blast,,0.3,0.21,9,reviewed,ok,ok
 2022-06-27T15:15:42.120Z,38.7815018,-122.7273331,1.31,1.67,md,29,78,0.007542,0.04,nc,nc73751661,2022-06-27T16:35:11.940Z,"3km E of The Geysers, CA",earthquake,0.24,0.36,0.05,9,automatic,nc,nc
+2022-06-27T15:09:57.460Z,19.459,-155.604166666667,-0.88,1.24,md,9,94,,0.07,hv,hv73057797,2022-06-27T19:10:17.200Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.26,0.0663718487190408,6,reviewed,hv,hv
 2022-06-27T15:09:51.621Z,59.807,-153.418,129.6,1.6,ml,,,,1.16,ak,ak02286mnben,2022-06-27T15:13:48.278Z,"38 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-06-27T15:02:30.870Z,39.145668,-123.116333,8.09,1.68,md,13,96,0.1556,0.09,nc,nc73751656,2022-06-27T16:07:15.843Z,"5km ENE of Talmage, CA",earthquake,0.33,2.15,0.13,8,automatic,nc,nc
 2022-06-27T14:48:49.851Z,63.3575,-145.1141,8.7,0.9,ml,,,,0.25,ak,ak02286ma8kq,2022-06-27T14:51:33.724Z,"38 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -195,10 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-26T19:45:27.840Z,35.8496667,-117.6755,10.7,0.79,ml,8,84,0.07185,0.14,ci,ci40291888,2022-06-26T19:48:54.387Z,"23km ESE of Little Lake, CA",earthquake,0.41,0.82,0.096,8,automatic,ci,ci
 2022-06-26T19:37:06.220Z,33.9608333,-116.6448333,9.83,1.53,ml,49,60,0.06089,0.17,ci,ci40291880,2022-06-26T19:48:03.430Z,"11km NW of Garnet, CA",earthquake,0.2,0.46,0.119,27,automatic,ci,ci
 2022-06-26T19:26:05.800Z,59.356,-153.407666666667,-1.18,0.75,ml,4,306,,0.3,av,av91609911,2022-06-27T17:29:50.660Z,"62 km SE of Pedro Bay, Alaska",earthquake,1.96,0.82,0.236567204828336,4,reviewed,av,av
-2022-06-26T19:17:51.013Z,35.9133,-0.3626,10,4.5,mb,,155,1.747,0.76,us,us7000hkfb,2022-06-27T08:52:10.859Z,"13 km NNW of Aïn el Bya, Algeria",earthquake,7.1,1.9,0.096,32,reviewed,us,us
-2022-06-26T19:13:30.500Z,37.5641667,-118.8315,5,0.74,md,10,283,0.02589,0.01,nc,nc73751431,2022-06-27T16:20:10.858Z,"13km W of Toms Place, CA",earthquake,0.93,0.79,0.125,9,reviewed,nc,nc
-2022-06-26T19:11:50.286Z,62.6272,-151.3127,82.9,1.7,ml,,,,0.5,ak,ak022851i4no,2022-06-26T19:14:52.292Z,"31 km WNW of Petersville, Alaska",earthquake,,1.4,,,automatic,ak,ak
-2022-06-26T19:09:52.633Z,64.0831,-151.546,0,1.5,ml,,,,0.87,ak,ak022851hpen,2022-06-26T19:11:55.759Z,"43 km ENE of Lake Minchumina, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-06-26T19:05:11.390Z,18.2648333333333,-68.0501666666667,109.7,3.42,md,15,187,,0.52,pr,pr71356213,2022-06-26T19:42:29.010Z,"51 km SE of Punta Cana, Dominican Republic",earthquake,4.42,2.71,0.0625030261974315,8,reviewed,pr,pr
-2022-06-26T18:57:44.540Z,19.1753330230713,-155.492660522461,32.810001373291,1.77,ml,42,88,,0.109999999,hv,hv73056717,2022-06-26T19:03:14.530Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.53,0.99000001,5.64,3,automatic,hv,hv
-2022-06-26T18:56:50.930Z,37.5766667,-118.833,5.01,0.95,md,20,140,0.01369,0.07,nc,nc73751426,2022-06-26T21:40:10.133Z,"14km W of Toms Place, CA",earthquake,0.31,0.36,0.191,17,reviewed,nc,nc
