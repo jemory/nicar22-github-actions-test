@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-29T08:54:29.200Z,33.4353333,-116.6201667,5.96,1.12,ml,45,39,0.06108,0.15,ci,ci40293512,2022-06-29T09:04:54.130Z,"14km SSE of Anza, CA",earthquake,0.17,0.42,0.167,26,automatic,ci,ci
 2022-06-29T08:37:22.640Z,36.8111649,-121.5575027,4.42,2.11,md,22,77,0.04397,0.15,nc,nc73752486,2022-06-29T08:49:20.269Z,"4km SSW of San Juan Bautista, CA",earthquake,0.4,0.91,0.24,21,automatic,nc,nc
 2022-06-29T08:28:55.620Z,19.158332824707,-155.460830688477,32.6699981689453,1.82000005,md,32,142,,0.119999997,hv,hv73059882,2022-06-29T08:32:07.790Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.59,0.829999983,0.839999974,7,automatic,hv,hv
 2022-06-29T08:15:43.644Z,44.5657,-28.1852,10,4.8,mb,,68,20.502,0.64,us,us7000hl1t,2022-06-29T08:40:56.040Z,"northern Mid-Atlantic Ridge",earthquake,11.7,1.9,0.036,242,reviewed,us,us
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-29T06:27:13.710Z,38.8213348,-122.7573318,0.24,0.75,md,16,130,0.01341,0.06,nc,nc73752441,2022-06-29T07:02:17.619Z,"3km W of Cobb, CA",earthquake,0.27,0.52,0.42,3,automatic,nc,nc
 2022-06-29T06:05:52.161Z,44.4399,-28.2664,10,5,mww,,99,16.459,0.76,us,us7000hl1f,2022-06-29T06:25:44.040Z,"northern Mid-Atlantic Ridge",earthquake,12.2,1.9,0.093,11,reviewed,us,us
 2022-06-29T06:04:22.450Z,17.9256666666667,-66.8553333333333,18.24,2.8,md,8,226,,0.14,pr,pr71356598,2022-06-29T06:23:20.460Z,"6 km SSE of Maria Antonia, Puerto Rico",earthquake,0.93,0.58,0.139121611987876,8,reviewed,pr,pr
-2022-06-29T05:57:36.610Z,38.1003333,-122.437,3.94,1.19,md,22,134,0.04435,0.12,nc,nc73752436,2022-06-29T08:07:22.033Z,"7km ESE of Black Point-Green Point, CA",earthquake,0.33,0.66,0.215,24,reviewed,nc,nc
+2022-06-29T05:57:36.610Z,38.1003333,-122.437,3.94,1.19,md,22,134,0.04435,0.12,nc,nc73752436,2022-06-29T09:01:17.354Z,"7km ESE of Black Point-Green Point, CA",earthquake,0.33,0.66,0.215,24,reviewed,nc,nc
 2022-06-29T05:45:47.231Z,62.2434,-149.6659,51.2,1.1,ml,,,,0.34,ak,ak02289rzds3,2022-06-29T05:48:01.387Z,"13 km NE of Susitna North, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-06-29T05:15:44.730Z,18.5578,-68.9848,105,4.16,md,29,114,0.605,0.25,pr,pr2022180000,2022-06-29T05:53:48.396Z,"3 km S of Guaymate, Dominican Republic",earthquake,1.45,2.47,0.11,24,reviewed,pr,pr
 2022-06-29T05:12:38.090Z,33.2741667,-116.0441667,2.14,0.72,ml,16,95,0.1148,0.2,ci,ci40293424,2022-06-29T05:16:16.478Z,"9km WSW of Salton City, CA",earthquake,0.5,1.09,0.056,10,automatic,ci,ci
@@ -248,9 +249,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-06-28T09:25:13.370Z,18.8941666666667,-64.2823333333333,55.5,3.43,md,3,346,,0.07,pr,pr71356458,2022-06-28T11:30:31.870Z,"82 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,6.11,5.17,0.0274982584927153,3,reviewed,pr,pr
 2022-06-28T09:21:22.500Z,18.0268333333333,-66.893,12.32,2.28,md,8,90,,0.24,pr,pr71356438,2022-06-28T09:37:29.620Z,"1 km SE of Lluveras, Puerto Rico",earthquake,0.78,1.51,0.0517760078231939,4,reviewed,pr,pr
 2022-06-28T09:18:05.700Z,53.373,-168.2235,6.65,0.97,ml,5,308,,0.23,av,av91064293,2022-06-29T08:04:22.280Z,"64 km NE of Nikolski, Alaska",earthquake,1.26,1.87,0.424842778850746,5,reviewed,av,av
-2022-06-28T09:09:46.921Z,63.5046,-148.9752,0.7,1.6,ml,,,,0.51,ak,ak022886m1wk,2022-06-28T09:12:08.971Z,"12 km N of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-06-28T09:06:27.140Z,19.1195,-64.436,17,3.7,md,15,306,0.927,0.31,pr,pr2022179001,2022-06-28T09:39:05.939Z,"95 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,9.24,18.83,0.09,7,reviewed,pr,pr
-2022-06-28T09:05:45.090Z,17.9535,-66.965,16.05,2.12,md,9,207,,0.18,pr,pr71356413,2022-06-28T09:29:41.550Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.75,0.00947509592140294,4,reviewed,pr,pr
-2022-06-28T09:03:57.810Z,36.295,-98.176,7.82,1.45,ml,97,49,0.04229170093,0.21,ok,ok2022mnxm,2022-06-28T12:23:27.839Z,"5 km N of Ames, Oklahoma",earthquake,,0.4,0.24,41,reviewed,ok,ok
-2022-06-28T09:03:56.310Z,17.9468333333333,-66.9795,11.57,1.89,md,3,218,,0.03,pr,pr71356408,2022-06-28T09:14:19.540Z,"7 km ESE of La Parguera, Puerto Rico",earthquake,1.97,0.87,0.222948984328281,3,reviewed,pr,pr
-2022-06-28T08:55:13.990Z,38.7935,-122.9413333,4.12,1,md,33,129,0.03134,0.06,nc,nc73751971,2022-06-28T21:43:10.153Z,"7km ESE of Cloverdale, CA",earthquake,0.22,0.44,0.183,8,reviewed,nc,nc
