@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-02T22:30:49.380Z,38.8349991,-122.8021698,2.08,1.17,md,14,78,0.009843,0.02,nc,nc73753671,2022-07-02T22:32:23.250Z,"7km WNW of Cobb, CA",earthquake,0.27,0.82,,1,automatic,nc,nc
+2022-07-02T22:30:49.380Z,38.8349991,-122.8021698,2.08,1.17,md,14,78,0.009843,0.02,nc,nc73753671,2022-07-02T22:39:10.823Z,"7km WNW of Cobb, CA",earthquake,0.27,0.82,,1,automatic,nc,nc
 2022-07-02T22:26:04.700Z,33.6553333,-116.7686667,10.24,0.44,ml,16,71,0.0616,0.25,ci,ci40295648,2022-07-02T22:29:30.491Z,"10km SSW of Idyllwild, CA",earthquake,0.55,1.2,0.131,9,automatic,ci,ci
 2022-07-02T22:21:14.230Z,38.8243332,-122.7661667,2.1,1.07,md,22,121,0.006792,0.03,nc,nc73753666,2022-07-02T22:32:10.788Z,"4km W of Cobb, CA",earthquake,0.26,0.43,0.13,4,automatic,nc,nc
 2022-07-02T22:20:18.750Z,38.8260002,-122.7649994,1.91,0.6,md,11,127,0.005887,0.02,nc,nc73753661,2022-07-02T22:27:10.758Z,"4km W of Cobb, CA",earthquake,0.38,0.58,0.04,2,automatic,nc,nc
@@ -76,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-02T13:52:42.250Z,36.226,-120.4553333,16.56,0.8,md,14,161,0.1285,0.04,nc,nc73753521,2022-07-02T19:29:19.724Z,"13km NW of Coalinga, CA",earthquake,0.44,1.2,0.243,5,reviewed,nc,nc
 2022-07-02T13:45:45.810Z,35.7728333,-117.5951667,9.74,1.07,ml,14,142,0.04286,0.12,ci,ci40295448,2022-07-02T13:49:22.585Z,"17km W of Searles Valley, CA",earthquake,0.37,0.55,0.141,10,automatic,ci,ci
 2022-07-02T13:26:06.460Z,36.5986667,-121.1326667,6.67,1.31,md,17,103,0.05026,0.08,nc,nc73753516,2022-07-02T22:21:10.727Z,"8km N of Pinnacles, CA",earthquake,0.46,0.74,0.133,13,reviewed,nc,nc
-2022-07-02T13:25:32.960Z,36.607,-121.1251667,8.37,1.11,md,20,136,0.05993,0.1,nc,nc73753511,2022-07-02T22:17:10.702Z,"8km N of Pinnacles, CA",earthquake,0.38,0.44,0.124,14,reviewed,nc,nc
+2022-07-02T13:25:32.960Z,36.607,-121.1251667,8.37,1.11,md,20,136,0.05993,0.1,nc,nc73753511,2022-07-02T22:40:14.831Z,"8km N of Pinnacles, CA",earthquake,0.38,0.44,0.124,14,reviewed,nc,nc
 2022-07-02T13:22:26.698Z,58.2403,-156.067,168.2,3.1,ml,,,,0.8,ak,ak0228ev7wse,2022-07-02T17:02:04.040Z,"60 km SE of King Salmon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-07-02T13:21:38.780Z,36.1768333,-117.8808333,7.31,1.18,ml,14,98,0.06276,0.15,ci,ci40295432,2022-07-02T16:10:57.980Z,"16km NNE of Coso Junction, CA",earthquake,0.33,0.94,0.14,11,reviewed,ci,ci
 2022-07-02T13:17:09.563Z,38.1554,-117.9422,9.5,1.4,ml,11,144.15,0.021,0.1438,nn,nn00842122,2022-07-02T13:20:41.539Z,"29 km SSE of Mina, Nevada",earthquake,,0.5,0.27,6,automatic,nn,nn
@@ -215,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-01T23:23:58.656Z,-23.5007,-179.9467,523.41,4.1,mb,26,87,6.018,0.93,us,us6000hz9r,2022-07-02T21:49:21.040Z,"south of the Fiji Islands",earthquake,11.5,8.8,0.124,18,reviewed,us,us
 2022-07-01T23:13:44.113Z,26.8954,55.3149,10,4.2,mb,63,94,2.1,0.62,us,us6000hz9l,2022-07-02T02:03:50.040Z,"57 km NE of Bandar-e Lengeh, Iran",earthquake,7.4,1.8,0.076,48,reviewed,us,us
 2022-07-01T23:06:56.382Z,66.9138,-149.2443,0.2,1.4,ml,,,,0.84,ak,ak0228ddjjf3,2022-07-01T23:10:07.330Z,"55 km SE of Coldfoot, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-07-01T22:48:30.571Z,39.0399,-118.8831,12.5,1.1,ml,14,68.7,0.283,0.1564,nn,nn00842105,2022-07-02T02:40:32.975Z,"11 km NNW of Schurz, Nevada",earthquake,,6.5,0.18,3,reviewed,nn,nn
-2022-07-01T22:43:50.392Z,26.8649,55.185,10,4.2,mb,45,97,2.12,0.83,us,us6000hz9h,2022-07-02T00:57:24.355Z,"45 km NE of Bandar-e Lengeh, Iran",earthquake,6,1.9,0.089,35,reviewed,us,us
