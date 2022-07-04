@@ -1,4 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-04T22:48:34.620Z,61.5457,-151.225,0,1.1,ml,,,,0.94,ak,ak0228ibt3pi,2022-07-04T22:50:27.682Z,"37 km W of Susitna, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-04T22:45:11.550Z,38.8068352,-122.8125,1.76,0.95,md,16,59,0.01319,0.02,nc,nc73754521,2022-07-04T22:51:12.207Z,"6km NW of The Geysers, CA",earthquake,0.26,0.66,0.26,2,automatic,nc,nc
+2022-07-04T22:43:04.250Z,38.8086662,-122.8138351,1.57,0.76,md,13,59,0.01199,0.02,nc,nc73754516,2022-07-04T22:51:11.207Z,"6km NW of The Geysers, CA",earthquake,0.3,0.64,0.49,2,automatic,nc,nc
+2022-07-04T22:42:44.464Z,61.119,-152.1986,106.6,1.4,ml,,,,0.34,ak,ak0228ibru66,2022-07-04T22:46:08.428Z,"57 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-04T22:21:29.378Z,56.3238,162.0753,10,4.6,mb,73,109,3.859,0.78,us,us6000hzvj,2022-07-04T22:51:51.040Z,"27 km WNW of Ust’-Kamchatsk Staryy, Russia",earthquake,8.7,1.9,0.043,163,reviewed,us,us
 2022-07-04T22:10:38.960Z,-55.9087,-27.2578,35,5,mb,77,57,18.597,0.64,us,us6000hzvi,2022-07-04T22:33:03.040Z,"South Sandwich Islands region",earthquake,6.4,1.8,0.071,64,reviewed,us,us
 2022-07-04T22:05:12.410Z,19.179500579834,-155.491668701172,33.4599990844727,2.36999989,md,31,81,,0.109999999,hv,hv73065122,2022-07-04T22:10:43.160Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.62,0.970000029,0.730000019,20,automatic,hv,hv
 2022-07-04T21:47:34.110Z,19.3606662750244,-155.609664916992,8.82999992370605,1.84000003,md,24,66,,0.219999999,hv,hv73065087,2022-07-04T21:50:51.440Z,"22 km NW of Pāhala, Hawaii",earthquake,0.62,0.910000026,0.910000026,8,automatic,hv,hv
@@ -40,7 +45,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T18:30:59.310Z,19.3308334350586,-155.110336303711,0.0399999991059303,1.78999996,md,30,158,,0.280000001,hv,hv73064867,2022-07-04T18:34:03.560Z,"15 km S of Fern Forest, Hawaii",earthquake,0.66,0.349999994,0.769999981,11,automatic,hv,hv
 2022-07-04T18:28:30.656Z,64.5109,-152.5073,4,1.3,ml,,,,0.44,ak,ak0228i9b2oe,2022-07-04T18:30:57.393Z,"70 km N of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-04T18:27:18.910Z,34.1898333,-116.7925,0.49,1.05,ml,10,212,0.4187,0.16,ci,ci40296440,2022-07-04T18:31:01.965Z,"9km SSE of Big Bear City, CA",earthquake,1.04,31.61,0.214,11,automatic,ci,ci
-2022-07-04T18:24:25.680Z,61.6983,-151.8326,78.1,0.9,ml,,,,0.45,ak,ak0228i9a7ew,2022-07-04T18:26:18.474Z,"39 km SW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-07-04T18:24:25.680Z,61.6983,-151.8326,78.1,0.9,ml,,,,0.45,ak,ak0228i9a7ew,2022-07-04T18:26:18.474Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-04T18:11:52.470Z,-40.8964,-91.7941,10,5,mb,53,144,14.572,0.95,us,us6000hzu0,2022-07-04T18:48:13.040Z,"West Chile Rise",earthquake,13.2,1.9,0.045,161,reviewed,us,us
 2022-07-04T18:07:44.617Z,10.4675,94.235,10,4.7,mb,35,111,1.88,0.67,us,us6000hzu3,2022-07-04T19:14:09.040Z,"Andaman Islands, India region",earthquake,8.8,1.9,0.104,28,reviewed,us,us
 2022-07-04T18:01:03.734Z,58.9822,-153.3956,73.9,1.6,ml,,,,0.31,ak,ak0228i95891,2022-07-04T18:04:17.705Z,"Kodiak Island region, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -239,5 +244,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T23:30:01.310Z,33.8855,-116.887,13.75,1.27,ml,43,34,0.09079,0.21,ci,ci40296104,2022-07-03T23:33:37.364Z,"5km SSW of Banning, CA",earthquake,0.26,0.65,0.122,27,automatic,ci,ci
 2022-07-03T23:19:38.011Z,61.1052,-150.4832,26.7,1.2,ml,,,,0.28,ak,ak0228goozbd,2022-07-03T23:28:06.965Z,"23 km NNE of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-03T23:02:51.480Z,19.1054992675781,-155.418167114258,29.2900009155273,1.80999994,md,21,193,,0.159999996,hv,hv73064152,2022-07-03T23:05:49.060Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.97,1.55999994,,4,automatic,hv,hv
-2022-07-03T22:53:33.520Z,17.9886666666667,-67.0048333333333,10.56,1.72,md,5,147,,0.1,pr,pr71357298,2022-07-03T22:59:42.820Z,"4 km ENE of La Parguera, Puerto Rico",earthquake,0.63,0.98,0.0534181089223392,4,reviewed,pr,pr
-2022-07-03T22:51:23.874Z,58.2655,-153.726,56.6,1.8,ml,,,,0.21,ak,ak0228goadj7,2022-07-03T22:53:48.169Z,"53 km WNW of Aleneva, Alaska",earthquake,,1.2,,,automatic,ak,ak
