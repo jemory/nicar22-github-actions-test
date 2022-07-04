@@ -30,11 +30,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T02:34:42.200Z,19.1998329162598,-155.468170166016,33.6699981689453,2.05,ml,34,141,,0.150000006,hv,hv73064317,2022-07-04T02:40:12.220Z,"1 km ESE of Pāhala, Hawaii",earthquake,0.61,0.910000026,0.87,3,automatic,hv,hv
 2022-07-04T02:30:18.695Z,65.0029,-149.0787,14.1,0.8,ml,,,,0.5,ak,ak0228hzsjhp,2022-07-04T02:32:30.007Z,"20 km SE of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-04T02:10:22.390Z,33.6691667,-116.7326667,14.65,0.69,ml,24,73,0.04464,0.13,ci,ci40296136,2022-07-04T02:13:58.842Z,"8km S of Idyllwild, CA",earthquake,0.25,0.4,0.193,19,automatic,ci,ci
-2022-07-04T02:03:44.645Z,-32.9491,-71.8866,33.41,4.4,mwr,24,104,0.214,0.78,us,us6000hzmw,2022-07-04T04:39:00.370Z,"25 km WNW of Valparaíso, Chile",earthquake,5,6,0.04,59,reviewed,us,us
+2022-07-04T02:03:44.645Z,-32.9491,-71.8866,33.41,4.4,mwr,24,104,0.214,0.78,us,us6000hzmw,2022-07-04T05:48:01.096Z,"25 km WNW of Valparaíso, Chile",earthquake,5,6,0.04,59,reviewed,us,us
 2022-07-04T01:54:52.780Z,38.7948341,-122.8176651,3.54,0.24,md,8,101,0.01313,0.01,nc,nc73754116,2022-07-04T03:34:16.217Z,"6km WNW of The Geysers, CA",earthquake,0.61,2.01,0.11,2,automatic,nc,nc
 2022-07-04T01:54:09.858Z,61.6037,-151.5963,73.9,1.4,ml,,,,0.75,ak,ak0228hzc8e1,2022-07-04T01:57:22.542Z,"44 km SSW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-04T01:52:28.450Z,18.0336666666667,-66.6503333333333,19.59,2.65,md,17,59,,0.11,pr,pr71357328,2022-07-04T03:27:02.470Z,"Puerto Rico region",earthquake,0.36,0.23,0.121384855017177,10,reviewed,pr,pr
-2022-07-04T01:48:54.940Z,38.7541667,-122.7141667,1.5,0.2,md,24,76,0.01118,0.06,nc,nc73754111,2022-07-04T05:21:10.808Z,"3km SW of Anderson Springs, CA",earthquake,0.21,0.17,0.139,4,reviewed,nc,nc
+2022-07-04T01:48:54.940Z,38.7541667,-122.7141667,1.5,0.2,md,24,76,0.01118,0.06,nc,nc73754111,2022-07-04T05:57:16.011Z,"3km SW of Anderson Springs, CA",earthquake,0.21,0.17,0.139,4,reviewed,nc,nc
 2022-07-04T01:47:13.910Z,18.0308333333333,-66.657,17.45,2.88,md,23,62,,0.13,pr,pr71357318,2022-07-04T03:01:03.137Z,"4 km WNW of Ponce, Puerto Rico",earthquake,0.25,0.29,0.0733985749669293,15,reviewed,pr,pr
 2022-07-04T01:43:04.050Z,46.20066666666666,-122.19133333333333,0.39,1.2,md,8,94,0.0009466,0.04,uw,uw61849312,2022-07-04T03:37:49.540Z,"37 km NNE of Amboy, Washington",earthquake,0.31,0.29,,1,reviewed,uw,uw
 2022-07-04T01:40:38.429Z,58.929,-154.5172,135.2,1.7,ml,,,,0.56,ak,ak0228hz9aki,2022-07-04T01:43:21.435Z,"58 km SSE of Kokhanok, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -204,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T06:23:44.710Z,33.378,-116.8863333,5.45,0.45,ml,17,73,0.03138,0.23,ci,ci40295744,2022-07-03T06:27:18.804Z,"3km NW of Palomar Observatory, CA",earthquake,0.53,1.08,0.058,9,automatic,ci,ci
 2022-07-03T06:16:28.900Z,48.31766666666667,-120.44416666666666,7.12,0.8300000000000001,md,8,169,0.2498,0.1,uw,uw61848822,2022-07-03T14:58:53.240Z,"24 km WSW of Twisp, Washington",earthquake,0.34,0.53,0.24878180083427148,3,reviewed,uw,uw
 2022-07-03T05:59:03.780Z,19.3194999694824,-155.216995239258,-0.680000007152557,2.27,ml,36,80,,0.219999999,hv,hv73063387,2022-07-03T06:10:19.140Z,"13 km S of Volcano, Hawaii",earthquake,0.28,0.200000003,0.72,5,automatic,hv,hv
-2022-07-03T05:57:54.232Z,62.1685,-150.1194,18.2,1.1,ml,,,,0.17,ak,ak0228ge7cvz,2022-07-03T05:59:21.032Z,"14 km W of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-07-03T05:56:27.810Z,32.6531667,-115.7245,8.67,1.59,ml,23,75,0.004142,0.23,ci,ci40295736,2022-07-03T06:00:13.194Z,"16km WNW of Progreso, B.C., MX",earthquake,0.53,0.77,0.255,22,automatic,ci,ci
-2022-07-03T05:51:13.322Z,61.646,-150.8571,62.1,1.5,ml,,,,0.27,ak,ak0228ge5zfo,2022-07-03T05:53:10.338Z,"21 km WNW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
