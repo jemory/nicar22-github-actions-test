@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-04T11:16:35.990Z,38.8261681,-122.8568344,2.39,0.36,md,16,65,0.001375,0.01,nc,nc73754246,2022-07-04T11:18:09.849Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.52,0.01,3,automatic,nc,nc
+2022-07-04T11:16:35.990Z,38.8261681,-122.8568344,2.39,0.36,md,16,65,0.001375,0.01,nc,nc73754246,2022-07-04T11:33:14.149Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.52,0.01,3,automatic,nc,nc
 2022-07-04T11:07:19.206Z,35.97035217,-97.9861908,2.55535388,1.83,ml,12,80.72642452,0.01606566645,0.8009786837,ok,ok2022mzap,2022-07-04T11:09:13.936Z,"6 km W of Dover, Oklahoma",earthquake,3.39593762,3.071879414,,9,automatic,ok,ok
 2022-07-04T11:00:35.690Z,33.3131667,-116.2101667,9.24,0.65,ml,18,122,0.09663,0.17,ci,ci40296264,2022-07-04T11:08:01.324Z,"17km ENE of Borrego Springs, CA",earthquake,0.49,0.92,0.14,12,automatic,ci,ci
 2022-07-04T10:46:13.563Z,65.6056,-147.9188,7.6,1.2,ml,,,,0.52,ak,ak0228i4nfe4,2022-07-04T10:49:17.574Z,"30 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -14,10 +14,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-04T09:39:18.137Z,56.6595,-169.36,36.5,3.9,ml,,,,1.07,ak,ak0228i40i5y,2022-07-04T10:23:30.125Z,"13 km ENE of Saint George, Alaska",earthquake,,1.5,,,reviewed,ak,ak
 2022-07-04T09:32:33.742Z,10.3633,94.3069,10,4.7,mb,29,175,2.001,0.73,us,us6000hzq2,2022-07-04T09:52:06.040Z,"223 km SE of Port Blair, India",earthquake,9.8,1.9,0.118,22,reviewed,us,us
 2022-07-04T09:28:59.813Z,38.4851,-117.9292,0,1.3,ml,10,148.81,0.444,0.4473,nn,nn00842201,2022-07-04T09:32:29.989Z,"18 km NE of Mina, Nevada",earthquake,,36,0.4,6,automatic,nn,nn
-2022-07-04T09:17:43.107Z,56.6337,-169.0876,9.42,5.3,mww,114,29,3.029,0.42,us,us6000hzpv,2022-07-04T10:19:46.032Z,"28 km E of Saint George, Alaska",earthquake,6.7,1.2,0.035,77,reviewed,us,us
+2022-07-04T09:17:43.107Z,56.6337,-169.0876,9.42,5.3,mww,114,29,3.029,0.42,us,us6000hzpv,2022-07-04T11:27:45.685Z,"28 km E of Saint George, Alaska",earthquake,6.7,1.2,0.035,77,reviewed,us,us
 2022-07-04T09:13:39.100Z,36.1558333,-117.9238333,2.46,1.44,ml,17,78,0.06764,0.2,ci,ci40296240,2022-07-04T09:17:08.474Z,"12km N of Coso Junction, CA",earthquake,0.41,0.62,0.164,13,automatic,ci,ci
 2022-07-04T09:08:22.250Z,19.1310005187988,-155.37516784668,30.1499996185303,1.75999999,md,27,192,,0.119999997,hv,hv73064577,2022-07-04T09:11:31.790Z,"13 km SE of Pāhala, Hawaii",earthquake,0.87,1.04999995,1.75999999,4,automatic,hv,hv
-2022-07-04T09:07:04.327Z,10.3222,94.1963,10,5.6,mb,52,95,1.946,0.92,us,us6000hzpu,2022-07-04T11:10:32.828Z,"217 km SE of Port Blair, India",earthquake,4.8,1.8,0.07,72,reviewed,us,us
+2022-07-04T09:07:04.327Z,10.3222,94.1963,10,5.6,mb,52,95,1.946,0.92,us,us6000hzpu,2022-07-04T11:10:32.828Z,"Andaman Islands, India region",earthquake,4.8,1.8,0.07,72,reviewed,us,us
 2022-07-04T09:00:09.220Z,33.587,-116.6196667,13.02,0.37,ml,14,59,0.02268,0.07,ci,ci40296232,2022-07-04T09:03:47.699Z,"6km NE of Anza, CA",earthquake,0.27,0.54,0.266,8,automatic,ci,ci
 2022-07-04T08:36:20.054Z,10.429,94.1853,10,5.1,mb,94,85,1.867,0.59,us,us6000hzpp,2022-07-04T09:01:59.219Z,"208 km SE of Port Blair, India",earthquake,7,1.8,0.048,142,reviewed,us,us
 2022-07-04T08:25:27.817Z,10.3038,94.2014,10,4.7,mb,36,86,1.962,0.57,us,us6000hzpl,2022-07-04T08:46:31.040Z,"219 km SE of Port Blair, India",earthquake,7.4,1.9,0.123,20,reviewed,us,us
@@ -202,9 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-03T11:49:28.576Z,63.4312,-150.313,134,3.5,ml,,,,0.54,ak,ak0228ghq6rr,2022-07-03T18:05:03.141Z,"68 km W of Cantwell, Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2022-07-03T11:37:45.450Z,38.8231659,-122.788002,1.64,0.66,md,16,39,0.01143,0.03,nc,nc73753856,2022-07-03T13:24:15.087Z,"6km W of Cobb, CA",earthquake,0.27,0.45,0.5,3,automatic,nc,nc
 2022-07-03T11:37:21.280Z,38.759,-122.7365,1.46,0.05,md,16,66,0.008871,0.04,nc,nc73753851,2022-07-03T19:17:11.156Z,"3km SE of The Geysers, CA",earthquake,0.24,0.29,0.154,3,reviewed,nc,nc
-2022-07-03T11:32:50.980Z,38.7573333,-122.7356667,1.34,0.06,md,12,70,0.008319,0.02,nc,nc73753846,2022-07-03T18:15:15.771Z,"3km SE of The Geysers, CA",earthquake,0.26,0.35,0.186,3,reviewed,nc,nc
-2022-07-03T11:32:22.490Z,38.8291664,-122.8693314,2.7,0.37,md,10,118,0.009865,0.04,nc,nc73753841,2022-07-03T12:04:14.589Z,"11km WNW of The Geysers, CA",earthquake,0.6,0.77,0.02,2,automatic,nc,nc
-2022-07-03T11:30:55.656Z,61.0602,-141.1657,0,1.7,ml,,,,0.73,ak,ak0228ghm6al,2022-07-03T11:33:00.613Z,"103 km ESE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-03T11:30:49.220Z,35.182,-118.1758333,10.48,1,ml,13,78,0.1338,0.16,ci,ci40295792,2022-07-03T11:34:28.684Z,"14km N of Mojave, CA",earthquake,0.35,0.78,0.164,14,automatic,ci,ci
-2022-07-03T11:28:32.160Z,39.2176667,-123.2148333,4.86,0.93,md,6,268,0.06807,0.02,nc,nc73753836,2022-07-03T16:28:15.173Z,"5km S of Redwood Valley, CA",earthquake,2.11,1.12,0.077,5,reviewed,nc,nc
-2022-07-03T11:28:15.800Z,45.7576667,-111.2865,8.13,1.72,ml,18,135,0.11,0.13,mb,mb80550339,2022-07-03T14:37:04.650Z,"1 km ENE of Churchill, Montana",earthquake,0.52,0.98,0.145,9,reviewed,mb,mb
