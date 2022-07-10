@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-10T06:32:27.710Z,38.8376656,-122.8079987,2.12,0.85,md,10,81,0.01381,0.01,nc,nc73757011,2022-07-10T06:49:16.924Z,"8km WNW of Cobb, CA",earthquake,0.35,1.2,,1,automatic,nc,nc
+2022-07-10T07:10:29.435Z,61.6087,-141.0625,7.8,1.4,ml,,,,0.53,ak,ak0228rzvizj,2022-07-10T07:12:49.154Z,"100 km E of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-10T06:52:32.289Z,18.4368,-68.4402,140.37,3,ml,23,162,0.095,0.37,us,us6000i1ck,2022-07-10T07:20:55.040Z,"16 km SSW of Punta Cana, Dominican Republic",earthquake,8.2,11.8,0.053,46,reviewed,us,us
+2022-07-10T06:32:27.710Z,38.8376656,-122.8079987,2.12,0.85,md,10,81,0.01381,0.01,nc,nc73757011,2022-07-10T07:21:11.086Z,"8km WNW of Cobb, CA",earthquake,0.35,1.2,,1,automatic,nc,nc
 2022-07-10T06:23:58.513Z,63.1846,-149.5506,0,1.6,ml,,,,0.93,ak,ak0228rzcxxn,2022-07-10T06:26:41.557Z,"37 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-10T06:12:31.270Z,36.4136658,-120.998497,9.87,1.35,md,6,125,0.09986,0.07,nc,nc73757006,2022-07-10T06:55:09.960Z,"18km SE of Pinnacles, CA",earthquake,0.65,2.02,0.19,4,automatic,nc,nc
 2022-07-10T06:09:26.387Z,64.4787,-147.9108,16.3,1.1,ml,,,,0.59,ak,ak0228rz9vej,2022-07-10T06:12:19.065Z,"37 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -185,7 +187,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T11:58:56.957Z,61.4342,-150.8197,68,1.3,ml,,,,0.14,ak,ak0228qf09ep,2022-07-09T12:06:47.469Z,"20 km SW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-09T11:53:14.637Z,64.1698,-148.1003,0.1,1.9,ml,,,,0.49,ak,ak0228qez3k7,2022-07-09T11:55:13.396Z,"52 km ENE of Ferry, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-09T11:52:06.420Z,63.7034,-147.0521,0,1.4,ml,,,,0.87,ak,ak0228qeyv48,2022-07-09T11:53:33.177Z,"74 km WSW of Delta Junction, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-09T11:47:29.566Z,48.3583,8.8938,10,4,mb,36,62,0.377,0.87,us,us6000i17d,2022-07-10T06:31:55.958Z,"2 km S of Rangendingen, Germany",earthquake,4.5,1.9,0.212,7,reviewed,us,us
+2022-07-09T11:47:29.566Z,48.3583,8.8938,10,4,mb,36,62,0.377,0.87,us,us6000i17d,2022-07-10T07:26:47.611Z,"2 km S of Rangendingen, Germany",earthquake,4.5,1.9,0.212,7,reviewed,us,us
 2022-07-09T11:41:11.360Z,34.3203333,-118.456,2.44,0.75,ml,14,89,0.1137,0.18,ci,ci40300528,2022-07-09T11:44:55.861Z,"2km NNW of Sylmar, CA",earthquake,0.44,1.1,0.261,15,automatic,ci,ci
 2022-07-09T11:33:47.020Z,17.9481666666667,-66.9121666666667,13.18,2.64,md,34,189,,0.12,pr,pr71358288,2022-07-09T12:22:05.690Z,"2 km S of Guánica, Puerto Rico",earthquake,0.34,0.19,0.209781845987063,19,reviewed,pr,pr
 2022-07-09T11:33:01.730Z,46.48866666666667,-122.3615,14.61,0.41000000000000003,ml,9,151,0.1489,0.08,uw,uw61851212,2022-07-10T03:49:34.250Z,"10 km SW of Morton, Washington",earthquake,0.82,1.65,0.0993607468101072,6,reviewed,uw,uw
@@ -235,6 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T07:41:32.680Z,36.1083333,-117.9236667,2.69,0.9,ml,13,140,0.05647,0.15,ci,ci40300440,2022-07-09T07:45:02.452Z,"7km NNE of Coso Junction, CA",earthquake,0.47,0.79,0.106,8,automatic,ci,ci
 2022-07-09T07:39:54.959Z,-27.9649,-176.5446,10,5.4,mww,104,68,1.77,0.7,us,us6000i167,2022-07-09T21:48:22.349Z,"Kermadec Islands region",earthquake,11.4,1.8,0.059,28,reviewed,us,us
 2022-07-09T07:37:40.070Z,19.193000793457,-155.476837158203,31.9699993133545,2.18,ml,35,85,,0.129999995,hv,hv73070187,2022-07-09T07:43:11.170Z,"1 km S of Pāhala, Hawaii",earthquake,0.48,0.709999979,3.58,4,automatic,hv,hv
-2022-07-09T07:24:45.990Z,37.2916667,-121.6698333,1.82,0.91,md,19,47,0.03273,0.08,nc,nc73756601,2022-07-09T09:21:16.013Z,"15km E of Seven Trees, CA",earthquake,0.24,0.43,0.143,19,reviewed,nc,nc
-2022-07-09T07:23:09.597Z,60.3234,-152.4153,85.9,1.5,ml,,,,0.33,ak,ak0228qcex8k,2022-07-09T07:26:36.961Z,"51 km NW of Ninilchik, Alaska",earthquake,,1.6,,,automatic,ak,ak
-2022-07-09T07:13:21.890Z,33.6321667,-116.7445,18.97,0.4,ml,12,86,0.04172,0.28,ci,ci40300432,2022-07-09T07:17:05.530Z,"11km NW of Anza, CA",earthquake,1.41,1.45,0.107,6,automatic,ci,ci
