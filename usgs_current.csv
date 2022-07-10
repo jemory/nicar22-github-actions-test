@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-10T22:02:23.290Z,36.6033325,-121.1113358,8.33,1.23,md,6,200,0.06286,0.04,nc,nc73757216,2022-07-10T22:04:00.661Z,"8km NNE of Pinnacles, CA",earthquake,1,1.23,0.09,5,automatic,nc,nc
+2022-07-10T21:57:21.310Z,39.6111679,-123.5446701,4.99,2.12,md,13,137,,0.07,nc,nc73757206,2022-07-10T22:04:16.064Z,"10km SSW of Laytonville, CA",earthquake,0.33,1.06,0.06,9,automatic,nc,nc
 2022-07-10T21:34:23.923Z,63.5153,-149.6193,8.1,1,ml,,,,0.45,ak,ak0228s8cq7s,2022-07-10T21:36:31.228Z,"36 km WNW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-07-10T21:33:15.990Z,18.0125,-66.848,16.12,2.03,md,6,143,,0.26,pr,pr71358698,2022-07-10T21:57:03.710Z,"2 km S of Yauco, Puerto Rico",earthquake,1.14,1.82,0.0063186361334302,4,reviewed,pr,pr
 2022-07-10T21:30:27.541Z,64.7029,-149.1541,16.7,0.8,ml,,,,0.5,ak,ak0228s8bvmq,2022-07-10T21:33:08.251Z,"11 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-10T21:06:33.240Z,38.893,-119.6316,4.1,1.2,ml,9,138.15,0.198,0.1423,nn,nn00842540,2022-07-10T21:09:38.446Z,"3 km NNE of Carter Springs, Nevada",earthquake,,3,0.35,7,automatic,nn,nn
 2022-07-10T20:57:33.377Z,51.7528,-175.8702,54.19,4.3,mb,42,189,0.36,0.8,us,us6000i1fw,2022-07-10T21:11:10.040Z,"54 km ESE of Adak, Alaska",earthquake,8.5,8.1,0.052,110,reviewed,us,us
@@ -209,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-09T22:13:50.050Z,19.2075004577637,-155.40266418457,37.0999984741211,2.36,ml,40,155,,0.150000006,hv,hv73070962,2022-07-09T22:42:59.040Z,"8 km E of Pāhala, Hawaii",earthquake,0.64,0.870000005,3.19,8,automatic,hv,hv
 2022-07-09T22:12:42.870Z,34.9685,-118.9306667,9.85,1.39,ml,15,185,0.04674,0.19,ci,ci40300888,2022-07-09T22:16:15.173Z,"3km N of Grapevine, CA",earthquake,0.62,1.13,0.232,27,automatic,ci,ci
 2022-07-09T22:10:15.668Z,52.3095,-170.6871,37.51,3.8,ml,14,207,0.706,0.66,us,us6000i1ag,2022-07-09T22:53:46.824Z,"142 km WSW of Nikolski, Alaska",earthquake,12.7,20.1,0.079,21,reviewed,us,us
-2022-07-09T21:55:09.310Z,47.588,-122.7585,14.81,1.53,ml,27,59,0.04326,0.25,uw,uw61851377,2022-07-10T00:48:25.660Z,"4 km WSW of Erlands Point-Kitsap Lake, Washington",earthquake,0.44,0.54,0.19048458526283385,21,reviewed,uw,uw
