@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-13T08:34:36.140Z,33.8726667,-116.9428333,11.6,0.53,ml,12,163,0.1272,0.22,ci,ci40302848,2022-07-13T08:38:12.560Z,"7km SSE of Beaumont, CA",earthquake,1.05,1.64,0.139,13,automatic,ci,ci
 2022-07-13T08:00:18.870Z,17.9638333333333,-66.9418333333333,12.24,2.18,md,5,195,,0.08,pr,pr71359138,2022-07-13T08:13:12.610Z,"3 km WSW of Guánica, Puerto Rico",earthquake,0.66,0.91,0.0390499275010396,4,reviewed,pr,pr
 2022-07-13T07:57:32.690Z,37.6105003,-118.9148331,4.73,1.05,md,14,192,0.01822,0.02,nc,nc73758166,2022-07-13T08:15:17.059Z,"6km ESE of Mammoth Lakes, CA",earthquake,0.74,0.56,0.15,14,automatic,nc,nc
 2022-07-13T07:51:05.980Z,35.7801667,-117.5931667,6.14,0.63,ml,12,148,0.03567,0.13,ci,ci40302840,2022-07-13T07:54:41.214Z,"17km W of Searles Valley, CA",earthquake,0.38,0.59,0.109,7,automatic,ci,ci
@@ -9,10 +10,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-13T07:21:33.702Z,38.629,-116.3213,9.3,2.2,ml,15,193.65,1.22,0.3891,nn,nn00842791,2022-07-13T07:25:18.819Z,"91 km SE of Kingston, Nevada",earthquake,,1.4,0.88,10,automatic,nn,nn
 2022-07-13T06:35:59.041Z,59.7071,-152.3597,60.1,0.9,ml,,,,0.4,ak,ak0228wy1k1s,2022-07-13T06:37:25.455Z,"30 km WSW of Anchor Point, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-07-13T06:25:40.260Z,38.8348351,-122.8056641,1.97,0.71,md,13,75,0.01193,0.02,nc,nc73758151,2022-07-13T06:42:15.532Z,"7km W of Cobb, CA",earthquake,0.35,0.54,0.14,2,automatic,nc,nc
-2022-07-13T06:10:16.910Z,38.7809982,-122.7173309,1.73,1.54,md,28,75,0.01532,0.05,nc,nc73758146,2022-07-13T06:27:16.448Z,"2km WNW of Anderson Springs, CA",earthquake,0.31,0.48,0.1,8,automatic,nc,nc
+2022-07-13T06:10:16.910Z,38.7809982,-122.7173309,1.73,1.54,md,28,75,0.01532,0.05,nc,nc73758146,2022-07-13T08:41:11.201Z,"2km WNW of Anderson Springs, CA",earthquake,0.31,0.48,0.1,8,automatic,nc,nc
 2022-07-13T05:58:21.288Z,-4.8277,154.776,467.32,4.4,mb,79,38,2.679,0.89,us,us6000i21m,2022-07-13T06:43:42.040Z,"178 km NNW of Arawa, Papua New Guinea",earthquake,11.7,5.5,0.05,114,reviewed,us,us
 2022-07-13T05:55:02.923Z,23.5966,-108.79,10,4.5,mb,45,178,1.062,0.97,us,us6000i21g,2022-07-13T06:30:04.040Z,"81 km E of La Rivera, Mexico",earthquake,4.1,2,0.046,139,reviewed,us,us
-2022-07-13T05:46:58.570Z,38.8156662,-122.7946701,3.18,1.19,md,26,43,0.007703,0.02,nc,nc73758141,2022-07-13T08:14:15.055Z,"5km NW of The Geysers, CA",earthquake,0.22,0.44,0.06,5,automatic,nc,nc
+2022-07-13T05:46:58.570Z,38.8156662,-122.7946701,3.18,1.19,md,26,43,0.007703,0.02,nc,nc73758141,2022-07-13T08:18:16.078Z,"5km NW of The Geysers, CA",earthquake,0.22,0.44,0.06,5,automatic,nc,nc
 2022-07-13T05:41:50.100Z,19.1738338470459,-155.46533203125,31.9200000762939,2.13000011,md,38,106,,0.100000001,hv,hv73073927,2022-07-13T05:45:13.910Z,"Island of Hawaii, Hawaii",earthquake,0.5,0.769999981,0.680000007,15,automatic,hv,hv
 2022-07-13T05:32:17.170Z,33.307,-116.2363333,4.75,1.14,ml,30,59,0.08253,0.2,ci,ci40302816,2022-07-13T05:35:49.113Z,"14km ENE of Borrego Springs, CA",earthquake,0.25,0.73,0.175,14,automatic,ci,ci
 2022-07-13T05:28:15.398Z,55.7979,-150.5607,10,2.5,ml,,,,0.95,ak,ak0228wxel4f,2022-07-13T07:59:54.365Z,"227 km SSE of Chiniak, Alaska",earthquake,,0,,,reviewed,ak,ak
@@ -239,7 +240,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-12T08:53:07.155Z,38.7116,-116.1165,0,1.6,ml,8,154.84,0.84,0.1926,nn,nn00842679,2022-07-12T18:09:21.530Z,"89 km S of Eureka, Nevada",earthquake,,0,0.36,4,reviewed,nn,nn
 2022-07-12T08:47:22.071Z,60.5385,-147.6346,17.3,1.7,ml,,,,1.14,ak,ak0228vbrki7,2022-07-12T08:56:32.460Z,"56 km NNE of Chenega, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-12T08:44:15.503Z,57.929,-155.8861,1.6,1.3,ml,,,,0.21,ak,ak0228vbqwum,2022-07-12T08:45:40.397Z,"93 km ESE of Egegik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-07-12T08:39:02.816Z,28.99749756,-97.58237592,3.154663086,2.8,ml,17,86,0.05693664596,0.7,tx,tx2022nnls,2022-07-12T11:29:40.336Z,"7 km WNW of Yorktown, Texas",earthquake,2.98088526,2.053959115,0.1,13,reviewed,tx,tx
-2022-07-12T08:35:36.700Z,35.744,-117.5233333,8.65,0.82,ml,12,260,0.09361,0.15,ci,ci40302264,2022-07-12T19:47:58.995Z,"11km WSW of Searles Valley, CA",earthquake,0.88,0.78,0.21,3,reviewed,ci,ci
-2022-07-12T08:26:10.220Z,34.1708333,-117.3178333,6.52,1.13,ml,51,44,0.03657,0.19,ci,ci40302256,2022-07-12T19:08:08.318Z,"3km NE of Muscoy, CA",earthquake,0.18,0.38,0.142,33,reviewed,ci,ci
-2022-07-12T08:25:45.510Z,34.6233333,-116.5605,9.26,1.27,ml,22,53,0.05651,0.14,ci,ci40302248,2022-07-12T18:54:52.018Z,"38km WSW of Ludlow, CA",earthquake,0.21,0.44,0.157,16,reviewed,ci,ci
