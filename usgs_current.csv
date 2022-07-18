@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-18T23:40:27.210Z,33.8843333,-116.8726667,12.88,1.53,ml,51,31,0.08055,0.18,ci,ci40066047,2022-07-18T23:44:12.700Z,"5km S of Banning, CA",earthquake,0.22,0.61,0.135,27,automatic,ci,ci
+2022-07-18T23:40:27.210Z,33.8843333,-116.8726667,12.88,1.53,ml,51,31,0.08055,0.18,ci,ci40066047,2022-07-18T23:51:29.040Z,"5km S of Banning, CA",earthquake,0.22,0.61,0.135,27,automatic,ci,ci
 2022-07-18T23:06:35.430Z,34.134,-117.5153333,16.38,1.15,ml,23,78,0.1027,0.27,ci,ci40066039,2022-07-18T23:10:16.532Z,"6km ENE of Rancho Cucamonga, CA",earthquake,0.56,1.29,0.222,27,automatic,ci,ci
 2022-07-18T22:54:04.850Z,35.831,-117.6606667,6.71,0.76,ml,9,82,0.05354,0.1,ci,ci40066031,2022-07-18T22:57:36.401Z,"23km N of Ridgecrest, CA",earthquake,0.3,0.6,0.122,3,automatic,ci,ci
 2022-07-18T22:52:15.986Z,62.8366,-149.6098,55.5,1.5,ml,,,,0.73,ak,ak02295hcs1q,2022-07-18T22:54:56.898Z,"50 km NNE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -161,7 +161,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T07:09:49.820Z,17.8946666666667,-66.5875,13.23,2.14,md,12,210,,0.45,pr,pr71360098,2022-07-18T09:08:54.340Z,"13 km SSE of Ponce, Puerto Rico",earthquake,1.79,0.95,0.0988589885950657,9,reviewed,pr,pr
 2022-07-18T07:09:12.290Z,38.762,-122.7258333,1.75,0.12,md,23,54,0.000862,0.03,nc,nc73760141,2022-07-18T20:10:12.795Z,"3km ESE of The Geysers, CA",earthquake,0.19,0.27,0.153,5,reviewed,nc,nc
 2022-07-18T07:06:03.570Z,38.837,-122.808,2.58,0.5,md,17,58,0.01368,0.01,nc,nc73760136,2022-07-18T20:16:50.498Z,"8km WNW of Cobb, CA",earthquake,0.28,0.52,0.086,3,reviewed,nc,nc
-2022-07-18T07:05:45.397Z,36.7301,-116.0626,2.4,0.7,ml,17,120.95,0.04,0.2001,nn,nn00843145,2022-07-18T07:08:29.748Z,"39 km WNW of Indian Springs, Nevada",earthquake,,0.6,1.01,11,automatic,nn,nn
+2022-07-18T07:05:45.830Z,36.7244,-116.0549,3,0.8,ml,29,107.21,0.044,0.1625,nn,nn00843145,2022-07-18T23:49:21.492Z,"38 km WNW of Indian Springs, Nevada",earthquake,,1.4,0.26,20,reviewed,nn,nn
 2022-07-18T07:05:27.500Z,38.8354988,-122.8103333,1.92,0.85,md,10,70,0.01209,0.03,nc,nc73760131,2022-07-18T07:49:14.188Z,"8km W of Cobb, CA",earthquake,0.34,1.36,,1,automatic,nc,nc
 2022-07-18T07:03:39.127Z,-5.3089,102.6686,29.76,4.4,mb,36,172,0.984,0.3,us,us6000i3di,2022-07-18T07:37:31.040Z,"155 km SSW of Pagar Alam, Indonesia",earthquake,8,7.1,0.139,15,reviewed,us,us
 2022-07-18T06:59:20.090Z,35.9958344,-120.5548325,3.87,1.27,md,15,72,0.02005,0.04,nc,nc73760126,2022-07-18T09:16:13.685Z,"16km NW of Parkfield, CA",earthquake,0.32,0.45,0.19,8,automatic,nc,nc
@@ -227,5 +227,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-18T00:12:44.797Z,61.6706,-151.3612,69.1,1.8,ml,,,,0.57,ak,ak0229540qbj,2022-07-18T00:22:47.797Z,"35 km S of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-07-18T00:04:55.332Z,60.2361,-152.6466,102.2,1.6,ml,,,,0.16,ak,ak022953z1el,2022-07-18T00:06:27.505Z,"58 km WNW of Ninilchik, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-07-18T00:04:10.450Z,38.8359985,-122.7996674,2.08,0.36,md,7,95,0.007669,0.01,nc,nc73760041,2022-07-18T01:30:10.796Z,"7km WNW of Cobb, CA",earthquake,0.47,1.98,,1,automatic,nc,nc
-2022-07-17T23:56:18.170Z,17.9045,-66.8435,16.65,2.2,md,9,234,,0.16,pr,pr71360038,2022-07-18T00:06:58.080Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.64,0.66,0.0789179815577352,7,reviewed,pr,pr
-2022-07-17T23:56:15.737Z,59.9967,-153.1916,0,1.5,ml,,,,0.54,ak,ak02293ufq05,2022-07-17T23:57:56.373Z,"56 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-18T00:02:53.340Z,48.46066666666667,-123.352,4.99,1.23,ml,10,94,0.1995,0.4,uw,uw61863006,2022-07-18T23:49:24.240Z,"2 km N of Victoria, Canada",earthquake,0.9,25.36,0.07992358976763225,7,reviewed,uw,uw
