@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-18T11:38:14.081Z,60.5775,-148.7964,25.2,1.6,ml,,,,0.37,ak,ak02295aq080,2022-07-18T11:40:54.384Z,"22 km SSW of Whittier, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-18T11:36:55.660Z,38.8105011,-122.7716675,1.37,0.53,md,11,83,0.007564,0.02,nc,nc73760211,2022-07-18T11:38:28.442Z,"4km NNW of The Geysers, CA",earthquake,0.41,0.72,0.37,2,automatic,nc,nc
+2022-07-18T11:34:25.281Z,63.3071,-151.1086,3.2,2.6,ml,,,,0.73,ak,ak02295ap680,2022-07-18T11:36:47.339Z,"40 km SE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-07-18T11:32:56.680Z,38.8443336,-122.879837,2.52,0.8,md,18,102,0.006723,0.04,nc,nc73760206,2022-07-18T11:34:33.419Z,"13km ENE of Cloverdale, CA",earthquake,0.34,0.53,0.08,3,automatic,nc,nc
+2022-07-18T11:32:17.772Z,38.196,-117.8725,0,1.1,ml,9,144.46,0.088,0.3304,nn,nn00843158,2022-07-18T11:35:41.339Z,"29 km SE of Mina, Nevada",earthquake,,7.9,0.34,6,automatic,nn,nn
+2022-07-18T11:31:16.020Z,19.1546669006348,-155.494003295898,33.6300010681152,1.84000003,md,33,161,,0.159999996,hv,hv73078882,2022-07-18T11:34:23.390Z,"Island of Hawaii, Hawaii",earthquake,0.71,1.23000002,1.75999999,6,automatic,hv,hv
 2022-07-18T11:07:31.651Z,36.8829,-116.0082,14,0.5,ml,17,90.86,0.062,0.2161,nn,nn00843156,2022-07-18T11:10:31.588Z,"California-Nevada border region",earthquake,,0.7,0.37,10,automatic,nn,nn
-2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T11:06:14.391Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
+2022-07-18T10:46:02.630Z,38.7434998,-122.7111664,0.72,0.88,md,7,138,0.021,0.02,nc,nc73760201,2022-07-18T11:38:11.585Z,"4km SSW of Anderson Springs, CA",earthquake,0.39,0.81,0.33,3,automatic,nc,nc
 2022-07-18T10:38:25.181Z,38.1695,-118.1618,0.9,0.6,ml,9,160.98,0.263,0.1058,nn,nn00843154,2022-07-18T10:42:09.833Z,"California-Nevada border region",earthquake,,0,0.36,4,automatic,nn,nn
 2022-07-18T10:38:05.470Z,38.8343315,-122.7906647,1.82,0.33,md,10,65,0.01387,0.02,nc,nc73760196,2022-07-18T11:17:18.453Z,"6km WNW of Cobb, CA",earthquake,0.39,0.56,0.35,2,automatic,nc,nc
 2022-07-18T10:30:44.580Z,33.6415,-116.6941667,14.26,0.28,ml,17,99,0.07146,0.13,ci,ci40065759,2022-07-18T10:34:18.600Z,"10km N of Anza, CA",earthquake,0.33,0.47,0.155,6,automatic,ci,ci
@@ -244,6 +250,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-17T11:48:39.860Z,18.846,-155.221666666667,9.7,1.76,md,21,286,,0.08,hv,hv73077877,2022-07-17T12:28:25.400Z,"44 km ESE of Naalehu, Hawaii",earthquake,1.16,0.57,0.189174233679885,10,reviewed,hv,hv
 2022-07-17T11:43:10.930Z,33.2333333,-116.1,7.47,1.43,ml,46,49,0.09611,0.2,ci,ci40065183,2022-07-17T14:13:36.850Z,"10km NNE of Ocotillo Wells, CA",earthquake,0.22,0.82,0.112,28,reviewed,ci,ci
 2022-07-17T11:42:51.830Z,37.5766667,-118.8671667,3.42,0.58,md,17,166,0.03305,0.04,nc,nc73759741,2022-07-17T16:21:11.404Z,"12km SE of Mammoth Lakes, CA",earthquake,0.36,0.8,0.106,13,reviewed,nc,nc
-2022-07-17T11:40:21.890Z,38.814167,-122.819664,1.22,0.85,md,10,95,0.009124,0.02,nc,nc73759736,2022-07-17T12:05:20.866Z,"7km NW of The Geysers, CA",earthquake,0.32,0.79,,1,automatic,nc,nc
-2022-07-17T11:40:08.138Z,36.7937,-116.247,0.6,-0.3,ml,9,211.53,0.072,0.2786,nn,nn00843104,2022-07-17T11:43:02.951Z,"47 km ESE of Beatty, Nevada",earthquake,,4.2,0.25,5,automatic,nn,nn
-2022-07-17T11:34:47.530Z,35.487,-118.2855,3,3.47,ml,67,23,0.1284,0.16,ci,ci40065175,2022-07-17T20:33:38.308Z,"22km ESE of Bodfish, CA",earthquake,0.11,0.53,0.155,202,reviewed,ci,ci
