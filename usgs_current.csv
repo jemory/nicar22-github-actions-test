@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-20T07:19:29.260Z,38.8288345,-122.8151703,2.23,0.85,md,10,121,0.006734,0.01,nc,nc73760926,2022-07-20T07:21:03.332Z,"8km NW of The Geysers, CA",earthquake,0.4,0.73,,1,automatic,nc,nc
+2022-07-20T07:29:06.780Z,34.3223333,-119.2601667,12.68,1.46,ml,12,178,0.06374,0.25,ci,ci40066599,2022-07-20T07:32:56.217Z,"6km NNW of Ventura, CA",earthquake,0.73,1.08,0.198,23,automatic,ci,ci
+2022-07-20T07:19:29.260Z,38.8288345,-122.8151703,2.23,0.85,md,10,121,0.006734,0.01,nc,nc73760926,2022-07-20T07:30:11.300Z,"8km NW of The Geysers, CA",earthquake,0.4,0.73,,1,automatic,nc,nc
+2022-07-20T07:10:22.241Z,-2.0023,-78.4277,130.96,4.7,mb,59,92,0.646,1.23,us,us7000hs1v,2022-07-20T07:25:47.040Z,"44 km SSE of Riobamba, Ecuador",earthquake,6.7,5,0.039,197,reviewed,us,us
 2022-07-20T06:31:56.788Z,38.1776,-117.9657,0.5,0.4,ml,8,151.65,0.026,0.0891,nn,nn00843265,2022-07-20T06:36:57.746Z,"26 km SSE of Mina, Nevada",earthquake,,0.1,0.42,4,automatic,nn,nn
 2022-07-20T06:12:12.136Z,38.7994,-116.1898,1.5,2,ml,12,111.75,1.508,0.2715,nn,nn00843262,2022-07-20T06:16:08.835Z,"81 km SSW of Eureka, Nevada",earthquake,,4.8,0.87,8,automatic,nn,nn
 2022-07-20T06:11:53.870Z,33.411,-116.3436667,10.48,1.21,ml,28,72,0.05626,0.21,ci,ci40066591,2022-07-20T06:15:29.690Z,"18km N of Borrego Springs, CA",earthquake,0.33,0.68,0.147,27,automatic,ci,ci
@@ -80,6 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T21:22:27.993Z,61.696,-148.1236,22.1,2.1,ml,,,,0.18,ak,ak02297449b6,2022-07-19T21:25:56.396Z,"21 km ESE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-19T21:21:23.530Z,37.5390015,-118.8291702,4.51,1.71,md,17,208,0.05094,0.03,nc,nc73760786,2022-07-20T00:41:10.768Z,"13km W of Toms Place, CA",earthquake,0.81,0.71,0.12,17,automatic,nc,nc
 2022-07-19T21:21:01.890Z,38.7924995,-122.7666702,4.9,0.36,md,8,89,0.009767,0.03,nc,nc73760781,2022-07-19T21:55:15.701Z,"2km NNW of The Geysers, CA",earthquake,0.94,1.47,,1,automatic,nc,nc
+2022-07-19T21:20:45.000Z,52.3238333333333,-174.159833333333,-3.2,0.51,ml,8,76,,0.3,av,av91638601,2022-07-20T07:32:41.490Z,"14 km N of Atka, Alaska",earthquake,0.52,1.9,0.400759514198339,8,reviewed,av,av
 2022-07-19T21:14:49.933Z,7.3196,127.0195,10,4.5,mb,41,115,1.45,1.16,us,us7000hrwx,2022-07-19T21:46:21.040Z,"49 km E of Santiago, Philippines",earthquake,9.1,1.9,0.088,38,reviewed,us,us
 2022-07-19T21:13:53.929Z,60.9826,-147.0911,21.5,2.6,ml,,,,0.36,ak,ak0229742exs,2022-07-19T21:53:36.040Z,"25 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-19T21:06:42.130Z,32.776,-115.2426667,11.92,1.84,ml,16,149,0.1744,0.19,ci,ci40066463,2022-07-19T21:10:16.478Z,"13km ESE of Holtville, CA",earthquake,0.74,0.95,0.138,24,automatic,ci,ci
@@ -214,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-19T08:01:51.191Z,63.7133,-145.7197,2.5,2,ml,,,,0.63,ak,ak02296w978s,2022-07-19T17:06:52.523Z,"26 km SSW of Fort Greely, Alaska",earthquake,,0.3,,,reviewed,ak,ak
 2022-07-19T07:50:54.130Z,19.3275,-155.192666666667,2.59,1.32,md,21,90,,0.09,hv,hv73080092,2022-07-20T00:44:58.000Z,"13 km SSE of Volcano, Hawaii",earthquake,0.28,0.67,0.170334151884086,8,reviewed,hv,hv
 2022-07-19T07:48:40.590Z,33.0076667,-116.4441667,9.55,1.04,ml,29,70,0.1237,0.21,ci,ci40066167,2022-07-19T07:59:27.980Z,"17km ESE of Julian, CA",earthquake,0.37,1.04,0.212,19,automatic,ci,ci
-2022-07-19T07:33:15.494Z,62.0327,-148.0747,31.1,1,ml,,,,0.4,ak,ak02296vujtp,2022-07-19T07:35:41.884Z,"33 km NE of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
