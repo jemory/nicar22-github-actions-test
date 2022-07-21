@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-21T11:30:14.942Z,38.1649,-117.9843,1.8,0.6,ml,8,159.9,0.032,0.0511,nn,nn00843324,2022-07-21T11:34:34.402Z,"27 km SSE of Mina, Nevada",earthquake,,0.3,0.12,3,automatic,nn,nn
+2022-07-21T11:29:40.710Z,37.3163338,-121.6978302,-0.56,1.93,md,26,89,0.05078,0.08,nc,nc73761241,2022-07-21T11:32:51.260Z,"13km ESE of Alum Rock, CA",earthquake,0.2,2.67,0.11,16,automatic,nc,nc
+2022-07-21T11:21:30.560Z,19.2323341369629,-155.380493164062,32.3899993896484,2.0999999,md,46,149,,0.119999997,hv,hv73083082,2022-07-21T11:27:01.050Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.54,0.649999976,0.959999979,16,automatic,hv,hv
 2022-07-21T11:21:26.506Z,61.3895,-147.1449,33.6,1.8,ml,,,,0.17,ak,ak0229a98fhm,2022-07-21T11:22:38.428Z,"51 km WNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-21T11:17:57.950Z,19.3753337860107,-155.407165527344,6.86999988555908,2.4,ml,44,40,,0.170000002,hv,hv73083077,2022-07-21T11:23:28.350Z,"19 km WSW of Volcano, Hawaii",earthquake,0.3,0.600000024,0.66,4,automatic,hv,hv
 2022-07-21T11:14:04.328Z,62.4032,-149.4011,16,1.4,ml,,,,0.87,ak,ak0229a96vrk,2022-07-21T11:16:13.033Z,"35 km NE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -19,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-21T09:21:49.380Z,17.9706666666667,-66.9591666666667,9.53,1.9,md,6,184,,0.12,pr,pr71360508,2022-07-21T11:15:53.720Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.65,1.13,0.136423508373047,3,reviewed,pr,pr
 2022-07-21T09:21:43.450Z,19.9794998168945,-155.572174072266,12.25,2.68000007,md,34,178,,0.180000007,hv,hv73082987,2022-07-21T09:27:12.180Z,"11 km ESE of Waimea, Hawaii",earthquake,0.76,0.460000008,1.33000004,3,automatic,hv,hv
 2022-07-21T09:13:41.670Z,38.8614998,-122.9820023,5.2,1.99,md,30,80,0.03234,0.05,nc,nc73761221,2022-07-21T09:45:16.617Z,"7km NNE of Cloverdale, CA",earthquake,0.37,0.59,0.12,12,automatic,nc,nc
-2022-07-21T08:45:26.050Z,40.2265015,-124.0986633,11.9,1.95,md,14,152,,0.1,nc,nc73761211,2022-07-21T09:24:18.488Z,"19km SE of Petrolia, CA",earthquake,0.37,0.61,0.06,9,automatic,nc,nc
+2022-07-21T08:45:26.050Z,40.2265015,-124.0986633,11.9,1.95,md,14,152,,0.1,nc,nc73761211,2022-07-21T11:27:15.261Z,"19km SE of Petrolia, CA",earthquake,0.37,0.61,0.06,9,automatic,nc,nc
 2022-07-21T08:45:00.080Z,40.2299995,-124.0979996,14.59,1.96,md,10,150,,0.07,nc,nc73761206,2022-07-21T11:00:13.115Z,"19km ESE of Petrolia, CA",earthquake,0.51,0.96,0.06,8,automatic,nc,nc
 2022-07-21T08:35:43.957Z,-45.1066,-76.2207,10,4.4,mb,33,165,3.311,0.45,us,us7000hscc,2022-07-21T09:11:33.040Z,"270 km W of Puerto Chacabuco, Chile",earthquake,10.3,2,0.161,13,reviewed,us,us
 2022-07-21T08:35:31.010Z,33.58,-116.5966667,15.15,0.42,ml,19,68,0.01814,0.13,ci,ci40067159,2022-07-21T08:39:01.313Z,"8km ENE of Anza, CA",earthquake,0.29,0.47,0.166,7,automatic,ci,ci
@@ -199,4 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T11:55:34.540Z,58.4363333333333,-154.8645,5.16,-0.54,ml,7,107,,0.22,av,av91066613,2022-07-21T06:55:07.760Z,"99 km NNW of Karluk, Alaska",earthquake,0.51,1.75,0.150290391290768,7,reviewed,av,av
 2022-07-20T11:48:06.870Z,58.176,-155.324,1.73,-0.24,ml,6,109,,0.06,av,av91639341,2022-07-21T06:50:32.260Z,"85 km NW of Karluk, Alaska",earthquake,0.22,0.89,0.250795099165132,6,reviewed,av,av
 2022-07-20T11:39:11.960Z,34.3621674,-119.265831,5.98,1.44,ml,17,123,0.06287,0.15,ci,ci40066671,2022-07-20T11:42:59.703Z,"10km SSW of Ojai, CA",earthquake,0.57,1.43,0.137,6,automatic,ci,ci
-2022-07-20T11:24:09.270Z,35.8903333,-117.7358333,7.4,0.78,ml,12,107,0.08494,0.1,ci,ci40066663,2022-07-20T13:26:29.109Z,"16km ESE of Little Lake, CA",earthquake,0.33,0.8,0.231,8,reviewed,ci,ci
