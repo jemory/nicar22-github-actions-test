@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-07-23T07:06:24.930Z,33.702,-116.721,17.04,1.02,ml,40,53,0.01077,0.17,ci,ci40068255,2022-07-23T07:10:04.779Z,"4km S of Idyllwild, CA",earthquake,0.23,0.4,0.144,25,automatic,ci,ci
 2022-07-23T07:04:01.740Z,35.7186667,-117.5773333,9.77,1.64,ml,21,66,0.09825,0.18,ci,ci40068247,2022-07-23T07:07:39.398Z,"14km NE of Ridgecrest, CA",earthquake,0.36,0.82,0.17,22,automatic,ci,ci
-2022-07-23T07:00:48.320Z,36.8601685,-121.3113327,8.15,1.82,md,22,67,0.1453,0.08,nc,nc73761881,2022-07-23T07:12:11.902Z,"7km NE of Ridgemark, CA",earthquake,0.29,1.07,0.14,19,automatic,nc,nc
+2022-07-23T07:00:48.320Z,36.8601685,-121.3113327,8.15,1.82,md,22,67,0.1453,0.08,nc,nc73761881,2022-07-23T07:32:12.028Z,"7km NE of Ridgemark, CA",earthquake,0.29,1.07,0.14,19,automatic,nc,nc
 2022-07-23T06:43:38.160Z,19.2273330688477,-155.397003173828,30.0400009155273,1.80999994,md,35,150,,0.129999995,hv,hv73085012,2022-07-23T06:46:41.740Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.63,0.589999974,1.36000001,6,automatic,hv,hv
 2022-07-23T06:29:38.890Z,38.8383331,-122.8098297,1.88,1.59,md,29,67,0.01492,0.02,nc,nc73761876,2022-07-23T06:59:15.841Z,"8km WNW of Cobb, CA",earthquake,0.19,0.34,0.05,6,automatic,nc,nc
 2022-07-23T06:27:19.800Z,19.1628341674805,-155.492172241211,33.9199981689453,2.08,ml,37,119,,0.140000001,hv,hv73085002,2022-07-23T06:32:49.350Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,0.870000005,0.91,3,automatic,hv,hv
@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-22T07:52:38.366Z,64.8956,-147.3604,0,0.9,ml,,,,0.61,ak,ak0229bukpoc,2022-07-22T07:55:09.812Z,"13 km NE of Badger, Alaska",earthquake,,28.5,,,automatic,ak,ak
 2022-07-22T07:50:28.190Z,40.6936667,-123.9583333,24.58,2.12,md,30,46,0.135,0.13,nc,nc73761566,2022-07-22T20:27:10.258Z,"17km ESE of Pine Hills, CA",earthquake,0.34,0.76,0.249,27,reviewed,nc,nc
 2022-07-22T07:39:30.850Z,38.8518333,-122.7991667,2.19,0.59,md,26,88,0.003409,0.04,nc,nc73761561,2022-07-22T10:47:11.815Z,"7km WNW of Cobb, CA",earthquake,0.16,0.21,0.059,4,reviewed,nc,nc
-2022-07-22T07:37:02.685Z,33.19244385,-100.8716416,7.996704102,3.1,ml,13,98,0.1029837576,0.1,tx,tx2022ofqt,2022-07-22T16:07:18.030Z,"27 km SW of Girard, Texas",earthquake,0.9685228911,1.773158713,0.1,11,reviewed,tx,tx
