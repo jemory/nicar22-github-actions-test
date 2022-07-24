@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-24T19:35:39.490Z,38.8303337,-122.803833,1.56,1.13,md,13,52,0.008472,0.01,nc,nc73762376,2022-07-24T19:37:15.980Z,"7km W of Cobb, CA",earthquake,0.26,0.57,0.32,2,automatic,nc,nc
+2022-07-24T19:26:21.124Z,63.3141,-152.6742,1,1.8,ml,,,,0.31,ak,ak0229fcmzz4,2022-07-24T19:28:02.595Z,"53 km WSW of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-24T19:16:10.158Z,59.7983,-151.4484,57.7,1.7,ml,,,,0.59,ak,ak0229fcktyv,2022-07-24T19:18:37.122Z,"9 km E of Nikolaevsk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-07-24T19:10:00.320Z,35.797,-117.7533333,5.66,1.46,ml,26,49,0.01487,0.16,ci,ci40068967,2022-07-24T19:20:21.020Z,"18km NNE of Inyokern, CA",earthquake,0.23,0.5,0.286,21,automatic,ci,ci
-2022-07-24T19:09:36.130Z,38.8328323,-122.8156662,1.87,0.85,md,9,54,0.01039,0.01,nc,nc73762366,2022-07-24T19:19:11.660Z,"8km NW of The Geysers, CA",earthquake,0.38,1.39,,1,automatic,nc,nc
+2022-07-24T19:09:36.130Z,38.8328323,-122.8156662,1.87,0.85,md,9,54,0.01039,0.01,nc,nc73762366,2022-07-24T19:26:14.696Z,"8km NW of The Geysers, CA",earthquake,0.38,1.39,,1,automatic,nc,nc
 2022-07-24T19:06:28.129Z,57.3576,-156.1846,6.4,2.7,ml,,,,0.58,ak,ak0229fciq8x,2022-07-24T19:09:49.086Z,"74 km ESE of Ugashik, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-07-24T19:05:03.900Z,19.0933,-64.4658,40,3.48,md,7,321,0.8887,0.37,pr,pr2022205002,2022-07-24T19:37:15.234Z,"91 km NNE of Cruz Bay, U.S. Virgin Islands",earthquake,5.72,17.45,0.1,4,reviewed,pr,pr
 2022-07-24T19:04:17.934Z,-58.9371,-25.4017,10,5,mb,32,83,7.687,0.67,us,us7000ht5t,2022-07-24T19:24:00.040Z,"South Sandwich Islands region",earthquake,11.5,1.9,0.079,52,reviewed,us,us
-2022-07-24T18:48:08.320Z,38.7993317,-122.7559967,2,0.91,md,17,94,0.003177,0.05,nc,nc73762361,2022-07-24T19:04:15.703Z,"2km N of The Geysers, CA",earthquake,0.3,0.6,0.13,4,automatic,nc,nc
+2022-07-24T18:48:08.320Z,38.7993317,-122.7559967,2,0.91,md,17,94,0.003177,0.05,nc,nc73762361,2022-07-24T19:30:16.720Z,"2km N of The Geysers, CA",earthquake,0.3,0.6,0.13,4,automatic,nc,nc
 2022-07-24T18:24:19.720Z,38.8375015,-122.8098297,1.83,0.85,md,11,55,0.01409,0.02,nc,nc73762356,2022-07-24T19:15:10.636Z,"8km WNW of Cobb, CA",earthquake,0.32,1.02,,1,automatic,nc,nc
 2022-07-24T18:24:08.310Z,34.0338333,-117.1506667,-0.01,0.94,ml,14,144,0.2789,0.24,ci,ci40068959,2022-07-24T18:27:47.356Z,"4km SE of Redlands, CA",earthquake,0.76,31.61,0.371,21,automatic,ci,ci
 2022-07-24T18:22:48.100Z,33.929,-116.9776667,14.98,0.95,ml,28,65,0.1237,0.2,ci,ci40068951,2022-07-24T18:26:15.123Z,"0km SW of Beaumont, CA",earthquake,0.3,0.87,0.164,27,automatic,ci,ci
@@ -160,5 +163,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T20:00:07.290Z,35.5091667,-118.3928333,7.47,1.87,ml,29,40,0.167,0.11,ci,ci40068559,2022-07-24T13:44:02.630Z,"12km SE of Bodfish, CA",earthquake,0.17,1.19,0.257,26,reviewed,ci,ci
 2022-07-23T19:54:40.490Z,38.836834,-122.8071671,2.06,1.08,md,23,53,0.01323,0.02,nc,nc73762086,2022-07-23T21:09:12.763Z,"8km WNW of Cobb, CA",earthquake,0.19,0.43,0.19,4,automatic,nc,nc
 2022-07-23T19:47:42.350Z,36.074,-117.8655,4.97,1.53,ml,28,67,0.04434,0.17,ci,ci40068551,2022-07-24T14:27:14.647Z,"8km ENE of Coso Junction, CA",earthquake,0.23,0.49,0.139,13,reviewed,ci,ci
-2022-07-23T19:35:00.084Z,64.9826,-147.3812,5.4,1.6,ml,,,,0.83,ak,ak0229dp5jaw,2022-07-23T19:37:07.407Z,"11 km ENE of Fox, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-23T19:34:48.960Z,36.0853333,-120.1566667,6.86,1.23,md,25,155,0.1311,0.1,nc,nc73762081,2022-07-24T01:01:14.227Z,"9km NNW of Avenal, CA",earthquake,0.57,0.48,0.12,12,reviewed,nc,nc
