@@ -10,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-24T03:13:59.244Z,60.5666,-146.2346,18.4,2.3,ml,,,,0.51,ak,ak0229f31cwz,2022-07-24T03:27:43.040Z,"26 km W of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-24T03:08:39.690Z,19.1103324890137,-155.415496826172,32.060001373291,2,md,29,185,,0.129999995,hv,hv73085887,2022-07-24T03:11:56.280Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.63,1.29999995,0.430000007,5,automatic,hv,hv
 2022-07-24T02:57:22.400Z,32.9145,-116.2473333,5.93,1.03,ml,32,80,0.06181,0.24,ci,ci40068639,2022-07-24T03:00:49.848Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.38,1,0.115,16,automatic,ci,ci
-2022-07-24T02:54:40.660Z,17.8881666666667,-66.7015,16.42,2.28,md,13,194,,0.15,pr,pr71360868,2022-07-24T04:22:06.220Z,"11 km S of Tallaboa, Puerto Rico",earthquake,0.55,0.71,0.206187657804733,5,reviewed,pr,pr
+2022-07-24T02:54:40.660Z,17.8881666666667,-66.7015,16.42,2.28,md,13,194,,0.15,pr,pr71360868,2022-07-24T04:22:06.220Z,"Puerto Rico region",earthquake,0.55,0.71,0.206187657804733,5,reviewed,pr,pr
 2022-07-24T02:46:47.980Z,19.5086669921875,-155.664672851562,1.04999995231628,1.98,ml,16,54,,0.239999995,hv,hv73085867,2022-07-24T02:52:18.280Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.53,1.38,3.57,6,automatic,hv,hv
 2022-07-24T02:45:12.346Z,-24.2772,-67.3497,195.31,4.3,mb,28,99,1.522,0.65,us,us7000ht20,2022-07-24T03:05:56.040Z,"104 km W of San Antonio de los Cobres, Argentina",earthquake,10.5,18.4,0.217,6,reviewed,us,us
 2022-07-24T02:41:07.180Z,19.5060005187988,-155.661834716797,0.0799999982118607,2.3499999,md,12,87,,0.209999993,hv,hv73085857,2022-07-24T02:46:38.920Z,"21 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.54,1.24000001,0.779999971,3,automatic,hv,hv
@@ -164,4 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-23T06:03:06.111Z,67.3605,-156.3488,0,1.9,ml,,,,0.93,ak,ak0229dh81zs,2022-07-23T06:06:57.569Z,"55 km NNE of Kobuk, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-07-23T06:02:04.930Z,35.6726667,-117.4388333,10.24,1.16,ml,8,310,0.1925,0.1,ci,ci40068223,2022-07-23T06:05:35.824Z,"11km SSW of Searles Valley, CA",earthquake,0.69,0.87,0.084,11,automatic,ci,ci
 2022-07-23T06:02:02.560Z,36.8603333,-121.3103333,5.58,1,md,24,68,0.04295,0.11,nc,nc73761856,2022-07-23T06:51:10.799Z,"7km NE of Ridgemark, CA",earthquake,0.3,0.64,0.157,21,reviewed,nc,nc
-2022-07-23T05:35:28.680Z,19.5296,-63.7608,94,4.1,md,5,327,2.2938,0.31,pr,pr2022204003,2022-07-23T09:34:39.478Z,"163 km NNW of The Valley, Anguilla",earthquake,9.9,22.51,0.1,3,reviewed,pr,pr
