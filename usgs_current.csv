@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-26T20:57:07.330Z,37.571167,-118.925499,8.7,1.21,md,11,220,0.04167,0.01,nc,nc73763111,2022-07-26T21:06:10.946Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.93,1.49,0.1,11,automatic,nc,nc
-2022-07-26T20:46:38.490Z,41.2845,-122.1225,9.78,1.43,md,13,79,0.01034,0.13,nc,nc73763106,2022-07-26T21:21:14.436Z,"4km NNE of McCloud, CA",earthquake,0.54,1.12,0.148,9,reviewed,nc,nc
-2022-07-26T20:45:11.420Z,41.2823334,-122.1256638,10.35,2.02,md,12,92,0.008629,0.12,nc,nc73763101,2022-07-26T21:09:51.116Z,"3km NNE of McCloud, CA",earthquake,0.7,1.02,0.29,11,automatic,nc,nc
+2022-07-26T21:23:01.152Z,60.7743,-151.4612,67.8,1.6,ml,,,,0.33,ak,ak0229iovvhf,2022-07-26T21:24:40.552Z,"13 km NW of Nikiski, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-07-26T20:57:07.330Z,37.571167,-118.925499,8.7,1.21,md,11,220,0.04167,0.01,nc,nc73763111,2022-07-26T21:34:14.107Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.93,1.49,0.1,11,automatic,nc,nc
+2022-07-26T20:46:38.490Z,41.2845,-122.1225,9.78,1.43,md,13,79,0.01034,0.13,nc,nc73763106,2022-07-26T21:26:10.066Z,"4km NNE of McCloud, CA",earthquake,0.54,1.12,0.148,9,reviewed,nc,nc
+2022-07-26T20:45:11.420Z,41.2823334,-122.1256638,10.35,2.02,md,12,92,0.008629,0.12,nc,nc73763101,2022-07-26T21:23:21.051Z,"3km NNE of McCloud, CA",earthquake,0.7,1.02,0.29,11,automatic,nc,nc
 2022-07-26T20:43:02.790Z,33.0671667,-116.4138333,14.34,1.13,ml,31,70,0.1457,0.23,ci,ci40070151,2022-07-26T20:54:09.800Z,"18km E of Julian, CA",earthquake,0.36,0.85,0.179,26,automatic,ci,ci
 2022-07-26T20:37:19.092Z,36.4418,70.5552,216.39,4.9,mb,88,62,0.682,0.62,us,us6000i5pp,2022-07-26T21:15:58.975Z,"53 km SSW of Jurm, Afghanistan",earthquake,7.7,5.1,0.036,245,reviewed,us,us
 2022-07-26T20:21:27.982Z,-9.549,117.9054,61.39,4.5,mb,26,101,0.728,0.67,us,us6000i5pi,2022-07-26T21:03:00.040Z,"127 km SSW of Dompu, Indonesia",earthquake,7.9,7.6,0.15,15,reviewed,us,us
@@ -72,6 +73,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T14:13:13.270Z,17.9606666666667,-66.9255,15.55,1.87,md,5,204,,0.11,pr,pr71361148,2022-07-26T16:38:09.370Z,"2 km WSW of Guánica, Puerto Rico",earthquake,0.8,0.97,0.0733968979273583,4,reviewed,pr,pr
 2022-07-26T14:11:05.075Z,38.4275,-116.2131,0,1.5,ml,8,129.6,0.859,0.2202,nn,nn00843612,2022-07-26T20:18:48.301Z,"96 km NNW of Rachel, Nevada",earthquake,,0,0.53,5,reviewed,nn,nn
 2022-07-26T14:05:56.568Z,31.67159699,-104.3523492,4.100634766,3.1,ml,12,66,0.1265673415,0.2,tx,tx2022onll,2022-07-26T15:14:03.040Z,"55 km S of Whites City, New Mexico",earthquake,1.265353204,2.537315113,0.1,6,reviewed,tx,tx
+2022-07-26T14:05:45.411Z,31.67872714,-104.3879411,6.157275391,2.3,ml,13,58,0.09671888973,0.3,tx,tx2022onln,2022-07-26T21:34:00.414Z,"55 km S of Whites City, New Mexico",earthquake,1.459435731,1.555634759,0.1,9,reviewed,tx,tx
 2022-07-26T14:04:50.470Z,34.0235,-116.3235,8.61,0.94,ml,26,59,0.07163,0.08,ci,ci40069943,2022-07-26T17:34:45.308Z,"12km S of Joshua Tree, CA",earthquake,0.13,0.36,0.136,17,reviewed,ci,ci
 2022-07-26T14:01:44.880Z,33.6701667,-116.6931667,15.05,0.45,ml,10,126,0.04448,0.11,ci,ci40069935,2022-07-26T17:26:18.306Z,"8km SSE of Idyllwild, CA",earthquake,0.47,0.82,0.121,5,reviewed,ci,ci
 2022-07-26T14:00:08.972Z,51.1333,-179.6195,34.45,4,mb,36,209,0.657,0.26,us,us6000i5mu,2022-07-26T17:23:48.040Z,"223 km WSW of Adak, Alaska",earthquake,2.8,7.9,0.143,13,reviewed,us,us
@@ -129,7 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T08:04:44.820Z,34.3275,-116.9215,4.5,1.56,ml,69,33,0.06504,0.13,ci,ci40069815,2022-07-26T16:40:44.630Z,"9km N of Big Bear Lake, CA",earthquake,0.1,0.25,0.161,53,reviewed,ci,ci
 2022-07-26T07:48:22.882Z,62.0455,-149.6915,47.5,1.4,ml,,,,0.39,ak,ak0229igp7lc,2022-07-26T07:50:15.740Z,"15 km SSE of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-07-26T07:40:19.060Z,37.2736667,-121.63,6.74,0.95,md,19,51,0.03739,0.1,nc,nc73762876,2022-07-26T17:42:13.724Z,"16km N of Morgan Hill, CA",earthquake,0.23,0.53,0.155,17,reviewed,nc,nc
-2022-07-26T07:28:19.817Z,38.193,-117.9541,1.4,0.9,ml,10,166.44,0.025,0.1785,nn,nn00843611,2022-07-26T07:32:28.546Z,"25 km SSE of Mina, Nevada",earthquake,,0.6,0.44,6,automatic,nn,nn
+2022-07-26T07:28:20.199Z,38.1784,-117.9844,2.9,0.9,ml,15,125.76,0.021,0.1867,nn,nn00843611,2022-07-26T21:27:37.232Z,"25 km SSE of Mina, Nevada",earthquake,,1.1,0.39,5,reviewed,nn,nn
 2022-07-26T07:14:51.440Z,19.2280006408691,-155.404495239258,32.25,1.99000001,md,33,141,,0.129999995,hv,hv73088202,2022-07-26T07:17:58.380Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.55,0.839999974,1.83000004,6,automatic,hv,hv
 2022-07-26T07:06:03.000Z,63.2454,-145.124,3.3,2.3,ml,,,,0.58,ak,ak0229igg5zg,2022-07-26T07:08:36.270Z,"30 km NE of Paxson, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-26T07:01:51.310Z,18.8081665039062,-156.904327392578,12.9399995803833,2,ml,47,257,,0.389999986,hv,hv73088192,2022-07-26T07:07:22.430Z,"123 km WSW of Hawaiian Ocean View, Hawaii",earthquake,4.84,6.73999977,4.63,11,automatic,hv,hv
@@ -204,7 +206,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T21:46:16.100Z,38.8419991,-122.807663,1.92,0.86,md,12,56,0.01399,0.01,nc,nc73762781,2022-07-25T23:19:11.050Z,"8km WNW of Cobb, CA",earthquake,0.31,0.91,,1,automatic,nc,nc
 2022-07-25T21:46:15.910Z,33.5545,-116.6596667,8.63,0.32,ml,16,103,0.02717,0.09,ci,ci40069631,2022-07-26T00:46:18.271Z,"1km E of Anza, CA",earthquake,0.22,0.55,0.123,9,reviewed,ci,ci
 2022-07-25T21:39:10.091Z,31.67989824,-104.4197149,6.825683594,2,ml,15,69,0.07001904146,0.2,tx,tx2022omez,2022-07-26T21:12:17.145Z,"55 km S of Whites City, New Mexico",earthquake,1.227670384,1.280281302,0.2,8,reviewed,tx,tx
-2022-07-25T21:36:08.972Z,-45.0474,169.2465,13.3,3.3,ml,15,137,0.273,0.45,us,us7000htf6,2022-07-26T03:30:19.178Z,"3 km ESE of Cromwell, New Zealand",earthquake,3.1,5.3,0.128,8,reviewed,us,us
-2022-07-25T21:34:19.180Z,35.5051667,-118.394,7.81,1.29,ml,28,40,0.1703,0.11,ci,ci40069615,2022-07-26T00:41:59.259Z,"13km SE of Bodfish, CA",earthquake,0.15,0.8,0.094,12,reviewed,ci,ci
-2022-07-25T21:25:27.230Z,36.6635017,-121.0333328,-0.08,1.51,md,6,167,0.085,0.18,nc,nc73762776,2022-07-25T22:24:11.808Z,"18km NE of Pinnacles, CA",earthquake,3.51,13.97,0.17,7,automatic,nc,nc
-2022-07-25T21:23:43.220Z,62.8211,-143.6329,8.2,1.6,ml,,,,0.62,ak,ak0229h1cm8n,2022-07-25T21:26:20.105Z,"13 km SSE of Mentasta Lake, Alaska",earthquake,,0.5,,,automatic,ak,ak
