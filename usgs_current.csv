@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-26T14:24:28.370Z,39.6738319,-123.5861664,3.31,1.82,md,7,151,0.01279,0.03,nc,nc73762976,2022-07-26T14:33:10.451Z,"9km W of Laytonville, CA",earthquake,0.48,0.39,0.1,4,automatic,nc,nc
+2022-07-26T14:21:42.510Z,36.7063,-116.3279,9.2,0.3,ml,12,136.26,0.062,0.077,nn,nn00843613,2022-07-26T14:24:31.201Z,"44 km ESE of Beatty, Nevada",earthquake,,1,0.24,8,automatic,nn,nn
 2022-07-26T14:11:04.111Z,38.4693,-116.1106,12.4,1.6,ml,8,137.48,1.314,0.3743,nn,nn00843612,2022-07-26T14:15:40.816Z,"97 km NNW of Rachel, Nevada",earthquake,,4.1,0.26,6,automatic,nn,nn
 2022-07-26T14:05:57.187Z,31.6485,-104.4109,5,3.1,ml,18,106,0.079,0.59,us,us7000htj7,2022-07-26T14:21:19.040Z,"58 km S of Whites City, New Mexico",earthquake,1.7,1.5,0.064,32,reviewed,us,us
 2022-07-26T14:04:50.570Z,34.0258333,-116.3195,7.09,0.92,ml,23,60,0.0728,0.2,ci,ci40069943,2022-07-26T14:08:26.523Z,"12km S of Joshua Tree, CA",earthquake,0.31,0.88,0.128,19,automatic,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T12:52:48.680Z,38.8166656,-122.8026657,2.09,0.15,md,20,35,0.008868,0.03,nc,nc73762946,2022-07-26T13:09:15.882Z,"6km NW of The Geysers, CA",earthquake,0.23,0.48,0.08,3,automatic,nc,nc
 2022-07-26T12:45:15.799Z,61.1147,-150.6949,34.4,1.6,ml,,,,0.64,ak,ak0229ijnpx7,2022-07-26T12:47:02.275Z,"21 km E of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-07-26T12:28:44.883Z,21.0611,99.8857,10,4.1,mb,18,62,0.355,0.57,us,us7000htiv,2022-07-26T13:08:00.040Z,"Myanmar",earthquake,3.2,1.9,0.213,6,reviewed,us,us
-2022-07-26T12:19:37.720Z,38.7980003,-122.7471695,1.75,0.46,md,12,98,0.01015,0.06,nc,nc73762941,2022-07-26T12:36:13.692Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.86,0.41,2,automatic,nc,nc
+2022-07-26T12:19:37.720Z,38.7980003,-122.7471695,1.75,0.46,md,12,98,0.01015,0.06,nc,nc73762941,2022-07-26T14:30:16.430Z,"2km NNE of The Geysers, CA",earthquake,0.32,0.86,0.41,2,automatic,nc,nc
 2022-07-26T12:04:02.062Z,39.979,-98.1645,5,3.6,mb_lg,18,49,1.427,0.39,us,us7000htip,2022-07-26T14:10:00.897Z,"9 km WSW of Superior, Nebraska",earthquake,2,2,0.04,163,reviewed,us,us
 2022-07-26T11:51:14.732Z,21.0839,99.9109,10,4.2,mb,24,48,0.36,0.49,us,us7000htil,2022-07-26T12:49:41.040Z,"60 km S of Kēng Tung, Myanmar",earthquake,3.8,1.9,0.159,11,reviewed,us,us
 2022-07-26T11:49:52.818Z,64.6853,-149.4275,20.7,2.5,ml,,,,0.33,ak,ak0229ij381d,2022-07-26T14:03:58.040Z,"17 km WNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -26,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T10:42:18.370Z,38.8260002,-122.7965012,2.72,2.31,md,46,34,0.01092,0.06,nc,nc73762911,2022-07-26T13:18:10.939Z,"6km W of Cobb, CA",earthquake,0.17,0.27,0.08,17,automatic,nc,nc
 2022-07-26T10:30:53.059Z,-37.8314,178.6579,49.33,5,mww,60,118,0.387,0.76,us,us7000htid,2022-07-26T13:22:15.432Z,"107 km NNE of Gisborne, New Zealand",earthquake,6.1,3.4,0.071,19,reviewed,us,us
 2022-07-26T10:28:16.830Z,36.3271667,-89.5326667,9.42,1.75,md,24,49,0.0276,0.07,nm,nm60401387,2022-07-26T12:50:44.490Z,"7 km SW of Tiptonville, Tennessee",earthquake,0.52,0.63,0.078,14,reviewed,nm,nm
+2022-07-26T10:24:28.701Z,0.5659,-77.9611,10,4.4,mb,46,81,0.373,0.91,us,us7000htic,2022-07-26T14:34:56.040Z,"6 km SSW of El Ángel, Ecuador",earthquake,2.6,1.9,0.052,109,reviewed,us,us
 2022-07-26T10:19:07.050Z,35.368,-117.5901667,5.55,1.21,ml,24,53,0.1343,0.15,ci,ci40069887,2022-07-26T10:29:53.490Z,"4km E of Johannesburg, CA",earthquake,0.25,1.32,0.144,22,automatic,ci,ci
 2022-07-26T10:07:25.060Z,61.5211,-150.0594,43.2,1.3,ml,,,,0.37,ak,ak0229ii8q7u,2022-07-26T10:09:13.657Z,"5 km W of Big Lake, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-26T10:01:07.650Z,34.0913333,-116.4233333,5.17,0.7,ml,10,95,0.03537,0.24,ci,ci40069879,2022-07-26T10:04:33.428Z,"3km SSE of Yucca Valley, CA",earthquake,0.57,1.08,0.181,11,automatic,ci,ci
@@ -98,7 +101,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-26T01:15:22.730Z,38.809,-122.7925,3.45,0.32,md,14,68,0.00242,0.02,nc,nc73762826,2022-07-26T13:01:11.011Z,"5km NW of The Geysers, CA",earthquake,0.59,0.87,0.212,3,reviewed,nc,nc
 2022-07-26T01:12:33.630Z,38.8103333,-122.793335,3.24,0.56,md,21,45,0.002818,0.02,nc,nc73762821,2022-07-26T01:49:11.917Z,"5km NW of The Geysers, CA",earthquake,0.24,0.61,0.41,4,automatic,nc,nc
 2022-07-26T00:34:41.370Z,38.7701667,-122.7273333,1.61,0.18,md,12,74,0.008777,0.06,nc,nc73762816,2022-07-26T06:11:10.496Z,"3km ESE of The Geysers, CA",earthquake,0.29,0.26,0.094,4,reviewed,nc,nc
-2022-07-26T00:25:50.540Z,33.2223333,-116.0111667,2.46,2.04,ml,49,55,0.0562,0.24,ci,ci40069695,2022-07-26T00:36:37.450Z,"10km SSW of Salton City, CA",earthquake,0.29,0.68,0.145,26,automatic,ci,ci
+2022-07-26T00:25:50.530Z,33.2218333,-116.013,3.19,2.13,ml,64,45,0.05655,0.2,ci,ci40069695,2022-07-26T14:26:49.550Z,"10km SSW of Salton City, CA",earthquake,0.16,0.37,0.112,71,reviewed,ci,ci
 2022-07-26T00:25:05.740Z,38.8318333,-122.8135,2,0.45,md,19,50,0.008841,0.02,nc,nc73762811,2022-07-26T05:43:10.341Z,"8km NW of The Geysers, CA",earthquake,0.27,0.55,0.116,3,reviewed,nc,nc
 2022-07-26T00:20:05.470Z,35.6806667,-117.5021667,9.73,0.83,ml,21,84,0.09944,0.14,ci,ci40069687,2022-07-26T14:07:24.501Z,"13km SW of Searles Valley, CA",earthquake,0.2,0.55,0.069,7,reviewed,ci,ci
 2022-07-26T00:02:32.870Z,18.8405,-155.225333333333,8.51,2.77,ml,31,267,,0.13,hv,hv73087867,2022-07-26T01:08:30.840Z,"45 km SE of Naalehu, Hawaii",earthquake,0.72,0.42,0.073379175406505,18,reviewed,hv,hv
@@ -175,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-25T14:44:47.267Z,26.8165,126.4574,10,5.1,mb,42,76,1.622,0.53,us,us7000htbs,2022-07-25T15:09:46.040Z,"139 km WNW of Naha, Japan",earthquake,4.1,1.8,0.055,111,reviewed,us,us
 2022-07-25T14:44:36.120Z,37.577,-118.8676667,3.42,2.06,md,26,56,0.03328,0.03,nc,nc73762681,2022-07-25T17:19:17.876Z,"12km SE of Mammoth Lakes, CA",earthquake,0.21,0.45,0.17,24,reviewed,nc,nc
 2022-07-25T14:41:04.155Z,26.7189,126.4628,10,5.1,mww,54,64,1.622,0.65,us,us7000htbq,2022-07-25T15:40:26.040Z,"Ryukyu Islands, Japan",earthquake,6.9,1.8,0.071,19,reviewed,us,us
-2022-07-25T14:33:28.290Z,40.286,-121.5343333,5.23,1.21,md,6,100,0.1396,0.07,nc,nc73762676,2022-07-25T16:39:17.616Z,"8km SSE of Mineral, CA",earthquake,0.43,1.81,0.143,4,reviewed,nc,nc
