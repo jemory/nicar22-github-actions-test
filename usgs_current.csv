@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-28T10:18:24.388Z,35.69609451,-96.97400665,3.888771057,1.5,ml,20,73.15411377,0.1522976458,0.4019663787,ok,ok2022oqva,2022-07-28T10:20:34.641Z,"2 km ENE of Warwick, Oklahoma",earthquake,2.809700167,2.310204365,,15,automatic,ok,ok
+2022-07-28T10:00:15.840Z,38.8338318,-122.7955017,2.42,0.85,md,8,86,0.006092,0.02,nc,nc73763696,2022-07-28T10:17:16.734Z,"6km WNW of Cobb, CA",earthquake,0.49,1.61,,1,automatic,nc,nc
+2022-07-28T09:54:17.280Z,33.3843333,-116.9595,5.16,1.17,ml,42,32,0.06069,0.22,ci,ci40071007,2022-07-28T10:04:46.730Z,"9km WNW of Palomar Observatory, CA",earthquake,0.24,0.74,0.138,26,automatic,ci,ci
 2022-07-28T09:49:36.289Z,64.7095,-147.301,8.2,0.5,ml,,,,0.28,ak,ak0229lsz0jg,2022-07-28T09:51:58.595Z,"5 km SSE of North Pole, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-07-28T09:39:01.020Z,34.0981667,-116.3991667,6.66,0.85,ml,22,87,0.02979,0.17,ci,ci40070999,2022-07-28T09:42:38.485Z,"4km ESE of Yucca Valley, CA",earthquake,0.35,0.52,0.15,20,automatic,ci,ci
 2022-07-28T09:25:04.550Z,33.6856667,-116.7651667,13.17,0.17,ml,10,140,0.04954,0.14,ci,ci40070991,2022-07-28T09:28:31.969Z,"7km SW of Idyllwild, CA",earthquake,0.6,0.96,0.092,6,automatic,ci,ci
-2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T09:50:12.616Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
+2022-07-28T09:23:16.405Z,12.4114,-87.6919,57.99,5.2,mww,115,117,0.713,1.07,us,us6000i64e,2022-07-28T10:20:40.458Z,"45 km SW of Jiquilillo, Nicaragua",earthquake,5.7,5.1,0.048,41,reviewed,us,us
 2022-07-28T09:12:48.680Z,33.673,-116.7708333,11.03,0.68,ml,24,72,0.06067,0.14,ci,ci40070983,2022-07-28T09:16:21.131Z,"9km SSW of Idyllwild, CA",earthquake,0.29,0.47,0.144,19,automatic,ci,ci
 2022-07-28T09:12:16.185Z,14.8178,57.9268,10,4.5,mb,29,183,10.204,0.42,us,us6000i64d,2022-07-28T09:28:16.040Z,"Owen Fracture Zone region",earthquake,9.9,1.9,0.116,22,reviewed,us,us
 2022-07-28T08:55:36.821Z,31.6679,-104.3784,5,2.7,ml,26,117,0.104,0.25,us,us6000i649,2022-07-28T09:29:08.040Z,"56 km S of Whites City, New Mexico",earthquake,1.1,1.9,0.052,76,reviewed,us,us
@@ -27,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-28T07:04:56.080Z,35.8278923,-98.04877472,5,1.52,ml,8,124.5453339,0.1354276687,1.242855742,ok,ok2022oqor,2022-07-28T07:06:28.262Z,"11 km WSW of Kingfisher, Oklahoma",earthquake,5.891369469,,,6,automatic,ok,ok
 2022-07-28T07:00:27.280Z,33.1133333,-116.6336667,5.71,0.66,ml,17,87,0.04427,0.21,ci,ci40070935,2022-07-28T07:04:04.546Z,"5km NW of Julian, CA",earthquake,0.47,0.8,0.132,7,automatic,ci,ci
 2022-07-28T06:48:23.460Z,19.4650001525879,-155.599166870117,-2.25999999046326,1.96,ml,23,60,,0.379999995,hv,hv73090302,2022-07-28T06:53:54.340Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.319999993,3.95,9,automatic,hv,hv
-2022-07-28T06:39:57.720Z,38.5805,-122.469,1.58,1,md,23,75,0.0725,0.09,nc,nc73763656,2022-07-28T08:16:16.926Z,"2km WNW of Angwin, CA",earthquake,0.18,0.83,0.416,14,reviewed,nc,nc
+2022-07-28T06:39:57.720Z,38.5805,-122.469,1.58,1,md,23,75,0.0725,0.09,nc,nc73763656,2022-07-28T10:17:16.882Z,"2km WNW of Angwin, CA",earthquake,0.18,0.83,0.416,14,reviewed,nc,nc
 2022-07-28T06:36:46.534Z,64.8464,-149.0109,17.8,1.1,ml,,,,0.5,ak,ak0229lr3y7e,2022-07-28T06:38:54.571Z,"27 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-07-28T06:33:28.050Z,37.7251,-116.7289,0.1,1.1,ml,9,196.18,0.581,0.3096,nn,nn00843770,2022-07-28T06:38:08.740Z,"44 km E of Goldfield, Nevada",earthquake,,31.2,0.2,4,automatic,nn,nn
 2022-07-28T06:29:54.800Z,35.4871667,-118.2916667,2.25,1.02,ml,17,78,0.133,0.18,ci,ci40070927,2022-07-28T06:33:19.078Z,"21km ESE of Bodfish, CA",earthquake,0.29,0.62,0.137,11,automatic,ci,ci
@@ -194,8 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-27T10:39:15.216Z,63.1869,-150.4947,94.7,1.2,ml,,,,0.48,ak,ak0229k5ywsk,2022-07-27T10:41:48.615Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-07-27T10:22:11.789Z,57.5385,-155.8279,9.1,1.5,ml,,,,0.24,ak,ak0229k5v9ec,2022-07-27T10:32:54.023Z,"82 km W of Karluk, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-27T10:21:28.060Z,17.9175,-66.8433333333333,7.89,2.67,md,20,229,,0.18,pr,pr71361268,2022-07-27T10:44:56.780Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.6,0.26,0.061363715906831,8,reviewed,pr,pr
-2022-07-27T10:16:36.250Z,61.502,-146.7105,24.9,1.4,ml,,,,0.66,ak,ak0229k5u10p,2022-07-27T10:19:11.500Z,"45 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-27T10:14:31.130Z,17.9298333333333,-66.85,8.83,2.42,md,26,191,,0.15,pr,pr71361258,2022-07-27T11:41:15.040Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.29,0.41,0.136036251282964,17,reviewed,pr,pr
-2022-07-27T10:11:47.160Z,17.9195,-66.8415,9.02,2.2,md,5,297,,0.11,pr,pr71361243,2022-07-27T11:06:15.450Z,"8 km SE of Maria Antonia, Puerto Rico",earthquake,0.85,1.01,0.201420778464585,3,reviewed,pr,pr
-2022-07-27T10:10:13.210Z,33.6811667,-116.7655,11.62,0.16,ml,20,114,0.05222,0.13,ci,ci40070463,2022-07-27T17:25:23.106Z,"8km SSW of Idyllwild, CA",earthquake,0.3,0.49,0.175,5,reviewed,ci,ci
-2022-07-27T10:05:05.937Z,39.3517,-119.9752,5.7,-0.1,ml,5,143.32,0.076,0.0697,nn,nn00843750,2022-07-28T02:40:14.092Z,"6 km SE of Floriston, California",earthquake,,3.7,0.27,3,reviewed,nn,nn
