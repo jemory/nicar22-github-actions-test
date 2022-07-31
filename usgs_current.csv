@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-07-31T23:46:04.370Z,35.037,-117.6463333,0.29,1.74,ml,24,80,0.1103,0.34,ci,ci40073159,2022-07-31T23:49:46.241Z,"4km N of Boron, CA",quarry blast,0.8,31.61,0.163,31,automatic,ci,ci
+2022-07-31T23:42:24.219Z,61.1939,-150.4869,38.7,1,ml,,,,0.39,ak,ak0229qzvlkl,2022-07-31T23:47:10.248Z,"31 km W of Anchorage, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-07-31T23:31:20.370Z,33.3748333,-116.966,19.06,0.72,ml,12,100,0.2696,0.27,ci,ci40073151,2022-07-31T23:34:50.588Z,"10km WNW of Palomar Observatory, CA",earthquake,1.09,3.85,0.381,8,automatic,ci,ci
-2022-07-31T23:28:30.580Z,38.7953339,-122.7689972,4.5,1.93,md,38,73,0.008975,0.06,nc,nc73764866,2022-07-31T23:38:11.837Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.36,0.08,13,automatic,nc,nc
+2022-07-31T23:28:30.580Z,38.7953339,-122.7689972,4.5,1.93,md,38,73,0.008975,0.06,nc,nc73764866,2022-07-31T23:45:15.882Z,"2km NNW of The Geysers, CA",earthquake,0.24,0.36,0.08,13,automatic,nc,nc
 2022-07-31T23:04:08.700Z,18.9810009002686,-155.425827026367,33.2900009155273,2.56,ml,40,227,,0.140000001,hv,hv73093862,2022-07-31T23:16:54.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.73,1.13999999,0.4,8,automatic,hv,hv
 2022-07-31T22:58:33.900Z,35.48,-118.3023333,2.52,1.1,ml,12,110,0.1437,0.16,ci,ci40073143,2022-07-31T23:02:09.001Z,"21km SE of Bodfish, CA",earthquake,0.34,1.51,0.113,15,automatic,ci,ci
 2022-07-31T22:52:34.919Z,64.7192,-149.24,16.9,0.7,ml,,,,0.3,ak,ak0229qzcbxf,2022-07-31T22:54:26.343Z,"14 km NNW of Four Mile Road, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -151,7 +153,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T06:37:22.410Z,17.9623333333333,-66.8506666666667,15.26,2.55,md,11,189,,0.11,pr,pr71361788,2022-07-31T07:58:00.720Z,"4 km ESE of Maria Antonia, Puerto Rico",earthquake,0.46,0.34,0.106632759559329,7,reviewed,pr,pr
 2022-07-31T06:33:52.080Z,35.7248333,-117.5426667,8.06,0.55,ml,8,169,0.1011,0.17,ci,ci40072711,2022-07-31T13:34:36.209Z,"13km WSW of Searles Valley, CA",earthquake,0.7,1.9,0.116,7,reviewed,ci,ci
 2022-07-31T06:32:15.660Z,18.2383333333333,-67.777,58.47,3.31,md,15,181,,0.19,pr,pr71361783,2022-07-31T17:00:48.338Z,"56 km W of Stella, Puerto Rico",earthquake,1.3,1.11,0.0803512031855691,9,reviewed,pr,pr
-2022-07-31T06:31:45.870Z,40.7033333,-122.2726667,20.07,1.64,md,26,53,0.09001,0.13,nc,nc73764586,2022-07-31T20:54:14.769Z,"8km NNW of Bella Vista, CA",earthquake,0.35,0.49,0.081,23,reviewed,nc,nc
+2022-07-31T06:31:45.870Z,40.7033333,-122.2726667,20.07,1.64,md,26,53,0.09001,0.13,nc,nc73764586,2022-07-31T23:46:10.890Z,"8km NNW of Bella Vista, CA",earthquake,0.35,0.49,0.081,23,reviewed,nc,nc
 2022-07-31T06:30:11.500Z,34.3075,-118.4488333,7.42,1.06,ml,22,57,0.03254,0.28,ci,ci40072703,2022-07-31T06:33:45.070Z,"0km SW of Sylmar, CA",earthquake,0.53,0.9,0.242,28,automatic,ci,ci
 2022-07-31T06:27:25.613Z,62.4902,-149.3183,3.4,1.3,ml,,,,0.38,ak,ak0229qpo0mp,2022-07-31T06:29:17.041Z,"40 km E of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-07-31T06:23:59.550Z,38.8330002,-122.8148346,1.63,0.94,md,20,53,0.01029,0.02,nc,nc73764581,2022-07-31T08:24:17.596Z,"8km NW of The Geysers, CA",earthquake,0.22,0.49,0.29,2,automatic,nc,nc
@@ -224,4 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T00:02:18.354Z,65.4851,-148.31,11.2,0.9,ml,,,,0.33,ak,ak0229qly1jf,2022-07-31T00:04:53.989Z,"11 km ESE of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-07-31T00:00:42.108Z,47.9094,-27.5445,10,4.8,mb,68,59,14.449,0.86,us,us6000i6uy,2022-07-31T00:18:34.040Z,"northern Mid-Atlantic Ridge",earthquake,10.8,1.9,0.034,259,reviewed,us,us
 2022-07-30T23:56:07.215Z,56.2988,-156.5634,31.3,2.6,ml,,,,0.66,ak,ak0229pcf7rl,2022-07-30T23:59:45.732Z,"Alaska Peninsula",earthquake,,2.8,,,automatic,ak,ak
-2022-07-30T23:48:29.800Z,38.8486667,-122.4426667,7.22,1.18,md,19,88,0.03003,0.07,nc,nc73764496,2022-07-31T06:31:10.805Z,"11km ENE of Hidden Valley Lake, CA",earthquake,0.25,0.49,0.095,14,reviewed,nc,nc
