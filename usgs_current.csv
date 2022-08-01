@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-01T12:26:08.350Z,20.0109996795654,-155.767837524414,19.6100006103516,2.95000005,md,42,133,,0.140000001,hv,hv73094467,2022-08-01T12:31:39.420Z,"8 km NNE of Waikoloa, Hawaii",earthquake,0.52,0.829999983,0.769999981,16,automatic,hv,hv
+2022-08-01T12:38:19.635Z,62.4568,-148.2782,37.6,1.9,ml,,,,0.39,ak,ak0229sgub63,2022-08-01T12:40:09.134Z,"74 km N of Chickaloon, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-08-01T12:26:08.350Z,20.0109996795654,-155.767837524414,19.6100006103516,2.95000005,md,42,133,,0.140000001,hv,hv73094467,2022-08-01T12:45:10.767Z,"8 km NNE of Waikoloa, Hawaii",earthquake,0.52,0.829999983,0.769999981,16,automatic,hv,hv
 2022-08-01T12:24:31.120Z,33.0151667,-116.2135,8.94,0.37,ml,11,131,0.09672,0.25,ci,ci40073367,2022-08-01T12:28:06.294Z,"16km SSW of Ocotillo Wells, CA",earthquake,0.65,1.71,0.035,2,automatic,ci,ci
 2022-08-01T12:10:52.420Z,35.1635,-118.8273333,7.38,1.36,ml,9,118,0.3564,0.28,ci,ci40073359,2022-08-01T12:14:17.775Z,"5km S of Arvin, CA",earthquake,1.54,23.15,0.274,11,automatic,ci,ci
 2022-08-01T12:05:56.190Z,36.1048333,-117.9311667,2.54,0.81,ml,11,129,0.06309,0.13,ci,ci40073351,2022-08-01T12:09:26.775Z,"7km NNE of Coso Junction, CA",earthquake,0.41,1.21,0.165,8,automatic,ci,ci
@@ -7,6 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T11:44:22.810Z,35.4186667,-118.2693333,2.13,1.98,ml,36,51,0.1579,0.14,ci,ci40073343,2022-08-01T11:55:22.610Z,"28km SE of Bodfish, CA",earthquake,0.19,1.06,0.136,26,automatic,ci,ci
 2022-08-01T11:44:14.131Z,64.8736,-155.0828,10.2,2,ml,,,,0.75,ak,ak0229sga5fp,2022-08-01T11:48:27.717Z,"24 km NE of Ruby, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-01T11:40:28.602Z,59.6198,-152.5055,64.8,1.6,ml,,,,0.55,ak,ak0229sg9bos,2022-08-01T11:43:26.260Z,"41 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-08-01T11:34:10.150Z,44.8013333,-110.5325,6.83,1.41,ml,17,92,0.08493,0.13,uu,uu60507782,2022-08-01T13:16:24.480Z,"23 km SE of Mammoth, Wyoming",earthquake,0.38,1.08,0.185,3,reviewed,uu,uu
 2022-08-01T11:18:32.482Z,38.1749,-117.8834,10.5,0.6,ml,10,164.97,0.07,0.0847,nn,nn00843931,2022-08-01T11:22:26.967Z,"31 km SE of Mina, Nevada",earthquake,,0.9,0.38,5,automatic,nn,nn
 2022-08-01T11:17:28.272Z,62.3804,-149.3931,46,1.6,ml,,,,0.72,ak,ak0229sg4e6y,2022-08-01T11:20:02.401Z,"34 km NE of Susitna North, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-08-01T11:00:31.935Z,62.2069,-148.6036,31.7,1.9,ml,,,,0.27,ak,ak0229sg0rax,2022-08-01T11:02:03.637Z,"46 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -28,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T08:56:01.078Z,63.0544,-149.3854,83.1,0.8,ml,,,,0.12,ak,ak0229seke7f,2022-08-01T08:57:58.076Z,"43 km SSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-01T08:51:56.350Z,36.0036659,-120.5693359,3.29,0.95,md,15,95,0.02715,0.04,nc,nc73765011,2022-08-01T10:10:10.730Z,"17km NW of Parkfield, CA",earthquake,0.33,0.52,0.11,5,automatic,nc,nc
 2022-08-01T08:50:54.826Z,62.3591,-148.6468,26.1,2.1,ml,,,,0.64,ak,ak0229sej827,2022-08-01T08:52:49.274Z,"63 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-01T08:49:30.479Z,43.4373,-103.5555,5,2.2,mb_lg,18,72,0.767,0.27,us,us6000i74g,2022-08-01T09:12:48.040Z,"6 km W of Hot Springs, South Dakota",earthquake,3,2,0.17,9,reviewed,us,us
+2022-08-01T08:49:30.479Z,43.4373,-103.5555,5,2.2,mb_lg,18,72,0.767,0.27,us,us6000i74g,2022-08-01T12:37:44.165Z,"6 km W of Hot Springs, South Dakota",earthquake,3,2,0.17,9,reviewed,us,us
 2022-08-01T08:37:01.963Z,61.0939,-148.3237,10.9,1.6,ml,,,,0.82,ak,ak0229segbo4,2022-08-01T08:38:51.461Z,"40 km NNE of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-01T08:24:48.020Z,19.405834197998,-155.288162231445,0.620000004768372,1.79999995,md,10,76,,0.0399999991,hv,hv73094347,2022-08-01T08:27:39.630Z,"7 km SW of Volcano, Hawaii",earthquake,0.17,0.370000005,0.949999988,7,automatic,hv,hv
 2022-08-01T08:16:52.640Z,39.3925,-119.7048,8.3,0.9,ml,8,187.86,0.046,0.2195,nn,nn00843924,2022-08-01T08:20:46.580Z,"10 km NNW of Virginia City, Nevada",earthquake,,0.9,0.37,6,automatic,nn,nn
@@ -85,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-01T00:54:47.480Z,38.804,-122.7733333,0.51,0.19,md,13,102,0.01088,0.03,nc,nc73764901,2022-08-01T05:57:15.055Z,"3km NNW of The Geysers, CA",earthquake,0.27,0.59,0.28,2,reviewed,nc,nc
 2022-08-01T00:41:34.210Z,33.2098333,-116.2108333,6.1,0.99,ml,37,54,0.04002,0.23,ci,ci40073183,2022-08-01T00:45:08.265Z,"10km NW of Ocotillo Wells, CA",earthquake,0.36,0.82,0.151,23,automatic,ci,ci
 2022-08-01T00:39:54.690Z,39.205,-123.2296667,2.88,1.35,md,14,78,0.05551,0.08,nc,nc71128694,2022-08-01T07:07:10.470Z,"6km NNW of Ukiah, CA",earthquake,0.28,1.14,0.236,14,reviewed,nc,nc
-2022-08-01T00:36:41.094Z,53.5677,-165.3605,42.72,5.3,mww,176,123,0.611,0.86,us,us6000i72k,2022-08-01T06:46:54.079Z,"68 km SSE of Akutan, Alaska",earthquake,2.5,4.6,0.041,57,reviewed,us,us
+2022-08-01T00:36:41.094Z,53.5677,-165.3605,42.72,5.3,mww,176,123,0.611,0.86,us,us6000i72k,2022-08-01T12:46:48.003Z,"68 km SSE of Akutan, Alaska",earthquake,2.5,4.6,0.041,57,reviewed,us,us
 2022-08-01T00:29:06.990Z,34.0941667,-117.22,12.51,0.83,ml,17,79,0.1018,0.17,ci,ci40073175,2022-08-01T00:32:32.542Z,"4km SSW of Highland, CA",earthquake,0.35,1.18,0.292,21,automatic,ci,ci
 2022-08-01T00:04:44.616Z,45.4584,16.2047,9.98,3.7,mb,23,42,0.992,0.34,us,us6000i72j,2022-08-01T01:24:30.783Z,"7 km WNW of Petrinja, Croatia",earthquake,4.5,7.3,0.356,2,reviewed,us,us
 2022-08-01T00:04:00.698Z,62.9507,-151.284,23.3,1.2,ml,,,,0.79,ak,ak0229s9hs3p,2022-08-01T00:06:19.157Z,"57 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -191,12 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-31T13:44:10.820Z,19.4686660766602,-155.596496582031,-2.38000011444092,1.90999997,md,8,90,,0.270000011,hv,hv73093402,2022-07-31T13:47:04.450Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.319999993,1.07000005,7,automatic,hv,hv
 2022-07-31T13:42:13.392Z,25.1553,63.5408,10,5.5,mb,98,44,6.656,0.55,us,us6000i6yz,2022-07-31T15:46:13.281Z,"13 km SSE of Pasni, Pakistan",earthquake,8.8,1.8,0.033,312,reviewed,us,us
 2022-07-31T13:36:45.053Z,-6.705,129.9866,147.41,4.9,mb,39,76,1.818,0.46,us,us6000i6yx,2022-07-31T14:45:24.040Z,"Banda Sea",earthquake,7.8,7.4,0.104,33,reviewed,us,us
-2022-07-31T13:07:27.015Z,61.6313,-151.2777,60.5,1,ml,,,,0.49,ak,ak0229qtprqx,2022-07-31T13:09:30.254Z,"40 km S of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-07-31T12:56:51.600Z,63.1133,-151.5399,0,2.2,ml,,,,1.18,ak,ak0229qtew14,2022-07-31T12:59:04.148Z,"48 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-07-31T12:56:19.680Z,46.763,-121.98,7.41,0.33,ml,13,239,0.04912,0.08,uw,uw61867581,2022-07-31T18:04:10.580Z,"3 km E of Ashford, Washington",earthquake,0.51,0.69,0.23326106528177581,11,reviewed,uw,uw
-2022-07-31T12:51:40.730Z,38.8195,-122.7994995,3.23,0.46,md,11,110,0.00913,0.01,nc,nc73764686,2022-07-31T15:39:10.937Z,"6km NW of The Geysers, CA",earthquake,0.5,1.07,0.39,2,automatic,nc,nc
-2022-07-31T12:46:41.420Z,38.8269997,-122.7904968,1.86,0.75,md,15,43,0.01139,0.02,nc,nc73764681,2022-07-31T15:10:10.760Z,"6km W of Cobb, CA",earthquake,0.21,0.4,0.24,3,automatic,nc,nc
-2022-07-31T12:46:26.560Z,38.8258324,-122.7881699,1.7,1.12,md,25,43,0.01267,0.02,nc,nc73764676,2022-07-31T14:44:10.610Z,"6km W of Cobb, CA",earthquake,0.2,0.35,0.14,5,automatic,nc,nc
-2022-07-31T12:35:58.510Z,35.9988327,-120.5589981,1.19,1.05,md,8,92,0.021,0.05,nc,nc73764666,2022-07-31T13:52:15.300Z,"16km NW of Parkfield, CA",earthquake,0.31,0.64,0.03,3,automatic,nc,nc
-2022-07-31T12:34:56.339Z,66.1053,-148.8314,7.8,0.9,ml,,,,0.6,ak,ak0229qta6n5,2022-07-31T12:37:22.551Z,"16 km NE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-07-31T12:34:28.700Z,34.4756667,-119.3255,16.86,1.27,ml,9,160,0.1077,0.25,ci,ci40072823,2022-07-31T15:20:04.719Z,"8km WNW of Ojai, CA",earthquake,0.91,1.77,0.385,16,automatic,ci,ci
