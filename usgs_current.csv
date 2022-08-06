@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-06T14:48:31.560Z,37.6128349,-121.6926651,14.77,1.59,md,31,76,0.0519,0.16,nc,nc73764845,2022-08-06T14:59:10.483Z,"10km SE of Livermore, CA",earthquake,0.4,0.53,0.16,14,automatic,nc,nc
 2022-08-06T14:31:57.130Z,38.8208351,-122.8081665,2.04,0.84,md,10,94,0.002959,0.01,nc,nc73764840,2022-08-06T14:48:16.417Z,"7km NW of The Geysers, CA",earthquake,0.39,0.96,,1,automatic,nc,nc
 2022-08-06T14:18:28.270Z,35.8448333,-117.6623333,0.95,0.73,ml,5,231,0.06015,0.05,ci,ci40076519,2022-08-06T14:21:49.460Z,"24km ESE of Little Lake, CA",earthquake,0.67,0.41,0.077,6,automatic,ci,ci
-2022-08-06T14:07:44.080Z,33.7955,-118.1463333,12.55,1.88,ml,44,90,0.04398,0.25,ci,ci40076511,2022-08-06T14:39:39.668Z,"1km SE of Long Beach, CA",earthquake,0.43,0.72,0.156,28,automatic,ci,ci
+2022-08-06T14:07:44.080Z,33.7955,-118.1463333,12.55,1.88,ml,44,90,0.04398,0.25,ci,ci40076511,2022-08-06T14:55:36.247Z,"1km SE of Long Beach, CA",earthquake,0.43,0.72,0.156,28,automatic,ci,ci
 2022-08-06T14:02:37.410Z,19.2411670684814,-155.382339477539,32.1599998474121,1.95000005,md,41,147,,0.119999997,hv,hv73100812,2022-08-06T14:05:44.970Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.720000029,1.38,11,automatic,hv,hv
 2022-08-06T14:02:35.130Z,35.6758333,-117.4993333,2.4,1.1,ml,13,104,0.1608,0.16,ci,ci40076487,2022-08-06T14:06:04.346Z,"13km SW of Searles Valley, CA",earthquake,0.36,1.51,0.081,12,automatic,ci,ci
 2022-08-06T13:53:08.480Z,33.503,-116.7801667,7.27,0.69,ml,25,66,0.0718,0.13,ci,ci40076479,2022-08-06T13:56:43.988Z,"10km NE of Aguanga, CA",earthquake,0.23,0.65,0.117,21,automatic,ci,ci
@@ -220,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-05T15:17:39.421Z,64.902,-148.6221,15.5,2.8,ml,,,,0.68,ak,ak0229z4njfr,2022-08-05T18:57:46.040Z,"29 km WNW of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-05T15:12:44.340Z,36.242,-120.3228333,2.87,1.21,md,10,196,0.09915,0.05,nc,nc73764560,2022-08-06T02:02:11.136Z,"12km NNE of Coalinga, CA",earthquake,0.96,2.5,0.298,5,reviewed,nc,nc
 2022-08-05T15:07:06.370Z,39.4211667,-110.2846667,-3.42,1.72,ml,10,204,0.03146,0.16,uu,uu60508587,2022-08-05T16:05:46.120Z,"16 km SSE of Sunnyside, Utah",earthquake,1.13,2.62,0.081,5,reviewed,uu,uu
-2022-08-05T14:59:44.061Z,28.40789795,-98.31445312,11.81164551,1.9,ml,16,75,0.1010412659,0.2,tx,tx2022pfui,2022-08-05T21:36:47.717Z,"14 km WSW of Three Rivers, Texas",earthquake,1.705258621,1.414020764,0.2,7,reviewed,tx,tx
-2022-08-05T14:59:09.830Z,33.9923333,-117.2158333,9.64,0.84,ml,25,102,0.09451,0.21,ci,ci40075727,2022-08-05T22:25:15.291Z,"7km N of Moreno Valley, CA",earthquake,0.33,0.93,0.19,14,reviewed,ci,ci
-2022-08-05T14:57:10.380Z,34.2641667,-116.1508333,6.49,1.02,ml,21,56,0.09866,0.14,ci,ci40075719,2022-08-05T21:38:47.155Z,"16km NNW of Twentynine Palms, CA",earthquake,0.21,0.58,0.139,15,reviewed,ci,ci
-2022-08-05T14:50:40.941Z,61.6482,-150.0613,28.8,1,ml,,,,0.61,ak,ak0229z494yg,2022-08-05T16:33:56.622Z,"11 km S of Willow, Alaska",earthquake,,1.5,,,reviewed,ak,ak
