@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-07T09:35:04.110Z,38.8364983,-122.8246689,1.33,0.36,md,8,96,0.008703,0.03,nc,nc73765045,2022-08-07T09:36:40.048Z,"9km NW of The Geysers, CA",earthquake,0.45,1.29,,1,automatic,nc,nc
+2022-08-07T09:22:47.770Z,19.1733341217041,-155.480834960938,32.0699996948242,1.73000002,md,36,83,,0.150000006,hv,hv73101632,2022-08-07T09:25:56.870Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.860000014,1.73000002,4,automatic,hv,hv
 2022-08-07T09:13:49.379Z,63.4795,-151.1398,3.4,1.6,ml,,,,0.77,ak,ak022a2c4spl,2022-08-07T09:16:05.692Z,"29 km ESE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-07T08:49:39.223Z,35.4601,137.1021,277.018,4.2,mb,28,76,0.125,0.48,us,us6000i8uy,2022-08-07T09:09:08.040Z,"5 km NNW of Mitake, Japan",earthquake,7.55,4.838,0.132,17,reviewed,us,us
 2022-08-07T08:40:01.990Z,31.5569992,-115.7126694,7.91,3.49,mlr,17,91,0.176,0.25,ci,ci40076855,2022-08-07T09:20:46.040Z,"83km ESE of Maneadero, B.C., MX",earthquake,0.37,1.38,0.274,23,reviewed,ci,ci
@@ -218,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-06T09:58:04.010Z,35.6758333,-117.5366667,4.82,1.07,ml,16,93,0.1481,0.26,ci,ci40076375,2022-08-06T10:01:35.765Z,"14km ENE of Ridgecrest, CA",earthquake,0.69,1.7,0.142,10,automatic,ci,ci
 2022-08-06T09:48:59.330Z,18.8268,-64.446,8,3.74,md,20,323,0.6969,0.38,pr,pr2022218001,2022-08-06T20:09:54.614Z,"65 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,5.69,8.13,0.08,20,reviewed,pr,pr
 2022-08-06T09:42:35.681Z,32.4143,142.9171,10,4.8,mb,46,131,2.706,0.51,us,us6000i8m3,2022-08-06T10:11:45.040Z,"Izu Islands, Japan region",earthquake,9.12,1.928,0.087,44,reviewed,us,us
-2022-08-06T09:36:11.350Z,58.3968333333333,-154.671,6.08,-0.31,ml,5,212,,0.23,av,av91067803,2022-08-07T07:37:10.640Z,"93 km N of Karluk, Alaska",earthquake,1.08,1.41,0.217698350084469,5,reviewed,av,av
-2022-08-06T09:31:35.362Z,60.2374,-141.0076,17.2,1.7,ml,,,,0.6,ak,ak022a0opa0w,2022-08-06T09:33:28.789Z,"105 km NW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-08-06T09:26:42.518Z,38.1739,-118.1611,1.2,0.6,ml,8,180.96,0.259,0.1048,nn,nn00844302,2022-08-06T09:30:33.314Z,"24 km S of Mina, Nevada",earthquake,,0,0.24,4,automatic,nn,nn
