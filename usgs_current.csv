@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-08T23:39:27.550Z,34.048,-117.2378333,17.19,1.01,ml,18,76,0.1266,0.31,ci,ci40077807,2022-08-08T23:42:57.672Z,"2km E of Loma Linda, CA",earthquake,0.76,1.88,0.194,23,automatic,ci,ci
+2022-08-08T23:32:06.169Z,60.106,-152.5317,97.5,1.9,ml,,,,0.78,ak,ak022a4846yb,2022-08-08T23:35:19.064Z,"47 km WNW of Happy Valley, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-08-08T23:29:19.590Z,35.913,-117.6755,8.12,1.1,ml,10,100,0.06404,0.22,ci,ci40077791,2022-08-08T23:32:52.676Z,"21km E of Little Lake, CA",earthquake,0.63,1.59,0.158,13,automatic,ci,ci
+2022-08-08T23:26:08.654Z,42.4216,-126.2691,11.455,2.8,ml,42,252,1.693,0.69,us,us6000i982,2022-08-08T23:38:18.040Z,"149 km WSW of Port Orford, Oregon",earthquake,8.48,8.642,0.041,78,reviewed,us,us
+2022-08-08T23:25:59.767Z,38.58,-119.4585,8.4,1.4,ml,13,108.92,0.048,0.1486,nn,nn00844462,2022-08-08T23:29:11.941Z,"4 km ENE of Coleville, California",earthquake,,1.3,0.2,9,automatic,nn,nn
+2022-08-08T23:15:04.657Z,-6.5896,104.1854,35,4.8,mb,45,88,2.53,1.14,us,us6000i97s,2022-08-08T23:32:16.040Z,"175 km SW of Bandar Lampung, Indonesia",earthquake,6.38,1.658,0.103,29,reviewed,us,us
 2022-08-08T22:52:05.540Z,33.7053333,-116.7528333,15.11,0.81,ml,17,68,0.03275,0.11,ci,ci40077767,2022-08-08T22:55:38.786Z,"5km SW of Idyllwild, CA",earthquake,0.23,0.35,0.237,20,automatic,ci,ci
 2022-08-08T22:45:04.468Z,38.5787,-119.4475,10.8,1.3,ml,10,64.23,0.057,0.3824,nn,nn00844459,2022-08-08T22:48:11.280Z,"California-Nevada border region",earthquake,,0.5,0.25,8,automatic,nn,nn
 2022-08-08T22:39:15.620Z,38.5921669,-119.4593353,6.04,2.65,md,8,120,0.04784,0.03,nc,nc73765690,2022-08-08T22:53:25.845Z,"9km NNE of Walker, CA",earthquake,0.43,0.61,0.22,10,automatic,nc,nc
@@ -9,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T22:06:47.440Z,19.4113330841064,-155.337661743164,4.67000007629395,1.86000001,md,21,74,,0.150000006,hv,hv73103292,2022-08-08T22:10:03.780Z,"11 km WSW of Volcano, Hawaii",earthquake,0.32,1.32000005,1.19000006,10,automatic,hv,hv
 2022-08-08T22:03:01.829Z,38.5986,-119.4402,0,1.5,ml,9,123.35,0.064,0.3586,nn,nn00844442,2022-08-08T22:06:31.287Z,"6 km ENE of Coleville, California",earthquake,,0.7,0.29,6,automatic,nn,nn
 2022-08-08T21:49:34.861Z,38.5981,-119.4324,1.2,1.5,ml,14,77.14,0.069,0.1279,nn,nn00844438,2022-08-08T21:52:37.491Z,"7 km ENE of Coleville, California",earthquake,,1,0.2,9,automatic,nn,nn
-2022-08-08T21:47:47.038Z,38.5782,-119.4514,8.4,1.4,ml,10,98.48,0.054,0.0975,nn,nn00844436,2022-08-08T21:52:29.442Z,"5 km ENE of Coleville, California",earthquake,,0.8,0.32,6,automatic,nn,nn
+2022-08-08T21:47:47.528Z,38.582,-119.4455,8.1,1.5,ml,17,64.51,0.058,0.1245,nn,nn00844436,2022-08-08T23:32:58.563Z,"5 km ENE of Coleville, California",earthquake,,1.3,0.41,6,reviewed,nn,nn
 2022-08-08T21:36:04.472Z,42.607,-111.4719,5,2.6,ml,21,85,0.316,0.45,us,us6000i96z,2022-08-08T22:22:11.810Z,"12 km ESE of Soda Springs, Idaho",earthquake,2.04,1.855,0.041,78,reviewed,us,us
 2022-08-08T21:23:25.283Z,61.8591,-149.265,20,1.2,ml,,,,0.64,ak,ak022a46vfrk,2022-08-08T21:25:15.719Z,"12 km N of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-08T21:19:46.952Z,59.2952,-153.86,100,1.5,ml,,,,0.4,ak,ak022a46umkn,2022-08-08T21:31:14.401Z,"46 km SE of Pope-Vannoy Landing, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -24,9 +30,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-08T20:51:47.030Z,38.588665,-119.4368362,3.44,2.26,md,5,160,0.06512,0,nc,nc73765595,2022-08-08T22:11:49.986Z,"9km NNE of Walker, CA",earthquake,1.2,2.2,0.25,5,automatic,nc,nc
 2022-08-08T20:50:05.850Z,17.9325,-67.0676666666667,4.57,2.61,md,22,244,,0.12,pr,pr71364138,2022-08-08T21:03:55.770Z,"5 km SSW of La Parguera, Puerto Rico",earthquake,0.43,0.32,0.0934095451480099,8,reviewed,pr,pr
 2022-08-08T20:50:03.720Z,38.588665,-119.4546661,6.51,2.21,md,7,149,0.05117,0.01,nc,nc73765590,2022-08-08T22:02:26.345Z,"8km NNE of Walker, CA",earthquake,0.42,0.76,0.16,4,automatic,nc,nc
-2022-08-08T20:49:25.060Z,19.4173336029053,-155.616333007812,-3.5,2.15,ml,26,88,,0.370000005,hv,hv73103242,2022-08-08T20:54:55.480Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.63,0.370000005,3.6,11,automatic,hv,hv
+2022-08-08T20:49:25.420Z,19.4165,-155.6205,-1.44,2.1,ml,25,105,,0.19,hv,hv73103242,2022-08-08T23:29:50.040Z,"26 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.26,0.31,0.0856814766647567,12,reviewed,hv,hv
 2022-08-08T20:48:53.020Z,36.3576667,-89.5008333,8.73,2.09,md,31,36,0.009914,0.05,nm,nm60403822,2022-08-08T22:56:17.940Z,"3 km SW of Tiptonville, Tennessee",earthquake,0.21,0.46,0.167,27,reviewed,nm,nm
-2022-08-08T20:44:14.110Z,38.5816667,-119.446,5.4,4.41,mw,26,54,0.05805,0.11,nc,nc73765585,2022-08-08T23:23:00.768Z,"8km NNE of Walker, CA",earthquake,0.23,0.55,,4,reviewed,nc,nc
+2022-08-08T20:44:14.110Z,38.5816667,-119.446,5.4,4.41,mw,26,54,0.05805,0.11,nc,nc73765585,2022-08-08T23:31:11.485Z,"8km NNE of Walker, CA",earthquake,0.23,0.55,,4,reviewed,nc,nc
 2022-08-08T20:39:34.787Z,62.9001,-151.0519,30.5,1.3,ml,,,,1.07,ak,ak022a46dgcm,2022-08-08T20:41:37.180Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-08-08T20:25:20.150Z,34.9003333,-118.4853333,17.55,1.26,ml,18,58,0.1474,0.25,ci,ci40077679,2022-08-08T20:28:51.851Z,"18km NE of Neenach, CA",earthquake,0.51,0.94,0.286,30,automatic,ci,ci
 2022-08-08T20:21:18.310Z,37.5651667,-118.9255,9.16,1.76,md,26,60,0.04756,0.02,nc,nc73765560,2022-08-08T22:32:15.728Z,"9km SSE of Mammoth Lakes, CA",earthquake,0.24,0.56,0.091,25,reviewed,nc,nc
@@ -242,4 +248,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-07T23:52:21.780Z,19.3619995117188,-155.269165039062,28.9799995422363,2.59,ml,49,70,,0.129999995,hv,hv73102262,2022-08-08T00:03:43.040Z,"9 km SSW of Volcano, Hawaii",earthquake,0.42,0.529999971,3.29,31,automatic,hv,hv
 2022-08-07T23:48:31.970Z,19.525,-155.6575,2.86,2.47,ml,39,72,,0.16,hv,hv73102257,2022-08-08T20:27:34.990Z,"23 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.55,0.193191288139558,15,reviewed,hv,hv
 2022-08-07T23:47:19.760Z,36.2138333,-117.8801667,8.64,1.05,ml,12,111,0.09821,0.1,ci,ci40077215,2022-08-08T13:36:48.274Z,"14km SE of Olancha, CA",earthquake,0.32,0.96,0.133,8,reviewed,ci,ci
-2022-08-07T23:33:51.120Z,36.5883331,-121.1798325,4.78,1.48,md,10,124,0.01719,0.09,nc,nc73765260,2022-08-08T00:07:15.418Z,"7km NNW of Pinnacles, CA",earthquake,0.67,0.86,0.27,8,automatic,nc,nc
