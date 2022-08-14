@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-14T07:19:00.418Z,62.9297,-150.6576,83.9,1.6,ml,,,,0.78,ak,ak022advqjh5,2022-08-14T07:21:57.027Z,"48 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-14T07:15:05.214Z,61.968,-150.4783,9.9,1.8,ml,,,,0.74,ak,ak022advpozd,2022-08-14T07:17:37.221Z,"33 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-14T06:55:55.831Z,61.254,-147.7483,29.7,1.7,ml,,,,0.43,ak,ak022advcxxb,2022-08-14T06:57:37.027Z,"61 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-14T06:39:48.750Z,33.2736667,-115.9815,1.09,1.28,ml,29,73,0.09996,0.21,ci,ci40325200,2022-08-14T06:43:21.964Z,"4km SW of Salton City, CA",earthquake,0.35,31.61,0.206,28,automatic,ci,ci
@@ -51,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-14T01:31:50.900Z,19.1879997253418,-155.48583984375,33.0200004577637,2.46,ml,42,76,,0.119999997,hv,hv73108352,2022-08-14T01:41:29.040Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.5,0.769999981,4.62,9,automatic,hv,hv
 2022-08-14T00:56:29.450Z,33.1808333,-115.4848333,5.87,1.48,ml,16,149,0.09971,0.27,ci,ci40325080,2022-08-14T01:00:06.038Z,"7km NNE of Calipatria, CA",earthquake,0.84,1.36,0.15,26,automatic,ci,ci
 2022-08-14T00:53:03.130Z,17.8483333333333,-66.9108333333333,13.65,2.63,md,15,226,,0.16,pr,pr71365723,2022-08-14T01:11:30.080Z,"13 km S of Guánica, Puerto Rico",earthquake,0.54,0.38,0.164347507323228,14,reviewed,pr,pr
-2022-08-14T00:52:35.870Z,38.5881667,-119.46,3.75,2.43,md,15,90,0.04697,0.09,nc,nc73767830,2022-08-14T05:46:16.780Z,"8km NNE of Walker, CA",earthquake,0.31,0.5,0.159,32,reviewed,nc,nc
+2022-08-14T00:52:35.870Z,38.5881667,-119.46,3.75,2.43,md,15,90,0.04697,0.09,nc,nc73767830,2022-08-14T07:27:13.406Z,"8km NNE of Walker, CA",earthquake,0.31,0.5,0.159,32,reviewed,nc,nc
 2022-08-14T00:28:53.750Z,37.7371667,-122.5461667,12.18,1.17,md,25,98,0.08093,0.04,nc,nc73767820,2022-08-14T07:09:14.441Z,"4km W of San Francisco Zoo, CA",earthquake,0.38,0.74,0.081,16,reviewed,nc,nc
 2022-08-14T00:27:35.420Z,46.199666666666666,-122.18183333333333,3.1,0.2,ml,14,144,0.002602,0.11,uw,uw61863182,2022-08-14T03:58:38.560Z,"38 km NNE of Amboy, Washington",earthquake,0.35,0.47,0.12056450548607373,8,reviewed,uw,uw
 2022-08-14T00:27:08.760Z,17.9791666666667,-66.8363333333333,15.72,2.15,md,9,192,,0.17,pr,pr71365718,2022-08-14T00:41:09.290Z,"2 km SW of Indios, Puerto Rico",earthquake,0.65,0.89,0.119009982608135,7,reviewed,pr,pr
@@ -206,4 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-13T07:43:11.759Z,63.6895,-149.912,134.1,1.4,ml,,,,0.36,ak,ak022ac8cddz,2022-08-13T14:05:50.393Z,"49 km W of Denali Park, Alaska",earthquake,,1,,,reviewed,ak,ak
 2022-08-13T07:38:06.086Z,38.5838,-119.4354,5.2,0.9,ml,13,90.27,0.066,0.0859,nn,nn00844887,2022-08-13T07:40:48.077Z,"6 km ENE of Coleville, California",earthquake,,1.2,0.23,9,automatic,nn,nn
 2022-08-13T07:34:38.400Z,35.803833,-120.3544998,9.1,1.27,md,20,115,0.02819,0.06,nc,nc73767585,2022-08-13T09:44:15.550Z,"10km NNW of Cholame, CA",earthquake,0.72,0.56,0.04,6,automatic,nc,nc
-2022-08-13T07:25:36.240Z,41.132,-123.882,28.27,3.17,ml,60,56,0.1097,0.14,nc,nc73767575,2022-08-13T19:25:32.935Z,"16km WSW of Weitchpec, CA",earthquake,0.25,0.54,0.271,24,reviewed,nc,nc
