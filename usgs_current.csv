@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-17T09:04:21.640Z,35.5061667,-118.3865,8.73,1.17,ml,16,100,0.1718,0.08,ci,ci40326864,2022-08-17T09:07:56.152Z,"13km SE of Bodfish, CA",earthquake,0.18,0.97,0.152,14,automatic,ci,ci
+2022-08-17T08:56:40.557Z,65.5267,-144.741,0.2,2.2,ml,,,,0.85,ak,ak022aiv615j,2022-08-17T08:59:06.268Z,"5 km SSE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-17T08:33:02.623Z,61.7818,-147.8435,29.8,1.8,ml,,,,0.86,ak,ak022aiv10ra,2022-08-17T08:35:19.755Z,"10 km WSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-08-17T08:17:47.480Z,36.1605,-118.0256667,1.38,1.21,ml,16,59,0.1447,0.16,ci,ci40326856,2022-08-17T08:21:22.914Z,"14km S of Olancha, CA",earthquake,0.31,0.75,0.305,14,automatic,ci,ci
 2022-08-17T07:31:06.210Z,35.4811667,-118.2986667,3.26,1.06,ml,16,80,0.1405,0.1,ci,ci40326840,2022-08-17T07:41:46.820Z,"21km SE of Bodfish, CA",earthquake,0.21,0.72,0.117,12,automatic,ci,ci
@@ -53,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T01:50:00.933Z,31.9936596,-103.8116877,8.008251953,2.4,ml,22,73,0.1026560947,0.3,tx,tx2022qasi,2022-08-17T07:08:15.532Z,"35 km SE of Malaga, New Mexico",earthquake,1.003864982,1.545645198,0.2,25,reviewed,tx,tx
 2022-08-17T01:21:06.736Z,63.9821,-148.603,0,1.5,ml,,,,0.52,ak,ak022aiqsf8x,2022-08-17T01:24:40.077Z,"22 km NE of Healy, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-08-17T00:59:44.274Z,63.615,-147.509,0,1.2,ml,,,,0.93,ak,ak022aiqf7qz,2022-08-17T01:02:26.037Z,"70 km ESE of Denali Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-08-17T00:53:01.260Z,33.925499,-116.7815018,14.49,3.34,ml,106,17,0.01192,0.21,ci,ci40326728,2022-08-17T02:37:35.054Z,"1km NNE of Cabazon, CA",earthquake,0.21,0.42,0.351,15,automatic,ci,ci
+2022-08-17T00:53:01.260Z,33.925499,-116.7815018,14.49,3.34,ml,106,17,0.01192,0.21,ci,ci40326728,2022-08-17T09:03:41.658Z,"1km NNE of Cabazon, CA",earthquake,0.21,0.42,0.351,15,automatic,ci,ci
 2022-08-17T00:52:24.670Z,33.9335,-116.7743333,14.83,1.37,ml,48,32,0.1015,0.19,ci,ci40326720,2022-08-17T01:02:38.122Z,"2km NNE of Cabazon, CA",earthquake,0.23,0.58,0.123,26,automatic,ci,ci
 2022-08-17T00:47:37.054Z,62.4633,-152.0093,78.9,1.4,ml,,,,0.5,ak,ak022aiqcmll,2022-08-17T00:50:13.605Z,"61 km NNW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-17T00:44:47.230Z,-4.1786,127.5033,250.089,4.4,mb,33,59,4.899,0.56,us,us6000ibgy,2022-08-17T01:06:52.040Z,"92 km SW of Ambon, Indonesia",earthquake,9.65,8.592,0.096,31,reviewed,us,us
@@ -223,8 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T09:28:29.500Z,33.6596667,-116.7148333,15.55,0.41,ml,17,96,0.05137,0.12,ci,ci40326296,2022-08-16T13:26:57.981Z,"9km S of Idyllwild, CA",earthquake,0.31,0.37,0.125,11,reviewed,ci,ci
 2022-08-16T09:15:40.260Z,48.781,-121.87233333333333,-0.71,1.4000000000000001,ml,6,148,0.0195,0.2,uw,uw61863737,2022-08-17T04:52:36.060Z,"13 km SSE of Glacier, Washington",earthquake,1.15,2.32,0.11236229163804312,6,reviewed,uw,uw
 2022-08-16T09:14:22.484Z,59.8737,-152.5658,76.6,1.3,ml,,,,0.17,ak,ak022ah7z2so,2022-08-16T09:15:54.968Z,"42 km WNW of Anchor Point, Alaska",earthquake,,1.8,,,automatic,ak,ak
-2022-08-16T09:08:53.566Z,38.5782,-119.4441,6.8,0.8,ml,12,98.22,0.06,0.1152,nn,nn00845176,2022-08-17T02:40:19.213Z,"5 km ENE of Coleville, California",earthquake,,1.9,0.46,5,reviewed,nn,nn
-2022-08-16T08:59:08.590Z,38.824501,-122.8071671,2.69,0.94,md,21,35,0.002525,0.01,nc,nc73768670,2022-08-16T10:48:11.077Z,"7km NW of The Geysers, CA",earthquake,0.22,0.48,0.24,3,automatic,nc,nc
-2022-08-16T08:55:34.410Z,19.1805000305176,-155.486831665039,31.6399993896484,2.13000011,md,39,85,,0.109999999,hv,hv73110942,2022-08-16T08:58:41.320Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.47,0.899999976,0.330000013,13,automatic,hv,hv
-2022-08-16T08:54:28.843Z,37.4146,-116.6528,10,0.4,ml,8,302.28,0.396,0.1525,nn,nn00845155,2022-08-17T02:40:05.650Z,"56 km N of Beatty, Nevada",earthquake,,29.4,1.15,5,reviewed,nn,nn
-2022-08-16T08:52:46.510Z,36.0621667,-120.0946667,6.41,1.43,md,28,207,0.1681,0.08,nc,nc73768665,2022-08-16T21:15:10.866Z,"7km NNE of Avenal, CA",earthquake,0.5,0.77,0.125,12,reviewed,nc,nc
