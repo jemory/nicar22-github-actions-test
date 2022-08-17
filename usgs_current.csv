@@ -30,7 +30,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T16:43:52.280Z,38.5865,-119.4493333,5.41,2.39,md,14,97,0.05528,0.1,nc,nc73769100,2022-08-17T19:02:11.915Z,"8km NNE of Walker, CA",earthquake,0.28,0.58,0.197,18,reviewed,nc,nc
 2022-08-17T16:29:23.226Z,56.9889,-154.5518,4.1,1.9,ml,,,,0.68,ak,ak022aizrp2e,2022-08-17T17:32:44.791Z,"Kodiak Island region, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-08-17T16:11:28.566Z,-0.3016,129.7289,10,4.9,mb,58,79,2.592,0.57,us,us6000ibmm,2022-08-17T16:26:58.040Z,"182 km WNW of Sorong, Indonesia",earthquake,7.8,1.866,0.1,31,reviewed,us,us
-2022-08-17T16:07:47.120Z,39.427,-123.1008333,-0.62,1.6,md,20,83,0.05737,0.1,nc,nc73769095,2022-08-17T18:43:11.792Z,"12km W of Lake Pillsbury, CA",earthquake,0.21,0.8,0.185,21,reviewed,nc,nc
+2022-08-17T16:07:47.120Z,39.427,-123.1008333,-0.62,1.6,md,20,83,0.05737,0.1,nc,nc73769095,2022-08-17T19:42:11.177Z,"12km W of Lake Pillsbury, CA",earthquake,0.21,0.8,0.185,21,reviewed,nc,nc
 2022-08-17T15:55:04.066Z,43.2015,-126.9499,10,2.8,ml,31,291,2.15,0.63,us,us6000ibmk,2022-08-17T16:07:12.040Z,"205 km W of Langlois, Oregon",earthquake,7.93,2.023,0.048,56,reviewed,us,us
 2022-08-17T15:54:03.500Z,34.4408333,-116.484,1.96,0.92,ml,20,60,0.1298,0.12,ci,ci40327120,2022-08-17T17:55:08.389Z,"37km N of Yucca Valley, CA",earthquake,0.19,0.36,0.155,6,reviewed,ci,ci
 2022-08-17T15:51:18.200Z,39.4298333,-110.2978333,-2.29,1.67,ml,12,198,0.02188,0.16,uu,uu60510237,2022-08-17T16:02:15.280Z,"15 km SSE of Sunnyside, Utah",earthquake,1.07,2.38,0.052,5,reviewed,uu,uu
@@ -104,6 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T08:15:46.970Z,38.481,-112.8448333,-1.51,0.32,md,12,190,0.01212,0.18,uu,uu60030804,2022-08-17T13:44:52.410Z,"17 km ENE of Milford, Utah",earthquake,0.47,0.25,0.123,3,reviewed,uu,uu
 2022-08-17T08:14:54.550Z,38.4823333,-112.8466667,-0.23,0.67,ml,16,99,0.01017,0.16,uu,uu60510212,2022-08-17T13:30:21.340Z,"17 km ENE of Milford, Utah",earthquake,0.44,0.17,0.244,2,reviewed,uu,uu
 2022-08-17T08:13:53.700Z,38.4823333,-112.8443333,-0.32,0.61,md,14,192,0.01144,0.21,uu,uu60510207,2022-08-17T14:33:23.870Z,"17 km ENE of Milford, Utah",earthquake,0.53,0.2,0.365,3,reviewed,uu,uu
+2022-08-17T07:51:16.323Z,36.8759,-116.1209,7.4,-0.4,ml,8,104.48,0.109,0.1092,nn,nn00845248,2022-08-17T19:43:15.710Z,"52 km NW of Indian Springs, Nevada",earthquake,,3.2,1.13,4,reviewed,nn,nn
 2022-08-17T07:31:06.230Z,35.482,-118.2993333,5.31,1.06,ml,25,56,0.1407,0.12,ci,ci40326840,2022-08-17T17:15:44.400Z,"21km SE of Bodfish, CA",earthquake,0.17,1.07,0.115,12,reviewed,ci,ci
 2022-08-17T07:21:14.130Z,39.4263333,-110.2875,-2.89,1.58,md,8,202,0.02921,0.14,uu,uu60510197,2022-08-17T15:49:21.560Z,"16 km SSE of Sunnyside, Utah",earthquake,1.61,3.1,0.154,7,reviewed,uu,uu
 2022-08-17T07:17:01.690Z,38.7723333,-122.7388333,0.79,0.21,md,22,72,0.01101,0.05,nc,nc73768990,2022-08-17T19:26:12.071Z,"2km ESE of The Geysers, CA",earthquake,0.18,0.27,0.277,6,reviewed,nc,nc
@@ -115,6 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T06:57:18.580Z,39.4286667,-110.3021667,-1.5,1.07,ml,7,197,0.01834,0.14,uu,uu60510192,2022-08-17T15:45:40.310Z,"15 km SSE of Sunnyside, Utah",earthquake,1.83,1.24,0.081,2,reviewed,uu,uu
 2022-08-17T06:55:10.694Z,44.6889,-67.6409,5,3,mb_lg,13,172,0.132,0.24,us,us6000ibip,2022-08-17T18:55:43.492Z,"3 km ESE of Centerville, Maine",earthquake,2.27,1.955,0.12,18,reviewed,us,us
 2022-08-17T06:40:26.610Z,31.72692799,-104.5876655,6.979931641,2.1,ml,17,86,0.06761897151,0.5,tx,tx2022qbbx,2022-08-17T07:22:22.163Z,"53 km SSW of Whites City, New Mexico",earthquake,1.943245816,1.423510958,0.2,13,reviewed,tx,tx
+2022-08-17T06:29:39.373Z,36.9184,-115.945,3.3,-0.1,ml,5,227.66,0.037,0.1346,nn,nn00845246,2022-08-17T19:33:58.259Z,"45 km NNW of Indian Springs, Nevada",earthquake,,4.8,0.36,4,reviewed,nn,nn
 2022-08-17T06:25:23.400Z,38.7946663,-122.8016663,-0.72,0.84,md,8,115,0.006425,0.06,nc,nc73768980,2022-08-17T06:52:14.535Z,"4km WNW of The Geysers, CA",earthquake,0.3,1.05,,1,automatic,nc,nc
 2022-08-17T06:24:37.270Z,38.7965012,-122.8021698,1.19,1.18,md,27,47,0.008193,0.03,nc,nc73768975,2022-08-17T09:19:11.406Z,"4km WNW of The Geysers, CA",earthquake,0.19,0.3,0.04,6,automatic,nc,nc
 2022-08-17T06:22:07.040Z,33.2561667,-116.107,3.87,0.49,ml,26,73,0.1043,0.16,ci,ci40326832,2022-08-17T17:09:37.962Z,"13km N of Ocotillo Wells, CA",earthquake,0.23,1.16,0.004,2,reviewed,ci,ci
