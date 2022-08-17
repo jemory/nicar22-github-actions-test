@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-17T10:26:31.730Z,33.9733315,-116.8044968,17.73,0.97,ml,24,74,0.06172,0.13,ci,ci40326872,2022-08-17T10:28:39.147Z,"6km NNW of Cabazon, CA",earthquake,0.49,1.06,0.16,4,automatic,ci,ci
+2022-08-17T10:37:54.390Z,38.8166656,-122.8071671,2.36,0.35,md,9,96,0.007093,0.01,nc,nc73769020,2022-08-17T10:39:30.571Z,"6km NW of The Geysers, CA",earthquake,0.46,1.3,,1,automatic,nc,nc
+2022-08-17T10:36:34.160Z,19.3115005493164,-155.214660644531,5.44999980926514,1.70000005,md,39,139,,0.170000002,hv,hv73112152,2022-08-17T10:39:52.990Z,"14 km S of Volcano, Hawaii",earthquake,0.61,0.879999995,1.22000003,15,automatic,hv,hv
+2022-08-17T10:30:59.140Z,38.7905006,-122.7265015,1.66,0.76,md,8,95,0.01079,0.02,nc,nc73769015,2022-08-17T10:40:10.870Z,"3km ENE of The Geysers, CA",earthquake,0.49,2.44,0.15,2,automatic,nc,nc
+2022-08-17T10:26:31.690Z,33.9695,-116.805,18.64,0.65,ml,23,64,0.06552,0.19,ci,ci40326872,2022-08-17T10:30:05.332Z,"6km NNW of Cabazon, CA",earthquake,0.43,1.01,0.18,16,automatic,ci,ci
 2022-08-17T09:52:48.396Z,38.5195,-119.5473,5.6,0.7,ml,9,235.47,0.07,0.1325,nn,nn00845214,2022-08-17T09:57:14.447Z,"6 km W of Walker, California",earthquake,,0.8,0.18,3,automatic,nn,nn
 2022-08-17T09:48:56.010Z,38.8395004,-122.8083344,2.04,0.94,md,15,66,0.01409,0.01,nc,nc73769010,2022-08-17T10:07:11.665Z,"8km WNW of Cobb, CA",earthquake,0.29,0.57,0.07,3,automatic,nc,nc
 2022-08-17T09:40:48.210Z,38.8139992,-122.8153305,0.22,0.73,md,16,51,0.01024,0.04,nc,nc73769005,2022-08-17T09:57:11.616Z,"6km NW of The Geysers, CA",earthquake,0.2,0.54,0.16,3,automatic,nc,nc
@@ -212,7 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-16T10:58:43.210Z,38.8344994,-122.802002,1.82,1.03,md,17,75,0.009906,0.02,nc,nc73768705,2022-08-16T11:24:19.181Z,"7km WNW of Cobb, CA",earthquake,0.23,0.56,0.12,3,automatic,nc,nc
 2022-08-16T10:47:48.557Z,61.8227,-151.5522,85.6,1.7,ml,,,,0.6,ak,ak022ah8rn49,2022-08-16T10:51:00.290Z,"20 km SSW of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-16T10:46:49.970Z,46.484,-122.5085,20.92,1.27,ml,45,45,0.0832,0.13,uw,uw61863747,2022-08-16T18:13:17.530Z,"5 km SSW of Mossyrock, Washington",earthquake,0.21,0.45,0.22712446534468334,31,reviewed,uw,uw
-2022-08-16T10:42:27.000Z,46.4855,-122.51066666666667,20.65,1.42,ml,24,64,0.08116,0.13,uw,uw61863742,2022-08-16T19:52:10.270Z,"5 km SSW of Mossyrock, Washington",earthquake,0.38,0.67,0.29423208774605814,15,reviewed,uw,uw
-2022-08-16T10:39:54.202Z,44.3396,149.5425,10,5.1,mww,130,92,4.999,0.83,us,us6000ib9s,2022-08-16T13:23:42.040Z,"164 km SE of Kuril’sk, Russia",earthquake,8.24,1.712,0.083,14,reviewed,us,us
-2022-08-16T10:38:09.855Z,61.5555,-146.3915,30.9,1.1,ml,,,,0.52,ak,ak022ah8phus,2022-08-16T14:37:58.409Z,"47 km N of Valdez, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2022-08-16T10:36:53.550Z,38.786499,-122.7494965,0.73,0.86,md,18,80,0.0105,0.04,nc,nc73768690,2022-08-16T12:32:10.619Z,"1km NNE of The Geysers, CA",earthquake,0.24,0.47,0.1,4,automatic,nc,nc
