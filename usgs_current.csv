@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-18T19:34:46.440Z,36.206501,-120.3733368,9.52,1.32,md,8,178,0.1104,0.03,nc,nc73769485,2022-08-18T19:36:23.527Z,"7km N of Coalinga, CA",earthquake,0.63,1.05,0.01,3,automatic,nc,nc
+2022-08-18T19:45:30.898Z,60.1672,-152.8933,121.4,1.1,ml,,,,0.32,ak,ak022akp6roh,2022-08-18T19:47:18.639Z,"69 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-08-18T19:34:46.440Z,36.206501,-120.3733368,9.52,1.32,md,8,178,0.1104,0.03,nc,nc73769485,2022-08-18T19:51:12.818Z,"7km N of Coalinga, CA",earthquake,0.63,1.05,0.01,3,automatic,nc,nc
 2022-08-18T19:06:00.037Z,59.8628,-153.0748,108.6,1.9,ml,,,,0.29,ak,ak022akoycdf,2022-08-18T19:08:10.022Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-08-18T18:58:06.040Z,38.7866669,-122.7683334,1.97,1.59,md,29,81,0.01548,0.03,nc,nc73769475,2022-08-18T19:15:16.595Z,"2km NW of The Geysers, CA",earthquake,0.23,0.36,0.06,7,automatic,nc,nc
 2022-08-18T18:45:49.788Z,62.921,-149.5804,75.8,1.1,ml,,,,0.57,ak,ak022akoldj6,2022-08-18T18:47:50.223Z,"58 km NNE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -79,6 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-18T10:31:09.970Z,36.4108333,-120.9931667,8.82,1.18,md,23,94,0.06855,0.11,nc,nc73769315,2022-08-18T18:06:17.223Z,"19km SE of Pinnacles, CA",earthquake,0.28,0.58,0.175,15,reviewed,nc,nc
 2022-08-18T10:30:39.660Z,19.412166595459,-155.331497192383,4.15000009536743,2.31,ml,45,46,,0.150000006,hv,hv73113372,2022-08-18T10:36:11.020Z,"10 km WSW of Volcano, Hawaii",earthquake,0.27,0.680000007,3.19,22,automatic,hv,hv
 2022-08-18T10:20:00.645Z,54.5455,-159.701,21.4,1.9,ml,,,,0.49,ak,ak022akjoh9k,2022-08-18T18:09:23.118Z,"101 km SSE of Sand Point, Alaska",earthquake,,2,,,reviewed,ak,ak
+2022-08-18T10:13:25.380Z,46.870666666666665,-121.89066666666666,11.77,0.18,ml,12,86,0.04307,0.14,uw,uw61873221,2022-08-18T19:51:56.810Z,"16 km NE of Ashford, Washington",earthquake,0.46,0.72,0.02701338392745839,6,reviewed,uw,uw
 2022-08-18T10:04:28.670Z,38.784832,-122.7334976,1.62,0.46,md,8,110,0.002983,0.01,nc,nc73769310,2022-08-18T10:22:13.339Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.64,0.08,2,automatic,nc,nc
 2022-08-18T10:03:18.240Z,33.6503333,-116.759,14.54,0.54,ml,31,65,0.05666,0.13,ci,ci40327608,2022-08-18T14:40:20.076Z,"11km SSW of Idyllwild, CA",earthquake,0.15,0.28,0.234,12,reviewed,ci,ci
 2022-08-18T09:55:25.730Z,32.7901667,-115.4453333,13.71,1.83,ml,24,107,0.01516,0.27,ci,ci40327600,2022-08-18T17:05:58.171Z,"6km WSW of Holtville, CA",earthquake,0.47,0.63,0.207,42,reviewed,ci,ci
@@ -218,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-17T20:01:14.940Z,19.4566666666667,-155.601166666667,-1.18,1.75,md,10,86,,0.15,hv,hv73112652,2022-08-17T22:07:49.110Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.37,0.33,0.0891980299196525,6,reviewed,hv,hv
 2022-08-17T20:00:10.259Z,62.3602,-149.185,0,1.7,ml,,,,0.98,ak,ak022aj1z5z5,2022-08-17T20:02:39.818Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-17T19:57:10.395Z,62.3688,-149.189,0,1.4,ml,,,,0.87,ak,ak022aj1py5z,2022-08-17T19:59:54.536Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-17T19:51:48.550Z,62.3493,-149.152,0,3.1,ml,,,,0.55,ak,ak022aj1oqut,2022-08-17T21:02:22.923Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-17T19:47:48.990Z,37.5528333,-118.8291667,5.96,0.43,md,10,148,0.03713,0.03,nc,nc73769160,2022-08-17T23:05:13.367Z,"13km W of Toms Place, CA",earthquake,0.45,0.86,0.211,9,reviewed,nc,nc
-2022-08-17T19:43:03.500Z,19.2486667633057,-155.380828857422,30.4099998474121,2.12,ml,35,143,,0.129999995,hv,hv73112632,2022-08-17T19:48:33.330Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.64,0.730000019,3.66,6,automatic,hv,hv
