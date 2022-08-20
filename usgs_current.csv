@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-20T15:25:22.820Z,38.8136673,-122.8216629,2.87,0.35,md,9,81,0.007579,0.02,nc,nc73770080,2022-08-20T15:27:02.062Z,"7km NW of The Geysers, CA",earthquake,0.46,1.24,,1,automatic,nc,nc
+2022-08-20T15:04:32.520Z,38.8419991,-122.8233337,1.8,0.87,md,14,102,0.01008,0.02,nc,nc73770075,2022-08-20T15:19:10.313Z,"9km WNW of Cobb, CA",earthquake,0.27,0.71,0.01,2,automatic,nc,nc
+2022-08-20T15:03:52.200Z,38.8393326,-122.8193359,2.19,2.69,md,44,48,0.01264,0.05,nc,nc73770065,2022-08-20T15:20:13.454Z,"9km WNW of Cobb, CA",earthquake,0.17,0.25,0.1,24,automatic,nc,nc
 2022-08-20T14:59:00.088Z,58.5095,-152.8961,62.3,1.8,ml,,,,0.23,ak,ak022anxd8ag,2022-08-20T15:01:25.083Z,"50 km N of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-20T14:33:45.698Z,58.3061,-154.8646,1.1,0.7,ml,,,,0.2,ak,ak022anx7r6v,2022-08-20T14:36:17.242Z,"85 km NNW of Karluk, Alaska",earthquake,,4.2,,,automatic,ak,ak
 2022-08-20T14:27:44.320Z,35.6643333,-117.521,0.23,0.72,ml,8,186,0.1634,0.24,ci,ci40328864,2022-08-20T14:31:12.800Z,"15km ENE of Ridgecrest, CA",earthquake,0.98,31.61,0.286,6,automatic,ci,ci
@@ -125,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T21:24:21.680Z,38.7936668,-122.7456665,1.76,0.75,md,13,93,0.01254,0.03,nc,nc73769790,2022-08-19T21:42:12.131Z,"2km NNE of The Geysers, CA",earthquake,0.31,0.64,0.43,3,automatic,nc,nc
 2022-08-19T21:18:52.480Z,48.66133333333333,-123.03683333333333,17.42,2.33,ml,39,107,0.07716,0.23,uw,uw61864522,2022-08-20T02:37:33.660Z,"9 km NW of Orcas, Washington",earthquake,0.34,0.53,0.16013066374240648,37,reviewed,uw,uw
 2022-08-19T21:16:06.419Z,35.0423,25.2452,12.522,3.4,mb,24,185,0.381,0.44,us,us6000ic8t,2022-08-20T07:45:29.346Z,"9 km ENE of Pýrgos, Greece",earthquake,6.65,8.97,0.345,2,reviewed,us,us
-2022-08-19T21:11:42.986Z,44.3394,-115.2143,10,2.5,ml,12,83,0.935,0.89,us,us6000ic8r,2022-08-20T07:57:35.077Z,"25 km WNW of Stanley, Idaho",earthquake,2.4,1.994,0.052,48,reviewed,us,us
+2022-08-19T21:11:42.986Z,44.3394,-115.2143,10,2.5,ml,12,83,0.935,0.89,us,us6000ic8r,2022-08-20T15:25:19.440Z,"25 km WNW of Stanley, Idaho",earthquake,2.4,1.994,0.052,48,reviewed,us,us
 2022-08-19T20:59:23.670Z,19.195499420166,-155.466995239258,35.9300003051758,1.89,ml,41,153,,0.129999995,hv,hv73114817,2022-08-19T21:04:52.920Z,"1 km SE of Pāhala, Hawaii",earthquake,0.54,0.839999974,5.12,3,automatic,hv,hv
 2022-08-19T20:58:27.340Z,33.5638333,-116.7963333,5.07,0.66,ml,24,57,0.04014,0.12,ci,ci40328544,2022-08-19T22:11:52.573Z,"11km W of Anza, CA",earthquake,0.18,0.39,0.153,17,reviewed,ci,ci
 2022-08-19T20:51:32.764Z,39.5816,-119.086,4.9,1,ml,8,130.94,0.264,0.1601,nn,nn00845515,2022-08-20T02:39:55.087Z,"14 km ESE of Fernley, Nevada",earthquake,,6.8,0.08,7,reviewed,nn,nn
@@ -192,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-19T15:48:31.938Z,57.6811,-156.2184,1.1,2,ml,,,,0.8,ak,ak022amad0zd,2022-08-20T07:17:35.460Z,"72 km ENE of Ugashik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-08-19T15:36:17.940Z,60.4588,-151.2025,48.7,1.3,ml,,,,1.05,ak,ak022amaaebc,2022-08-19T18:06:55.700Z,"6 km NE of Kalifornsky, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2022-08-19T15:28:08.181Z,37.093,-116.5099,7.7,0.7,ml,24,85.05,0.106,0.1692,nn,nn00845451,2022-08-19T18:12:14.297Z,"30 km NE of Beatty, Nevada",earthquake,,1.4,1.05,15,reviewed,nn,nn
-2022-08-19T15:18:29.090Z,34.1548333,-117.4508333,9.44,0.74,ml,20,108,0.08037,0.11,ci,ci40328376,2022-08-19T17:54:03.963Z,"6km N of Fontana, CA",earthquake,0.25,0.46,0.126,9,reviewed,ci,ci
-2022-08-19T15:02:06.680Z,18.025,-66.8553333333333,16.14,2.48,md,11,107,,0.16,pr,pr71366998,2022-08-19T15:38:50.210Z,"1 km SSW of Yauco, Puerto Rico",earthquake,0.51,1.03,0.125807852843833,6,reviewed,pr,pr
