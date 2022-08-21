@@ -1,13 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-21T17:03:16.910Z,33.5071667,-116.7775,7.57,0.28,ml,13,112,0.06709,0.13,ci,ci40329336,2022-08-21T17:06:42.552Z,"11km NE of Aguanga, CA",earthquake,0.38,0.82,0.083,7,automatic,ci,ci
+2022-08-21T16:46:45.300Z,35.9678345,-120.5199966,10.37,1.85,md,29,61,0.02252,0.06,nc,nc73770440,2022-08-21T17:04:13.328Z,"11km NW of Parkfield, CA",earthquake,0.22,0.33,0.11,18,automatic,nc,nc
 2022-08-21T16:40:43.093Z,60.1379,-139.4671,4.6,1.9,ml,,,,0.65,ak,ak022aplzgph,2022-08-21T16:43:49.699Z,"67 km NNE of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-21T16:31:29.620Z,33.6033333,-116.8081667,6.17,0.45,ml,18,100,0.03802,0.14,ci,ci40329320,2022-08-21T16:34:56.363Z,"14km WNW of Anza, CA",earthquake,0.3,0.58,0.143,11,automatic,ci,ci
 2022-08-21T16:28:02.400Z,33.8016667,-117.647,6.53,1.93,ml,75,34,0.03223,0.19,ci,ci40329312,2022-08-21T16:38:51.250Z,"10km SW of Corona, CA",earthquake,0.2,0.54,0.23,27,automatic,ci,ci
+2022-08-21T16:11:58.691Z,22.0192,120.2425,13.387,4.4,mb,38,105,1.11,0.42,us,us6000icjt,2022-08-21T16:52:16.040Z,"51 km W of Hengchun, Taiwan",earthquake,6.91,2.945,0.126,20,reviewed,us,us
 2022-08-21T16:04:13.626Z,31.7231,-104.1801,5,2.6,ml,26,111,0.246,0.33,us,us6000icjr,2022-08-21T16:39:25.040Z,"53 km SSE of Whites City, New Mexico",earthquake,0.92,1.938,0.043,72,reviewed,us,us
 2022-08-21T15:46:23.972Z,62.4102,-148.2221,44.9,1.1,ml,,,,0.79,ak,ak022aplf9x8,2022-08-21T15:49:23.957Z,"69 km N of Chickaloon, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-21T15:42:03.760Z,33.0648333,-116.4375,6.99,0.9,ml,24,64,0.1353,0.26,ci,ci40329296,2022-08-21T15:45:36.758Z,"15km E of Julian, CA",earthquake,0.39,1.29,0.185,16,automatic,ci,ci
 2022-08-21T15:37:32.990Z,35.6565,-117.5643333,6.74,0.92,ml,12,137,0.1557,0.19,ci,ci40329288,2022-08-21T15:41:06.035Z,"11km ENE of Ridgecrest, CA",earthquake,0.69,1.68,0.084,8,automatic,ci,ci
 2022-08-21T15:32:37.042Z,44.2741,-114.8821,10,2.5,ml,17,64,0.788,1.17,us,us6000icjn,2022-08-21T16:30:21.040Z,"7 km NE of Stanley, Idaho",earthquake,2.28,2.004,0.042,76,reviewed,us,us
-2022-08-21T15:29:42.300Z,38.8328323,-122.81633,1.88,0.36,md,8,107,0.01062,0.02,nc,nc73770435,2022-08-21T15:53:15.932Z,"8km NW of The Geysers, CA",earthquake,0.37,1.22,,1,automatic,nc,nc
+2022-08-21T15:29:42.300Z,38.8328323,-122.81633,1.88,0.36,md,8,107,0.01062,0.02,nc,nc73770435,2022-08-21T17:00:13.301Z,"8km NW of The Geysers, CA",earthquake,0.37,1.22,,1,automatic,nc,nc
 2022-08-21T15:28:14.148Z,60.6077,-28.6866,10,5.1,mww,93,36,5.36,0.64,us,us6000icjp,2022-08-21T16:21:26.040Z,"Reykjanes Ridge",earthquake,8.13,1.841,0.098,10,reviewed,us,us
 2022-08-21T15:27:12.930Z,19.3519992828369,-155.434997558594,7.38000011444092,2.11999989,md,41,74,,0.159999996,hv,hv73116667,2022-08-21T15:32:45.040Z,"17 km NNE of Pāhala, Hawaii",earthquake,0.38,0.699999988,0.870000005,28,automatic,hv,hv
 2022-08-21T15:27:04.237Z,60.5401,-28.6858,10,4.7,mb,171,57,5.415,0.43,us,us6000icjm,2022-08-21T16:17:50.040Z,"Reykjanes Ridge",earthquake,8.14,1.807,0.033,272,reviewed,us,us
@@ -21,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-21T14:39:27.880Z,35.6845,-117.5366667,9.92,1.16,ml,15,94,0.14,0.1,ci,ci40329280,2022-08-21T14:42:55.687Z,"14km ENE of Ridgecrest, CA",earthquake,0.29,0.77,0.144,13,automatic,ci,ci
 2022-08-21T14:35:58.010Z,36.1743333,-91.1971667,13.1,2,md,27,86,0.1098,0.28,nm,nm60405507,2022-08-21T16:04:55.502Z,"Missouri-Arkansas border region",earthquake,0.44,0.95,0.089,16,reviewed,nm,nm
 2022-08-21T14:27:46.210Z,36.0205002,-120.5808334,3.74,1.51,md,19,80,0.03752,0.06,nc,nc73770420,2022-08-21T15:43:13.881Z,"19km NW of Parkfield, CA",earthquake,0.29,0.5,0.04,11,automatic,nc,nc
-2022-08-21T14:12:44.960Z,36.1686667,-91.1988333,15.97,3.14,md,46,60,0.1049,0.19,nm,nm60405492,2022-08-21T16:44:07.124Z,"4 km SSW of Imboden, Arkansas",earthquake,0.32,0.45,0.207,43,reviewed,nm,nm
+2022-08-21T14:12:44.960Z,36.1686667,-91.1988333,15.97,3.14,md,46,60,0.1049,0.19,nm,nm60405492,2022-08-21T17:04:34.943Z,"4 km SSW of Imboden, Arkansas",earthquake,0.32,0.45,0.207,43,reviewed,nm,nm
 2022-08-21T13:56:54.137Z,61.6352,-149.6701,33.9,1.1,ml,,,,0.32,ak,ak022apkam79,2022-08-21T13:58:40.509Z,"3 km WNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-21T13:56:13.350Z,38.7886658,-122.7611694,0.8,1.01,md,19,77,0.012,0.04,nc,nc73770415,2022-08-21T15:18:10.733Z,"1km NNW of The Geysers, CA",earthquake,0.22,0.43,0.17,5,automatic,nc,nc
 2022-08-21T13:46:36.260Z,34.036,-117.5546667,5.36,1.38,ml,44,33,0.03185,0.17,ci,ci40329248,2022-08-21T13:57:56.450Z,"6km NW of Mira Loma, CA",earthquake,0.2,0.4,0.206,28,automatic,ci,ci
@@ -196,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-20T17:15:44.730Z,49.348166666666664,-120.50166666666667,-0.37,2.07,ml,13,177,0.5738,0.25,uw,uw61864717,2022-08-21T00:05:11.380Z,"12 km S of Princeton, Canada",explosion,1.24,31.61,0.20114865559217332,9,reviewed,uw,uw
 2022-08-20T17:12:36.382Z,-11.3287,166.4184,147.695,4.4,mb,92,109,4.164,0.66,us,us6000icdt,2022-08-20T17:37:59.040Z,"95 km SE of Lata, Solomon Islands",earthquake,9.03,6.917,0.061,88,reviewed,us,us
 2022-08-20T17:10:46.390Z,38.8409996,-122.8243332,1.63,0.37,md,7,108,0.009037,0.01,nc,nc73770115,2022-08-20T17:27:14.060Z,"9km WNW of Cobb, CA",earthquake,0.62,1.26,,1,automatic,nc,nc
-2022-08-20T16:51:59.735Z,65.9651,-148.7927,0,1.9,ml,,,,1.29,ak,ak022anyiidh,2022-08-20T16:54:31.576Z,"14 km ESE of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-08-20T16:49:04.370Z,38.8313332,-122.8106689,1.57,0.85,md,13,66,0.00794,0.01,nc,nc73770110,2022-08-20T18:39:11.461Z,"8km NW of The Geysers, CA",earthquake,0.28,0.66,,1,automatic,nc,nc
