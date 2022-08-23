@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-23T09:55:00.850Z,19.1809997558594,-155.384170532227,33.9099998474121,2.3,ml,48,176,,0.129999995,hv,hv73118577,2022-08-23T10:00:29.840Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.7,0.850000024,3.57,15,automatic,hv,hv
+2022-08-23T09:49:25.928Z,62.3565,-149.1289,1.1,1.5,ml,,,,0.56,ak,ak022assy0kw,2022-08-23T09:52:15.201Z,"43 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-23T09:39:42.909Z,62.3429,-149.1455,0,2.1,ml,,,,0.55,ak,ak022assvwq0,2022-08-23T09:41:43.044Z,"41 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-23T09:33:53.165Z,62.3576,-149.1842,0,1.4,ml,,,,0.67,ak,ak022assun84,2022-08-23T09:35:45.521Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-08-23T09:26:45.451Z,59.8399,-138.0825,10,3.8,mb,50,109,1.031,0.44,us,us6000icz8,2022-08-23T09:48:20.040Z,"98 km ENE of Yakutat, Alaska",earthquake,2.55,1.945,0.108,22,reviewed,us,us
@@ -17,7 +19,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-23T06:50:27.970Z,19.195499420166,-155.508163452148,35.4099998474121,1.76999998,md,40,84,,0.119999997,hv,hv73118427,2022-08-23T06:53:47.940Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.49,0.970000029,0.879999995,3,automatic,hv,hv
 2022-08-23T06:49:07.170Z,38.8330002,-122.8061676,2.37,0.75,md,21,49,0.01006,0.02,nc,nc73770960,2022-08-23T07:38:11.260Z,"7km W of Cobb, CA",earthquake,0.21,0.54,0.23,3,automatic,nc,nc
 2022-08-23T06:48:52.210Z,38.8333321,-122.8068314,2.42,0.97,md,13,58,0.01024,0.01,nc,nc73770955,2022-08-23T07:27:14.198Z,"7km W of Cobb, CA",earthquake,0.32,0.96,0.27,2,automatic,nc,nc
-2022-08-23T06:48:26.340Z,38.833168,-122.8063354,2.3,1.14,md,24,49,0.01019,0.02,nc,nc73770950,2022-08-23T09:43:10.980Z,"7km W of Cobb, CA",earthquake,0.21,0.47,0.03,4,automatic,nc,nc
+2022-08-23T06:48:26.340Z,38.833168,-122.8063354,2.3,1.14,md,24,49,0.01019,0.02,nc,nc73770950,2022-08-23T09:56:10.056Z,"7km W of Cobb, CA",earthquake,0.21,0.47,0.03,4,automatic,nc,nc
 2022-08-23T06:36:23.258Z,39.741,22.2817,12.62,4.6,mb,67,38,0.396,0.47,us,us6000icyp,2022-08-23T09:18:31.267Z,"0 km WNW of Týrnavos, Greece",earthquake,3.66,3.359,0.072,57,reviewed,us,us
 2022-08-23T06:29:57.934Z,31.59304759,-104.0093387,7.879711914,2.4,ml,24,49,0.06963360438,0.3,tx,tx2022qmap,2022-08-23T06:53:15.165Z,"37 km NNW of Toyah, Texas",earthquake,0.8322849689000001,1.492821588,0.2,17,reviewed,tx,tx
 2022-08-23T06:24:55.250Z,38.8323326,-122.8078308,2.3,1.88,md,34,45,0.009095,0.02,nc,nc73770940,2022-08-23T09:06:09.766Z,"7km W of Cobb, CA",earthquake,0.17,0.31,0.05,10,automatic,nc,nc
@@ -101,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T22:02:47.520Z,38.8035011,-122.7826691,0.65,0.84,md,9,104,0.009866,0.03,nc,nc73770810,2022-08-22T22:27:15.034Z,"4km NW of The Geysers, CA",earthquake,0.35,0.82,,1,automatic,nc,nc
 2022-08-22T22:02:39.449Z,61.4145,-146.564,28.8,1.5,ml,,,,0.7,ak,ak022arcv9c8,2022-08-22T22:05:12.143Z,"33 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-22T22:00:54.286Z,62.8094,-150.6281,75,1.9,ml,,,,0.46,ak,ak022arcuv1x,2022-08-22T22:03:44.508Z,"35 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2022-08-22T21:52:43.910Z,6.8433,-73.0274,150.925,4.3,mb,43,40,0.946,0.59,us,us6000icw1,2022-08-23T01:05:12.040Z,"northern Colombia",earthquake,7.01,8.313,0.052,104,reviewed,us,us
+2022-08-22T21:52:43.910Z,6.8433,-73.0274,150.925,4.3,mb,43,40,0.946,0.59,us,us6000icw1,2022-08-23T01:05:12.040Z,"11 km NNW of Cepitá, Colombia",earthquake,7.01,8.313,0.052,104,reviewed,us,us
 2022-08-22T21:42:27.050Z,19.2560005187988,-155.39582824707,32.4000015258789,1.83000004,md,32,132,,0.109999999,hv,hv73117987,2022-08-22T21:45:36.760Z,"10 km NE of Pāhala, Hawaii",earthquake,0.78,0.850000024,1.13999999,8,automatic,hv,hv
 2022-08-22T21:32:41.720Z,39.4336667,-110.3161667,-1.25,1.34,ml,10,178,0.0118,0.11,uu,uu60510797,2022-08-22T22:00:25.890Z,"14 km SSE of Sunnyside, Utah",earthquake,0.94,0.33,0.057,3,reviewed,uu,uu
 2022-08-22T21:26:50.290Z,37.7980003,-122.1904984,9.5,1.98,md,33,55,0.02006,0.07,nc,nc73770800,2022-08-22T22:04:12.783Z,"3km E of Oakland, CA",earthquake,0.19,0.62,0.22,24,automatic,nc,nc
@@ -222,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-22T10:33:30.760Z,33.3216667,-116.3401667,11.27,0.81,ml,35,60,0.02314,0.22,ci,ci40329632,2022-08-22T18:31:45.661Z,"8km NNE of Borrego Springs, CA",earthquake,0.28,0.4,0.135,14,reviewed,ci,ci
 2022-08-22T10:09:09.120Z,38.5873,-119.4417,7.4,0.8,ml,17,90.64,0.061,0.1315,nn,nn00845626,2022-08-23T02:39:59.993Z,"6 km ENE of Coleville, California",earthquake,,1.8,0.52,6,reviewed,nn,nn
 2022-08-22T10:02:57.160Z,51.7121666666667,-178.735833333333,17.97,0.5,ml,7,124,,0.13,av,av91666526,2022-08-22T21:33:49.190Z,"146 km W of Adak, Alaska",earthquake,0.73,1.21,0.221718727955935,7,reviewed,av,av
-2022-08-22T09:55:16.890Z,36.8656667,-121.417,5.54,1.19,md,30,65,0.01819,0.16,nc,nc73770650,2022-08-23T08:00:12.510Z,"3km NW of Hollister, CA",earthquake,0.29,0.68,0.308,24,reviewed,nc,nc
