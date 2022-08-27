@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-08-27T13:36:31.860Z,44.7898331,-110.8079987,8.76,2.62,ml,27,35,0.0303,0.29,uu,uu60511907,2022-08-27T13:39:32.870Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.48,0.93,0.37,3,automatic,uu,uu
 2022-08-27T12:57:05.500Z,35.6726667,-117.4101667,7.43,0.76,ml,5,211,0.152,0.21,ci,ci40332592,2022-08-27T13:00:25.666Z,"10km S of Searles Valley, CA",earthquake,1.81,11.01,0.128,5,automatic,ci,ci
 2022-08-27T12:51:58.270Z,33.7085,-117.4455,6,0.99,ml,22,49,0.05747,0.28,ci,ci40332584,2022-08-27T12:55:36.084Z,"12km WNW of Lake Elsinore, CA",earthquake,0.39,0.89,0.132,26,automatic,ci,ci
 2022-08-27T12:40:11.640Z,38.8334999,-122.8170013,1.93,1.67,md,29,57,0.01145,0.02,nc,nc73772410,2022-08-27T13:12:12.017Z,"8km NW of The Geysers, CA",earthquake,0.17,0.33,0.07,6,automatic,nc,nc
@@ -33,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-27T09:20:24.480Z,51.8574,159.2484,35,4.6,mb,51,119,1.224,0.89,us,us7000i2w4,2022-08-27T09:48:42.040Z,"132 km SSE of Vilyuchinsk, Russia",earthquake,9.36,1.922,0.066,75,reviewed,us,us
 2022-08-27T09:16:05.995Z,60.0228,-152.4263,93.2,1.3,ml,,,,0.31,ak,ak022azewadz,2022-08-27T09:18:12.594Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2022-08-27T09:14:29.960Z,18.1991666666667,-66.8281666666667,13.91,1.96,md,14,80,,0.22,pr,pr71368253,2022-08-27T10:32:05.710Z,"11 km SSE of Lares, Puerto Rico",earthquake,0.48,1.13,0.0930042008694942,5,reviewed,pr,pr
-2022-08-27T09:09:04.940Z,36.3409996,-89.4491653,0.03,1.28,md,12,77,0.1487,0.55,nm,nm60406182,2022-08-27T11:46:07.860Z,"4 km SSE of Tiptonville, Tennessee",earthquake,1.32,26.29,0.13,3,reviewed,nm,nm
+2022-08-27T09:09:04.750Z,36.3453333,-89.426,3.77,1.98,md,35,61,0.04457,0.12,nm,nm60406182,2022-08-27T13:38:04.270Z,"5 km SE of Tiptonville, Tennessee",earthquake,0.19,0.25,0.112,31,reviewed,nm,nm
 2022-08-27T09:00:52.710Z,38.8341675,-122.8106689,1.87,0.85,md,12,80,0.01077,0.01,nc,nc73772350,2022-08-27T09:18:11.583Z,"8km W of Cobb, CA",earthquake,0.39,0.83,,1,automatic,nc,nc
 2022-08-27T08:55:05.744Z,62.3495,-149.1787,0,1.9,ml,,,,0.48,ak,ak022azej7ou,2022-08-27T08:57:10.914Z,"40 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-08-27T08:46:07.140Z,34.4581667,-117.8083333,5.87,1.16,ml,25,79,0.03062,0.23,ci,ci40332472,2022-08-27T08:49:38.642Z,"4km SSW of Llano, CA",earthquake,0.32,0.76,0.198,28,automatic,ci,ci
@@ -219,6 +220,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-26T13:53:40.780Z,38.8233333,-122.7911667,1.67,0.53,md,14,74,0.01297,0.03,nc,nc73772080,2022-08-26T17:36:11.225Z,"6km W of Cobb, CA",earthquake,0.38,0.33,0.025,3,reviewed,nc,nc
 2022-08-26T13:42:25.860Z,33.409,-116.6238333,5.03,2.29,ml,77,25,0.07744,0.21,ci,ci40332104,2022-08-26T14:38:05.840Z,"14km N of Warner Springs, CA",earthquake,0.19,0.81,0.176,26,reviewed,ci,ci
 2022-08-26T13:42:22.620Z,33.6521667,-116.71,14.11,0.4,ml,13,97,0.0345,0.07,ci,ci40332096,2022-08-26T17:34:10.755Z,"10km S of Idyllwild, CA",earthquake,0.38,0.65,0.238,3,reviewed,ci,ci
-2022-08-26T13:40:38.932Z,31.57034874,-103.9944423,7.288427734,2.460252572,mlv,19,53,0.06204625101,0.1,tx,tx2022qsbh,2022-08-27T05:04:59.040Z,"34 km NW of Toyah, Texas",earthquake,1.437161599,2.43118674,0.09548314971,13,reviewed,tx,tx
-2022-08-26T13:33:39.180Z,19.150333404541,-155.504333496094,31.9599990844727,2,md,31,141,,0.119999997,hv,hv73122217,2022-08-26T13:37:53.310Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.6,0.879999995,1.38,6,automatic,hv,hv
-2022-08-26T13:17:16.581Z,61.2548,-151.38,76,0.9,ml,,,,0.25,ak,ak022axtqwui,2022-08-26T13:19:30.045Z,"20 km NW of Beluga, Alaska",earthquake,,1.9,,,automatic,ak,ak
