@@ -1,7 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-08-28T22:48:03.730Z,35.644165,-118.3191681,5.51,3.46,ml,82,30,0.05739,0.23,ci,ci40333424,2022-08-28T22:51:16.208Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.67,0.348,18,automatic,ci,ci
-2022-08-28T22:44:23.160Z,38.8223343,-122.7836685,1.67,1.56,md,30,43,0.009357,0.03,nc,nc73772865,2022-08-28T22:47:32.253Z,"5km W of Cobb, CA",earthquake,0.18,0.3,0.08,9,automatic,nc,nc
-2022-08-28T22:34:33.870Z,-1.0284,98.6333,11.87,5.8,mww,55,142,2.547,0.82,us,us7000i37c,2022-08-28T22:46:16.040Z,"171 km WSW of Pariaman, Indonesia",earthquake,7.8,5.669,0.093,11,reviewed,us,us
+2022-08-28T23:00:47.660Z,19.1881675720215,-155.488159179688,33.2299995422363,2.23,ml,45,78,,0.129999995,hv,hv73124547,2022-08-28T23:06:18.610Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.52,0.810000002,4.38,10,automatic,hv,hv
+2022-08-28T22:56:12.550Z,35.6573333,-118.3163333,7.16,1.26,ml,18,79,0.04751,0.18,ci,ci40333440,2022-08-28T23:02:40.507Z,"14km ESE of Wofford Heights, CA",earthquake,0.44,0.72,0.112,13,automatic,ci,ci
+2022-08-28T22:52:33.610Z,38.7745018,-122.7385025,-0.69,0.87,md,6,159,0.008832,0.28,nc,nc73772880,2022-08-28T23:07:19.267Z,"2km ESE of The Geysers, CA",earthquake,4.42,18.39,,2,automatic,nc,nc
+2022-08-28T22:51:54.330Z,35.6496667,-118.3195,8.15,1.13,ml,16,98,0.05245,0.13,ci,ci40333432,2022-08-28T22:55:27.499Z,"14km ESE of Wofford Heights, CA",earthquake,0.41,0.6,0.112,13,automatic,ci,ci
+2022-08-28T22:50:09.440Z,36.4596672,-121.0368347,6.89,1.79,md,12,80,0.0176,0.06,nc,nc73772875,2022-08-28T23:02:11.701Z,"12km SE of Pinnacles, CA",earthquake,0.34,0.67,0.14,9,automatic,nc,nc
+2022-08-28T22:48:03.730Z,35.644165,-118.3191681,5.51,3.46,ml,82,30,0.05739,0.23,ci,ci40333424,2022-08-28T23:07:24.280Z,"14km ESE of Wofford Heights, CA",earthquake,0.18,0.67,0.348,18,reviewed,ci,ci
+2022-08-28T22:44:23.160Z,38.8223343,-122.7836685,1.67,1.56,md,30,43,0.009357,0.03,nc,nc73772865,2022-08-28T23:01:12.574Z,"5km W of Cobb, CA",earthquake,0.18,0.3,0.08,9,automatic,nc,nc
+2022-08-28T22:34:33.870Z,-1.0284,98.6333,11.87,5.8,mww,55,142,2.547,0.82,us,us7000i37c,2022-08-28T22:54:36.672Z,"171 km WSW of Pariaman, Indonesia",earthquake,7.8,5.669,0.093,11,reviewed,us,us
+2022-08-28T22:26:05.201Z,-15.7312,-72.994,77.159,4.6,mb,16,138,3.836,0.49,us,us7000i37b,2022-08-28T23:01:19.040Z,"13 km WNW of Yanaquihua, Peru",earthquake,9.59,29.335,0.223,6,reviewed,us,us
 2022-08-28T22:23:57.210Z,38.7891655,-122.7614975,1.86,0.98,md,14,64,0.01153,0.02,nc,nc73772860,2022-08-28T22:42:13.567Z,"1km NNW of The Geysers, CA",earthquake,0.28,0.56,0.18,4,automatic,nc,nc
 2022-08-28T22:18:16.367Z,56.6765,-156.496,65.7,2.4,ml,,,,0.22,ak,ak022b1a6pz8,2022-08-28T22:19:52.331Z,"108 km SSE of Ugashik, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-08-28T22:16:09.670Z,38.8095016,-122.8006668,16.2,0.93,md,8,121,0.004462,0.05,nc,nc73772855,2022-08-28T22:32:13.384Z,"5km NW of The Geysers, CA",earthquake,2.28,8.5,,1,automatic,nc,nc
@@ -10,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-28T21:38:09.750Z,33.5936667,-116.641,5.47,0.4,ml,13,78,0.03782,0.29,ci,ci40333408,2022-08-28T21:41:46.616Z,"5km NE of Anza, CA",earthquake,0.96,2.11,0.339,5,automatic,ci,ci
 2022-08-28T21:31:56.210Z,31.70759241,-104.1014379,7.468383789,3,ml,26,53,0.06246043851,0.2,tx,tx2022qwhw,2022-08-28T21:46:49.385Z,"47 km W of Mentone, Texas",earthquake,0.6579318589,0.793849411,0.1,14,reviewed,tx,tx
 2022-08-28T21:27:33.643Z,63.1249,-151.4675,9,1.5,ml,,,,0.41,ak,ak022b19n95g,2022-08-28T21:29:14.062Z,"48 km SSE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-08-28T21:26:10.562Z,43.4477,-126.7975,10,3.4,ml,65,239,2.02,0.73,us,us7000i36x,2022-08-28T21:35:34.040Z,"197 km W of Bandon, Oregon",earthquake,7.57,2.013,0.036,101,reviewed,us,us
+2022-08-28T21:26:10.562Z,43.4477,-126.7975,10,3.4,ml,65,239,2.02,0.73,us,us7000i36x,2022-08-28T23:01:35.087Z,"197 km W of Bandon, Oregon",earthquake,7.57,2.013,0.036,101,reviewed,us,us
 2022-08-28T21:23:07.675Z,60.9608,-147.1386,17.1,1.5,ml,,,,0.8,ak,ak022b19mca7,2022-08-28T21:25:38.208Z,"27 km WNW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-08-28T21:22:36.440Z,19.2584991455078,-155.381500244141,32.5299987792969,2.12,ml,43,144,,0.129999995,hv,hv73124472,2022-08-28T21:28:07.030Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.67,0.769999981,5.3,3,automatic,hv,hv
 2022-08-28T21:12:31.896Z,60.6736,-149.3459,19.9,2.4,ml,,,,1.31,ak,ak022b19k19x,2022-08-28T21:15:12.225Z,"20 km N of Moose Pass, Alaska",earthquake,,2.8,,,automatic,ak,ak
@@ -255,4 +261,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-08-27T23:26:31.735Z,60.2138,-151.0671,54.2,1.7,ml,,,,0.39,ak,ak022aznak05,2022-08-27T23:28:47.836Z,"17 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-08-27T23:24:24.120Z,17.981,-67.004,10.29,1.99,md,4,162,,0.04,pr,pr71368338,2022-08-28T00:37:26.350Z,"4 km E of La Parguera, Puerto Rico",earthquake,0.48,0.88,0.123971496989915,4,reviewed,pr,pr
 2022-08-27T23:19:14.154Z,56.2564,-149.8272,15.1,2.1,ml,,,,0.48,ak,ak022azn93sq,2022-08-28T05:17:50.177Z,"212 km SE of Chiniak, Alaska",earthquake,,78.8,,,reviewed,ak,ak
-2022-08-27T22:56:45.833Z,-26.4261,28.6918,10,3.1,mb_lg,12,248,3.125,0.87,us,us7000i31z,2022-08-28T13:08:22.641Z,"21 km E of Nigel, South Africa",earthquake,9.36,2.019,0.208,6,reviewed,us,us
