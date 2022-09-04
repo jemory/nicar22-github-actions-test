@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-04T06:41:35.100Z,38.8248329,-122.7981644,3.05,0.46,md,10,88,0.009413,0.01,nc,nc73775270,2022-09-04T06:48:10.476Z,"6km NW of The Geysers, CA",earthquake,0.49,0.89,0.39,2,automatic,nc,nc
+2022-09-04T06:57:37.839Z,63.5635,-148.2099,30.9,1.2,ml,,,,0.92,ak,ak022bclnmc7,2022-09-04T06:59:32.665Z,"39 km ESE of Denali Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-09-04T06:46:17.061Z,37.8453,141.8853,60.934,4.7,mb,82,123,3.008,0.51,us,us7000i52i,2022-09-04T07:21:27.040Z,"near the east coast of Honshu, Japan",earthquake,8.16,6.568,0.039,224,reviewed,us,us
+2022-09-04T06:41:35.100Z,38.8248329,-122.7981644,3.05,0.46,md,10,88,0.009413,0.01,nc,nc73775270,2022-09-04T07:07:13.607Z,"6km NW of The Geysers, CA",earthquake,0.49,0.89,0.39,2,automatic,nc,nc
 2022-09-04T06:10:08.847Z,44.2005,149.086,35,4.5,mb,82,170,4.673,0.6,us,us7000i52g,2022-09-04T06:56:06.040Z,"Kuril Islands",earthquake,10.09,1.946,0.062,76,reviewed,us,us
 2022-09-04T05:51:01.180Z,37.7188339,-122.5335007,7.64,1.89,md,22,98,0.08931,0.05,nc,nc73775265,2022-09-04T06:07:14.211Z,"3km WSW of San Francisco Zoo, CA",earthquake,0.36,0.56,0.21,17,automatic,nc,nc
 2022-09-04T05:44:49.462Z,57.652,-154.8154,45.3,1.6,ml,,,,0.42,ak,ak022bckzfbm,2022-09-04T05:47:01.796Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-04T05:39:55.054Z,38.4776,-118.2197,13,2.2,ml,22,110.47,0.064,0.3051,nn,nn00846365,2022-09-04T05:43:28.184Z,"13 km NW of Mina, Nevada",earthquake,,0.3,0.18,13,automatic,nn,nn
 2022-09-04T05:16:32.140Z,36.0943333,-117.8353333,0.6,0.91,ml,11,180,0.1137,0.11,ci,ci40095823,2022-09-04T05:19:57.936Z,"12km ENE of Coso Junction, CA",earthquake,0.33,0.34,0.104,7,automatic,ci,ci
-2022-09-04T05:15:24.980Z,39.4021667,-122.93,2.73,1.91,md,22,120,0.1561,0.08,nc,nc73775255,2022-09-04T06:55:10.522Z,"2km ESE of Lake Pillsbury, CA",earthquake,0.26,1.58,0.119,21,reviewed,nc,nc
+2022-09-04T05:15:24.980Z,39.4021667,-122.93,2.73,1.91,md,22,120,0.1561,0.08,nc,nc73775255,2022-09-04T07:19:13.671Z,"2km ESE of Lake Pillsbury, CA",earthquake,0.26,1.58,0.119,21,reviewed,nc,nc
 2022-09-04T05:07:03.419Z,61.1408,-147.3311,20,1.2,ml,,,,0.4,ak,ak022bckre9x,2022-09-04T05:09:26.049Z,"Southern Alaska",earthquake,,3.9,,,automatic,ak,ak
 2022-09-04T05:03:34.549Z,44.5159,-114.6688,15.753,2.4,ml,20,62,0.971,0.37,us,us7000i52c,2022-09-04T05:39:38.040Z,"34 km W of Challis, Idaho",earthquake,3.09,8.437,0.055,44,reviewed,us,us
 2022-09-04T05:01:00.070Z,35.7038333,-117.5715,7.85,1.15,ml,13,145,0.1137,0.18,ci,ci40095815,2022-09-04T05:04:36.087Z,"13km NE of Ridgecrest, CA",earthquake,0.53,1.78,0.154,11,automatic,ci,ci
@@ -126,7 +128,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T17:11:40.410Z,37.6121667,-118.8275,5.04,0.04,md,10,108,0.02214,0.04,nc,nc73775095,2022-09-03T18:54:11.380Z,"14km ESE of Mammoth Lakes, CA",earthquake,0.96,0.86,0.163,8,reviewed,nc,nc
 2022-09-03T17:10:51.590Z,34.0168333,-117.558,11.53,1.02,ml,23,76,0.01257,0.21,ci,ci40095575,2022-09-03T21:21:49.310Z,"5km NW of Mira Loma, CA",earthquake,0.35,0.6,0.226,30,automatic,ci,ci
 2022-09-03T17:06:32.780Z,33.8795013,-117.732666,6.39,1.47,ml,14,176,0.1058,0.49,ci,ci40095567,2022-09-03T20:54:36.750Z,"8km E of Yorba Linda, CA",earthquake,1.83,5.77,0.283,20,automatic,ci,ci
-2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-04T06:57:54.358Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
+2022-09-03T17:04:55.810Z,34.0224991,-117.5571671,11.34,3.57,mw,106,18,0.01823,0.24,ci,ci40095559,2022-09-04T07:18:42.231Z,"5km NW of Mira Loma, CA",earthquake,0.25,0.43,,6,reviewed,ci,ci
 2022-09-03T17:02:26.020Z,37.3895,-122.1638333,6.23,0.98,md,19,42,0.01717,0.09,nc,nc73775075,2022-09-03T21:27:10.112Z,"3km WNW of Los Altos Hills, CA",earthquake,0.28,0.39,0.093,11,reviewed,nc,nc
 2022-09-03T16:57:32.657Z,37.0458,20.9038,10,4.2,mb,26,234,0.827,0.99,us,us7000i4y1,2022-09-03T18:33:06.040Z,"61 km WSW of Filiatrá, Greece",earthquake,5.2,1.979,0.187,8,reviewed,us,us
 2022-09-03T16:44:35.300Z,37.6248333,-118.7728333,9.72,0.61,md,6,305,0.05174,0.04,nc,nc73775070,2022-09-03T18:50:10.362Z,"11km NW of Toms Place, CA",earthquake,1.86,1.48,0.192,5,reviewed,nc,nc
@@ -220,11 +222,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-03T07:57:42.980Z,17.9658333333333,-66.831,17.92,2.29,md,12,202,,0.1,pr,pr71369523,2022-09-03T21:32:40.470Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.56,0.67,0.0221039892792447,7,reviewed,pr,pr
 2022-09-03T07:55:00.589Z,62.117,-151.0855,63.7,1.8,ml,,,,0.33,ak,ak022bayp756,2022-09-03T07:56:51.478Z,"21 km NE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-03T07:33:06.440Z,38.8288345,-122.8044968,1.51,0.35,md,11,74,0.006963,0.01,nc,nc73774910,2022-09-03T08:08:14.320Z,"7km NW of The Geysers, CA",earthquake,0.41,0.71,,1,automatic,nc,nc
-2022-09-03T07:22:44.916Z,35.32071304,-97.88806915,5,2.87,ml,84,28.3221283,0.07307957113,0.7864970186,ok,ok2022rgew,2022-09-04T04:14:33.541Z,"5 km E of Minco, Oklahoma",earthquake,1.299542487,,,64,automatic,ok,ok
-2022-09-03T07:21:30.900Z,19.3466663360596,-155.182006835938,4.09999990463257,1.95,ml,37,77,,0.180000007,hv,hv73129877,2022-09-03T07:27:02.470Z,"11 km SSE of Volcano, Hawaii",earthquake,0.36,1.10000002,3.38,7,automatic,hv,hv
-2022-09-03T07:18:53.430Z,37.618,-118.8271667,4.39,1.01,md,21,84,0.01407,0.03,nc,nc73774905,2022-09-03T17:04:11.699Z,"14km E of Mammoth Lakes, CA",earthquake,0.34,0.29,0.155,16,reviewed,nc,nc
-2022-09-03T07:15:52.612Z,61.3991,-152.024,22.6,0.7,ml,,,,0.34,ak,ak022baygqil,2022-09-03T07:17:33.804Z,"58 km WNW of Beluga, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-03T07:15:10.680Z,18.9396,-65.0053,31,3.62,md,14,277,0.5878,0.42,pr,pr2022246002,2022-09-03T07:49:59.762Z,"66 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,4.21,18.25,0.04,6,reviewed,pr,pr
-2022-09-03T07:14:20.990Z,38.8351667,-122.818,2.07,0.27,md,17,63,0.01329,0.02,nc,nc73774900,2022-09-03T19:34:11.476Z,"8km W of Cobb, CA",earthquake,0.24,0.44,0.296,2,reviewed,nc,nc
-2022-09-03T07:13:33.710Z,37.616333,-118.8323364,4.13,0.98,md,12,162,0.01414,0.02,nc,nc73774895,2022-09-03T07:35:16.106Z,"13km E of Mammoth Lakes, CA",earthquake,0.87,0.91,0.16,12,automatic,nc,nc
-2022-09-03T07:05:11.450Z,39.2138333,-123.2766667,3.39,1.06,md,12,77,0.02063,0.08,nc,nc73774890,2022-09-03T12:47:12.013Z,"8km SW of Redwood Valley, CA",earthquake,0.24,0.5,0.122,10,reviewed,nc,nc
