@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-04T08:41:44.777Z,60.3779,-152.9944,123,1,ml,,,,0.46,ak,ak022bcmr2ml,2022-09-04T08:43:40.367Z,"75 km ENE of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-04T08:16:19.222Z,64.8405,-147.5431,3.1,1.6,ml,,,,1.05,ak,ak022bcmlnqf,2022-09-04T08:18:15.513Z,"4 km N of Badger, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-04T08:05:56.730Z,17.9653333333333,-66.8321666666667,17.69,2.15,md,12,174,,0.12,pr,pr71369758,2022-09-04T08:33:33.090Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.45,0.52,0.16572548635385,9,reviewed,pr,pr
 2022-09-04T07:49:23.620Z,33.7341667,-116.8643333,10.67,1.94,ml,71,23,0.0683,0.21,ci,ci40095831,2022-09-04T07:59:43.260Z,"3km ESE of Valle Vista, CA",earthquake,0.19,0.34,0.256,26,automatic,ci,ci
@@ -15,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T05:44:49.462Z,57.652,-154.8154,45.3,1.6,ml,,,,0.42,ak,ak022bckzfbm,2022-09-04T05:47:01.796Z,"Kodiak Island region, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-04T05:39:55.054Z,38.4776,-118.2197,13,2.2,ml,22,110.47,0.064,0.3051,nn,nn00846365,2022-09-04T05:43:28.184Z,"13 km NW of Mina, Nevada",earthquake,,0.3,0.18,13,automatic,nn,nn
 2022-09-04T05:16:32.140Z,36.0943333,-117.8353333,0.6,0.91,ml,11,180,0.1137,0.11,ci,ci40095823,2022-09-04T05:19:57.936Z,"12km ENE of Coso Junction, CA",earthquake,0.33,0.34,0.104,7,automatic,ci,ci
-2022-09-04T05:15:24.980Z,39.4021667,-122.93,2.73,1.91,md,22,120,0.1561,0.08,nc,nc73775255,2022-09-04T08:34:11.124Z,"2km ESE of Lake Pillsbury, CA",earthquake,0.26,1.58,0.119,21,reviewed,nc,nc
+2022-09-04T05:15:24.980Z,39.4021667,-122.93,2.73,1.91,md,22,120,0.1561,0.08,nc,nc73775255,2022-09-04T08:36:13.135Z,"2km ESE of Lake Pillsbury, CA",earthquake,0.26,1.58,0.119,21,reviewed,nc,nc
 2022-09-04T05:07:03.419Z,61.1408,-147.3311,20,1.2,ml,,,,0.4,ak,ak022bckre9x,2022-09-04T05:09:26.049Z,"46 km NW of Tatitlek, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2022-09-04T05:03:34.549Z,44.5159,-114.6688,15.753,2.4,ml,20,62,0.971,0.37,us,us7000i52c,2022-09-04T05:39:38.040Z,"southern Idaho",earthquake,3.09,8.437,0.055,44,reviewed,us,us
 2022-09-04T05:01:00.070Z,35.7038333,-117.5715,7.85,1.15,ml,13,145,0.1137,0.18,ci,ci40095815,2022-09-04T05:04:36.087Z,"13km NE of Ridgecrest, CA",earthquake,0.53,1.78,0.154,11,automatic,ci,ci
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T00:52:50.990Z,38.8316667,-122.8161667,1.83,1.62,md,53,35,0.009533,0.04,nc,nc73775225,2022-09-04T06:39:13.423Z,"8km NW of The Geysers, CA",earthquake,0.1,0.16,0.27,23,reviewed,nc,nc
 2022-09-04T00:46:42.126Z,63.2485,-151.0232,5.1,1.1,ml,,,,0.79,ak,ak022bci0o5w,2022-09-04T00:49:24.168Z,"47 km SE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-04T00:39:47.020Z,38.8326683,-122.8180008,1.62,0.87,md,18,69,0.01114,0.04,nc,nc73775220,2022-09-04T00:54:12.319Z,"8km NW of The Geysers, CA",earthquake,0.25,0.43,0.3,3,automatic,nc,nc
-2022-09-04T00:23:46.210Z,36.5565,-121.095,2.58,2.21,md,35,63,0.04707,0.11,nc,nc73775215,2022-09-04T05:51:16.131Z,"5km ENE of Pinnacles, CA",earthquake,0.2,0.35,0.245,46,reviewed,nc,nc
+2022-09-04T00:23:46.210Z,36.5565,-121.095,2.58,2.21,md,35,63,0.04707,0.11,nc,nc73775215,2022-09-04T08:51:13.218Z,"5km ENE of Pinnacles, CA",earthquake,0.2,0.35,0.245,46,reviewed,nc,nc
 2022-09-04T00:23:21.620Z,38.1867,-117.8877,5,0.6,ml,8,176.13,0.074,0.088,nn,nn00846362,2022-09-04T00:27:13.620Z,"29 km SE of Mina, Nevada",earthquake,,2.4,0.08,2,automatic,nn,nn
 2022-09-04T00:05:31.170Z,33.4158333,-116.6291667,7.98,0.36,ml,18,122,0.08182,0.18,ci,ci40095735,2022-09-04T00:09:05.381Z,"15km N of Warner Springs, CA",earthquake,0.41,0.89,0.169,10,automatic,ci,ci
 2022-09-03T23:53:43.282Z,46.9419,-112.4975,9.36,2.3,ml,22,63,0.087,0.63,us,us7000i51d,2022-09-04T00:02:13.040Z,"14 km E of Lincoln, Montana",earthquake,2.24,5.121,0.06,36,reviewed,us,us
