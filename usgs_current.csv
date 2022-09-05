@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-05T11:29:07.042Z,60.2649,-150.5807,33.7,2.5,ml,,,,0.22,ak,ak022bec02fk,2022-09-05T11:30:37.438Z,"28 km SSE of Funny River, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-09-05T11:18:47.085Z,57.5474,-155.0214,52.2,2.6,ml,,,,0.27,ak,ak022bebxsn8,2022-09-05T11:25:32.040Z,"33 km W of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-05T11:02:20.744Z,38.2047,-117.83,4.9,1.6,ml,17,132.95,0.121,0.2125,nn,nn00846446,2022-09-05T11:05:56.622Z,"Nevada",earthquake,,0.7,0.79,10,automatic,nn,nn
 2022-09-05T11:01:54.703Z,60.3883,-152.0217,72.8,1,ml,,,,0.27,ak,ak022bebu626,2022-09-05T11:04:07.467Z,"Southern Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-05T10:56:23.090Z,33.350666,-116.3458328,10.9,1.13,ml,20,139,0.03249,0.16,ci,ci40096559,2022-09-05T10:59:51.486Z,"11km NNE of Borrego Springs, CA",earthquake,0.63,0.57,0.358,11,automatic,ci,ci
@@ -10,12 +12,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T10:07:22.650Z,37.4156685,-118.5588303,0.32,1.93,md,24,120,0.2609,0.14,nc,nc73775705,2022-09-05T10:34:12.450Z,"3km E of Round Valley, CA",earthquake,0.54,7.08,0.12,18,automatic,nc,nc
 2022-09-05T10:03:37.379Z,38.2554,-118.3623,9.5,0.6,ml,8,144.98,0.112,0.1291,nn,nn00846438,2022-09-05T10:07:21.452Z,"California-Nevada border region",earthquake,,1.8,0.09,4,automatic,nn,nn
 2022-09-05T10:02:28.330Z,38.7883339,-122.7750015,0.4,0.96,md,8,113,0.01119,0.02,nc,nc73775700,2022-09-05T10:23:12.397Z,"2km NW of The Geysers, CA",earthquake,0.32,0.88,0.28,2,automatic,nc,nc
-2022-09-05T09:55:56.860Z,38.6705017,-122.7285004,6.73,1.19,md,15,219,0.04607,0.05,nc,nc73775695,2022-09-05T11:04:09.666Z,"12km SSW of Anderson Springs, CA",earthquake,0.7,0.98,0.11,7,automatic,nc,nc
+2022-09-05T09:55:56.860Z,38.6705017,-122.7285004,6.73,1.19,md,15,219,0.04607,0.05,nc,nc73775695,2022-09-05T11:26:11.778Z,"12km SSW of Anderson Springs, CA",earthquake,0.7,0.98,0.11,7,automatic,nc,nc
 2022-09-05T09:39:52.736Z,57.7938,-153.7782,35.8,1.2,ml,,,,0.26,ak,ak022beavfwp,2022-09-05T09:42:13.220Z,"Kodiak Island region, Alaska",earthquake,,4.6,,,automatic,ak,ak
 2022-09-05T09:30:25.500Z,19.1633338928223,-155.475494384766,35.310001373291,1.87,md,40,103,,0.109999999,hv,hv73131757,2022-09-05T09:33:49.140Z,"Island of Hawaii, Hawaii",earthquake,0.56,0.879999995,1.03999996,11,automatic,hv,hv
 2022-09-05T09:25:48.560Z,32.9388333,-115.548,6.25,1.49,ml,14,93,0.03876,0.23,ci,ci40096543,2022-09-05T09:29:28.918Z,"5km SSW of Brawley, CA",earthquake,0.45,1.22,0.211,24,automatic,ci,ci
 2022-09-05T09:22:19.511Z,-23.5216,-179.7531,507.852,4.8,mb,70,46,4.818,1.23,us,us7000i5bw,2022-09-05T09:39:09.040Z,"south of the Fiji Islands",earthquake,10.7,7.42,0.043,167,reviewed,us,us
-2022-09-05T09:14:51.486Z,27.6306,56.0608,10,5.4,mb,80,55,2.677,0.88,us,us7000i5bu,2022-09-05T10:21:34.704Z,"53 km NNW of Bandar Abbas, Iran",earthquake,6.94,1.845,0.053,119,reviewed,us,us
+2022-09-05T09:14:51.486Z,27.6306,56.0608,10,5.4,mb,80,55,2.677,0.88,us,us7000i5bu,2022-09-05T11:18:39.718Z,"53 km NNW of Bandar Abbas, Iran",earthquake,6.94,1.845,0.053,119,reviewed,us,us
 2022-09-05T09:10:46.670Z,36.5675011,-121.1233368,9.45,2.08,md,22,122,0.05014,0.09,nc,nc73775690,2022-09-05T10:31:12.434Z,"4km NNE of Pinnacles, CA",earthquake,0.31,0.75,0.16,21,automatic,nc,nc
 2022-09-05T09:08:20.160Z,32.9451667,-115.5453333,10.7,2.14,ml,27,83,0.04545,0.25,ci,ci40096527,2022-09-05T09:18:57.220Z,"4km SSW of Brawley, CA",earthquake,0.42,0.84,0.205,26,automatic,ci,ci
 2022-09-05T09:00:58.170Z,38.8166656,-122.8239975,2.38,1.12,md,28,48,0.008775,0.03,nc,nc73775685,2022-09-05T10:16:12.355Z,"7km NW of The Geysers, CA",earthquake,0.19,0.38,0.15,5,automatic,nc,nc
@@ -223,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T13:25:00.300Z,33.8801667,-118.4505,11.2,1.4,ml,18,142,0.08311,0.31,ci,ci40096007,2022-09-04T17:43:22.828Z,"4km W of Manhattan Beach, CA",earthquake,0.81,1.02,0.199,30,automatic,ci,ci
 2022-09-04T13:23:58.660Z,34.0438333,-117.2515,15.71,2.23,ml,83,26,0.07304,0.23,ci,ci40095999,2022-09-04T15:56:29.822Z,"1km ESE of Loma Linda, CA",earthquake,0.22,0.49,0.196,25,automatic,ci,ci
 2022-09-04T13:16:29.112Z,44.2664,-115.1298,10,3.4,ml,34,46,0.873,0.57,us,us7000i54i,2022-09-05T03:09:44.474Z,"16 km WNW of Stanley, Idaho",earthquake,2.16,2.002,0.031,140,reviewed,us,us
-2022-09-04T13:11:59.820Z,33.882,-118.4646683,11.79,3.03,ml,99,119,0.06884,0.29,ci,ci40095991,2022-09-05T10:45:41.199Z,"5km W of Manhattan Beach, CA",earthquake,0.32,0.42,0.271,17,automatic,ci,ci
+2022-09-04T13:11:59.820Z,33.882,-118.4646683,11.79,3.03,ml,99,119,0.06884,0.29,ci,ci40095991,2022-09-05T11:16:41.199Z,"5km W of Manhattan Beach, CA",earthquake,0.32,0.42,0.271,17,automatic,ci,ci
 2022-09-04T13:05:43.240Z,34.6161667,-116.6263333,4.8,2.19,ml,33,38,0.02765,0.14,ci,ci40095983,2022-09-04T13:15:58.550Z,"37km ENE of Lucerne Valley, CA",earthquake,0.23,0.57,0.118,27,automatic,ci,ci
 2022-09-04T13:02:12.991Z,63.2465,-149.7177,83.1,1.5,ml,,,,0.36,ak,ak022bcpht9v,2022-09-04T13:04:01.803Z,"41 km WSW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-09-04T12:59:41.040Z,45.138333333333335,-122.59033333333333,15,0.86,ml,4,191,0.09117,0.27,uw,uw61868792,2022-09-04T19:25:12.320Z,"Oregon",earthquake,1.28,2.08,0.09240220477919725,3,reviewed,uw,uw
