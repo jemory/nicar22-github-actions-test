@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-05T15:42:36.475Z,61.4249,-148.1007,16.5,1.1,ml,,,,0.96,ak,ak022beegnfl,2022-09-05T15:45:37.911Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-05T15:11:51.367Z,62.235,-148.4044,28.3,3.5,ml,,,,0.49,ak,ak022beea1dl,2022-09-05T15:18:30.187Z,"48 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-05T15:11:32.810Z,35.7321667,-117.566,6.43,0.66,ml,7,143,0.08724,0.19,ci,ci40096655,2022-09-05T15:15:05.807Z,"15km WSW of Searles Valley, CA",earthquake,0.69,1.9,0.176,7,automatic,ci,ci
 2022-09-05T15:00:01.381Z,65.5677,-144.696,31,1.4,ml,,,,1.12,ak,ak022bee7kne,2022-09-05T15:02:26.284Z,"5 km E of Central, Alaska",earthquake,,2,,,automatic,ak,ak
@@ -8,6 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-05T14:33:53.950Z,38.7873344,-122.7645035,1.65,0.46,md,12,90,0.01379,0.03,nc,nc73775775,2022-09-05T15:07:14.094Z,"1km NNW of The Geysers, CA",earthquake,0.3,0.73,0.4,2,automatic,nc,nc
 2022-09-05T14:30:45.708Z,63.065,-151.5064,16.7,1,ml,,,,1.01,ak,ak022bedsny2,2022-09-05T14:33:25.188Z,"54 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-05T14:24:49.640Z,34.1611667,-116.4563333,6.68,0.79,ml,15,88,0.05493,0.12,ci,ci40096631,2022-09-05T14:28:31.097Z,"6km NNW of Yucca Valley, CA",earthquake,0.26,0.62,0.147,17,automatic,ci,ci
+2022-09-05T14:11:45.428Z,-4.8521,153.5334,76.62,4.6,mb,33,98,1.515,1.21,us,us7000i5dm,2022-09-05T15:53:45.040Z,"151 km ESE of Kokopo, Papua New Guinea",earthquake,11.44,6.94,0.104,28,reviewed,us,us
 2022-09-05T14:09:47.419Z,63.3155,-149.6057,32.2,1.4,ml,,,,0.96,ak,ak022bedo61h,2022-09-05T14:12:59.309Z,"33 km WSW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-09-05T14:07:08.560Z,35.497,-118.3936667,10.26,0.95,ml,18,60,0.1779,0.21,ci,ci40096623,2022-09-05T14:10:33.880Z,"14km SE of Bodfish, CA",earthquake,0.38,1.14,0.13,10,automatic,ci,ci
 2022-09-05T13:59:10.900Z,38.8185005,-122.7903366,1.88,1.04,md,26,53,0.009178,0.02,nc,nc73775770,2022-09-05T14:12:10.875Z,"5km NNW of The Geysers, CA",earthquake,0.2,0.35,0.11,5,automatic,nc,nc
@@ -243,6 +245,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-04T16:04:44.300Z,38.8168335,-122.7734985,0.99,0.84,md,7,170,0.006653,0.01,nc,nc73775380,2022-09-04T16:38:10.994Z,"4km W of Cobb, CA",earthquake,0.57,0.78,,1,automatic,nc,nc
 2022-09-04T15:59:40.208Z,63.3354,-145.4909,0,1.2,ml,,,,0.96,ak,ak022bcr0yec,2022-09-04T16:02:03.135Z,"28 km NNE of Paxson, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-04T15:59:26.920Z,19.5421,-65.3261,19,3.7,md,16,278,1.2354,0.36,pr,pr2022247002,2022-09-04T16:55:14.040Z,"134 km NNE of Vieques, Puerto Rico",earthquake,6.07,13.09,0.14,13,reviewed,pr,pr
-2022-09-04T15:53:18.968Z,63.3308,-145.4242,0,2.6,ml,,,,0.85,ak,ak022bcqzmgb,2022-09-04T16:38:13.040Z,"28 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-04T15:46:12.030Z,46.879666666666665,-121.93,8.29,0.96,ml,19,78,0.02043,0.11,uw,uw61868867,2022-09-04T18:44:01.740Z,"Washington",earthquake,0.25,0.43,0.22175327457310334,16,reviewed,uw,uw
-2022-09-04T15:45:47.210Z,35.8245,-117.6268333,2.34,1.69,ml,15,107,0.02538,0.24,ci,ci40096079,2022-09-04T15:49:15.018Z,"21km WNW of Searles Valley, CA",earthquake,0.56,0.73,0.126,23,automatic,ci,ci
