@@ -10,12 +10,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T14:03:18.034Z,38.1628,-117.8723,1,0.8,ml,9,171.1,0.073,0.2371,nn,nn00846558,2022-09-07T14:06:55.770Z,"32 km SE of Mina, Nevada",earthquake,,10.3,0.57,6,automatic,nn,nn
 2022-09-07T14:01:30.914Z,-60.2936,-26.1437,10,4.8,mb,29,177,8.22,0.34,us,us7000i5zx,2022-09-07T14:20:56.040Z,"South Sandwich Islands region",earthquake,15.07,1.969,0.101,30,reviewed,us,us
 2022-09-07T14:00:11.619Z,58.1652,-155.3137,3.2,1.3,ml,,,,0.26,ak,ak022bhooutl,2022-09-07T14:02:09.274Z,"83 km NW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-07T13:59:08.033Z,58.0848,-155.5567,44.7,2.2,ml,,,,1.47,ak,ak022bhog3rv,2022-09-07T14:12:40.536Z,"87 km NW of Karluk, Alaska",earthquake,,13.4,,,automatic,ak,ak
 2022-09-07T13:59:02.828Z,58.1671,-155.3151,4.4,2.1,ml,,,,0.47,ak,ak022bhog1sa,2022-09-07T14:01:18.746Z,"83 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-07T13:57:25.835Z,59.6813,-152.1331,79.8,1.3,ml,,,,0.38,ak,ak022bhofo4n,2022-09-07T13:59:38.033Z,"20 km WSW of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-07T13:54:06.200Z,17.966,-66.9491666666667,10.27,1.42,md,5,191,,0.08,pr,pr71370343,2022-09-07T14:13:29.960Z,"4 km SW of Fuig, Puerto Rico",earthquake,0.71,1.18,0.116675704427128,4,reviewed,pr,pr
 2022-09-07T13:44:38.920Z,17.9215,-66.6251666666667,6.61,1.97,md,8,173,,0.26,pr,pr71370338,2022-09-07T14:02:01.070Z,"9 km S of Ponce, Puerto Rico",earthquake,0.68,0.81,0.304757322970071,4,reviewed,pr,pr
 2022-09-07T13:23:22.768Z,62.3624,-149.188,0.1,1.2,ml,,,,0.76,ak,ak022bho8djo,2022-09-07T13:25:39.106Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-09-07T13:19:49.414Z,55.876,-155.5489,26.2,2.3,ml,,,,0.7,ak,ak022bho7p2p,2022-09-07T15:39:16.485Z,"146 km SW of Akhiok, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-09-07T13:19:24.660Z,39.6194992,-123.4258347,8.08,2.44,md,21,95,0.01937,0.14,nc,nc73776340,2022-09-07T13:41:16.072Z,"9km SSE of Laytonville, CA",earthquake,0.38,0.69,0.08,15,automatic,nc,nc
 2022-09-07T13:05:40.835Z,63.1045,-149.1846,5.2,1.8,ml,,,,0.69,ak,ak022bho4k1v,2022-09-07T13:07:45.512Z,"34 km SSW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-07T13:05:09.960Z,19.2985000610352,-155.231170654297,23.2199993133545,2.32999992,md,18,135,,0.360000014,hv,hv73133512,2022-09-07T13:06:35.880Z,"15 km S of Volcano, Hawaii",earthquake,3.53,2.73000002,1.51999998,11,automatic,hv,hv
@@ -86,6 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T07:23:24.390Z,36.0045013,-120.5605011,4.29,1.05,md,13,99,0.01998,0.03,nc,nc73776280,2022-09-07T07:44:13.055Z,"16km NW of Parkfield, CA",earthquake,0.35,0.53,0.24,5,automatic,nc,nc
 2022-09-07T07:11:00.600Z,19.1153335571289,-155.425003051758,29.2000007629395,2.63,ml,45,182,,0.129999995,hv,hv73133242,2022-09-07T07:36:52.549Z,"11 km SSE of Pāhala, Hawaii",earthquake,0.55,0.910000026,3.54,17,automatic,hv,hv
 2022-09-07T07:01:49.971Z,58.2216,-153.2537,43.9,1,ml,,,,0.37,ak,ak022bhkj49h,2022-09-07T07:04:39.763Z,"Kodiak Island region, Alaska",earthquake,,4.1,,,automatic,ak,ak
+2022-09-07T07:01:21.459Z,52.0921,-179.6205,169.6,2.4,ml,,,,0.5,ak,ak022bhkj2wk,2022-09-07T15:32:17.335Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,,0.9,,,reviewed,ak,ak
 2022-09-07T06:55:24.609Z,64.4221,-146.95,0.1,1.2,ml,,,,0.63,ak,ak022bhk97d8,2022-09-07T06:58:02.301Z,"11 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T06:41:08.655Z,63.3242,-145.1808,0,1.7,ml,,,,0.6,ak,ak022bhk6641,2022-09-07T06:43:14.982Z,"34 km NE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T06:34:30.410Z,36.7573318,-121.4179993,9.71,1.78,md,16,154,0.0244,0.13,nc,nc73776270,2022-09-07T08:13:13.211Z,"8km SW of Ridgemark, CA",earthquake,0.72,0.94,0.22,11,automatic,nc,nc
@@ -135,6 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T02:02:02.390Z,38.7623329,-122.7176666,1.18,1.58,md,12,70,0.005673,0.05,nc,nc73776225,2022-09-07T04:11:09.779Z,"3km WSW of Anderson Springs, CA",earthquake,0.24,0.28,0.03,6,automatic,nc,nc
 2022-09-07T02:02:01.100Z,38.4223328,-122.5093307,4.02,1.4,md,5,234,0.376,0.05,nc,nc73776220,2022-09-07T03:45:10.613Z,"3km ENE of Kenwood, CA",earthquake,5.55,9.25,,1,automatic,nc,nc
 2022-09-07T01:51:25.420Z,17.9948333333333,-66.7681666666667,14,2.3,md,14,188,,0.12,pr,pr71370298,2022-09-07T02:26:20.180Z,"2 km S of Magas Arriba, Puerto Rico",earthquake,0.68,0.46,0.207273309268732,12,reviewed,pr,pr
+2022-09-07T01:46:21.708Z,51.0337,-174.0506,10.6,2.2,ml,,,,0.65,ak,ak022bhh8567,2022-09-07T15:25:38.409Z,"129 km S of Atka, Alaska",earthquake,,3.7,,,reviewed,ak,ak
 2022-09-07T01:43:05.727Z,58.1847,-155.284,1.1,1.2,ml,,,,0.59,ak,ak022bhh7fak,2022-09-07T01:45:58.152Z,"84 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T01:41:13.090Z,40.7063333,-122.2575,19.54,1.61,md,15,101,0.0841,0.08,nc,nc73776210,2022-09-07T12:12:10.570Z,"8km NNW of Bella Vista, CA",earthquake,0.32,0.62,0.173,19,reviewed,nc,nc
 2022-09-07T01:40:49.067Z,60.0686,-152.9244,103.8,0.7,ml,,,,0.46,ak,ak022bhh6vhm,2022-09-07T01:42:49.579Z,"67 km W of Happy Valley, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -233,8 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T16:00:19.919Z,63.3183,-145.3093,7.3,0.8,ml,,,,0.65,ak,ak022bg2ccxp,2022-09-06T21:08:43.736Z,"29 km NNE of Paxson, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2022-09-06T15:54:08.555Z,62.7757,-149.2051,8.3,1.4,ml,,,,0.75,ak,ak022bg22id3,2022-09-06T15:56:41.739Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-06T15:49:51.674Z,60.5681,-142.6966,18.8,1.3,ml,,,,0.77,ak,ak022bg21ivo,2022-09-06T15:53:53.424Z,"97 km S of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-09-06T15:35:56.890Z,44.783,-111.1206667,10.18,-0.11,md,7,157,0.01659,0.1,uu,uu60513927,2022-09-06T21:53:33.070Z,"5 km ENE of Hebgen Lake Estates, Montana",earthquake,0.79,1.36,0.418,3,reviewed,uu,uu
-2022-09-06T15:30:43.135Z,59.7704,-153.0604,103.6,2,ml,,,,0.3,ak,ak022bg1xft8,2022-09-06T15:38:55.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-09-06T15:19:22.320Z,44.7791667,-111.1198333,13.09,0,md,7,146,0.01947,0.09,uu,uu60513922,2022-09-06T21:52:26.000Z,"Idaho-Montana border region",earthquake,1.27,1.49,0.138,4,reviewed,uu,uu
-2022-09-06T15:18:50.900Z,38.7901649,-122.7608337,1.68,0.87,md,15,75,0.01048,0.03,nc,nc73776075,2022-09-06T16:02:10.356Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.48,0.25,4,automatic,nc,nc
-2022-09-06T15:18:36.430Z,44.772,-111.1188333,11.75,1.11,ml,16,114,0.02571,0.12,uu,uu60513917,2022-09-06T21:50:50.870Z,"5 km E of Hebgen Lake Estates, Montana",earthquake,0.65,0.49,0.287,2,reviewed,uu,uu
