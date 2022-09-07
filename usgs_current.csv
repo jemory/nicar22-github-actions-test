@@ -1,9 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T21:37:46.280Z,33.2223333,-115.5701667,1.46,1.72,ml,18,65,0.05683,0.23,ci,ci40097711,2022-09-07T21:41:27.298Z,"5km WSW of Niland, CA",earthquake,0.38,0.65,0.2,27,automatic,ci,ci
+2022-09-07T21:36:34.710Z,34.9908333,-118.2066667,0.26,1.52,ml,26,55,0.1108,0.41,ci,ci40097703,2022-09-07T21:40:20.013Z,"8km SSW of Mojave, CA",earthquake,0.67,31.61,0.107,32,automatic,ci,ci
+2022-09-07T21:34:39.050Z,36.5923347,-121.1175003,7.6,1.32,md,5,157,0.05841,0.04,nc,nc73776530,2022-09-07T21:44:11.001Z,"7km NNE of Pinnacles, CA",earthquake,0.71,1.29,0.09,7,automatic,nc,nc
 2022-09-07T21:20:26.880Z,19.2544994354248,-155.4443359375,31.3700008392334,1.82000005,md,19,108,,0.150000006,hv,hv73133832,2022-09-07T21:23:35.870Z,"6 km NNE of Pāhala, Hawaii",earthquake,0.94,1.65999997,0.899999976,3,automatic,hv,hv
+2022-09-07T21:16:19.210Z,44.3486667,-110.8263333,1.96,1.8,ml,13,104,0.07922,0.29,uu,uu60514127,2022-09-07T21:47:44.850Z,"41 km SSE of West Yellowstone, Montana",earthquake,0.78,2.76,0.286,3,reviewed,uu,uu
 2022-09-07T21:13:31.070Z,36.5579987,-121.1524963,7.45,2.71,md,41,63,,0.1,nc,nc73776525,2022-09-07T21:28:11.774Z,"3km NNW of Pinnacles, CA",earthquake,0.21,0.57,0.17,47,automatic,nc,nc
 2022-09-07T21:06:13.070Z,38.8204994,-122.8119965,2.9,1.07,md,28,41,0.003258,0.02,nc,nc73776520,2022-09-07T21:07:49.616Z,"7km NW of The Geysers, CA",earthquake,0.21,0.41,0.2,5,automatic,nc,nc
 2022-09-07T21:03:30.130Z,38.8064995,-122.7768326,0.88,0.35,md,8,101,0.00739,0.02,nc,nc73776515,2022-09-07T21:13:10.678Z,"4km NNW of The Geysers, CA",earthquake,0.39,0.41,,1,automatic,nc,nc
-2022-09-07T20:41:05.884Z,51.3833,-178.6159,50.731,4.8,mb,131,138,0.452,0.96,us,us6000ihz6,2022-09-07T21:17:12.495Z,"147 km WSW of Adak, Alaska",earthquake,7.89,6.83,0.028,401,reviewed,us,us
+2022-09-07T20:41:05.884Z,51.3833,-178.6159,50.731,4.8,mb,131,138,0.452,0.96,us,us6000ihz6,2022-09-07T21:17:12.495Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,7.89,6.83,0.028,401,reviewed,us,us
 2022-09-07T20:32:31.490Z,38.8035011,-122.774498,1.26,1.71,md,32,74,0.01088,0.03,nc,nc73776500,2022-09-07T21:17:11.701Z,"3km NNW of The Geysers, CA",earthquake,0.18,0.29,0.1,9,automatic,nc,nc
 2022-09-07T20:16:29.928Z,63.2764,-151.2859,7.6,1.1,ml,,,,0.52,ak,ak022bhscxbk,2022-09-07T20:18:22.224Z,"36 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T20:11:12.449Z,-0.03,123.1847,163.971,4.6,mb,54,68,1.087,1.06,us,us6000ihz2,2022-09-07T20:41:21.040Z,"64 km SSE of Gorontalo, Indonesia",earthquake,8.48,7.747,0.07,60,reviewed,us,us
@@ -105,6 +109,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-07T11:37:29.730Z,38.8318329,-122.8183365,1.73,0.99,md,20,53,0.01061,0.03,nc,nc73776335,2022-09-07T11:39:04.542Z,"8km NW of The Geysers, CA",earthquake,0.24,0.47,0.12,3,automatic,nc,nc
 2022-09-07T11:35:48.580Z,38.8381653,-122.8021698,1.49,0.65,md,16,64,0.009239,0.03,nc,nc73776330,2022-09-07T11:59:17.484Z,"7km WNW of Cobb, CA",earthquake,0.24,0.45,0.08,3,automatic,nc,nc
 2022-09-07T11:35:21.390Z,19.5371666666667,-155.649166666667,2.93,0.89,md,9,126,,0.07,hv,hv73133417,2022-09-07T21:03:23.090Z,"Island of Hawaii, Hawaii",earthquake,0.44,0.61,0.115568250935353,3,reviewed,hv,hv
+2022-09-07T11:34:20.710Z,19.2185,-155.401,30.68,1.59,md,17,166,,0.12,hv,hv73133412,2022-09-07T21:43:36.930Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.81,0.134005492442743,12,reviewed,hv,hv
 2022-09-07T11:29:27.855Z,59.1376,-136.602,1.6,2.3,ml,,,,0.98,ak,ak022bhn2t0x,2022-09-07T11:41:45.040Z,"45 km SW of Covenant Life, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-07T11:08:40.300Z,33.8873333,-116.8845,11.89,0.55,ml,11,160,0.09017,0.1,ci,ci40097463,2022-09-07T11:12:16.907Z,"4km S of Banning, CA",earthquake,0.43,0.86,0.093,9,automatic,ci,ci
 2022-09-07T11:00:25.900Z,33.32,-116.7603333,11.46,0.74,ml,27,60,0.0838,0.19,ci,ci40097455,2022-09-07T11:03:56.104Z,"9km N of Lake Henshaw, CA",earthquake,0.27,0.79,0.14,24,automatic,ci,ci
@@ -253,6 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T22:10:41.185Z,31.56382557,-104.134747,7.237011719,2.2,ml,14,54,0.07473012476,0.1,tx,tx2022rmur,2022-09-07T18:55:03.355Z,"42 km NW of Toyah, Texas",earthquake,1.508427439,1.883317305,0.1,6,reviewed,tx,tx
 2022-09-06T22:07:52.088Z,37.0211,-116.2188,4.8,0.8,ml,26,46.4,0.043,0.1748,nn,nn00846507,2022-09-06T23:25:37.702Z,"Nevada",earthquake,,1.6,0.38,18,reviewed,nn,nn
 2022-09-06T22:01:17.623Z,31.5557064,-104.1516327,5.823071289,2,ml,18,55,0.08586981507,0.2,tx,tx2022rmui,2022-09-07T20:53:43.523Z,"43 km NW of Toyah, Texas",earthquake,0.9491847221,1.872615874,0.1,6,reviewed,tx,tx
-2022-09-06T21:47:32.097Z,61.5623,-146.3455,25.2,1.2,ml,,,,0.91,ak,ak022bg5lnsp,2022-09-06T22:00:06.305Z,"48 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-09-06T21:41:09.090Z,38.8359985,-122.7894974,1.89,0.68,md,15,71,0.002496,0.02,nc,nc73776145,2022-09-06T21:50:10.550Z,"6km WNW of Cobb, CA",earthquake,0.26,0.48,0.14,2,automatic,nc,nc
-2022-09-06T21:40:43.540Z,18.0896666666667,-66.8903333333333,14.9,2.41,md,27,57,,0.23,pr,pr71370243,2022-09-06T21:55:06.170Z,"Puerto Rico region",earthquake,0.35,0.67,0.284845395450862,15,reviewed,pr,pr
