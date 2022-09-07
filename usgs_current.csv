@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-07T08:50:55.670Z,37.4937,-117.5361,3.9,0.5,ml,15,127.37,0.275,0.319,nn,nn00846540,2022-09-07T08:54:04.598Z,"30 km SSE of Silver Peak, Nevada",earthquake,,7.7,0.99,9,automatic,nn,nn
+2022-09-07T08:48:49.950Z,38.7958336,-122.7473297,1.65,0.46,md,8,125,0.01079,0.03,nc,nc73776290,2022-09-07T08:50:25.636Z,"2km NNE of The Geysers, CA",earthquake,0.46,0.87,0.41,2,automatic,nc,nc
 2022-09-07T08:26:20.380Z,18.0365,-66.7485,16.33,2.15,md,10,134,,0.09,pr,pr71370318,2022-09-07T08:37:20.160Z,"2 km S of Santo Domingo, Puerto Rico",earthquake,0.31,0.53,0.0557144314190685,3,reviewed,pr,pr
 2022-09-07T08:19:18.514Z,37.4999,-117.5474,2.1,1.3,ml,22,118.75,0.239,0.224,nn,nn00846536,2022-09-07T08:22:45.628Z,"California-Nevada border region",earthquake,,4.9,0.85,14,automatic,nn,nn
 2022-09-07T08:17:25.031Z,37.5196,-117.5152,3.4,0.8,ml,13,179.44,0.569,0.207,nn,nn00846532,2022-09-07T08:20:33.717Z,"28 km SSE of Silver Peak, Nevada",earthquake,,10.8,0.96,9,automatic,nn,nn
 2022-09-07T08:10:58.750Z,37.3859,-117.097,0.8,-0.2,ml,10,150.02,0.156,0.2346,nn,nn00846530,2022-09-07T08:16:03.717Z,"Nevada",earthquake,,35.9,1.04,4,automatic,nn,nn
-2022-09-07T08:00:00.820Z,38.8344994,-122.7901688,1.93,0.88,md,17,56,0.003906,0.02,nc,nc73776285,2022-09-07T08:17:17.234Z,"6km WNW of Cobb, CA",earthquake,0.24,0.43,0.13,4,automatic,nc,nc
+2022-09-07T08:00:00.820Z,38.8344994,-122.7901688,1.93,0.88,md,17,56,0.003906,0.02,nc,nc73776285,2022-09-07T08:40:12.366Z,"6km WNW of Cobb, CA",earthquake,0.24,0.43,0.13,4,automatic,nc,nc
 2022-09-07T07:38:07.290Z,19.2021675109863,-155.384002685547,32.2599983215332,1.84000003,md,37,161,,0.119999997,hv,hv73133262,2022-09-07T07:41:19.150Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.910000026,0.469999999,13,automatic,hv,hv
 2022-09-07T07:35:57.350Z,1.7817,127.4784,123.145,4.6,mb,36,105,1.009,0.7,us,us7000i5y8,2022-09-07T08:04:42.040Z,"59 km W of Tobelo, Indonesia",earthquake,10.62,7.252,0.105,27,reviewed,us,us
 2022-09-07T07:25:33.957Z,61.3863,-149.6312,29.1,0.8,ml,,,,1.4,ak,ak022bhko87n,2022-09-07T07:27:09.474Z,"7 km NNW of Eagle River, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -228,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-06T09:34:43.320Z,33.3075,-116.2628333,4.32,0.64,ml,17,125,0.06729,0.24,ci,ci40096863,2022-09-06T09:38:14.312Z,"12km ENE of Borrego Springs, CA",earthquake,0.49,0.89,0.125,14,automatic,ci,ci
 2022-09-06T09:12:44.469Z,38.1698,-118.1552,3,0.9,ml,13,154.95,0.157,0.142,nn,nn00846477,2022-09-06T21:39:34.984Z,"24 km S of Mina, Nevada",earthquake,,2.5,0,1,reviewed,nn,nn
 2022-09-06T09:04:53.586Z,-56.6037,-25.9649,17.377,5.3,mww,44,68,16.804,0.76,us,us7000i5ln,2022-09-06T09:23:30.040Z,"South Sandwich Islands region",earthquake,6.97,5.23,0.098,10,reviewed,us,us
-2022-09-06T08:56:21.830Z,33.5251667,-116.4663333,9.3,0.52,ml,22,66,0.0629,0.2,ci,ci40096847,2022-09-06T08:59:56.033Z,"20km E of Anza, CA",earthquake,0.33,0.85,0.147,12,automatic,ci,ci
-2022-09-06T08:44:11.754Z,62.3785,-150.4108,33.3,1.2,ml,,,,1.03,ak,ak022bfxu7r2,2022-09-06T08:47:08.727Z,"Central Alaska",earthquake,,1.7,,,automatic,ak,ak
-2022-09-06T08:43:42.321Z,64.9505,-151.9982,2.1,1.1,ml,,,,0.87,ak,ak022bfxu6uw,2022-09-06T08:45:38.555Z,"24 km S of Tanana, Alaska",earthquake,,4.3,,,automatic,ak,ak
