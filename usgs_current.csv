@@ -1,9 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-15T10:54:32.750Z,38.8243332,-122.7659988,2.14,0.7,md,8,121,0.006849,0.01,nc,nc73781911,2022-09-15T10:56:07.996Z,"4km W of Cobb, CA",earthquake,0.44,0.89,0.15,2,automatic,nc,nc
+2022-09-15T10:44:31.600Z,33.0321667,-116.4301667,8.33,1,ml,29,67,0.1317,0.23,ci,ci40100511,2022-09-15T10:47:57.891Z,"17km ESE of Julian, CA",earthquake,0.32,1.69,0.107,19,automatic,ci,ci
+2022-09-15T10:27:17.690Z,17.917,-66.8493333333333,15.93,2.44,md,7,228,,0.07,pr,pr71371883,2022-09-15T10:45:39.670Z,"Puerto Rico region",earthquake,0.78,0.56,0.107463237230149,7,reviewed,pr,pr
 2022-09-15T10:27:02.820Z,40.4399986,-124.8454971,24.17,2.21,md,14,310,0.3893,0.13,nc,nc73781906,2022-09-15T10:35:16.333Z,"49km WNW of Petrolia, CA",earthquake,7.94,11.06,0.09,7,automatic,nc,nc
 2022-09-15T10:18:52.450Z,38.8071671,-122.8136673,2.24,1.39,md,27,58,0.01224,0.02,nc,nc73781901,2022-09-15T10:35:16.195Z,"6km NW of The Geysers, CA",earthquake,0.2,0.35,0.03,5,automatic,nc,nc
 2022-09-15T10:18:39.214Z,61.2828,-151.5131,78.6,1.6,ml,,,,0.76,ak,ak022buuptdd,2022-09-15T10:20:13.565Z,"28 km NW of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-15T10:03:27.090Z,38.8330002,-122.796669,2.06,1.21,md,22,42,0.007319,0.02,nc,nc73781896,2022-09-15T10:36:11.200Z,"6km W of Cobb, CA",earthquake,0.21,0.41,0.07,5,automatic,nc,nc
-2022-09-15T09:41:16.780Z,37.8605003,-122.2419968,8.91,2.87,md,72,40,0.01649,0.06,nc,nc73781891,2022-09-15T10:37:15.251Z,"3km ESE of Berkeley, CA",earthquake,0.12,0.3,0.13,97,automatic,nc,nc
+2022-09-15T09:41:16.780Z,37.8605003,-122.2419968,8.91,2.87,md,72,40,0.01649,0.06,nc,nc73781891,2022-09-15T10:53:05.261Z,"3km ESE of Berkeley, CA",earthquake,0.12,0.3,0.13,97,automatic,nc,nc
 2022-09-15T09:32:28.960Z,38.7996674,-122.7785034,3.55,0.35,md,6,104,0.01552,0.01,nc,nc73781886,2022-09-15T09:34:03.311Z,"3km NW of The Geysers, CA",earthquake,0.79,1.92,,1,automatic,nc,nc
 2022-09-15T09:21:34.729Z,43.1624,-126.6471,10,4.4,mb,26,251,1.619,0.95,us,us7000i88d,2022-09-15T10:04:07.686Z,"off the coast of Oregon",earthquake,3.14,2.015,0.086,39,reviewed,us,us
 2022-09-15T09:18:39.182Z,59.9089,-141.392,0,1.6,ml,,,,0.82,ak,ak022buu4dri,2022-09-15T09:21:30.870Z,"101 km WNW of Yakutat, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -221,10 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-14T11:05:27.290Z,44.53783333333333,-122.52516666666666,8.62,0.62,ml,7,101,0.1527,0.19,uw,uw61880161,2022-09-14T18:26:46.420Z,"15 km NNW of Cascadia, Oregon",earthquake,0.4,3.62,0.18650845504020963,5,reviewed,uw,uw
 2022-09-14T11:04:07.447Z,-21.1908,170.2397,144.885,7,mww,197,45,2.955,0.65,us,us7000i7ya,2022-09-14T23:16:44.245Z,"208 km SSE of Isangel, Vanuatu",earthquake,6.33,4.036,0.047,43,reviewed,us,us
 2022-09-14T10:59:52.510Z,38.7986667,-122.7493333,2.3,-0.11,md,5,173,0.008342,0.01,nc,nc73781471,2022-09-14T15:48:47.483Z,"2km NNE of The Geysers, CA",earthquake,0.54,0.91,,1,reviewed,nc,nc
-2022-09-14T10:52:57.280Z,37.4461667,-118.6898333,2.91,1.38,md,19,282,0.133,0.04,nc,nc73781466,2022-09-14T16:50:13.914Z,"9km WNW of Round Valley, CA",earthquake,1.57,1.7,0.078,17,reviewed,nc,nc
-2022-09-14T10:49:41.470Z,18.8773333333333,-155.227166666667,10.2,3.17,ml,50,258,,0.14,hv,hv73139602,2022-09-14T20:51:31.380Z,"42 km ESE of Naalehu, Hawaii",earthquake,0.47,0.28,0.174068358678091,34,reviewed,hv,hv
-2022-09-14T10:46:07.390Z,33.8926667,-116.2673333,8,0.71,ml,27,59,0.08469,0.17,ci,ci40100127,2022-09-14T16:36:14.114Z,"14km NE of Thousand Palms, CA",earthquake,0.29,0.84,0.147,19,reviewed,ci,ci
-2022-09-14T10:45:18.319Z,62.1991,-149.9224,35.7,1,ml,,,,0.61,ak,ak022bt7c7lj,2022-09-14T10:47:33.328Z,"5 km NW of Susitna North, Alaska",earthquake,,4.3,,,automatic,ak,ak
-2022-09-14T10:44:50.590Z,38.7868347,-122.7474976,2.62,0.54,md,12,83,0.009154,0.03,nc,nc73781461,2022-09-14T10:46:26.897Z,"1km NE of The Geysers, CA",earthquake,0.34,0.92,0.2,3,automatic,nc,nc
-2022-09-14T10:40:48.250Z,35.8983333,-117.7416667,7.69,1.32,ml,26,73,0.08002,0.12,ci,ci40100119,2022-09-14T16:41:47.930Z,"16km ESE of Little Lake, CA",earthquake,0.17,0.46,0.171,17,reviewed,ci,ci
-2022-09-14T10:39:05.760Z,46.335,-122.2315,10.71,0.16,ml,14,108,0.0186,0.15,uw,uw61880151,2022-09-14T18:32:22.850Z,"25 km S of Morton, Washington",earthquake,0.46,0.69,0.16716463487018052,8,reviewed,uw,uw
