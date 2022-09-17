@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-17T11:16:02.716Z,35.56047058,-96.42234802,9.219111443,1.7,ml,17,85.42492104,0.2882706225,0.2391494263,ok,ok2022sgbp,2022-09-17T11:18:35.233Z,"5 km NW of IXL, Oklahoma",earthquake,3.126828517,4.127417796,,12,automatic,ok,ok
 2022-09-17T11:02:32.334Z,60.7401,-151.3585,51.5,1.5,ml,,,,0.34,ak,ak022by6ahz5,2022-09-17T11:03:56.105Z,"6 km NW of Nikiski, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-09-17T10:51:03.520Z,35.9378333,-117.6948333,2.5,1.23,ml,12,142,0.1004,0.11,ci,ci40101575,2022-09-17T10:54:33.840Z,"19km E of Little Lake, CA",earthquake,0.44,0.48,0.148,15,automatic,ci,ci
 2022-09-17T10:50:45.100Z,-18.3957,-69.9451,120.461,4.6,mb,36,60,0.378,0.67,us,us7000i8tr,2022-09-17T11:11:22.040Z,"38 km ENE of Arica, Chile",earthquake,7.35,5.61,0.106,28,reviewed,us,us
@@ -230,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T11:40:05.304Z,59.6403,-154.2481,175.6,0.6,ml,,,,0.53,ak,ak022bwiza3n,2022-09-16T11:42:00.742Z,"16 km ENE of Pope-Vannoy Landing, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-09-16T11:35:13.790Z,38.9748333,-111.2986667,-3.24,1.56,ml,7,76,0.05212,0.03,uu,uu60515212,2022-09-16T16:44:49.440Z,"7 km NW of Emery, Utah",earthquake,0.45,0.61,0.199,5,reviewed,uu,uu
 2022-09-16T11:32:55.670Z,40.852,-123.1948333,27.74,2.08,md,35,62,0.192,0.15,nc,nc73782386,2022-09-16T22:05:19.685Z,"25km WNW of Weaverville, CA",earthquake,0.46,0.86,0.05,29,reviewed,nc,nc
-2022-09-16T11:29:49.590Z,38.7965012,-122.7521667,1.13,1.07,md,19,93,0.007192,0.04,nc,nc73782376,2022-09-16T11:31:23.368Z,"2km N of The Geysers, CA",earthquake,0.25,0.4,0.26,4,automatic,nc,nc
-2022-09-16T11:16:31.249Z,-17.4118,167.5435,10,4.6,mb,25,103,1.981,0.47,us,us7000i8i3,2022-09-16T19:28:58.108Z,"Vanuatu",earthquake,7.93,1.904,0.128,18,reviewed,us,us
-2022-09-16T11:12:17.060Z,38.8346667,-122.8098333,2.91,-0.13,md,10,81,0.01126,0.01,nc,nc71129089,2022-09-16T18:33:51.364Z,"8km W of Cobb, CA",earthquake,0.42,1.55,,1,reviewed,nc,nc
-2022-09-16T11:12:04.010Z,38.6818333,-122.3721667,7.37,0.64,md,7,116,0.05658,0.13,nc,nc73782371,2022-09-16T18:33:51.223Z,"14km NNE of Angwin, CA",earthquake,0.48,1.14,0.167,8,reviewed,nc,nc
