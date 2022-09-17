@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-17T23:31:46.197Z,64.3863,-149.641,5.5,2.3,ml,,,,0.68,ak,ak022bydly2j,2022-09-17T23:33:53.343Z,"22 km WNW of Anderson, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-09-17T23:20:38.080Z,33.4505,-116.6356667,4.55,0.69,ml,27,62,0.05221,0.23,ci,ci40101863,2022-09-17T23:24:09.213Z,"12km SSE of Anza, CA",earthquake,0.3,0.53,0.178,21,automatic,ci,ci
+2022-09-17T23:14:13.170Z,35.89,-117.7275,2.36,0.82,ml,11,60,0.08676,0.22,ci,ci40101855,2022-09-17T23:17:37.367Z,"17km ESE of Little Lake, CA",earthquake,0.45,0.78,0.258,9,automatic,ci,ci
 2022-09-17T23:10:35.750Z,19.2273330688477,-155.384002685547,32.2400016784668,1.77999997,md,32,156,,0.129999995,hv,hv73142857,2022-09-17T23:13:54.430Z,"Island of Hawaii, Hawaii",earthquake,0.8,0.879999995,0.209999993,5,automatic,hv,hv
 2022-09-17T23:07:56.330Z,19.1648330688477,-155.47966003418,31.3400001525879,1.82000005,md,31,105,,0.140000001,hv,hv73142852,2022-09-17T23:11:11.420Z,"4 km S of Pāhala, Hawaii",earthquake,0.77,0.99000001,1.72000003,6,automatic,hv,hv
 2022-09-17T22:22:41.570Z,19.2596664428711,-155.38850402832,31.2299995422363,2.36,ml,43,181,,0.119999997,hv,hv73142817,2022-09-17T22:28:13.110Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.55,0.720000029,5.33,3,automatic,hv,hv
@@ -222,6 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T23:58:17.230Z,-22.2302,170.9802,45,5.6,mww,92,36,3.292,0.73,us,us7000i8pw,2022-09-17T02:01:29.056Z,"southeast of the Loyalty Islands",earthquake,10.53,1.903,0.073,18,reviewed,us,us
 2022-09-16T23:54:03.369Z,63.4199,-149.6864,109.2,1.6,ml,,,,0.3,ak,ak022bwq7fs6,2022-09-16T23:56:21.819Z,"36 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-16T23:47:18.320Z,33.7335,-116.8221667,16.48,0.75,ml,22,169,0.08993,0.1,ci,ci40101343,2022-09-17T00:00:07.331Z,"7km ESE of Valle Vista, CA",earthquake,0.34,0.43,0.124,11,reviewed,ci,ci
-2022-09-16T23:37:09.620Z,33.7203333,-116.8163333,16.77,0.98,ml,22,93,0.08565,0.09,ci,ci40101327,2022-09-16T23:49:55.550Z,"8km ESE of Valle Vista, CA",earthquake,0.27,0.29,0.148,17,reviewed,ci,ci
-2022-09-16T23:28:57.310Z,36.94,-121.039,3.77,1.81,md,45,53,0.08761,0.1,nc,nc73782551,2022-09-17T03:58:12.993Z,"21km SW of Los Banos, CA",earthquake,0.19,1.28,0.2,47,reviewed,nc,nc
-2022-09-16T23:28:25.945Z,61.6047,-150.3846,64.2,2.2,ml,,,,0.46,ak,ak022bwq1wwe,2022-09-16T23:29:51.775Z,"9 km NE of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
