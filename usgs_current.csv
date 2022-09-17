@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-17T22:08:35.146Z,59.5307,-152.9312,91.2,3,ml,,,,0.31,ak,ak022bycvk4h,2022-09-17T22:17:10.040Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-09-17T22:07:29.890Z,33.0738333,-116.408,4.2,0.74,ml,14,92,0.1479,0.14,ci,ci40101839,2022-09-17T22:10:57.203Z,"18km E of Julian, CA",earthquake,0.31,1.2,0.123,10,automatic,ci,ci
+2022-09-17T22:04:25.963Z,63.0081,-149.075,80.7,1.8,ml,,,,0.62,ak,ak022bycuokk,2022-09-17T22:06:53.554Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-17T21:39:43.380Z,33.7518333,-115.923,13.1,1.07,ml,14,111,0.0856,0.21,ci,ci40101823,2022-09-17T21:43:16.522Z,"24km ENE of Thermal, CA",earthquake,0.49,1.05,0.127,21,automatic,ci,ci
 2022-09-17T21:33:05.290Z,33.7628333,-115.9306667,9.05,1.25,ml,26,113,0.09829,0.2,ci,ci40101815,2022-09-17T21:36:35.712Z,"24km NE of Thermal, CA",earthquake,0.34,1.03,0.184,27,automatic,ci,ci
 2022-09-17T21:16:53.260Z,36.0585,-117.498,0.77,1.17,ml,10,145,0.1486,0.11,ci,ci40101807,2022-09-17T21:20:25.616Z,"34km NNW of Searles Valley, CA",earthquake,0.34,0.54,0.207,10,automatic,ci,ci
@@ -9,9 +12,10 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T20:43:02.760Z,17.9796666666667,-67.1488333333333,8.61,2.1,md,4,319,,0.04,pr,pr71372283,2022-09-17T20:50:20.000Z,"3 km E of Pole Ojea, Puerto Rico",earthquake,0.65,0.44,0.0217515571616078,4,reviewed,pr,pr
 2022-09-17T20:39:59.300Z,38.8133316,-122.8180008,2.66,0.98,md,23,52,0.009804,0.02,nc,nc73782866,2022-09-17T20:41:32.574Z,"7km NW of The Geysers, CA",earthquake,0.21,0.53,0.17,3,automatic,nc,nc
 2022-09-17T20:34:52.426Z,58.3622,-153.9244,26.1,1.6,ml,,,,1.78,ak,ak022bybuavu,2022-09-17T20:36:38.321Z,"68 km WNW of Aleneva, Alaska",earthquake,,5,,,automatic,ak,ak
-2022-09-17T20:32:01.530Z,40.3499985,-124.4488297,18.35,2.97,md,21,250,0.1288,0.12,nc,nc73782861,2022-09-17T21:01:07.548Z,"14km WNW of Petrolia, CA",earthquake,1.58,0.41,0.06,21,automatic,nc,nc
+2022-09-17T20:32:01.530Z,40.3499985,-124.4488297,18.35,2.97,md,21,250,0.1288,0.12,nc,nc73782861,2022-09-17T22:09:42.040Z,"14km WNW of Petrolia, CA",earthquake,1.58,0.41,0.06,21,automatic,nc,nc
 2022-09-17T20:29:36.370Z,19.1555004119873,-155.37483215332,31.9400005340576,1.83000004,md,31,232,,0.100000001,hv,hv73142742,2022-09-17T20:32:46.770Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.76,0.920000017,1.82000005,6,automatic,hv,hv
 2022-09-17T20:27:13.390Z,17.927,-66.8426666666667,12.61,2.31,md,5,272,,0.12,pr,pr71372278,2022-09-17T20:54:06.070Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.99,0.56,0.18944231950192,5,reviewed,pr,pr
+2022-09-17T20:18:00.848Z,55.7731,162.1766,53.805,4.4,mb,50,123,3.441,0.66,us,us7000i8wt,2022-09-17T22:00:12.040Z,"54 km SSW of Ust’-Kamchatsk Staryy, Russia",earthquake,9.59,8.12,0.083,42,reviewed,us,us
 2022-09-17T20:13:17.590Z,38.7811661,-122.7233353,1.5,0.86,md,11,141,0.01067,0.02,nc,nc73782836,2022-09-17T20:14:53.184Z,"3km WNW of Anderson Springs, CA",earthquake,0.3,0.68,0.01,3,automatic,nc,nc
 2022-09-17T20:04:57.640Z,35.6898333,-117.4925,5.77,1.85,ml,24,86,0.106,0.16,ci,ci40101783,2022-09-17T20:15:32.270Z,"12km SW of Searles Valley, CA",earthquake,0.3,1.32,0.089,26,automatic,ci,ci
 2022-09-17T19:42:26.780Z,33.7681667,-115.9415,4.36,1.66,ml,36,113,0.1075,0.23,ci,ci40101775,2022-09-17T19:53:25.330Z,"23km NE of Thermal, CA",earthquake,0.31,0.96,0.167,27,automatic,ci,ci
@@ -60,9 +64,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T15:05:02.097Z,-20.1735,-69.2025,102.245,4.2,ml,23,61,0.502,0.84,us,us7000i8vb,2022-09-17T17:02:50.680Z,"99 km E of Iquique, Chile",earthquake,4.75,6.215,,,reviewed,us,guc
 2022-09-17T15:01:24.740Z,40.5633316,-121.6474991,8.05,1.97,md,9,187,0.07185,0.05,nc,nc73782776,2022-09-17T15:35:13.054Z,"6km NNE of Viola, CA",earthquake,0.79,1.8,0.04,7,automatic,nc,nc
 2022-09-17T15:00:10.686Z,23.0867,121.2539,10,4.7,mb,25,84,0.312,1.18,us,us7000i8vi,2022-09-17T16:21:34.040Z,"81 km E of Yujing, Taiwan",earthquake,7.33,1.917,0.159,12,reviewed,us,us
-2022-09-17T14:45:27.834Z,22.9716,121.2155,10,5.5,mww,37,85,0.198,1.07,us,us7000i8v9,2022-09-17T19:25:53.055Z,"79 km ESE of Yujing, Taiwan",earthquake,4.32,1.877,0.086,13,reviewed,us,us
+2022-09-17T14:45:27.915Z,22.9618,121.1927,10,5.5,mww,51,86,0.618,0.92,us,us7000i8v9,2022-09-17T22:11:21.070Z,"Taiwan region",earthquake,4.31,0.44,0.052,35,reviewed,us,us
 2022-09-17T14:45:10.770Z,32.8291667,-117.2488333,12.3,1.29,ml,16,233,0.1036,0.15,ci,ci40101631,2022-09-17T14:48:37.863Z,"3km SE of La Jolla, CA",earthquake,0.76,1.11,0.359,13,automatic,ci,ci
-2022-09-17T14:35:13.988Z,23.0891,121.2412,10,5.1,mww,55,99,0.308,0.99,us,us7000i8v0,2022-09-17T15:24:46.730Z,"79 km E of Yujing, Taiwan",earthquake,6.51,1.863,0.093,11,reviewed,us,us
+2022-09-17T14:35:14.181Z,23.112,121.2181,10,5.1,mww,67,98,0.319,1.02,us,us7000i8v0,2022-09-17T21:59:06.940Z,"Taiwan",earthquake,5.79,1.851,0.093,11,reviewed,us,us
 2022-09-17T14:30:13.330Z,64.1612,-148.4841,126.5,2.1,ml,,,,0.53,ak,ak022by88r8f,2022-09-17T16:15:37.040Z,"34 km ENE of Ferry, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-09-17T14:26:53.790Z,38.8338333,-122.8196667,2.1,0.26,md,13,61,0.01284,0.01,nc,nc73782771,2022-09-17T17:48:06.662Z,"8km NW of The Geysers, CA",earthquake,0.27,0.52,0.31,2,reviewed,nc,nc
 2022-09-17T14:24:34.140Z,19.1959991455078,-155.487838745117,31.3799991607666,2.42,ml,43,144,,0.129999995,hv,hv73142482,2022-09-17T16:10:05.040Z,"1 km SW of Pāhala, Hawaii",earthquake,0.47,0.779999971,3.6,22,automatic,hv,hv
@@ -222,7 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T22:30:24.360Z,19.1661666666667,-155.485666666667,36.02,1.88,md,26,108,,0.1,hv,hv73141817,2022-09-16T22:42:13.890Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.74,0.101359345449091,16,reviewed,hv,hv
 2022-09-16T22:24:49.687Z,63.4017,-153.3343,0,1.6,ml,,,,0.84,ak,ak022bwpfo88,2022-09-16T22:27:00.636Z,"67 km NE of Nikolai, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-16T22:20:28.980Z,33.2898333,-116.0795,2.45,0.72,ml,18,65,0.07904,0.2,ci,ci40101311,2022-09-16T23:08:58.486Z,"12km W of Salton City, CA",earthquake,0.31,0.64,0.151,12,reviewed,ci,ci
-2022-09-16T22:14:56.700Z,35.815,-117.6438333,8.73,0.61,ml,11,78,0.03766,0.09,ci,ci40101303,2022-09-16T23:23:51.301Z,"22km N of Ridgecrest, CA",earthquake,0.2,0.46,0.049,9,reviewed,ci,ci
-2022-09-16T22:04:59.840Z,37.2786667,-121.614,2.85,0.89,md,13,69,0.05109,0.07,nc,nc73782526,2022-09-16T22:38:42.146Z,"17km NNE of Morgan Hill, CA",earthquake,0.22,0.71,0.118,13,reviewed,nc,nc
-2022-09-16T22:00:55.950Z,17.941,-67.064,5.69,2.58,md,6,248,,0.04,pr,pr71372088,2022-09-16T22:24:47.670Z,"4 km SSW of La Parguera, Puerto Rico",earthquake,0.52,0.62,0.0629934092732396,4,reviewed,pr,pr
-2022-09-16T21:56:38.390Z,40.5116667,-124.2126667,20.38,2.09,md,25,108,0.1018,0.11,nc,nc73782521,2022-09-16T23:55:13.340Z,"8km SSE of Ferndale, CA",earthquake,0.38,0.29,0.191,28,reviewed,nc,nc
