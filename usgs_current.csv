@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-17T09:40:47.420Z,19.1615009307861,-155.484161376953,34.7700004577637,1.98,ml,48,118,,0.119999997,hv,hv73142267,2022-09-17T09:46:19.100Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.75999999,4.33,9,automatic,hv,hv
+2022-09-17T10:04:10.430Z,38.8241653,-122.8529968,2.17,0.37,md,10,123,0.004534,0.02,nc,nc73782711,2022-09-17T10:05:46.244Z,"10km WNW of The Geysers, CA",earthquake,0.39,1.02,,1,automatic,nc,nc
+2022-09-17T10:03:56.890Z,60.8735,-150.9227,42.2,1.5,ml,,,,0.4,ak,ak022by5pbzd,2022-09-17T10:05:24.225Z,"13 km WSW of Point Possession, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2022-09-17T09:40:47.420Z,19.1615009307861,-155.484161376953,34.7700004577637,1.98,ml,48,118,,0.119999997,hv,hv73142267,2022-09-17T10:02:14.040Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.75999999,4.33,9,automatic,hv,hv
 2022-09-17T09:39:57.260Z,34.0153333,-117.0735,11.9,0.88,ml,28,43,0.09319,0.18,ci,ci40101567,2022-09-17T09:43:31.561Z,"4km SW of Yucaipa, CA",earthquake,0.25,0.78,0.169,23,automatic,ci,ci
 2022-09-17T09:27:37.266Z,60.0344,-152.9619,134,2,ml,,,,0.37,ak,ak022by5901q,2022-09-17T09:46:39.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-09-17T09:24:50.150Z,19.2450008392334,-155.38166809082,30.4500007629395,2.28,ml,46,141,,0.129999995,hv,hv73142252,2022-09-17T09:30:22.000Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.61,0.800000012,4.92,5,automatic,hv,hv
@@ -228,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T10:32:30.260Z,38.8134995,-122.7958298,1.76,0.84,md,8,73,0.005539,0.01,nc,nc73782361,2022-09-16T10:34:03.645Z,"5km NW of The Geysers, CA",earthquake,0.43,1.07,,1,automatic,nc,nc
 2022-09-16T10:25:31.502Z,37.0233,-116.2211,4.1,-0.1,ml,18,60.73,0.046,0.1702,nn,nn00847290,2022-09-16T21:41:23.904Z,"49 km ENE of Beatty, Nevada",earthquake,,2,1.14,12,reviewed,nn,nn
 2022-09-16T10:12:53.934Z,64.1819,-149.9527,10.5,2.1,ml,,,,0.92,ak,ak022bwi7wpd,2022-09-16T10:14:55.684Z,"38 km WSW of Clear, Alaska, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-09-16T10:03:24.120Z,38.8231659,-122.8040009,2.61,0.94,md,14,60,0.004749,0.02,nc,nc73782356,2022-09-16T10:04:58.795Z,"7km NW of The Geysers, CA",earthquake,0.32,0.52,0.23,3,automatic,nc,nc
-2022-09-16T10:00:46.590Z,35.1831667,-116.3223333,4.13,2.09,ml,19,49,0.1835,0.07,ci,ci40100983,2022-09-16T23:17:29.531Z,"24km WSW of Baker, CA",earthquake,0.12,0.62,0.145,38,reviewed,ci,ci
-2022-09-16T09:53:27.671Z,44.95,-112.9665,10.259,1.4,ml,16,79,0.148,0.31,us,us7000i8hx,2022-09-16T11:15:19.040Z,"Idaho-Montana border region",earthquake,2.42,8.103,0.077,22,reviewed,us,us
