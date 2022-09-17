@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-17T21:39:43.490Z,33.7693329,-115.9313354,10.24,1.15,ml,16,162,0.1042,0.17,ci,ci40101823,2022-09-17T21:42:00.750Z,"24km NE of Thermal, CA",earthquake,0.88,1.52,0.048,5,automatic,ci,ci
+2022-09-17T21:33:05.290Z,33.7628333,-115.9306667,9.05,1.25,ml,26,113,0.09829,0.2,ci,ci40101815,2022-09-17T21:36:35.712Z,"24km NE of Thermal, CA",earthquake,0.34,1.03,0.184,27,automatic,ci,ci
 2022-09-17T21:16:53.260Z,36.0585,-117.498,0.77,1.17,ml,10,145,0.1486,0.11,ci,ci40101807,2022-09-17T21:20:25.616Z,"34km NNW of Searles Valley, CA",earthquake,0.34,0.54,0.207,10,automatic,ci,ci
 2022-09-17T21:15:31.870Z,19.4978332519531,-155.491500854492,2.96000003814697,1.73000002,md,22,68,,0.159999996,hv,hv73142772,2022-09-17T21:18:40.220Z,"27 km WNW of Volcano, Hawaii",earthquake,0.47,1.28999996,0.879999995,10,automatic,hv,hv
 2022-09-17T20:51:18.100Z,33.6825,-116.7218333,14.81,0.53,ml,18,61,0.0293,0.16,ci,ci40101799,2022-09-17T20:54:51.517Z,"6km S of Idyllwild, CA",earthquake,0.44,0.59,0.181,9,automatic,ci,ci
@@ -26,6 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-17T18:51:18.620Z,33.7613333,-115.9398333,4.94,1.47,ml,35,102,0.1011,0.26,ci,ci40101687,2022-09-17T19:02:24.380Z,"23km NE of Thermal, CA",earthquake,0.36,1.04,0.169,26,automatic,ci,ci
 2022-09-17T18:46:01.250Z,33.4688339,-116.4335022,13.63,0.93,ml,18,77,0.05481,0.22,ci,ci40101679,2022-09-17T18:49:26.581Z,"24km ESE of Anza, CA",earthquake,0.54,1.52,0.164,5,automatic,ci,ci
 2022-09-17T18:43:48.290Z,33.7561667,-115.932,9.84,1.1,ml,17,111,0.09317,0.24,ci,ci40101671,2022-09-17T18:47:25.075Z,"23km NE of Thermal, CA",earthquake,0.46,1.35,0.144,23,automatic,ci,ci
+2022-09-17T18:41:40.218Z,35.3577,25.8312,10,4.1,mb,40,93,0.773,0.82,us,us7000i8wb,2022-09-17T21:31:09.040Z,"Crete, Greece",earthquake,5.36,1.906,0.114,25,reviewed,us,us
 2022-09-17T18:38:11.700Z,38.4861667,-112.8456667,0.52,1.33,ml,8,189,0.008337,0.15,uu,uu60515362,2022-09-17T19:37:45.870Z,"17 km NE of Milford, Utah",earthquake,0.77,31.61,0.571,3,reviewed,uu,uu
 2022-09-17T18:37:56.373Z,60.1758,-152.3724,35.3,1.9,ml,,,,1.18,ak,ak022byao28t,2022-09-17T18:40:41.359Z,"41 km WNW of Ninilchik, Alaska",earthquake,,11.1,,,automatic,ak,ak
 2022-09-17T18:31:25.600Z,18.5335,146.5852,80.94,4.9,mb,147,81,5.186,0.6,us,us7000i8wa,2022-09-17T21:09:23.040Z,"Pagan region, Northern Mariana Islands",earthquake,10.13,6.648,0.051,133,reviewed,us,us
@@ -223,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-16T22:00:55.950Z,17.941,-67.064,5.69,2.58,md,6,248,,0.04,pr,pr71372088,2022-09-16T22:24:47.670Z,"4 km SSW of La Parguera, Puerto Rico",earthquake,0.52,0.62,0.0629934092732396,4,reviewed,pr,pr
 2022-09-16T21:56:38.390Z,40.5116667,-124.2126667,20.38,2.09,md,25,108,0.1018,0.11,nc,nc73782521,2022-09-16T23:55:13.340Z,"8km SSE of Ferndale, CA",earthquake,0.38,0.29,0.191,28,reviewed,nc,nc
 2022-09-16T21:48:40.150Z,38.757,-122.7351685,1.65,0.92,md,12,106,0.008474,0.04,nc,nc73782516,2022-09-16T21:58:03.682Z,"3km SE of The Geysers, CA",earthquake,0.41,0.27,0.09,5,automatic,nc,nc
-2022-09-16T21:39:18.000Z,19.2243328094482,-155.380996704102,32.4000015258789,2.00999999,md,36,154,,0.159999996,hv,hv73141797,2022-09-16T21:44:55.580Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.69,1.17999995,1.22000003,16,automatic,hv,hv
-2022-09-16T21:38:00.270Z,38.8363333,-122.7955,2.53,0.51,md,18,66,0.004529,0.02,nc,nc73782511,2022-09-16T22:11:39.576Z,"6km WNW of Cobb, CA",earthquake,0.25,0.61,0.062,2,reviewed,nc,nc
-2022-09-16T21:30:07.160Z,38.8349991,-122.7946701,2.09,1.04,md,25,67,0.004797,0.02,nc,nc73782506,2022-09-16T21:31:43.265Z,"6km WNW of Cobb, CA",earthquake,0.19,0.39,0.13,5,automatic,nc,nc
