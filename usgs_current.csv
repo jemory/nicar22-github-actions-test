@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-18T17:38:42.664Z,61.0771,-150.6992,49,1.4,ml,,,,0.45,ak,ak022bzxm6oa,2022-09-18T17:40:25.704Z,"17 km N of Point Possession, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-09-18T17:19:12.592Z,64.4466,-149.3714,11.3,1,ml,,,,0.46,ak,ak022bzxi1qz,2022-09-18T17:21:31.921Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-09-18T17:12:43.220Z,33.188,-116.7148333,7.15,0.82,ml,26,59,0.05773,0.24,ci,ci40102511,2022-09-18T17:16:18.526Z,"8km SE of Lake Henshaw, CA",earthquake,0.36,0.88,0.145,17,automatic,ci,ci
 2022-09-18T16:36:45.119Z,63.2994,-151.5553,5,1.9,ml,,,,1.1,ak,ak022bzx0btr,2022-09-18T16:39:06.218Z,"28 km SSE of Denali National Park, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-18T15:31:01.910Z,37.8601685,-122.245163,8.07,2.03,md,39,41,0.01773,0.09,nc,nc73783201,2022-09-18T16:21:11.873Z,"3km ESE of Berkeley, CA",earthquake,0.19,0.42,0.24,32,automatic,nc,nc
 2022-09-18T15:08:33.440Z,17.9796666666667,-66.9805,7.59,2.18,md,5,169,,0.07,pr,pr71372393,2022-09-18T15:34:48.750Z,"6 km W of Fuig, Puerto Rico",earthquake,0.44,0.84,0.05981761908793,5,reviewed,pr,pr
 2022-09-18T15:06:41.428Z,35.9076,77.8658,10,4.1,mb,34,101,4.403,0.79,us,us7000i93n,2022-09-18T15:32:46.040Z,"145 km NE of Thang, India",earthquake,6.82,1.858,0.151,14,reviewed,us,us
-2022-09-18T15:02:28.360Z,33.4453333,-116.6383333,4.81,0.74,ml,29,46,0.05776,0.16,ci,ci40102471,2022-09-18T15:05:57.593Z,"13km SSE of Anza, CA",earthquake,0.22,0.78,0.125,22,automatic,ci,ci
+2022-09-18T15:02:28.360Z,33.4453333,-116.6383333,4.81,0.74,ml,29,46,0.05776,0.16,ci,ci40102471,2022-09-18T17:48:42.386Z,"13km SSE of Anza, CA",earthquake,0.22,0.78,0.125,22,reviewed,ci,ci
 2022-09-18T15:01:54.810Z,40.3311653,-122.1579971,18.53,1.92,md,10,142,0.1809,0.09,nc,nc73783186,2022-09-18T15:39:12.612Z,"18km SE of Anderson, CA",earthquake,0.78,1.64,0.2,6,automatic,nc,nc
 2022-09-18T14:59:24.679Z,63.2869,-149.2963,0,1.5,ml,,,,0.96,ak,ak022bzvycib,2022-09-18T15:01:13.694Z,"20 km SW of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-18T14:54:46.450Z,19.2223333333333,-67.1768333333333,37.36,3.28,md,10,252,,0.56,pr,pr71372388,2022-09-18T15:17:58.040Z,"Mona Passage",earthquake,3.05,16.21,0.147601650269491,9,reviewed,pr,pr
@@ -28,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-18T13:38:38.840Z,17.9438333333333,-67.0523333333333,5.13,2.11,md,5,240,,0.09,pr,pr71372358,2022-09-18T14:06:47.280Z,"3 km S of La Parguera, Puerto Rico",earthquake,0.56,0.58,0.0221576822098155,4,reviewed,pr,pr
 2022-09-18T13:13:34.320Z,38.8383331,-122.7850037,2.16,0.36,md,8,84,0.004171,0.01,nc,nc73783156,2022-09-18T13:15:07.930Z,"6km WNW of Cobb, CA",earthquake,0.53,1.29,,1,automatic,nc,nc
 2022-09-18T12:59:27.558Z,61.431,-147.2773,139.9,2.3,ml,,,,0.88,ak,ak022bzurhir,2022-09-18T13:01:46.679Z,"46 km SSE of Glacier View, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-09-18T12:55:19.720Z,44.7885,-110.8105,10.25,3.92,ml,37,35,0.02848,0.22,uu,uu60515582,2022-09-18T15:44:03.343Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.38,0.6,0.186,21,reviewed,uu,uu
+2022-09-18T12:55:19.720Z,44.7885,-110.8105,10.25,3.92,ml,37,35,0.02848,0.22,uu,uu60515582,2022-09-18T17:42:51.942Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.38,0.6,0.186,21,reviewed,uu,uu
 2022-09-18T12:47:48.069Z,63.5645,-150.8825,1.3,1.6,ml,,,,0.51,ak,ak022bzuoyie,2022-09-18T12:50:20.744Z,"41 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-18T12:41:09.970Z,19.1609992980957,-155.489166259766,35.0699996948242,1.87,md,37,122,,0.129999995,hv,hv73143447,2022-09-18T12:44:28.130Z,"Island of Hawaii, Hawaii",earthquake,0.51,1.00999999,1.87,4,automatic,hv,hv
 2022-09-18T12:38:24.409Z,28.8119,142.8288,10,4.4,mb,32,124,5.01,0.4,us,us7000i931,2022-09-18T12:59:22.040Z,"Bonin Islands, Japan region",earthquake,12.51,1.916,0.107,25,reviewed,us,us
