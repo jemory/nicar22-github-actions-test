@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-09-25T10:09:41.010Z,19.2711658477783,-155.377838134766,30.5300006866455,2.34,ml,42,173,,0.119999997,hv,hv73152542,2022-09-25T10:15:12.410Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.73,22,automatic,hv,hv
+2022-09-25T10:39:39.170Z,33.3134995,-116.3983307,10.63,1.39,ml,50,30,0.02926,0.21,ci,ci40106183,2022-09-25T10:42:01.213Z,"7km NNW of Borrego Springs, CA",earthquake,0.28,0.49,0.386,12,automatic,ci,ci
+2022-09-25T10:15:24.030Z,33.492,-116.505,9,0.59,ml,24,58,0.06884,0.16,ci,ci40106175,2022-09-25T10:19:01.175Z,"17km ESE of Anza, CA",earthquake,0.27,0.69,0.186,14,automatic,ci,ci
+2022-09-25T10:13:59.100Z,33.4896667,-116.5063333,9.12,0.54,ml,20,97,0.07072,0.18,ci,ci40106167,2022-09-25T10:17:29.070Z,"17km ESE of Anza, CA",earthquake,0.36,0.85,0.102,8,automatic,ci,ci
+2022-09-25T10:13:39.250Z,33.4943333,-116.5036667,8.67,0.58,ml,22,58,0.06701,0.2,ci,ci40106159,2022-09-25T10:17:06.068Z,"17km ESE of Anza, CA",earthquake,0.34,0.77,0.182,10,automatic,ci,ci
+2022-09-25T10:09:41.010Z,19.2711658477783,-155.377838134766,30.5300006866455,2.34,ml,42,173,,0.119999997,hv,hv73152542,2022-09-25T10:22:16.040Z,"13 km NE of Pāhala, Hawaii",earthquake,0.51,0.639999986,3.73,22,automatic,hv,hv
 2022-09-25T09:45:19.176Z,62.1625,-150.0231,12.5,1.4,ml,,,,0.66,ak,ak022cbdnlhc,2022-09-25T09:47:57.079Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-25T09:43:04.090Z,35.8408333,-118.0393333,11.72,1.29,ml,16,64,0.04696,0.13,ci,ci40106151,2022-09-25T09:46:38.592Z,"16km SW of Little Lake, CA",earthquake,0.31,0.62,0.184,17,automatic,ci,ci
 2022-09-25T09:34:05.200Z,35.7426682,-120.286499,4.85,1.26,md,18,116,0.03213,0.09,nc,nc73785676,2022-09-25T10:08:11.446Z,"2km NNE of Cholame, CA",earthquake,0.7,0.62,0.08,7,automatic,nc,nc
@@ -11,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-25T08:51:08.200Z,34.037,-117.132,3.13,0.82,ml,20,99,0.01634,0.19,ci,ci40106119,2022-09-25T08:54:39.359Z,"4km S of Mentone, CA",earthquake,0.42,0.59,0.109,20,automatic,ci,ci
 2022-09-25T08:20:45.160Z,33.4898333,-116.5098333,9.41,0.38,ml,16,114,0.06977,0.18,ci,ci40106111,2022-09-25T08:24:09.380Z,"17km ESE of Anza, CA",earthquake,0.44,0.96,0.203,8,automatic,ci,ci
 2022-09-25T08:15:05.620Z,38.4936676,-122.3206635,-0.14,2.01,md,38,47,0.07596,0.34,nc,nc73785661,2022-09-25T08:36:14.926Z,"11km NNE of Yountville, CA",earthquake,0.42,2.88,0.08,30,automatic,nc,nc
-2022-09-25T08:11:39.050Z,17.9756666666667,-66.8481666666667,17.89,2.51,md,6,257,,0.09,pr,pr71372978,2022-09-25T08:42:37.850Z,"3 km SW of Indios, Puerto Rico",earthquake,0.74,0.5,0.0437203188984958,4,reviewed,pr,pr
+2022-09-25T08:11:39.050Z,17.9756666666667,-66.8481666666667,17.89,2.51,md,6,257,,0.09,pr,pr71372978,2022-09-25T10:25:21.961Z,"3 km SW of Indios, Puerto Rico",earthquake,0.74,0.5,0.0437203188984958,4,reviewed,pr,pr
 2022-09-25T08:09:29.480Z,33.7816667,-116.1205,6.96,0.5,ml,15,92,0.08547,0.24,ci,ci40106103,2022-09-25T08:13:03.223Z,"11km NE of Indio, CA",earthquake,0.56,1.65,0.073,8,automatic,ci,ci
 2022-09-25T08:02:13.100Z,33.7798333,-116.116,0.59,0.94,ml,23,93,0.08949,0.25,ci,ci40106095,2022-09-25T08:13:03.450Z,"11km NE of Indio, CA",earthquake,0.4,31.61,0.066,24,automatic,ci,ci
 2022-09-25T08:00:35.240Z,38.7938347,-122.7789993,3.81,0.45,md,12,164,0.01653,0.02,nc,nc73785656,2022-09-25T08:02:12.414Z,"3km NW of The Geysers, CA",earthquake,0.52,1.19,0.39,2,automatic,nc,nc
@@ -120,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T19:35:08.617Z,38.1492,-117.9039,2.6,1.3,ml,11,136.19,0.346,0.1999,nn,nn00847865,2022-09-24T19:38:24.359Z,"Nevada",earthquake,,2.4,0.11,4,automatic,nn,nn
 2022-09-24T19:33:52.741Z,68.506,-148.7444,0,2.3,ml,,,,0.84,ak,ak022c9w031m,2022-09-24T19:37:22.497Z,"129 km ENE of Anaktuvuk Pass, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-09-24T19:32:55.320Z,54.1146,-165.9661,6.6,1.6,ml,,,,0.61,ak,ak022c9vzvmu,2022-09-25T02:38:37.762Z,"12 km W of Akutan, Alaska",earthquake,,0.2,,,reviewed,ak,ak
-2022-09-24T19:27:39.450Z,40.3136667,-124.7245,13.08,4.84,mw,109,228,0.2932,0.24,nc,nc73785481,2022-09-25T07:54:03.768Z,"37km W of Petrolia, CA",earthquake,0.47,0.5,,4,reviewed,nc,nc
+2022-09-24T19:27:39.450Z,40.3136667,-124.7245,13.08,4.84,mw,109,228,0.2932,0.24,nc,nc73785481,2022-09-25T10:39:50.104Z,"37km W of Petrolia, CA",earthquake,0.47,0.5,,4,reviewed,nc,nc
 2022-09-24T19:26:10.590Z,33.4901657,-116.4268341,4.86,1.41,ml,45,79,0.03316,0.17,ci,ci40105847,2022-09-24T19:37:13.770Z,"22km SSW of La Quinta, CA",earthquake,0.27,1.01,0.204,14,automatic,ci,ci
 2022-09-24T19:20:07.010Z,38.5121667,-119.5336667,3.55,2.25,md,18,61,0.04233,0.09,nc,nc73785471,2022-09-24T23:05:14.569Z,"5km W of Walker, CA",earthquake,0.2,0.56,0.231,34,reviewed,nc,nc
 2022-09-24T19:19:28.490Z,19.4125003814697,-155.355163574219,-1.02999997138977,2.4,ml,8,145,,0.360000014,hv,hv73151537,2022-09-24T21:01:20.040Z,"Island of Hawaii, Hawaii",earthquake,1.15,1.13,2.81,11,automatic,hv,hv
@@ -212,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-24T11:27:33.180Z,32.94,-115.5443333,3.19,1.34,ml,14,94,0.04082,0.21,ci,ci40105535,2022-09-24T11:31:08.922Z,"4km SSW of Brawley, CA",earthquake,0.36,0.5,0.185,24,automatic,ci,ci
 2022-09-24T10:58:27.610Z,37.8965,-122.2218333,8.76,1.4,md,64,37,0.02298,0.08,nc,nc73785326,2022-09-24T18:01:10.475Z,"4km WNW of Orinda, CA",earthquake,0.14,0.19,0.147,33,reviewed,nc,nc
 2022-09-24T10:55:03.792Z,37.2253,-117.8171,0,0.9,ml,22,194.13,0.137,0.2286,nn,nn00847846,2022-09-24T10:58:24.495Z,"California-Nevada border region",earthquake,,8.8,1.13,8,automatic,nn,nn
-2022-09-24T10:39:41.420Z,34.0491667,-117.2485,15.98,1.72,ml,61,27,0.07154,0.18,ci,ci40105527,2022-09-24T10:50:18.310Z,"1km E of Loma Linda, CA",earthquake,0.2,0.46,0.134,25,automatic,ci,ci
-2022-09-24T10:26:26.587Z,35.24337006,-97.72457886,5.384104252,1.77,ml,14,48.20553589,0.09781773388,0.4634708213,ok,ok2022ssum,2022-09-24T10:29:05.798Z,"1 km NE of Bridge Creek, Oklahoma",earthquake,3.245946192,5.031186636,,12,automatic,ok,ok
