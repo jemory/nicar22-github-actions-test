@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-29T15:00:06.710Z,35.7278328,-117.5503311,10.12,1.55,ml,15,68,0.09574,0.13,ci,ci40353064,2022-09-29T15:02:21.842Z,"14km WSW of Searles Valley, CA",earthquake,0.38,0.77,0.227,8,automatic,ci,ci
 2022-09-29T14:22:29.583Z,38.1896,-117.8122,10.2,1.9,ml,16,133.24,0.126,0.3266,nn,nn00848173,2022-09-29T14:25:50.700Z,"34 km SE of Mina, Nevada",earthquake,,0.4,0.32,11,automatic,nn,nn
 2022-09-29T14:16:14.460Z,19.4678325653076,-155.591995239258,-1.63999998569489,2.14,ml,30,57,,0.349999994,hv,hv73158812,2022-09-29T14:21:44.440Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.6,0.50999999,3.37,7,automatic,hv,hv
 2022-09-29T14:12:09.920Z,19.1943340301514,-155.488159179688,32.6599998474121,2.91,ml,48,75,,0.109999999,hv,hv73158807,2022-09-29T14:40:21.040Z,"1 km SW of Pāhala, Hawaii",earthquake,0.44,0.670000017,3.61,30,automatic,hv,hv
@@ -8,7 +9,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-29T13:54:23.110Z,38.8363342,-122.809166,2.25,0.36,md,12,107,0.01294,0.01,nc,nc73787221,2022-09-29T13:55:57.101Z,"8km WNW of Cobb, CA",earthquake,0.34,0.96,,1,automatic,nc,nc
 2022-09-29T13:52:19.280Z,19.4898338317871,-155.662826538086,0.379999995231628,1.75999999,md,15,71,,0.140000001,hv,hv73158797,2022-09-29T13:57:50.100Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.43,1.44000006,1.75999999,4,automatic,hv,hv
 2022-09-29T13:45:41.200Z,38.845665,-122.8184967,1.86,0.86,md,9,95,0.009748,0.02,nc,nc73787216,2022-09-29T13:47:17.017Z,"9km WNW of Cobb, CA",earthquake,0.47,0.94,,1,automatic,nc,nc
-2022-09-29T13:42:45.240Z,38.8441658,-122.8156662,1.51,1.53,md,29,45,0.01207,0.02,nc,nc73787211,2022-09-29T14:07:11.195Z,"8km WNW of Cobb, CA",earthquake,0.18,0.3,0.09,8,automatic,nc,nc
+2022-09-29T13:42:45.240Z,38.8441658,-122.8156662,1.51,1.53,md,29,45,0.01207,0.02,nc,nc73787211,2022-09-29T14:51:12.456Z,"8km WNW of Cobb, CA",earthquake,0.18,0.3,0.09,8,automatic,nc,nc
 2022-09-29T13:40:14.560Z,38.8446655,-122.8176651,0.87,1.18,md,15,66,0.01092,0.03,nc,nc73787206,2022-09-29T14:25:11.298Z,"9km WNW of Cobb, CA",earthquake,0.23,0.48,0.01,3,automatic,nc,nc
 2022-09-29T13:39:14.630Z,38.8446655,-122.8168335,0.9,0.72,md,15,63,0.0112,0.03,nc,nc73787201,2022-09-29T13:40:51.715Z,"8km WNW of Cobb, CA",earthquake,0.25,0.42,0.14,2,automatic,nc,nc
 2022-09-29T13:37:00.670Z,33.2195,-116.7258333,10.54,0.85,ml,25,35,0.03212,0.23,ci,ci40353040,2022-09-29T13:40:38.505Z,"4km SE of Lake Henshaw, CA",earthquake,0.35,0.58,0.121,21,automatic,ci,ci
@@ -85,13 +86,13 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-29T06:36:03.332Z,53.7514,-35.0969,10,4.8,mb,77,82,10.248,0.87,us,us6000ip8a,2022-09-29T07:04:01.040Z,"Reykjanes Ridge",earthquake,5.33,1.819,0.039,204,reviewed,us,us
 2022-09-29T06:32:26.220Z,33.2395,-115.9653333,1.47,1.24,ml,33,52,0.06665,0.26,ci,ci40352896,2022-09-29T06:42:59.900Z,"7km S of Salton City, CA",earthquake,0.33,0.79,0.171,26,automatic,ci,ci
 2022-09-29T06:11:20.060Z,37.4908333,-118.844,6.15,0.88,md,14,241,0.09973,0.04,nc,nc73787101,2022-09-29T07:02:07.097Z,"16km WSW of Toms Place, CA",earthquake,0.78,1.57,0.172,12,reviewed,nc,nc
-2022-09-29T06:06:16.350Z,35.708,-117.505,6,0.56,ml,7,182,0.1312,0.17,ci,ci40352888,2022-09-29T06:09:47.106Z,"11km SW of Searles Valley, CA",earthquake,0.8,4.08,0.062,7,automatic,ci,ci
+2022-09-29T06:06:16.180Z,35.7068333,-117.4995,8.77,0.58,ml,17,90,0.1185,0.21,ci,ci40352888,2022-09-29T14:54:46.649Z,"11km SW of Searles Valley, CA",earthquake,0.41,1.1,0.087,7,reviewed,ci,ci
 2022-09-29T05:58:12.440Z,37.4944992,-118.8485031,4.72,1.78,md,18,190,0.0966,0.03,nc,nc73787096,2022-09-29T07:05:17.763Z,"17km WSW of Toms Place, CA",earthquake,0.7,1.73,0.06,18,automatic,nc,nc
 2022-09-29T05:49:40.990Z,38.7729988,-122.7689972,0.69,0.54,md,8,165,0.00341,0.06,nc,nc73787086,2022-09-29T05:51:15.032Z,"1km WSW of The Geysers, CA",earthquake,0.43,0.76,0.38,2,automatic,nc,nc
 2022-09-29T05:43:12.447Z,-19.818,169.8005,269.122,4.1,mb,21,106,3.544,0.56,us,us6000ip7k,2022-09-29T06:02:51.040Z,"62 km ESE of Isangel, Vanuatu",earthquake,9.31,8.092,0.139,16,reviewed,us,us
 2022-09-29T05:38:52.147Z,53.735,-35.2245,10,4.6,mb,48,176,9.241,0.5,us,us6000ip7w,2022-09-29T08:06:00.040Z,"Reykjanes Ridge",earthquake,5.09,1.948,0.063,74,reviewed,us,us
 2022-09-29T05:33:29.230Z,62.9565,-151.2201,13.2,2.1,ml,,,,1.08,ak,ak022chxcp8b,2022-09-29T05:35:54.066Z,"56 km NNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-09-29T05:29:05.960Z,35.6358333,-117.4841667,0.27,1.16,ml,12,165,0.1475,0.17,ci,ci40352880,2022-09-29T05:32:40.771Z,"16km SSW of Searles Valley, CA",earthquake,0.47,31.61,0.13,12,automatic,ci,ci
+2022-09-29T05:29:05.980Z,35.6408333,-117.4666667,4.99,1.21,ml,24,91,0.1425,0.14,ci,ci40352880,2022-09-29T14:50:29.386Z,"15km SSW of Searles Valley, CA",earthquake,0.17,0.67,0.131,12,reviewed,ci,ci
 2022-09-29T05:26:34.320Z,38.8361664,-122.8071671,1.91,1.35,md,25,52,0.01295,0.02,nc,nc73787081,2022-09-29T06:13:13.728Z,"7km WNW of Cobb, CA",earthquake,0.19,0.39,0.09,5,automatic,nc,nc
 2022-09-29T04:55:19.246Z,62.0402,-148.4025,28.6,2,ml,,,,1.01,ak,ak022chwvymb,2022-09-29T04:58:22.395Z,"27 km N of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-09-29T04:54:23.760Z,44.7871667,-110.8046667,7.54,1.15,ml,15,99,0.03266,0.2,uu,uu60518422,2022-09-29T13:23:13.070Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.53,0.94,0.469,3,reviewed,uu,uu
@@ -245,5 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-28T15:07:30.360Z,53.8608333333333,-166.807333333333,7.08,1.79,ml,8,134,,0.15,av,av91686346,2022-09-28T22:18:32.740Z,"17 km W of Dutch Harbor, Alaska",earthquake,0.4,0.51,0.400951172397887,7,reviewed,av,av
 2022-09-28T15:06:58.210Z,51.7251666666667,179.876166666667,14.71,1.63,ml,4,342,,0.12,av,av91686341,2022-09-28T21:50:16.950Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,2.21,0.6,0.141986592307581,4,reviewed,av,av
 2022-09-28T15:05:58.860Z,38.8404999,-122.8391647,1.76,1.14,md,21,115,0.003448,0.02,nc,nc73786796,2022-09-28T15:41:13.207Z,"10km NW of The Geysers, CA",earthquake,0.22,0.4,0.08,4,automatic,nc,nc
-2022-09-28T15:00:35.340Z,41.7338333,-112.2283333,7.81,0.98,md,8,82,0.1426,0.1,uu,uu60518312,2022-09-28T15:55:27.220Z,"Utah",earthquake,0.53,2.64,0.164,5,reviewed,uu,uu
-2022-09-28T14:52:06.180Z,37.4918333,-118.8461667,4.75,0.96,md,18,126,0.09896,0.02,nc,nc73786791,2022-09-28T16:12:26.850Z,"17km WSW of Toms Place, CA",earthquake,0.33,1.54,0.146,13,reviewed,nc,nc
