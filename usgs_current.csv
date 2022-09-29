@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-29T09:57:03.180Z,32.8136667,-117.4596667,14.49,1.25,ml,10,277,0.3195,0.15,ci,ci40352952,2022-09-29T10:00:38.924Z,"18km WSW of La Jolla, CA",earthquake,0.83,1.75,0.108,4,automatic,ci,ci
+2022-09-29T09:56:31.930Z,33.093,-116.6315,13.09,1.48,ml,41,35,0.03092,0.23,ci,ci40352944,2022-09-29T10:00:14.369Z,"3km WNW of Julian, CA",earthquake,0.29,0.63,0.201,26,automatic,ci,ci
+2022-09-29T09:49:05.100Z,19.4564990997314,-155.601669311523,-1.88999998569489,1.83,ml,18,86,,0.360000014,hv,hv73158502,2022-09-29T09:54:36.500Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.6,0.430000007,0.69,6,automatic,hv,hv
 2022-09-29T09:42:32.770Z,19.2058334350586,-155.466171264648,32.0999984741211,1.85000002,md,36,100,,0.140000001,hv,hv73158487,2022-09-29T09:45:53.590Z,"1 km ENE of Pāhala, Hawaii",earthquake,0.56,0.949999988,0.610000014,3,automatic,hv,hv
 2022-09-29T09:37:02.440Z,33.3176667,-116.2055,3.76,1.17,ml,42,89,0.09789,0.24,ci,ci40352936,2022-09-29T09:40:39.696Z,"17km ENE of Borrego Springs, CA",earthquake,0.32,1.17,0.189,27,automatic,ci,ci
 2022-09-29T09:33:32.270Z,33.5336667,-116.4523333,4.84,1.8,ml,66,33,0.02449,0.19,ci,ci40352928,2022-09-29T09:44:29.820Z,"20km SW of La Quinta, CA",earthquake,0.17,0.5,0.157,26,automatic,ci,ci
@@ -232,8 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-28T10:24:17.677Z,31.72265711,-104.3061944,6.491479492,2,ml,26,61,0.0516893181,0.2,tx,tx2022tack,2022-09-28T15:50:50.640Z,"50 km S of Whites City, New Mexico",earthquake,0.7635831228999999,0.8539347069,0.1,14,reviewed,tx,tx
 2022-09-28T10:05:48.191Z,62.2158,-149.3336,31.4,1.7,ml,,,,0.42,ak,ak022cgcmk6b,2022-09-28T10:07:38.730Z,"27 km ENE of Susitna North, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-09-28T10:03:05.525Z,53.7744,-35.1601,9.782,5.1,mww,80,59,9.228,0.57,us,us6000iny7,2022-09-28T10:22:15.040Z,"Reykjanes Ridge",earthquake,10.21,5.061,0.05,38,reviewed,us,us
-2022-09-28T10:00:26.380Z,33.3178333,-116.765,11.85,1.17,ml,54,26,0.0818,0.16,ci,ci40107967,2022-09-28T17:53:43.302Z,"8km N of Lake Henshaw, CA",earthquake,0.14,0.53,0.119,28,reviewed,ci,ci
-2022-09-28T09:58:56.810Z,38.0705,-121.9991667,16.53,2.06,md,85,45,0.0455,0.18,nc,nc73786741,2022-09-28T21:59:33.642Z,"6km NW of Bay Point, CA",earthquake,0.19,0.35,0.144,78,reviewed,nc,nc
-2022-09-28T09:53:42.390Z,32.8173333,-116.1695,8.83,1.12,ml,24,82,0.066,0.23,ci,ci40107959,2022-09-28T13:24:55.710Z,"19km WNW of Ocotillo, CA",earthquake,0.38,1.04,0.133,19,reviewed,ci,ci
-2022-09-28T09:53:12.128Z,-3.1275,-77.0017,58.52,4.4,mb,33,108,1.919,0.85,us,us6000iny1,2022-09-29T03:32:45.040Z,"73 km WNW of Alianza Cristiana, Peru",earthquake,8.42,11.972,0.106,26,reviewed,us,us
-2022-09-28T09:50:58.178Z,53.8747,-35.2537,10,4.7,mb,43,127,9.114,0.85,us,us6000iny6,2022-09-28T10:16:54.040Z,"Reykjanes Ridge",earthquake,11.6,1.906,0.089,38,reviewed,us,us
