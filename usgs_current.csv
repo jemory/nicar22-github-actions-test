@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T05:54:03.342Z,59.9782,-152.6988,96,1.7,ml,,,,0.68,ak,ak022cq75vqm,2022-10-04T05:56:58.771Z,"53 km WNW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-10-04T05:42:10.520Z,40.4951668,-124.3083344,17.63,1.33,md,7,287,0.163,0.09,nc,nc73789206,2022-10-04T05:58:12.646Z,"10km SSW of Ferndale, CA",earthquake,3.49,1.32,,1,automatic,nc,nc
+2022-10-04T05:40:17.470Z,38.8413315,-122.878334,2.55,0.39,md,11,139,0.005061,0.02,nc,nc73789201,2022-10-04T05:41:51.135Z,"13km ENE of Cloverdale, CA",earthquake,0.37,0.55,0.23,3,automatic,nc,nc
 2022-10-04T05:23:47.210Z,19.4869995117188,-155.580169677734,-0.860000014305115,1.87,md,10,120,,0.129999995,hv,hv73166317,2022-10-04T05:26:44.260Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.49,0.519999981,1.27999997,6,automatic,hv,hv
-2022-10-04T05:23:08.130Z,33.2815,-116.1553333,10.43,1.58,ml,53,31,0.1212,0.24,ci,ci40355352,2022-10-04T05:26:51.489Z,"16km N of Ocotillo Wells, CA",earthquake,0.29,0.83,0.161,27,automatic,ci,ci
+2022-10-04T05:23:08.130Z,33.2815,-116.1553333,10.43,1.58,ml,53,31,0.1212,0.24,ci,ci40355352,2022-10-04T05:34:13.750Z,"16km N of Ocotillo Wells, CA",earthquake,0.29,0.83,0.161,27,automatic,ci,ci
+2022-10-04T05:13:54.736Z,1.8061,-77.2781,129.519,4.8,mb,89,97,1.196,0.61,us,us6000iqmd,2022-10-04T05:30:18.040Z,"Colombia",earthquake,7.91,7.175,0.025,485,reviewed,us,us
 2022-10-04T05:09:45.364Z,62.0642,-149.9777,46.7,1.4,ml,,,,0.81,ak,ak022cq6wbrc,2022-10-04T05:11:32.489Z,"12 km SSW of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-04T05:05:16.750Z,60.1102,-150.4148,34.1,1.7,ml,,,,0.32,ak,ak022cq6ve2k,2022-10-04T05:07:39.397Z,"41 km NE of Fox River, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-04T04:52:13.695Z,-8.122,120.5496,10,4.7,mb,23,89,1.747,0.35,us,us6000iqm9,2022-10-04T05:06:09.040Z,"54 km N of Ruteng, Indonesia",earthquake,5.89,1.768,0.152,13,reviewed,us,us
@@ -259,7 +263,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T08:55:53.405Z,64.8384,-146.8286,18.9,1.5,ml,,,,0.63,ak,ak022colf5n0,2022-10-03T08:58:28.571Z,"5 km SSE of Pleasant Valley, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-03T08:48:28.540Z,19.199333190918,-155.376495361328,33.939998626709,1.85000002,md,43,163,,0.119999997,hv,hv73165257,2022-10-03T08:51:40.310Z,"Island of Hawaii, Hawaii",earthquake,0.67,0.99000001,1.14999998,8,automatic,hv,hv
 2022-10-03T08:42:25.750Z,19.0495,-64.2831,27,3.55,md,7,309,0.9692,0.23,pr,pr2022276001,2022-10-03T09:14:19.168Z,"96 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,1.76,15.9,0.09,4,reviewed,pr,pr
-2022-10-03T08:24:33.660Z,33.8696667,-117.7646667,4.27,3.08,ml,142,19,0.04589,0.25,ci,ci40354936,2022-10-04T05:20:23.603Z,"5km ESE of Yorba Linda, CA",earthquake,0.12,0.38,0.178,196,reviewed,ci,ci
+2022-10-03T08:24:33.660Z,33.8696667,-117.7646667,4.27,3.08,ml,142,19,0.04589,0.25,ci,ci40354936,2022-10-04T05:42:14.511Z,"5km ESE of Yorba Linda, CA",earthquake,0.12,0.38,0.178,196,reviewed,ci,ci
 2022-10-03T08:20:18.560Z,35.8301667,-119.9945,10.54,1.4,md,24,211,0.1432,0.14,nc,nc73788766,2022-10-03T23:08:13.088Z,"20km S of Kettleman City, CA",earthquake,0.65,0.84,0.142,16,reviewed,nc,nc
 2022-10-03T08:07:54.498Z,9.901,126.0103,69.444,5,mb,86,85,2.845,0.92,us,us6000iqdi,2022-10-03T11:29:13.435Z,"3 km ENE of Libas, Philippines",earthquake,9.58,6.462,0.04,197,reviewed,us,us
 2022-10-03T08:04:42.636Z,-22.7329,-70.4474,26.097,4.3,mb,50,141,0.809,0.69,us,us6000iqdh,2022-10-03T13:24:19.040Z,"Near the coast of Antofagasta, Chile",earthquake,4.12,6.547,0.093,33,reviewed,us,us
@@ -286,14 +290,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T06:16:26.150Z,32.9686667,-115.8898333,11.76,2.71,ml,65,27,0.05681,0.24,ci,ci40354880,2022-10-03T19:45:02.090Z,"26km WSW of Westmorland, CA",earthquake,0.21,0.49,0.168,26,reviewed,ci,ci
 2022-10-03T06:07:54.663Z,31.59933663,-103.9843573,7.442675781,2.8,ml,17,52,0.1386123527,0.2,tx,tx2022tixn,2022-10-03T09:24:20.960Z,"36 km NNW of Toyah, Texas",earthquake,0.9497901908,2.122219758,0.2,9,reviewed,tx,tx
 2022-10-03T06:06:29.589Z,31.60644331,-103.9894999,10.55334473,2.1,ml,50,51,0.01813308304,0.2,tx,tx2022tixl,2022-10-03T12:10:21.898Z,"western Texas",earthquake,0.5664540672,0.6435721465,0.1,27,reviewed,tx,tx
-2022-10-03T06:03:04.224Z,61.5261,-148.0298,5,1.4,ml,,,,1.17,ak,ak022cojx1fb,2022-10-03T06:05:42.311Z,"37 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-03T05:57:15.700Z,33.4876667,-116.4593333,12.69,0.29,ml,18,75,0.04539,0.13,ci,ci40354872,2022-10-03T19:30:51.628Z,"21km ESE of Anza, CA",earthquake,0.32,0.74,0.123,7,reviewed,ci,ci
-2022-10-03T05:56:47.970Z,33.4996667,-116.4738333,12.38,-0.08,ml,10,240,0.07488,0.08,ci,ci37453580,2022-10-03T19:33:11.026Z,"20km ESE of Anza, CA",earthquake,0.41,0.66,0.098,4,reviewed,ci,ci
-2022-10-03T05:55:47.370Z,33.4883333,-116.462,14.17,0.58,ml,16,75,0.04629,0.15,ci,ci37453572,2022-10-03T19:25:11.975Z,"21km ESE of Anza, CA",earthquake,0.4,0.95,0.106,11,reviewed,ci,ci
-2022-10-03T05:55:39.210Z,33.4845,-116.4648333,13.92,0.9,ml,39,68,0.05074,0.14,ci,ci40354864,2022-10-03T19:17:49.250Z,"21km ESE of Anza, CA",earthquake,0.21,0.33,0.124,23,reviewed,ci,ci
-2022-10-03T05:48:14.190Z,58.2428333333333,-155.077833333333,24.17,-0.03,ml,13,100,,0.15,av,av91688621,2022-10-03T21:44:13.010Z,"83 km NNW of Karluk, Alaska",earthquake,0.5,0.71,0.298996654338423,12,reviewed,av,av
-2022-10-03T05:47:15.177Z,-18.828,-177.6711,609.062,4.3,mb,41,58,3.288,0.73,us,us6000iqcn,2022-10-03T09:23:24.040Z,"Fiji region",earthquake,10.83,8.556,0.102,27,reviewed,us,us
-2022-10-03T05:45:10.660Z,44.4398333,-111.0865,18.19,0.62,ml,11,155,0.1663,0.21,uu,uu60519017,2022-10-03T14:08:21.780Z,"22 km E of Island Park, Idaho",earthquake,1.63,2.73,0.205,2,reviewed,uu,uu
-2022-10-03T05:41:37.021Z,38.1681,-117.8497,6.6,0.8,ml,13,141.93,0.091,0.1112,nn,nn00848458,2022-10-03T22:02:13.778Z,"33 km SE of Mina, Nevada",earthquake,,2.3,0.4,3,reviewed,nn,nn
-2022-10-03T05:36:53.230Z,19.182,-65.5026666666667,47.85,3.37,md,15,264,,0.27,pr,pr71374348,2022-10-03T06:08:20.480Z,"90 km NNE of Vieques, Puerto Rico",earthquake,2.77,8.49,0.0567894761742795,6,reviewed,pr,pr
-2022-10-03T05:34:36.268Z,-6.4355,129.9799,127.542,4.4,mb,26,106,2.019,0.6,us,us6000iqcl,2022-10-03T06:13:32.040Z,"Banda Sea",earthquake,5.94,9.028,0.127,18,reviewed,us,us
