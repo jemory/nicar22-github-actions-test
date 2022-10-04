@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-04T09:03:21.643Z,60.9581,-150.193,40.5,1.2,ml,,,,0.19,ak,ak022cq98q1w,2022-10-04T09:04:38.781Z,"Kenai Peninsula, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-04T08:24:58.340Z,19.4643325805664,-155.637664794922,0.140000000596046,1.96000004,md,33,70,,0.319999993,hv,hv73166417,2022-10-04T08:30:28.280Z,"23 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.53,1.10000002,0.579999983,13,automatic,hv,hv
 2022-10-04T08:17:12.766Z,62.6537,-152.1716,0,1.5,ml,,,,1.18,ak,ak022cq8q9sc,2022-10-04T08:19:59.229Z,"74 km WNW of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-04T08:09:12.052Z,59.2571,-135.4406,8.8,1.8,ml,,,,0.67,ak,ak022cq8ok2v,2022-10-04T08:11:54.178Z,"2 km N of Haines, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -162,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T17:52:56.720Z,19.4465,-155.594833333333,-1.45,1.37,md,9,89,,0.08,hv,hv73165802,2022-10-03T21:24:48.340Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.34,0.129596052919155,6,reviewed,hv,hv
 2022-10-03T17:50:23.410Z,40.4263333,-121.272,4.42,1.16,md,11,75,0.1915,0.09,nc,nc73788971,2022-10-03T19:59:12.865Z,"14km NNW of Chester, CA",earthquake,0.5,2.97,0.16,8,reviewed,nc,nc
 2022-10-03T17:45:55.846Z,61.7076,-150.9119,64.2,1.6,ml,,,,0.44,ak,ak022coqpx40,2022-10-03T17:47:45.261Z,"27 km NW of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-10-03T17:42:50.560Z,60.4258333333333,-152.767333333333,11.66,-0.3,ml,7,180,,0.11,av,av91073563,2022-10-04T00:15:10.990Z,"Southern Alaska",earthquake,0.75,0.57,0.236514513816258,7,reviewed,av,av
+2022-10-03T17:42:50.560Z,60.4258333333333,-152.767333333333,11.66,-0.3,ml,7,180,,0.11,av,av91073563,2022-10-04T00:15:10.990Z,"73 km NW of Ninilchik, Alaska",earthquake,0.75,0.57,0.236514513816258,7,reviewed,av,av
 2022-10-03T17:32:27.770Z,17.9616666666667,-66.8205,16.53,2.07,md,9,205,,0.09,pr,pr71374523,2022-10-03T17:52:32.860Z,"3 km S of Indios, Puerto Rico",earthquake,0.91,0.72,0.0893897422417618,9,reviewed,pr,pr
 2022-10-03T17:29:48.600Z,19.1621666666667,-155.4785,34.4,1.82,md,34,112,,0.13,hv,hv73165777,2022-10-03T22:05:00.590Z,"4 km S of Pāhala, Hawaii",earthquake,0.57,0.77,0.186449646240372,21,reviewed,hv,hv
 2022-10-03T17:23:41.535Z,61.0669,-148.4714,0,1.6,ml,,,,0.83,ak,ak022coql695,2022-10-03T17:25:57.202Z,"34 km NNE of Whittier, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -274,8 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-03T09:34:12.099Z,39.4144,-119.8962,6.8,0.2,ml,6,123.67,0.105,0.1182,nn,nn00848480,2022-10-04T02:39:56.536Z,"10 km ENE of Floriston, California",earthquake,,3.6,0.48,3,reviewed,nn,nn
 2022-10-03T09:22:02.330Z,36.0813333,-120.1585,6.26,1.52,md,34,202,0.1278,0.2,nc,nc73788796,2022-10-03T20:26:10.064Z,"9km NNW of Avenal, CA",earthquake,0.55,0.69,0.258,23,reviewed,nc,nc
 2022-10-03T09:19:55.250Z,18.0008333333333,-66.8496666666667,13.37,2.27,md,4,280,,0.04,pr,pr71374423,2022-10-03T10:33:20.020Z,"2 km ESE of Palomas, Puerto Rico",earthquake,0.94,0.52,0.0595906437700076,3,reviewed,pr,pr
-2022-10-03T09:17:36.890Z,33.1815,-116.0378333,7.41,2.13,ml,87,20,0.05102,0.18,ci,ci40354944,2022-10-03T21:47:52.080Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.13,0.4,0.155,25,reviewed,ci,ci
-2022-10-03T09:15:56.900Z,46.197,-122.18433333333333,0.85,0,ml,16,84,0.003302,0.09,uw,uw61876512,2022-10-04T05:18:11.610Z,"37 km NNE of Amboy, Washington",earthquake,0.27,0.2,0.22973129322215874,8,reviewed,uw,uw
-2022-10-03T09:00:20.810Z,38.8263333,-122.809,1.63,0.44,md,20,72,0.003052,0.03,nc,nc73788786,2022-10-03T16:49:45.142Z,"7km NW of The Geysers, CA",earthquake,0.2,0.45,0.049,4,reviewed,nc,nc
-2022-10-03T08:58:27.085Z,62.3597,-152.2915,123.4,2.1,ml,,,,0.36,ak,ak022colfqrk,2022-10-03T09:01:16.763Z,"62 km NW of Skwentna, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2022-10-03T08:55:53.405Z,64.8384,-146.8286,18.9,1.5,ml,,,,0.63,ak,ak022colf5n0,2022-10-03T08:58:28.571Z,"5 km SSE of Pleasant Valley, Alaska",earthquake,,0.1,,,automatic,ak,ak
