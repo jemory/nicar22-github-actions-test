@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-07T21:10:40.186Z,36.7129,-116.0642,5.6,0,ml,10,162.16,0.032,0.2404,nn,nn00848821,2022-10-07T21:13:21.026Z,"38 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.35,7,automatic,nn,nn
+2022-10-07T20:55:44.290Z,35.7526667,-118.4111667,7.13,0.88,ml,12,89,0.02892,0.18,ci,ci40357344,2022-10-07T20:59:13.672Z,"1km E of Kernville, CA",earthquake,0.41,0.78,0.073,8,automatic,ci,ci
 2022-10-07T20:46:52.156Z,58.7231,-136.7176,4.6,2.7,ml,,,,0.44,ak,ak022cventbm,2022-10-07T20:49:02.920Z,"62 km NNW of Elfin Cove, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-07T20:39:40.170Z,18.0395,-66.8926666666667,17.35,2.1,md,6,140,,0.07,pr,pr71375428,2022-10-07T20:49:06.550Z,"1 km E of Lluveras, Puerto Rico",earthquake,0.75,0.56,0.0474404905240933,6,reviewed,pr,pr
-2022-10-07T20:38:12.640Z,39.4171677,-123.4134979,5.46,1.47,md,8,74,0.07836,0.06,nc,nc73790591,2022-10-07T20:54:12.471Z,"4km SW of Brooktrails, CA",earthquake,0.37,1.38,0.08,5,automatic,nc,nc
+2022-10-07T20:38:12.640Z,39.4171677,-123.4134979,5.46,1.47,md,8,74,0.07836,0.06,nc,nc73790591,2022-10-07T21:12:10.573Z,"4km SW of Brooktrails, CA",earthquake,0.37,1.38,0.08,5,automatic,nc,nc
 2022-10-07T20:32:29.967Z,35.93608475,-97.87623596,2.099454165,1.75,ml,11,84.03662395,0.092645742,0.6778284654,ok,ok2022tria,2022-10-07T20:34:49.722Z,"5 km SSE of Dover, Oklahoma",earthquake,3.800021275,3.326118308,,9,automatic,ok,ok
 2022-10-07T20:24:48.322Z,61.8639,-147.5908,36,1.5,ml,,,,0.86,ak,ak022cvej3a8,2022-10-07T20:39:19.666Z,"7 km NNE of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-10-07T19:59:34.750Z,34.2045,-117.6256667,4.75,0.85,ml,17,73,0.04375,0.14,ci,ci40357320,2022-10-07T20:16:59.110Z,"10km NNW of Rancho Cucamonga, CA",earthquake,0.32,0.53,0.115,11,reviewed,ci,ci
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T19:39:21.747Z,58.1849,-155.3365,0.1,-0.1,ml,,,,0.92,ak,ak022cve0tda,2022-10-07T19:41:08.074Z,"86 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-10-07T19:33:36.809Z,61.8811,-147.5194,23.5,0.9,ml,,,,0.51,ak,ak022cvdzibt,2022-10-07T20:22:34.714Z,"10 km NE of Glacier View, Alaska",earthquake,,0.8,,,reviewed,ak,ak
 2022-10-07T19:32:39.130Z,17.9901666666667,-66.8233333333333,18.4,2.43,md,7,185,,0.12,pr,pr71375423,2022-10-07T19:48:29.880Z,"0 km SW of Indios, Puerto Rico",earthquake,0.59,0.9,0.0417950514423295,5,reviewed,pr,pr
-2022-10-07T19:25:41.850Z,60.7638,-151.9627,83.9,1.7,ml,,,,0.34,ak,ak022cvdxuwb,2022-10-07T19:27:18.844Z,"37 km WNW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-10-07T19:25:41.850Z,60.7638,-151.9627,83.9,1.7,ml,,,,0.34,ak,ak022cvdxuwb,2022-10-07T21:10:33.040Z,"37 km WNW of Nikiski, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-07T19:24:28.730Z,17.947,-66.5186666666667,10.82,2.32,md,7,182,,0.08,pr,pr71375413,2022-10-07T19:39:47.240Z,"5 km SSW of Potala Pastillo, Puerto Rico",earthquake,0.43,0.5,0.229722942558668,4,reviewed,pr,pr
 2022-10-07T19:01:52.695Z,38.1638,-117.9658,0.8,0.3,ml,8,142.44,0.025,0.0616,nn,nn00848817,2022-10-07T19:06:07.093Z,"28 km SSE of Mina, Nevada",earthquake,,0.1,0.28,3,automatic,nn,nn
 2022-10-07T19:00:37.700Z,38.786335,-122.7693329,1.8,0.87,md,17,82,0.01605,0.03,nc,nc73790561,2022-10-07T19:02:13.604Z,"2km NW of The Geysers, CA",earthquake,0.25,0.48,0.09,4,automatic,nc,nc
@@ -34,7 +36,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T18:09:23.864Z,31.43158913,-103.5264111,3.766430664,2.3,ml,33,54,0.02138352578,0.3,tx,tx2022trdh,2022-10-07T19:10:36.522Z,"3 km WNW of Pecos, Texas",earthquake,1.213630529,1.734121209,0,6,reviewed,tx,tx
 2022-10-07T18:01:46.910Z,43.58166666666666,-122.93583333333333,-0.53,1.03,ml,8,143,0.1265,0.15,uw,uw61877642,2022-10-07T18:32:29.840Z,"15 km SSW of Culp Creek, Oregon",explosion,0.43,31.61,0.12466668107849288,5,reviewed,uw,uw
 2022-10-07T17:49:21.440Z,19.1778335571289,-155.501831054688,33.5900001525879,2.13000011,md,35,99,,0.159999996,hv,hv73170452,2022-10-07T17:52:54.200Z,"3 km SW of Pāhala, Hawaii",earthquake,0.74,1.02999997,1.76999998,20,automatic,hv,hv
-2022-10-07T17:45:38.720Z,34.3391667,-116.847,-1.57,1.18,ml,21,59,0.01842,0.16,ci,ci40357264,2022-10-07T20:53:18.341Z,"9km N of Big Bear City, CA",quarry blast,0.33,31.61,0.094,19,reviewed,ci,ci
+2022-10-07T17:45:38.720Z,34.3391667,-116.847,-1.57,1.18,ml,21,59,0.01842,0.16,ci,ci40357264,2022-10-07T20:54:51.346Z,"9km N of Big Bear City, CA",quarry blast,0.33,31.61,0.094,19,reviewed,ci,ci
 2022-10-07T17:41:43.121Z,38.2389,-117.8337,1.7,1.1,ml,14,179.23,0.14,0.1791,nn,nn00848809,2022-10-07T17:45:08.975Z,"29 km SE of Mina, Nevada",earthquake,,2.1,0.79,9,automatic,nn,nn
 2022-10-07T17:24:51.100Z,19.1951675415039,-155.486663818359,36.810001373291,1.87,md,25,149,,0.109999999,hv,hv73170427,2022-10-07T17:27:57.330Z,"1 km SW of Pāhala, Hawaii",earthquake,0.92,1.40999997,0.800000012,3,automatic,hv,hv
 2022-10-07T17:23:15.990Z,44.534666666666666,-122.52883333333334,7.33,0.7000000000000001,ml,6,100,0.1498,0.07,uw,uw61886556,2022-10-07T18:03:36.760Z,"15 km NNW of Cascadia, Oregon",earthquake,0.25,8.3,0.10773111247338019,4,reviewed,uw,uw
@@ -45,8 +47,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T16:57:53.397Z,60.6302,-150.7647,13.1,1.5,ml,,,,0.46,ak,ak022cvccfvv,2022-10-07T16:59:35.404Z,"10 km N of Sterling, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-07T16:53:35.170Z,36.5848351,-121.1200027,5.86,1.59,md,13,129,0.05425,0.21,nc,nc73790541,2022-10-07T17:15:13.033Z,"6km NNE of Pinnacles, CA",earthquake,0.74,1.66,0.08,10,automatic,nc,nc
 2022-10-07T16:52:09.951Z,62.9219,-150.5636,88.3,1.4,ml,,,,0.31,ak,ak022cvcb9yb,2022-10-07T16:53:41.004Z,"48 km NNE of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-10-07T16:45:35.052Z,39.3616,-119.9817,0.9,1.3,ml,13,62.21,0.19,0.1728,nn,nn00848799,2022-10-07T16:48:08.554Z,"5 km SE of Floriston, California",earthquake,,8.5,0.34,10,automatic,nn,nn
-2022-10-07T16:44:19.784Z,38.1936,-117.8623,3.4,1.3,ml,10,178.33,0.094,0.2532,nn,nn00848797,2022-10-07T16:47:38.151Z,"30 km SE of Mina, Nevada",earthquake,,0.9,0.44,7,automatic,nn,nn
+2022-10-07T16:45:35.953Z,39.3535,-119.9682,6.7,1.3,ml,27,59.95,0.076,0.1426,nn,nn00848799,2022-10-07T21:00:15.134Z,"6 km SE of Floriston, California",earthquake,,1.2,0.31,9,reviewed,nn,nn
+2022-10-07T16:44:20.112Z,38.1687,-117.8913,9.6,1.2,ml,15,82.92,0.061,0.146,nn,nn00848797,2022-10-07T21:12:41.402Z,"31 km SE of Mina, Nevada",earthquake,,1.4,0.5,5,reviewed,nn,nn
 2022-10-07T16:39:16.717Z,31.71673218,-104.2975297,7.725463867,2.1,ml,33,58,0.05307720494,0.2,tx,tx2022trai,2022-10-07T18:05:29.702Z,"51 km S of Whites City, New Mexico",earthquake,0.6922157975,0.7751335267000001,0,7,reviewed,tx,tx
 2022-10-07T16:28:29.210Z,44.8081667,-110.8031667,5.58,0.66,md,8,216,0.0391,0.12,uu,uu60519667,2022-10-07T16:56:00.160Z,"20 km SSW of Mammoth, Wyoming",earthquake,1.02,0.69,0.351,7,reviewed,uu,uu
 2022-10-07T16:24:23.320Z,33.488,-116.436,14.24,0.68,ml,18,76,0.03634,0.14,ci,ci40357200,2022-10-07T19:51:24.986Z,"23km SSW of La Quinta, CA",earthquake,0.31,0.57,0.157,11,reviewed,ci,ci
@@ -87,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-07T12:58:25.810Z,44.540333333333336,-122.52533333333334,2.8,0.58,md,8,101,0.1528,0.27,uw,uw61502283,2022-10-07T16:35:16.190Z,"16 km NNW of Cascadia, Oregon",earthquake,0.49,2.72,0.07361319172388958,5,reviewed,uw,uw
 2022-10-07T12:54:22.630Z,33.1953333,-115.548,5.1,1.36,ml,29,84,0.05945,0.16,ci,ci40357152,2022-10-07T19:49:33.790Z,"6km SSW of Niland, CA",earthquake,0.27,0.45,0.215,20,reviewed,ci,ci
 2022-10-07T12:52:47.690Z,60.2365,-151.6718,52,1.2,ml,,,,0.3,ak,ak022cv9xmg1,2022-10-07T12:54:01.010Z,"15 km W of Clam Gulch, Alaska",earthquake,,2.6,,,automatic,ak,ak
-2022-10-07T12:52:36.010Z,44.540333333333336,-122.55083333333333,13.17,4.39,ml,41,47,0.1347,0.27,uw,uw61886506,2022-10-07T20:52:46.194Z,"16 km ESE of Lacomb, Oregon",earthquake,0.38,1.63,0.17083806202905638,32,reviewed,uw,uw
+2022-10-07T12:52:36.010Z,44.540333333333336,-122.55083333333333,13.17,4.39,ml,41,47,0.1347,0.27,uw,uw61886506,2022-10-07T21:13:30.895Z,"16 km ESE of Lacomb, Oregon",earthquake,0.38,1.63,0.17083806202905638,32,reviewed,uw,uw
 2022-10-07T12:51:06.880Z,17.9703333333333,-66.7801666666667,12.26,1.69,md,8,222,,0.34,pr,pr71375383,2022-10-07T13:41:43.620Z,"4 km ESE of Indios, Puerto Rico",earthquake,1.77,1.94,0.149587242691361,5,reviewed,pr,pr
 2022-10-07T12:48:58.250Z,17.9575,-66.8581666666667,18.21,1.89,md,6,275,,0.22,pr,pr71375378,2022-10-07T13:24:51.770Z,"4 km SE of Maria Antonia, Puerto Rico",earthquake,1.65,1.19,0.12200239214368,5,reviewed,pr,pr
 2022-10-07T12:45:46.830Z,35.836,-117.6591667,6.56,0.55,ml,14,104,0.05403,0.13,ci,ci40357144,2022-10-07T19:44:48.652Z,"24km N of Ridgecrest, CA",earthquake,0.28,0.46,0.164,4,reviewed,ci,ci
@@ -264,10 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-06T21:31:52.350Z,38.7906685,-122.7613297,1.66,0.87,md,16,77,0.02022,0.04,nc,nc73790276,2022-10-06T21:33:26.258Z,"2km NNW of The Geysers, CA",earthquake,0.27,0.54,0.13,4,automatic,nc,nc
 2022-10-06T21:29:56.480Z,48.08983333333333,-121.947,-0.42,1.59,ml,8,79,0.01036,0.09,uw,uw61886391,2022-10-07T16:24:47.420Z,"Puget Sound region, Washington",explosion,0.48,31.61,0.09841753744914672,6,reviewed,uw,uw
 2022-10-06T21:22:39.824Z,61.7862,-147.4805,34.9,1.2,ml,,,,1.21,ak,ak022ctrkq7t,2022-10-06T21:24:50.008Z,"9 km ESE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-10-06T21:12:39.620Z,17.9191666666667,-66.2596666666667,7.65,3.3,md,26,188,,0.28,pr,pr71375278,2022-10-06T22:36:29.674Z,"5 km SW of Central Aguirre, Puerto Rico",earthquake,0.47,0.71,0.0905312060879642,20,reviewed,pr,pr
-2022-10-06T21:12:32.310Z,47.06516666666667,-122.01366666666667,19.18,0.64,ml,11,272,0.07709,0.1,uw,uw61886386,2022-10-07T04:16:39.840Z,"3 km ESE of Carbonado, Washington",earthquake,0.53,0.68,0.13756489129193317,6,reviewed,uw,uw
-2022-10-06T21:11:25.980Z,44.55733333333333,-117.419,-1.13,1.86,ml,6,79,0.3059,0.44,uw,uw61886381,2022-10-07T04:09:17.000Z,"25 km NNW of Huntington, Oregon",explosion,1.62,31.61,0.08258522580426064,4,reviewed,uw,uw
-2022-10-06T21:06:04.650Z,49.343833333333336,-120.50066666666666,-0.51,2.05,ml,9,212,0.573,0.32,uw,uw61886376,2022-10-07T03:58:08.600Z,"British Columbia, Canada",explosion,1.67,31.61,0.19724319054941775,8,reviewed,uw,uw
-2022-10-06T20:57:55.872Z,61.8651,-147.549,36.9,1.5,ml,,,,0.93,ak,ak022ctr6u03,2022-10-06T21:39:37.469Z,"8 km NE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-06T20:55:42.583Z,64.916,-150.8488,12,1.4,ml,,,,0.78,ak,ak022ctr6djm,2022-10-06T20:57:37.914Z,"13 km SW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-10-06T20:55:37.441Z,62.9497,-147.8599,136.5,1.7,ml,,,,0.79,ak,ak022ctr6d5c,2022-10-06T21:31:51.824Z,"73 km SE of Cantwell, Alaska",earthquake,,2.3,,,automatic,ak,ak
