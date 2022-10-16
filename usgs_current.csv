@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-16T19:24:23.221Z,58.1663,-155.8679,140.6,1.6,ml,,,,0.38,ak,ak022da9rq6q,2022-10-16T19:27:00.217Z,"74 km SE of King Salmon, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-10-16T18:53:08.555Z,8.5344,-82.7055,30.822,4.5,mb,22,143,0.259,1.14,us,us6000iu5n,2022-10-16T20:21:33.040Z,"1 km NNW of Santa Marta, Panama",earthquake,4.49,9.606,0.27,4,reviewed,us,us
 2022-10-16T18:50:59.803Z,62.1496,-151.9779,99.6,1.6,ml,,,,0.45,ak,ak022da9by0s,2022-10-16T18:52:57.759Z,"35 km WNW of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-10-16T18:45:45.378Z,41.4876,142.1725,61.656,4.2,mb,16,159,0.906,1.05,us,us6000iu5m,2022-10-16T20:10:28.040Z,"Hokkaido, Japan region",earthquake,7.94,11.421,0.177,9,reviewed,us,us
+2022-10-16T18:45:45.378Z,41.4876,142.1725,61.656,4.2,mb,16,159,0.906,1.05,us,us6000iu5m,2022-10-16T20:10:28.040Z,"82 km ENE of Mutsu, Japan",earthquake,7.94,11.421,0.177,9,reviewed,us,us
 2022-10-16T18:30:11.440Z,38.8328323,-122.7983322,2.43,0.85,md,9,79,0.008363,0.02,nc,nc73794566,2022-10-16T20:51:17.204Z,"7km W of Cobb, CA",earthquake,0.5,1.7,,1,automatic,nc,nc
 2022-10-16T18:20:35.140Z,38.8325005,-122.8085022,2.31,1.31,md,26,46,0.009175,0.02,nc,nc73794561,2022-10-16T20:26:17.045Z,"8km W of Cobb, CA",earthquake,0.2,0.41,0.13,5,automatic,nc,nc
 2022-10-16T18:14:27.270Z,38.7993317,-122.7728348,1.26,1.51,md,31,73,0.01033,0.03,nc,nc73794556,2022-10-16T19:58:16.830Z,"3km NNW of The Geysers, CA",earthquake,0.19,0.29,0.14,8,automatic,nc,nc
@@ -74,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-16T12:59:33.127Z,58.3665,-155.8365,163.1,2.6,ml,,,,0.39,ak,ak022da5t6yg,2022-10-16T15:37:19.592Z,"59 km SE of King Salmon, Alaska",earthquake,,1.3,,,reviewed,ak,ak
 2022-10-16T12:53:13.461Z,58.8169,-133.9659,3.8,2.1,ml,,,,0.67,ak,ak022da5rvyq,2022-10-16T12:55:54.128Z,"63 km NNE of Juneau, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-16T12:52:24.285Z,60.525,-151.8844,77.8,1.2,ml,,,,0.52,ak,ak022da5ro24,2022-10-16T15:45:42.438Z,"32 km WSW of Salamatof, Alaska",earthquake,,1.5,,,reviewed,ak,ak
-2022-10-16T12:48:21.991Z,4.3766,-87.5145,10,6.3,mww,50,80,5.731,1.49,us,us6000iu4b,2022-10-16T14:57:11.394Z,"off the coast of Central America",earthquake,6.32,1.871,0.056,31,reviewed,us,us
+2022-10-16T12:48:21.991Z,4.3766,-87.5145,10,6.3,mww,50,80,5.731,1.49,us,us6000iu4b,2022-10-16T21:49:43.043Z,"off the coast of Central America",earthquake,6.32,1.871,0.056,31,reviewed,us,us
 2022-10-16T12:47:52.540Z,38.8363342,-122.8001633,2.32,0.63,md,12,64,0.007944,0.01,nc,nc73794436,2022-10-16T13:25:15.374Z,"7km WNW of Cobb, CA",earthquake,0.28,0.65,0.06,3,automatic,nc,nc
 2022-10-16T12:35:12.075Z,59.8863,-152.0283,59.2,1.4,ml,,,,0.59,ak,ak022da5o0yv,2022-10-16T12:36:41.747Z,"16 km NW of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-10-16T12:02:28.360Z,34.5526667,-119.1595,0.07,1.02,ml,11,74,0.1034,0.23,ci,ci40361936,2022-10-16T12:06:03.826Z,"14km NNE of Ojai, CA",earthquake,0.37,31.61,0.096,12,automatic,ci,ci
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-15T22:16:42.364Z,59.4876,-151.9358,69,2.3,ml,,,,0.39,ak,ak022d8nz08m,2022-10-15T23:09:34.040Z,"13 km WNW of Seldovia, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-10-15T22:14:28.790Z,19.4941673278809,-155.653167724609,-1.37999999523163,1.86000001,md,14,98,,0.200000003,hv,hv73180887,2022-10-15T22:19:58.300Z,"22 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.41,0.660000026,1.03999996,6,automatic,hv,hv
 2022-10-15T22:14:06.470Z,38.8133316,-122.8154984,1.84,1.9,md,35,51,0.01091,0.04,nc,nc73794126,2022-10-15T23:59:19.410Z,"6km NW of The Geysers, CA",earthquake,0.16,0.24,0.08,9,automatic,nc,nc
-2022-10-15T21:50:37.150Z,19.2310009002686,-155.390502929688,32.2900009155273,2.27,ml,46,146,,0.159999996,hv,hv73180867,2022-10-15T22:58:11.040Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.61,0.810000002,4.28,7,automatic,hv,hv
