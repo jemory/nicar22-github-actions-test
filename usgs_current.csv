@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-29T21:35:25.310Z,33.2996667,-116.7248333,4.19,1.47,ml,31,78,0.06959,0.44,ci,ci40126967,2022-10-29T21:39:02.880Z,"7km NNE of Lake Henshaw, CA",earthquake,0.71,2.34,0.215,26,automatic,ci,ci
+2022-10-29T21:35:23.960Z,33.3848333,-116.9016667,13.42,0.82,ml,50,25,0.109,0.21,ci,ci40126959,2022-10-29T21:38:59.176Z,"5km NW of Palomar Observatory, CA",earthquake,0.23,0.75,0.157,7,automatic,ci,ci
+2022-10-29T21:34:05.990Z,38.8333321,-122.81633,1.62,0.89,md,25,47,0.01106,0.03,nc,nc73800901,2022-10-29T21:35:38.714Z,"8km NW of The Geysers, CA",earthquake,0.18,0.46,0.2,4,automatic,nc,nc
 2022-10-29T21:22:23.590Z,19.2056674957275,-155.381500244141,32.2299995422363,1.84000003,md,30,173,,0.109999999,hv,hv73200207,2022-10-29T21:25:36.970Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.75999999,1.82000005,6,automatic,hv,hv
-2022-10-29T21:19:24.300Z,37.3344994,-122.1989975,9.03,1.09,md,6,100,0.03985,0.01,nc,nc73800891,2022-10-29T21:20:59.267Z,"6km SSE of Portola Valley, CA",earthquake,0.54,1.95,0.3,7,automatic,nc,nc
+2022-10-29T21:19:24.300Z,37.3344994,-122.1989975,9.03,1.09,md,6,100,0.03985,0.01,nc,nc73800891,2022-10-29T21:36:14.602Z,"6km SSE of Portola Valley, CA",earthquake,0.54,1.95,0.3,7,automatic,nc,nc
 2022-10-29T21:11:36.498Z,60.2669,-141.3813,14.4,2.1,ml,,,,0.87,ak,ak022dvsvcj5,2022-10-29T21:13:58.148Z,"122 km NW of Yakutat, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-29T20:51:00.840Z,33.648,-116.7285,13.92,1.02,ml,34,78,0.06178,0.15,ci,ci40126951,2022-10-29T20:54:29.056Z,"10km S of Idyllwild, CA",earthquake,0.23,0.35,0.16,27,automatic,ci,ci
 2022-10-29T20:45:33.227Z,-14.4791,-76.203,10,5.1,mb,67,143,2.554,0.72,us,us7000il7q,2022-10-29T21:03:36.040Z,"62 km WSW of Santiago, Peru",earthquake,7.33,1.838,0.04,206,reviewed,us,us
@@ -10,6 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T20:30:15.584Z,60.6625,-152.7043,11.7,1.6,ml,,,,0.32,ak,ak022dvsdxx2,2022-10-29T20:32:16.520Z,"75 km W of Salamatof, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-10-29T20:20:40.486Z,61.9403,-150.1768,23.8,1.7,ml,,,,0.33,ak,ak022dvsbuog,2022-10-29T20:22:21.455Z,"22 km NNW of Willow, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-10-29T19:44:49.291Z,61.2114,-154.7365,71.9,3.5,ml,,,,1,ak,ak022dvrvkxt,2022-10-29T19:59:36.858Z,"40 km ESE of Lime Village, Alaska",earthquake,,4.8,,,automatic,ak,ak
+2022-10-29T19:40:36.359Z,51.3603,-174.2229,31.917,4.5,mb,92,141,0.843,0.71,us,us7000il7k,2022-10-29T21:37:44.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,6.12,5.826,0.062,76,reviewed,us,us
 2022-10-29T19:30:31.320Z,19.4190006256104,-155.261169433594,1.16999995708466,1.75,md,9,98,,0.119999997,hv,hv73200112,2022-10-29T19:33:25.780Z,"3 km SW of Volcano, Hawaii",earthquake,0.25,0.270000011,0.879999995,9,automatic,hv,hv
 2022-10-29T19:25:23.500Z,17.9995,-66.8303333333333,15.77,2.11,md,11,165,0.05253,0.17,pr,pr71380203,2022-10-29T19:37:15.340Z,"1 km WNW of Indios, Puerto Rico",earthquake,0.5,0.56,0.130746567160427,8,reviewed,pr,pr
 2022-10-29T19:17:56.120Z,65.0026,-147.4958,15.4,1,ml,,,,1.36,ak,ak022dvrpt5k,2022-10-29T19:20:15.726Z,"7 km NE of Fox, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -57,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T13:24:08.563Z,51.4244,-174.33,41.155,4.8,mb,49,140,0.783,0.67,us,us7000il62,2022-10-29T18:13:20.715Z,"86 km S of Atka, Alaska",earthquake,2.28,7.129,0.051,120,reviewed,us,us
 2022-10-29T13:02:01.810Z,38.8045006,-122.7785034,-0.03,0.84,md,8,110,0.00891,0.07,nc,nc73800706,2022-10-29T13:34:13.747Z,"4km NNW of The Geysers, CA",earthquake,0.39,1.08,,1,automatic,nc,nc
 2022-10-29T12:56:06.187Z,60.4347,-152.7481,17.4,1.7,ml,,,,0.24,ak,ak022dvns0yy,2022-10-29T12:57:32.210Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
-2022-10-29T12:48:08.760Z,37.9896667,-121.8456667,20.1,1.52,md,35,71,0.08213,0.12,nc,nc73800696,2022-10-29T21:25:10.537Z,"4km WSW of Antioch, CA",earthquake,0.27,0.35,0.273,35,reviewed,nc,nc
+2022-10-29T12:48:08.760Z,37.9896667,-121.8456667,20.1,1.52,md,35,71,0.08213,0.12,nc,nc73800696,2022-10-29T21:42:14.643Z,"4km WSW of Antioch, CA",earthquake,0.27,0.35,0.273,35,reviewed,nc,nc
 2022-10-29T12:42:58.040Z,37.9781685,-121.8600006,17.07,2.04,md,25,99,0.121,0.11,nc,nc73800691,2022-10-29T13:06:10.579Z,"6km WSW of Antioch, CA",earthquake,0.31,0.84,0.13,22,automatic,nc,nc
 2022-10-29T12:29:26.938Z,61.3733,-150.4283,11,1.7,ml,,,,0.69,ak,ak022dvnma8l,2022-10-29T12:31:23.811Z,"19 km SSE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-29T12:28:31.836Z,31.62278258,-104.1049806,6.414355469,2.6,ml,12,68,0.1061603759,0.2,tx,tx2022vexe,2022-10-29T13:08:43.552Z,"45 km NW of Toyah, Texas",earthquake,1.344911569,1.745498727,0.2,8,reviewed,tx,tx
@@ -174,4 +178,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-28T21:52:27.450Z,38.7886658,-122.7671661,2.4,0.85,md,8,94,0.01329,0.02,nc,nc73800446,2022-10-28T22:10:12.684Z,"2km NW of The Geysers, CA",earthquake,0.52,1.48,,1,automatic,nc,nc
 2022-10-28T21:46:02.858Z,63.461,-148.2855,0,2,ml,,,,0.73,ak,ak022du5jfi5,2022-10-28T21:48:29.981Z,"34 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-28T21:42:54.589Z,-2.8083,139.1869,41.468,4.5,mb,36,121,6.93,0.32,us,us7000il25,2022-10-28T22:31:10.040Z,"162 km W of Abepura, Indonesia",earthquake,12.36,7.395,0.101,29,reviewed,us,us
-2022-10-28T21:35:34.667Z,61.2966,-152.5257,6.5,2,ml,,,,0.24,ak,ak022du5h52y,2022-10-29T05:46:38.780Z,"78 km WNW of Tyonek, Alaska",earthquake,,0.2,,,automatic,ak,ak
