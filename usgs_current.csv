@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-10-29T23:23:15.410Z,36.4451675,-121.0065002,10.65,2.4,md,33,77,0.04271,0.11,nc,nc73800951,2022-10-29T23:30:10.313Z,"16km SE of Pinnacles, CA",earthquake,0.29,0.62,0.18,35,automatic,nc,nc
+2022-10-29T23:23:15.410Z,36.4451675,-121.0065002,10.65,2.4,md,33,77,0.04271,0.11,nc,nc73800951,2022-10-29T23:35:19.337Z,"16km SE of Pinnacles, CA",earthquake,0.29,0.62,0.18,35,automatic,nc,nc
 2022-10-29T23:15:38.960Z,61.7897,-149.51,19,1.6,ml,,,,0.58,ak,ak022dvu32so,2022-10-29T23:17:57.552Z,"15 km WNW of Fishhook, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-10-29T23:13:46.538Z,61.5659,-150.5444,113.8,1.6,ml,,,,1.21,ak,ak022dvu2ny5,2022-10-29T23:16:07.100Z,"3 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-10-29T23:06:47.460Z,19.4845008850098,-155.666168212891,0.839999973773956,1.79999995,md,15,80,,0.100000001,hv,hv73200317,2022-10-29T23:09:41.580Z,"Island of Hawaii, Hawaii",earthquake,0.54,2.1500001,1.41999996,10,automatic,hv,hv
@@ -77,7 +77,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T13:02:01.810Z,38.8045006,-122.7785034,-0.03,0.84,md,8,110,0.00891,0.07,nc,nc73800706,2022-10-29T13:34:13.747Z,"4km NNW of The Geysers, CA",earthquake,0.39,1.08,,1,automatic,nc,nc
 2022-10-29T12:56:06.187Z,60.4347,-152.7481,17.4,1.7,ml,,,,0.24,ak,ak022dvns0yy,2022-10-29T12:57:32.210Z,"Southern Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-10-29T12:48:08.760Z,37.9896667,-121.8456667,20.1,1.52,md,35,71,0.08213,0.12,nc,nc73800696,2022-10-29T21:42:14.643Z,"4km WSW of Antioch, CA",earthquake,0.27,0.35,0.273,35,reviewed,nc,nc
-2022-10-29T12:42:58.040Z,37.9781685,-121.8600006,17.07,2.04,md,25,99,0.121,0.11,nc,nc73800691,2022-10-29T13:06:10.579Z,"6km WSW of Antioch, CA",earthquake,0.31,0.84,0.13,22,automatic,nc,nc
+2022-10-29T12:42:58.040Z,37.9781685,-121.8600006,17.07,2.04,md,25,99,0.121,0.11,nc,nc73800691,2022-10-29T23:45:33.289Z,"6km WSW of Antioch, CA",earthquake,0.31,0.84,0.13,22,automatic,nc,nc
 2022-10-29T12:29:26.938Z,61.3733,-150.4283,11,1.7,ml,,,,0.69,ak,ak022dvnma8l,2022-10-29T12:31:23.811Z,"19 km SSE of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-10-29T12:28:31.836Z,31.62278258,-104.1049806,6.414355469,2.6,ml,12,68,0.1061603759,0.2,tx,tx2022vexe,2022-10-29T13:08:43.552Z,"45 km NW of Toyah, Texas",earthquake,1.344911569,1.745498727,0.2,8,reviewed,tx,tx
 2022-10-29T12:19:46.864Z,51.3216,-174.3338,19.2,3.4,ml,,,,0.45,ak,ak022dvnk6t9,2022-10-29T18:06:34.384Z,"97 km S of Atka, Alaska",earthquake,,3.3,,,reviewed,ak,ak
@@ -174,6 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-29T00:09:27.521Z,-14.6945,-76.4688,10,4.4,mb,31,171,2.715,1.3,us,us7000il34,2022-10-29T00:33:53.040Z,"94 km SSW of Paracas, Peru",earthquake,5.56,1.968,0.17,10,reviewed,us,us
 2022-10-29T00:06:33.710Z,19.0604991912842,-155.458160400391,30.5400009155273,2.06999993,md,24,194,,0.219999999,hv,hv73198957,2022-10-29T00:10:00.600Z,"12 km E of Naalehu, Hawaii",earthquake,0.86,1.46000004,1.11000001,7,automatic,hv,hv
 2022-10-28T23:53:10.340Z,60.4245,-152.776,11.63,0.61,ml,9,137,,0.12,av,av91705006,2022-10-29T06:13:18.210Z,"74 km WNW of Ninilchik, Alaska",earthquake,0.72,0.49,0.269729207326442,9,reviewed,av,av
-2022-10-28T23:39:34.820Z,36.1616667,-118.059,4.14,1.14,ml,17,76,0.171,0.11,ci,ci40126559,2022-10-29T00:07:21.618Z,"14km SSW of Olancha, CA",earthquake,0.21,1.64,0.182,10,reviewed,ci,ci
-2022-10-28T23:36:17.320Z,33.6445,-116.6921667,15.06,0.56,ml,21,61,0.02876,0.09,ci,ci40126551,2022-10-28T23:58:11.146Z,"10km N of Anza, CA",earthquake,0.24,0.31,0.096,11,reviewed,ci,ci
-2022-10-28T23:35:13.310Z,-14.5323,-76.2307,4.184,5.2,mww,67,152,2.599,0.9,us,us7000il2t,2022-10-28T23:51:26.040Z,"67 km SW of Santiago, Peru",earthquake,9.17,1.652,0.071,19,reviewed,us,us
