@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-10-31T11:16:43.410Z,33.5941667,-116.811,6.73,1.39,ml,54,31,0.03915,0.19,ci,ci40127583,2022-10-31T11:27:54.310Z,"14km WNW of Anza, CA",earthquake,0.2,0.39,0.16,27,automatic,ci,ci
 2022-10-31T11:05:05.160Z,33.2568333,-116.8053333,15.2,0.7,ml,21,49,0.04422,0.15,ci,ci40127575,2022-10-31T11:08:36.113Z,"4km WNW of Lake Henshaw, CA",earthquake,0.29,0.56,0.16,19,automatic,ci,ci
 2022-10-31T10:58:36.780Z,19.400333404541,-155.262161254883,0.109999999403954,2.35,ml,22,47,,0.180000007,hv,hv73201932,2022-10-31T11:04:07.910Z,"5 km SSW of Volcano, Hawaii",earthquake,0.18,0.270000011,0.75,10,automatic,hv,hv
 2022-10-31T10:54:26.610Z,33.214,-116.7491667,9.64,0.52,ml,17,76,0.0867,0.18,ci,ci40127567,2022-10-31T10:57:58.045Z,"3km SSE of Lake Henshaw, CA",earthquake,0.36,1.12,0.213,5,automatic,ci,ci
@@ -47,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T05:37:07.590Z,35.7211667,-118.4063333,3.93,1.15,ml,16,81,0.05141,0.13,ci,ci40127487,2022-10-31T05:40:48.623Z,"4km SSE of Kernville, CA",earthquake,0.36,0.51,0.174,16,automatic,ci,ci
 2022-10-31T05:28:47.610Z,33.9706667,-116.9421667,18.42,1.77,ml,71,26,0.05861,0.21,ci,ci40127479,2022-10-31T05:39:36.130Z,"6km NE of Beaumont, CA",earthquake,0.2,0.38,0.162,25,automatic,ci,ci
 2022-10-31T04:56:48.660Z,34.3445,-117.5783333,5.25,0.9,ml,22,77,0.09072,0.21,ci,ci40127471,2022-10-31T05:10:09.806Z,"5km ESE of Wrightwood, CA",earthquake,0.35,1.23,0.135,20,automatic,ci,ci
-2022-10-31T04:52:58.600Z,34.3409996,-117.5686646,4.92,3.04,ml,120,23,0.09944,0.24,ci,ci40127463,2022-10-31T10:46:04.958Z,"6km ESE of Wrightwood, CA",earthquake,0.2,1.05,0.263,19,reviewed,ci,ci
+2022-10-31T04:52:58.600Z,34.3409996,-117.5686646,4.92,3.04,ml,120,23,0.09944,0.24,ci,ci40127463,2022-10-31T11:19:27.030Z,"6km ESE of Wrightwood, CA",earthquake,0.2,1.05,0.263,19,reviewed,ci,ci
 2022-10-31T04:45:18.615Z,58.179,-154.8473,35,1.6,ml,,,,1.2,ak,ak022dyu0x4r,2022-10-31T04:47:53.962Z,"71 km NNW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-10-31T04:30:02.532Z,57.9755,-157.0885,12.5,1.9,ml,,,,0.61,ak,ak022dytxo7x,2022-10-31T04:32:35.272Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
 2022-10-31T04:15:37.227Z,-6.0438,148.5439,78.661,4.5,mb,34,72,3.61,0.71,us,us7000ilf3,2022-10-31T05:27:03.040Z,"95 km NE of Finschhafen, Papua New Guinea",earthquake,10.38,8.113,0.103,28,reviewed,us,us
@@ -80,7 +81,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T02:03:30.626Z,38.5506,-119.5259,1.6,1.3,ml,9,192.42,0.212,0.1665,nn,nn00850257,2022-10-31T02:39:20.149Z,"2 km SW of Coleville, California",earthquake,,63.1,0.26,4,automatic,nn,nn
 2022-10-31T01:49:49.430Z,19.1603336334229,-155.511337280273,6.21999979019165,1.85000002,md,34,124,,0.230000004,hv,hv73201467,2022-10-31T01:53:33.070Z,"5 km SW of Pāhala, Hawaii",earthquake,0.55,1.32000005,0.75,15,automatic,hv,hv
 2022-10-31T01:40:38.800Z,38.8440018,-122.8410034,2.25,0.87,md,6,133,0.006912,0.01,nc,nc73801456,2022-10-31T02:06:15.079Z,"10km NW of The Geysers, CA",earthquake,1.76,0.92,,1,automatic,nc,nc
-2022-10-31T01:33:46.770Z,34.0478325,-80.7436676,0.02,2.45,md,13,74,0.2941,1.09,se,se60414656,2022-10-31T11:07:32.892Z,"14 km SSE of Elgin, South Carolina",earthquake,5.06,54.31,0.44,10,reviewed,se,se
+2022-10-31T01:33:46.770Z,34.0478325,-80.7436676,0.02,2.45,md,13,74,0.2941,1.09,se,se60414656,2022-10-31T11:28:29.764Z,"14 km SSE of Elgin, South Carolina",earthquake,5.06,54.31,0.44,10,reviewed,se,se
 2022-10-31T01:32:13.170Z,35.7486649,-120.2996674,11.18,1.29,md,21,113,0.04076,0.03,nc,nc73801446,2022-10-31T03:27:10.376Z,"3km N of Cholame, CA",earthquake,0.45,0.5,0.12,7,automatic,nc,nc
 2022-10-31T00:47:36.310Z,33.1545,-116.572,9.76,0.61,ml,13,83,0.07639,0.25,ci,ci40127407,2022-10-31T00:51:07.278Z,"9km NNE of Julian, CA",earthquake,0.64,1.1,0.094,8,automatic,ci,ci
 2022-10-31T00:45:57.071Z,26.6087,96.496,10,4.6,mb,43,115,5.835,0.57,us,us7000ilef,2022-10-31T02:30:54.040Z,"54 km NW of Sarupathar, India",earthquake,10.35,1.895,0.105,27,reviewed,us,us
@@ -180,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-30T12:20:46.622Z,29.23919678,-97.46449908,3.105753581,2.4,ml,10,73,0.04901431548,0.1,tx,tx2022vgsj,2022-10-30T22:04:23.616Z,"16 km E of Smiley, Texas",earthquake,1.102542738,1.842117052,0,11,reviewed,tx,tx
 2022-10-30T11:48:59.914Z,34.54285431,-97.33207703,3.764266968,1.85,ml,15,151.3956146,0.02784472331,0.4977055569,ok,ok2022vgri,2022-10-30T11:52:28.693Z,"4 km SSE of Katie, Oklahoma",earthquake,3.808053989,3.099542101,,13,automatic,ok,ok
 2022-10-30T11:45:43.590Z,17.9301666666667,-66.8338333333333,13.75,2.44,md,13,220,0.06215,0.09,pr,pr71380218,2022-10-30T12:03:12.580Z,"7 km SSW of Indios, Puerto Rico",earthquake,0.6,0.35,0.0573372818806934,8,reviewed,pr,pr
-2022-10-30T11:17:54.210Z,34.49405289,-97.35718536,5,1.66,ml,10,156.8645973,0.05140775815,0.9823288458,ok,ok2022vgqh,2022-10-30T11:19:55.654Z,"9 km S of Katie, Oklahoma",earthquake,5.068952807,,,8,automatic,ok,ok
-2022-10-30T11:11:44.440Z,38.8448334,-122.8174973,1.71,0.72,md,13,89,0.01082,0.02,nc,nc73801191,2022-10-30T11:45:10.732Z,"9km WNW of Cobb, CA",earthquake,0.28,0.61,0.14,2,automatic,nc,nc
