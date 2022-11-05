@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-11-05T05:08:44.377Z,-59.7279,-24.7553,10,4.9,mb,42,82,14.855,0.8,us,us7000immy,2022-11-05T05:25:55.040Z,"South Sandwich Islands region",earthquake,6.56,1.871,0.09,39,reviewed,us,us
-2022-11-05T05:07:55.210Z,38.8311653,-122.7976685,1.31,0.85,md,8,89,0.009222,0.05,nc,nc73803701,2022-11-05T05:18:11.095Z,"6km W of Cobb, CA",earthquake,0.47,1.45,,1,automatic,nc,nc
+2022-11-05T05:07:55.210Z,38.8311653,-122.7976685,1.31,0.85,md,8,89,0.009222,0.05,nc,nc73803701,2022-11-05T05:44:11.271Z,"6km W of Cobb, CA",earthquake,0.47,1.45,,1,automatic,nc,nc
 2022-11-05T04:58:22.590Z,37.6208344,-121.8205032,2.36,1.26,md,8,111,0.01293,0.1,nc,nc73803696,2022-11-05T05:33:12.196Z,"6km ENE of Sunol, CA",earthquake,0.39,0.68,0.06,8,automatic,nc,nc
 2022-11-05T04:50:22.590Z,63.4239,-151.2676,0,1.6,ml,,,,1.21,ak,ak022e73qqk3,2022-11-05T04:52:49.885Z,"26 km ESE of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-05T04:45:16.200Z,38.8268318,-122.8026657,2.01,0.93,md,14,44,0.006728,0.01,nc,nc73803691,2022-11-05T05:22:13.265Z,"7km NW of The Geysers, CA",earthquake,0.26,0.6,0.18,3,automatic,nc,nc
@@ -37,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T00:16:45.220Z,62.9377,-148.5431,4.4,1.8,ml,,,,0.43,ak,ak022e715rje,2022-11-05T00:18:45.546Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-05T00:15:02.365Z,-21.0918,-177.687,378.045,5.3,mww,62,51,2.32,0.78,us,us7000imm3,2022-11-05T00:41:50.040Z,"257 km W of Haveluloto, Tonga",earthquake,9.2,6.46,0.098,10,reviewed,us,us
 2022-11-05T00:13:54.090Z,38.8221664,-122.7953339,2.76,0.7,md,12,50,0.01158,0.02,nc,nc73803606,2022-11-05T00:39:14.451Z,"6km NW of The Geysers, CA",earthquake,0.37,0.84,0.14,2,automatic,nc,nc
-2022-11-05T00:08:51.921Z,41.5099,68.7858,12.87,4.1,mb,38,90,1.789,0.71,us,us7000imlz,2022-11-05T05:24:03.148Z,"32 km W of Saryaghash, Kazakhstan",earthquake,5.9,5.221,0.127,17,reviewed,us,us
+2022-11-05T00:08:51.921Z,41.5099,68.7858,12.87,4.1,mb,38,90,1.789,0.71,us,us7000imlz,2022-11-05T05:45:03.638Z,"32 km W of Saryaghash, Kazakhstan",earthquake,5.9,5.221,0.127,17,reviewed,us,us
 2022-11-05T00:00:38.380Z,19.4351666666667,-155.326666666667,1.57,2.15,ml,36,81,,0.11,hv,hv73208267,2022-11-05T00:51:14.980Z,"Island of Hawaii, Hawaii",earthquake,0.21,0.32,0.16553820018495,11,reviewed,hv,hv
 2022-11-04T23:58:08.030Z,37.5031667,-118.835,0.55,0.53,md,13,243,0.08683,0.05,nc,nc73803601,2022-11-05T04:49:11.942Z,"15km WSW of Toms Place, CA",earthquake,1.29,4.93,0.184,11,reviewed,nc,nc
 2022-11-04T23:53:21.265Z,62.3323,-145.3638,21.1,1.9,ml,,,,0.68,ak,ak022e5rj9lq,2022-11-04T23:54:59.380Z,"4 km NW of Gakona, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -246,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T06:00:20.311Z,38.1741,-117.8107,6.5,1,ml,15,186.6,0.122,0.0947,nn,nn00850594,2022-11-04T22:15:25.803Z,"35 km SE of Mina, Nevada",earthquake,,2.3,0.69,4,reviewed,nn,nn
 2022-11-04T05:59:59.610Z,44.219,-110.7673333,2.5,1.56,md,16,93,0.05845,0.16,uu,uu60523222,2022-11-04T16:02:46.230Z,"45 km ENE of Warm River, Idaho",earthquake,0.44,1.55,0.322,7,reviewed,uu,uu
 2022-11-04T05:59:54.220Z,38.963,-123.3918333,3.27,1.21,md,16,83,0.04162,0.11,nc,nc73802991,2022-11-04T20:27:15.920Z,"6km SSW of Boonville, CA",earthquake,0.22,0.58,0.253,15,reviewed,nc,nc
-2022-11-04T05:42:30.670Z,37.6351662,-119.0353317,1.33,1.16,md,10,189,0.009178,0.01,nc,nc73802986,2022-11-04T08:29:13.463Z,"5km W of Mammoth Lakes, CA",earthquake,0.44,0.62,0.1,10,automatic,nc,nc
-2022-11-04T05:41:17.310Z,17.9688333333333,-66.8723333333333,14.15,2.05,md,9,198,0.009039,0.08,pr,pr71380783,2022-11-04T07:14:06.000Z,"2 km ESE of Maria Antonia, Puerto Rico",earthquake,0.74,0.42,0.13804086423075,4,reviewed,pr,pr
-2022-11-04T05:40:43.090Z,-17.8307,-69.6539,156.376,4.5,mb,34,111,0.292,0.52,us,us7000imfm,2022-11-04T07:16:08.040Z,"33 km E of Palca, Peru",earthquake,8.02,6.478,0.121,20,reviewed,us,us
