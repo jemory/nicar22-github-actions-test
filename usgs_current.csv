@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-05T15:31:10.127Z,36.54479218,-98.95916748,5,2.09,ml,19,83.63137817,0.05232349038,0.3249659857,ok,ok2022vrxr,2022-11-05T15:33:52.646Z,"8 km WSW of Waynoka, Oklahoma",earthquake,,0,,14,automatic,ok,ok
+2022-11-05T15:35:10.007Z,3.6158,126.8929,51.368,5.1,mww,48,92,2.864,1.14,us,us7000imqc,2022-11-05T15:50:12.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,9.03,8.073,0.086,13,reviewed,us,us
+2022-11-05T15:31:09.862Z,36.53782654,-98.96211243,5.624546051,1.97,ml,11,90.23382568,0.04644351825,0.1054720735,ok,ok2022vrxr,2022-11-05T15:54:05.628Z,"8 km SW of Waynoka, Oklahoma",earthquake,4.046257611,6.350459042,,9,automatic,ok,ok
 2022-11-05T15:06:49.967Z,63.1166,-151.3431,0,1.7,ml,,,,0.75,ak,ak022e7a14tg,2022-11-05T15:11:16.143Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-05T15:02:38.140Z,33.3236667,-116.3268333,10.41,0.77,ml,19,99,0.09372,0.2,ci,ci40129287,2022-11-05T15:06:10.202Z,"9km NNE of Borrego Springs, CA",earthquake,0.4,1.24,0.098,13,automatic,ci,ci
 2022-11-05T15:01:44.530Z,19.2040004730225,-155.410339355469,33.7700004577637,1.85000002,md,38,160,,0.109999999,hv,hv73209127,2022-11-05T15:05:03.540Z,"Island of Hawaii, Hawaii",earthquake,0.68,0.839999974,1.61000001,6,automatic,hv,hv
@@ -24,6 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T12:38:23.331Z,62.041,-150.1034,25.1,1.1,ml,,,,0.33,ak,ak022e78fmv1,2022-11-05T12:57:15.350Z,"18 km SW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-05T12:32:09.273Z,-28.7196,30.8441,9.779,4.6,mb,24,53,4.912,0.37,us,us7000impz,2022-11-05T15:41:57.482Z,"South Africa",earthquake,6.5,5.215,0.207,7,reviewed,us,us
 2022-11-05T12:27:24.858Z,63.073,-150.4844,103.9,1.7,ml,,,,0.32,ak,ak022e78da3p,2022-11-05T12:30:33.543Z,"65 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-05T12:22:47.380Z,37.5415,-118.8475,7.35,0.09,md,6,223,0.0506,0.01,nc,nc73803811,2022-11-05T15:55:10.137Z,"15km W of Toms Place, CA",earthquake,1.56,3.85,0.106,5,reviewed,nc,nc
 2022-11-05T12:20:54.092Z,35.9997,27.5159,10,4,mb,27,129,0.535,0.8,us,us7000impm,2022-11-05T13:12:59.040Z,"39 km SW of Émponas, Greece",earthquake,3.93,1.989,0.173,9,reviewed,us,us
 2022-11-05T12:12:39.559Z,-33.4224,-68.5789,27.322,5,mww,101,37,1.3,0.94,us,us7000impk,2022-11-05T15:30:58.649Z,"39 km SSW of San Martín, Argentina",earthquake,6,4.234,0.065,23,reviewed,us,us
 2022-11-05T11:56:15.520Z,63.0996,-150.7622,112.5,2.6,ml,,,,0.35,ak,ak022e77y1jf,2022-11-05T12:10:42.040Z,"67 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -217,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-04T16:16:12.280Z,33.485,-116.4438333,13.74,0.8,ml,26,74,0.04119,0.12,ci,ci40129023,2022-11-04T20:03:25.197Z,"23km ESE of Anza, CA",earthquake,0.21,0.52,0.115,16,reviewed,ci,ci
 2022-11-04T16:00:07.270Z,38.7648333,-119.7388333,2.13,1.56,md,19,61,0.1405,0.11,nc,nc73803211,2022-11-04T21:25:14.270Z,"7km ESE of Mesa Vista, CA",earthquake,0.23,1.65,0.333,17,reviewed,nc,nc
 2022-11-04T15:57:56.930Z,38.829834,-122.8028336,1.66,0.85,md,10,103,0.008563,0.02,nc,nc73803206,2022-11-04T16:26:14.386Z,"7km W of Cobb, CA",earthquake,0.35,0.83,,1,automatic,nc,nc
-2022-11-04T15:48:05.000Z,37.3046667,-121.676,6.96,0.8,md,13,88,0.04552,0.06,nc,nc73803201,2022-11-04T18:31:13.229Z,"14km E of Seven Trees, CA",earthquake,0.25,0.52,0.249,12,reviewed,nc,nc
