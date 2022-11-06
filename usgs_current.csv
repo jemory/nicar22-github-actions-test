@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-06T07:20:47.820Z,38.8301659,-122.7998352,1.37,0.85,md,9,81,0.01047,0.01,nc,nc73804316,2022-11-06T07:22:23.862Z,"7km W of Cobb, CA",earthquake,0.31,0.97,,1,automatic,nc,nc
-2022-11-06T07:19:45.440Z,38.8291664,-122.7993317,1.45,1.46,md,27,35,0.01018,0.02,nc,nc73804311,2022-11-06T07:30:10.125Z,"7km W of Cobb, CA",earthquake,0.17,0.3,0.07,7,automatic,nc,nc
+2022-11-06T07:21:18.183Z,-19.0845,-175.2735,245.258,4.1,mb,22,78,1.141,0.62,us,us7000imvy,2022-11-06T07:37:29.040Z,"125 km NW of Pangai, Tonga",earthquake,9.26,11.167,0.14,14,reviewed,us,us
+2022-11-06T07:20:47.820Z,38.8301659,-122.7998352,1.37,0.85,md,9,81,0.01047,0.01,nc,nc73804316,2022-11-06T07:35:12.033Z,"7km W of Cobb, CA",earthquake,0.31,0.97,,1,automatic,nc,nc
+2022-11-06T07:19:45.440Z,38.8291664,-122.7993317,1.45,1.46,md,27,35,0.01018,0.02,nc,nc73804311,2022-11-06T07:37:13.042Z,"7km W of Cobb, CA",earthquake,0.17,0.3,0.07,7,automatic,nc,nc
 2022-11-06T07:10:45.710Z,36.0928333,-117.8893333,4.2,1.05,ml,16,86,0.03727,0.18,ci,ci40129559,2022-11-06T07:14:12.936Z,"8km NE of Coso Junction, CA",earthquake,0.38,0.57,0.228,13,automatic,ci,ci
 2022-11-06T07:08:07.163Z,-17.5604,-70.2091,25.287,5,mww,49,135,0.696,0.95,us,us7000imvt,2022-11-06T07:28:42.040Z,"6 km S of Chipispaya, Peru",earthquake,4.78,4.259,0.061,26,reviewed,us,us
 2022-11-06T07:07:35.660Z,33.4911667,-116.4141667,5.28,0.53,ml,19,84,0.1179,0.15,ci,ci40129551,2022-11-06T07:11:09.114Z,"21km SSW of La Quinta, CA",earthquake,0.24,2.88,0.144,9,automatic,ci,ci
@@ -106,8 +107,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T20:48:50.936Z,59.8588,-152.7506,95.2,2.3,ml,,,,0.37,ak,ak022e7d9b0a,2022-11-05T21:19:30.040Z,"52 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-05T20:39:33.340Z,33.8278333,-118.2765,8.05,2.65,ml,54,69,0.06137,0.31,ci,ci40129359,2022-11-06T07:07:32.177Z,"1km SE of Carson, CA",earthquake,0.43,1.14,0.242,27,automatic,ci,ci
 2022-11-05T20:32:53.267Z,38.1797,-117.8775,6.4,1.4,ml,13,168.38,0.076,0.1258,nn,nn00850668,2022-11-05T20:36:17.762Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.14,8,automatic,nn,nn
-2022-11-05T20:09:30.830Z,38.1483,-117.8435,13.4,0.4,ml,8,171.69,0.092,0.1837,nn,nn00850667,2022-11-05T20:12:46.022Z,"35 km SE of Mina, Nevada",earthquake,,1.1,0.35,3,automatic,nn,nn
-2022-11-05T20:07:55.127Z,61.8907,-151.1941,88.9,1.9,ml,,,,0.35,ak,ak022e7d0iyg,2022-11-05T20:09:55.346Z,"15 km SE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-11-05T20:09:30.830Z,38.1483,-117.8435,13.4,0.4,ml,8,171.69,0.092,0.1837,nn,nn00850667,2022-11-05T20:12:46.022Z,"Nevada",earthquake,,1.1,0.35,3,automatic,nn,nn
+2022-11-05T20:07:55.127Z,61.8907,-151.1941,88.9,1.9,ml,,,,0.35,ak,ak022e7d0iyg,2022-11-05T20:09:55.346Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-05T19:41:29.025Z,0.1134,127.3296,147.333,4.9,mb,38,106,0.655,0.77,us,us7000imrl,2022-11-05T19:54:21.040Z,"73 km SSW of Sofifi, Indonesia",earthquake,8.27,7.321,0.104,29,reviewed,us,us
 2022-11-05T19:37:27.100Z,38.8271675,-122.8105011,1.36,0.85,md,8,79,0.003782,0.02,nc,nc73804006,2022-11-05T19:51:10.559Z,"7km NW of The Geysers, CA",earthquake,0.37,1.1,,1,automatic,nc,nc
 2022-11-05T19:27:30.757Z,36.6961,-116.0478,3.7,-0.4,ml,7,147.74,0.041,0.0366,nn,nn00850673,2022-11-06T02:41:44.248Z,"36 km WNW of Indian Springs, Nevada",earthquake,,3.1,0.1,2,reviewed,nn,nn
@@ -233,5 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T07:57:19.393Z,-35.5533,-73.714,8.527,5,mww,67,100,1.265,0.59,us,us7000imnf,2022-11-05T14:52:58.507Z,"120 km WSW of Constitución, Chile",earthquake,5.87,4.02,0.056,31,reviewed,us,us
 2022-11-05T07:51:11.712Z,62.003,-149.7901,41.2,1.5,ml,,,,0.44,ak,ak022e75j88z,2022-11-05T07:52:53.927Z,"17 km S of Susitna North, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2022-11-05T07:49:09.662Z,64.7441,-148.9337,1.6,1.1,ml,,,,0.67,ak,ak022e75isnq,2022-11-05T07:52:11.731Z,"18 km NNE of Four Mile Road, Alaska",earthquake,,6.7,,,automatic,ak,ak
-2022-11-05T07:42:09.812Z,4.1017,126.2786,85.208,5,mb,73,98,3.03,0.99,us,us7000imnc,2022-11-05T07:59:01.040Z,"169 km SSE of Sarangani, Philippines",earthquake,8.39,6.896,0.072,61,reviewed,us,us
-2022-11-05T07:37:01.913Z,14.6213,-93.7318,27.44,4,mb,26,187,2.256,0.47,us,us7000imna,2022-11-06T04:48:03.040Z,"110 km SSW of La Esperanza (El Zapotal), Mexico",earthquake,10.44,11.588,0.134,15,reviewed,us,us
