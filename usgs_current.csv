@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-18T21:32:02.790Z,19.5083332061768,-155.282501220703,20.5,2.1099999,md,35,141,,0.109999999,hv,hv73227487,2022-11-18T21:35:09.530Z,"8 km NW of Volcano, Hawaii",earthquake,0.4,0.550000012,1.08000004,15,automatic,hv,hv
 2022-11-18T21:28:12.199Z,64.2906,-149.8972,26.5,1.3,ml,,,,0.7,ak,ak022esvpvpf,2022-11-18T21:29:54.438Z,"34 km W of Clear, Alaska, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-18T21:28:09.927Z,57.5496,-156.2425,7.7,3.6,ml,,,,1.23,ak,ak022esvpvi5,2022-11-18T21:31:20.004Z,"69 km E of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-18T21:28:10.622Z,57.6806,-156.2723,4.9,3.5,ml,,,,0.57,ak,ak022esvpvi5,2022-11-18T21:44:02.040Z,"Alaska Peninsula",earthquake,,0.6,,,reviewed,ak,ak
 2022-11-18T21:10:26.832Z,64.4769,-147.2992,5.7,0.9,ml,,,,0.31,ak,ak022esvm1ud,2022-11-18T21:12:27.898Z,"19 km WSW of Salcha, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-11-18T21:01:56.160Z,33.1726667,-115.6268333,3.95,1.32,ml,13,106,0.01054,0.1,ci,ci40377704,2022-11-18T21:05:22.886Z,"12km WNW of Calipatria, CA",earthquake,0.43,0.16,0.259,20,automatic,ci,ci
 2022-11-18T21:00:08.165Z,64.4019,-147.3836,7.1,0.7,ml,,,,0.17,ak,ak022esvjvce,2022-11-18T21:02:41.498Z,"26 km WSW of Salcha, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-11-18T20:59:21.287Z,31.65396867,-104.5125867,8.008251953,2.7,ml,30,75,0.01778546264,0.5,tx,tx2022wqbz,2022-11-18T21:41:46.413Z,"59 km SSW of Whites City, New Mexico",earthquake,1.864913965,1.09797552,0.1,17,reviewed,tx,tx
 2022-11-18T20:45:14.820Z,19.4933338165283,-155.662994384766,0.699999988079071,1.83000004,md,14,85,,0.119999997,hv,hv73227422,2022-11-18T20:50:46.260Z,"21 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.52,1.90999997,0.25999999,7,automatic,hv,hv
 2022-11-18T20:39:01.530Z,36.6173325,-121.4085007,-0.48,1.35,md,10,76,0.0198,0.39,nc,nc73808976,2022-11-18T21:18:13.614Z,"11km ENE of Chualar, CA",earthquake,1.06,3.11,0.17,7,automatic,nc,nc
 2022-11-18T20:24:07.520Z,34.107,-117.5333333,14.76,1.5,ml,28,61,0.08797,0.19,ci,ci40377688,2022-11-18T20:34:50.570Z,"5km ESE of Rancho Cucamonga, CA",earthquake,0.38,0.6,0.205,30,automatic,ci,ci
@@ -181,6 +183,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-18T04:03:03.904Z,-6.5879,104.3815,37.8,4.4,mb,24,79,2.629,1.05,us,us7000iqll,2022-11-18T04:21:06.040Z,"160 km SW of Bandar Lampung, Indonesia",earthquake,8.97,6.846,0.135,18,reviewed,us,us
 2022-11-18T04:01:29.080Z,44.801,-110.8173333,5.71,0.43,md,8,210,0.0268,0.1,uu,uu60525662,2022-11-18T17:33:21.620Z,"21 km SSW of Mammoth, Wyoming",earthquake,0.66,0.59,0.209,6,reviewed,uu,uu
 2022-11-18T03:59:57.125Z,-11.4669,166.3267,77.867,4.5,mb,30,62,4.047,0.76,us,us7000iqlk,2022-11-18T04:16:16.040Z,"100 km SE of Lata, Solomon Islands",earthquake,11.01,7.615,0.11,27,reviewed,us,us
+2022-11-18T03:51:51.322Z,37.2196,-117.1438,7.1,-0.2,ml,8,103.81,0.123,0.1033,nn,nn00851567,2022-11-18T21:42:06.167Z,"Nevada",earthquake,,3,0.64,3,reviewed,nn,nn
 2022-11-18T03:50:41.971Z,63.5224,-147.7528,17.3,1.2,ml,,,,0.5,ak,ak022esl4uv9,2022-11-18T03:52:50.080Z,"61 km ENE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-18T03:47:59.991Z,64.4685,-147.2831,1.5,1.4,ml,,,,0.57,ak,ak022esl493z,2022-11-18T03:50:43.988Z,"19 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-18T03:42:25.040Z,39.0042,-118.9109,18.4,1,ml,9,119.22,0.542,0.1556,nn,nn00851566,2022-11-18T21:32:46.924Z,"Nevada",earthquake,,5.9,0,1,reviewed,nn,nn
@@ -263,4 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-17T21:59:17.210Z,34.92666667,-96.21433333,5,1.2,ml,36,123,0.2807449083,0.36,ok,ok2022woin,2022-11-18T16:22:25.674Z,"5 km SE of Calvin, Oklahoma",earthquake,,1.4,0.16,6,reviewed,ok,ok
 2022-11-17T21:53:54.183Z,60.6026,-147.619,21.6,1.3,ml,,,,0.24,ak,ak022er8bzcq,2022-11-17T21:57:32.918Z,"59 km WSW of Tatitlek, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-17T21:50:05.310Z,51.8616666666667,-177.887333333333,6.18,0.95,ml,5,194,,0.06,av,av91717651,2022-11-18T02:07:29.850Z,"86 km W of Adak, Alaska",earthquake,0.41,0.85,0.344210564513842,5,reviewed,av,av
-2022-11-17T21:45:46.901Z,61.7852,-151.0212,78.7,3.7,ml,,,,0.7,ak,ak022er8a918,2022-11-18T00:20:16.869Z,"30 km SE of Skwentna, Alaska",earthquake,,0.2,,,reviewed,ak,ak
