@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-20T19:25:21.358Z,63.2063,-150.3794,104.5,2.6,ml,,,,0.34,ak,ak022ew5l31j,2022-11-20T19:27:28.948Z,"74 km WSW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-11-20T19:20:02.890Z,38.7434998,-122.6933365,10.95,0.43,md,7,224,0.04108,0.19,nc,nc73809676,2022-11-20T19:30:10.272Z,"4km S of Anderson Springs, CA",earthquake,6.47,3.15,,1,automatic,nc,nc
 2022-11-20T18:58:48.210Z,19.191333770752,-155.500839233398,33.8499984741211,2.39,ml,47,83,,0.129999995,hv,hv73229607,2022-11-20T19:04:19.230Z,"2 km WSW of Pāhala, Hawaii",earthquake,0.6,0.769999981,3.72,19,automatic,hv,hv
 2022-11-20T18:50:09.946Z,61.1226,-149.3758,30.6,1.8,ml,,,,0.3,ak,ak022ew54zgi,2022-11-20T18:51:32.882Z,"20 km SE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T18:37:45.129Z,60.7342,-148.2297,25.2,1.9,ml,,,,0.27,ak,ak022ew529v4,2022-11-20T18:38:52.706Z,"25 km E of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -227,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-19T19:50:11.450Z,19.1844997406006,-155.398834228516,31.2600002288818,1.98000002,md,31,186,,0.0900000036,hv,hv73228612,2022-11-19T19:53:33.150Z,"8 km ESE of Pāhala, Hawaii",earthquake,0.62,0.579999983,1.58000004,6,automatic,hv,hv
 2022-11-19T19:40:15.760Z,46.851333333333336,-121.75416666666666,2.37,0.27,ml,17,71,0.0214,0.1,uw,uw61886327,2022-11-20T01:09:35.980Z,"23 km ENE of Ashford, Washington",earthquake,0.33,0.6,0.0864600413840679,8,reviewed,uw,uw
 2022-11-19T19:33:49.090Z,38.8375,-122.799,1.93,0.57,md,17,69,0.006821,0.03,nc,nc73809371,2022-11-19T22:16:09.688Z,"7km WNW of Cobb, CA",earthquake,0.27,0.5,0.016,3,reviewed,nc,nc
-2022-11-19T19:32:41.698Z,38.7801,-119.6198,7.9,0.5,ml,9,148.63,0.114,0.0884,nn,nn00851639,2022-11-20T00:43:27.014Z,"Nevada",earthquake,,2.3,0.19,3,reviewed,nn,nn
-2022-11-19T19:27:07.680Z,37.447,-118.8703333,5.47,0.76,md,10,145,0.1465,0.02,nc,nc73809361,2022-11-19T21:20:10.313Z,"21km SW of Toms Place, CA",earthquake,0.82,3.95,0.147,10,reviewed,nc,nc
