@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-21T11:40:52.200Z,19.4333324432373,-155.605834960938,-2.26999998092651,1.84000003,md,8,105,,0.0700000003,hv,hv73230467,2022-11-21T11:43:58.510Z,"Island of Hawaii, Hawaii",earthquake,0.38,0.419999987,1.07000005,7,automatic,hv,hv
+2022-11-21T11:46:09.200Z,33.2191667,-116.7473333,10.84,0.47,ml,19,54,0.01931,0.16,ci,ci40378816,2022-11-21T11:49:33.428Z,"3km SSE of Lake Henshaw, CA",earthquake,0.28,0.44,0.175,6,automatic,ci,ci
+2022-11-21T11:40:52.200Z,19.4333324432373,-155.605834960938,-2.26999998092651,1.7,ml,8,105,,0.0700000003,hv,hv73230467,2022-11-21T11:46:22.940Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.419999987,3.81,3,automatic,hv,hv
 2022-11-21T11:32:33.315Z,63.2357,-150.3134,115,2.9,ml,,,,0.54,ak,ak022exoehmd,2022-11-21T11:38:58.040Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-21T11:22:16.160Z,34.1811667,-116.4428333,10.31,1.5,ml,40,61,0.03444,0.17,ci,ci40378808,2022-11-21T11:33:20.990Z,"8km N of Yucca Valley, CA",earthquake,0.24,0.47,0.156,26,automatic,ci,ci
 2022-11-21T11:17:55.740Z,34.244,-117.5883333,4.57,1.25,ml,33,66,0.05838,0.19,ci,ci40378800,2022-11-21T11:21:26.560Z,"8km WSW of Lytle Creek, CA",earthquake,0.33,0.6,0.224,29,automatic,ci,ci
@@ -98,7 +99,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T23:32:30.096Z,43.3896,-127.2044,10,2.7,ml,17,304,1.715,0.45,us,us7000ir87,2022-11-21T00:42:10.040Z,"off the coast of Oregon",earthquake,10.71,2.027,0.046,61,reviewed,us,us
 2022-11-20T23:27:04.380Z,33.2921667,-116.0781667,1.01,0.88,ml,17,96,0.1452,0.21,ci,ci40378648,2022-11-20T23:30:38.968Z,"11km W of Salton City, CA",earthquake,0.4,31.61,0.092,18,automatic,ci,ci
 2022-11-20T23:26:59.130Z,38.7981682,-122.7506638,1.48,1.4,md,26,97,0.007484,0.03,nc,nc73809756,2022-11-21T02:53:15.961Z,"2km NNE of The Geysers, CA",earthquake,0.22,0.35,0.09,6,automatic,nc,nc
-2022-11-20T23:24:59.335Z,35.8333,26.4263,71.385,5.5,mww,227,43,1.366,0.71,us,us7000ir86,2022-11-21T10:12:10.749Z,"Crete, Greece",earthquake,5.08,3.352,0.05,39,reviewed,us,us
+2022-11-20T23:24:59.335Z,35.8333,26.4263,71.385,5.5,mww,227,43,1.366,0.71,us,us7000ir86,2022-11-21T11:55:10.549Z,"Crete, Greece",earthquake,5.08,3.352,0.05,39,reviewed,us,us
 2022-11-20T23:22:36.430Z,34.93886566,-97.65011597,7.685182571,1.52,ml,8,147.3287506,0.04833073542,0.5701132235,ok,ok2022wtxt,2022-11-20T23:24:21.762Z,"8 km NE of Bradley, Oklahoma",earthquake,4.740130601,6.797259273,,6,automatic,ok,ok
 2022-11-20T23:17:52.668Z,12.8834,-89.041,51.909,4.3,mb,47,197,0.831,0.58,us,us7000ir85,2022-11-21T01:05:32.040Z,"67 km S of El Rosario, El Salvador",earthquake,6.51,9.512,0.077,48,reviewed,us,us
 2022-11-20T23:05:25.720Z,33.5091667,-116.4568333,7.52,0.68,ml,20,125,0.02963,0.2,ci,ci40378640,2022-11-20T23:08:58.439Z,"21km ESE of Anza, CA",earthquake,0.35,0.65,0.181,15,automatic,ci,ci
@@ -206,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-20T12:19:16.050Z,19.2463340759277,-155.466659545898,34.2000007629395,2.04999995,md,36,95,,0.119999997,hv,hv73229342,2022-11-20T12:22:36.310Z,"4 km NNE of Pāhala, Hawaii",earthquake,0.62,0.99000001,1.64999998,10,automatic,hv,hv
 2022-11-20T12:15:54.611Z,60.7129,-150.9012,27.6,1.8,ml,,,,0.59,ak,ak022ew1cz7p,2022-11-20T23:33:13.501Z,"20 km NNW of Sterling, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-20T12:01:26.340Z,19.1638336181641,-155.494995117188,30.0799999237061,1.92999995,md,32,117,,0.189999998,hv,hv73229327,2022-11-20T12:04:54.450Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.69,1.20000005,1.54999995,6,automatic,hv,hv
-2022-11-20T11:55:32.250Z,38.1439,-118.2292,0.9,0.6,ml,9,214.4,0.269,0.1436,nn,nn00851655,2022-11-20T11:59:22.309Z,"29 km SSW of Mina, Nevada",earthquake,,23.8,0.15,4,automatic,nn,nn
-2022-11-20T11:48:10.829Z,36.9666,3.7061,10,4.1,mb,29,157,2.958,0.59,us,us7000ir59,2022-11-20T22:14:15.344Z,"northern Algeria",earthquake,5.59,1.964,0.166,10,reviewed,us,us
