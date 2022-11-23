@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-23T22:16:57.380Z,33.8768333,-117.7598333,3.34,2.61,ml,71,25,0.05408,0.23,ci,ci40380048,2022-11-23T22:27:56.060Z,"5km ESE of Yorba Linda, CA",earthquake,0.21,0.47,0.198,27,automatic,ci,ci
+2022-11-23T22:16:49.750Z,34.8936667,-118.7995,9.82,1.43,ml,19,48,0.1026,0.22,ci,ci40380040,2022-11-23T22:20:19.899Z,"8km NE of Lebec, CA",earthquake,0.36,1.02,0.296,28,automatic,ci,ci
+2022-11-23T22:10:07.030Z,38.7941666,-122.7464981,2.48,0.37,md,11,93,0.01217,0.02,nc,nc73810736,2022-11-23T22:27:11.563Z,"2km NNE of The Geysers, CA",earthquake,0.45,0.94,,1,automatic,nc,nc
+2022-11-23T22:00:17.512Z,71.3739,-3.8139,10,4.7,mb,86,47,6.005,0.83,us,us7000irx8,2022-11-23T22:20:02.040Z,"183 km ENE of Olonkinbyen, Svalbard and Jan Mayen",earthquake,7.85,1.874,0.063,76,reviewed,us,us
 2022-11-23T21:58:49.260Z,33.5268333,-116.695,13.15,0.6,ml,22,51,0.05223,0.15,ci,ci40380032,2022-11-23T22:02:23.369Z,"4km SSW of Anza, CA",earthquake,0.28,0.59,0.113,16,automatic,ci,ci
 2022-11-23T21:35:12.306Z,59.6678,-150.7654,35.3,2,ml,,,,0.73,ak,ak022f15g472,2022-11-23T21:38:36.634Z,"23 km SSE of Fox River, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-11-23T21:22:43.766Z,-30.2919,-177.7657,35,5.1,mb,25,151,1.035,0.44,us,us7000irx0,2022-11-23T22:01:15.040Z,"Kermadec Islands, New Zealand",earthquake,6.16,1.942,0.139,17,reviewed,us,us
@@ -6,6 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T20:59:48.705Z,61.6482,-150.8663,61.3,1.7,ml,,,,0.24,ak,ak022f14zwl2,2022-11-23T21:02:01.753Z,"22 km WNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-11-23T20:58:48.500Z,37.4851667,-113.837,6.42,2.24,ml,11,97,0.02819,0.16,uu,uu60526197,2022-11-23T21:20:48.300Z,"14 km SW of Enterprise, Utah",earthquake,0.58,0.58,0.194,4,reviewed,uu,uu
 2022-11-23T20:55:40.335Z,61.3871,-150.6712,60.5,1.5,ml,,,,0.33,ak,ak022f14z0ym,2022-11-23T20:58:17.118Z,"19 km SSW of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2022-11-23T20:53:24.825Z,-31.1428,-178.8908,21.195,5.1,mww,61,73,2.054,0.67,us,us7000irwm,2022-11-23T22:26:52.040Z,"Kermadec Islands region",earthquake,9.64,5.058,0.083,14,reviewed,us,us
 2022-11-23T20:36:57.344Z,-9.7832,159.8524,23.305,4.9,mb,37,73,0.355,0.81,us,us7000irwe,2022-11-23T21:00:34.040Z,"17 km ESE of Malango, Solomon Islands",earthquake,10.85,5.057,0.073,58,reviewed,us,us
 2022-11-23T20:31:14.052Z,61.9167,-149.4881,43.4,1.6,ml,,,,0.49,ak,ak022f14ttv1,2022-11-23T20:33:17.833Z,"23 km NW of Fishhook, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-11-23T20:23:05.264Z,60.9025,-149.5579,27.2,1.9,ml,,,,0.42,ak,ak022f14s3ge,2022-11-23T21:07:37.510Z,"4 km ESE of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -50,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T15:49:11.222Z,61.5825,-149.8859,48.3,1.3,ml,,,,1.23,ak,ak022f11yiia,2022-11-23T15:50:58.857Z,"6 km SW of Houston, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-23T15:46:39.427Z,63.3847,-144.9893,7.6,1.3,ml,,,,0.49,ak,ak022f11xxjj,2022-11-23T15:49:13.139Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-23T15:44:29.220Z,17.9445,-66.952,9.23,2.21,md,26,209,0.07562,0.1,pr,pr71383628,2022-11-23T16:41:11.130Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.35,0.314415301149665,12,reviewed,pr,pr
-2022-11-23T15:42:58.269Z,61.6627,-149.8411,24.8,3.3,ml,,,,0.82,ak,ak022f11x41d,2022-11-23T20:08:19.414Z,"3 km NNW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-11-23T15:42:58.269Z,61.6627,-149.8411,24.8,3.3,ml,,,,0.82,ak,ak022f11x41d,2022-11-23T22:20:28.040Z,"3 km NNW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-11-23T15:42:41.670Z,17.9521666666667,-66.9545,10.81,1.94,md,7,210,0.07515,0.06,pr,pr71383623,2022-11-23T18:13:08.280Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.58,0.148256722788079,7,reviewed,pr,pr
 2022-11-23T15:37:35.143Z,-24.6029,-179.4877,553.061,4.9,mb,31,148,5.223,0.49,us,us7000irty,2022-11-23T15:53:29.040Z,"south of the Fiji Islands",earthquake,13.54,12.422,0.107,30,reviewed,us,us
 2022-11-23T15:36:30.450Z,33.6516667,-116.738,12.4,2.13,ml,66,21,0.06179,0.18,ci,ci40379928,2022-11-23T16:49:25.280Z,"10km S of Idyllwild, CA",earthquake,0.17,0.34,0.172,26,reviewed,ci,ci
@@ -201,7 +206,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T00:54:58.370Z,37.5053333,-118.8888333,0.45,1.11,md,14,285,0.09696,0.06,nc,nc73810501,2022-11-23T19:39:14.531Z,"17km SSE of Mammoth Lakes, CA",earthquake,1.97,31.61,0.08,11,reviewed,nc,nc
 2022-11-23T00:35:23.657Z,61.1118,-149.2551,33.1,1.5,ml,,,,0.35,ak,ak022f0sy1d9,2022-11-23T00:36:35.221Z,"19 km NNW of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-23T00:29:37.092Z,38.1736,-117.8866,8.6,0.5,ml,12,163.69,0.067,0.1076,nn,nn00851893,2022-11-23T01:24:35.384Z,"30 km SE of Mina, Nevada",earthquake,,1.8,0.41,2,reviewed,nn,nn
-2022-11-23T00:28:17.860Z,37.6331673,-121.8166656,5.61,2,md,21,57,0.01836,0.14,nc,nc73810481,2022-11-23T01:01:14.627Z,"6km ESE of Pleasanton, CA",earthquake,0.36,0.49,0.17,20,automatic,nc,nc
+2022-11-23T00:28:17.840Z,37.6305,-121.812,7.71,1.89,md,70,33,0.02057,0.12,nc,nc73810481,2022-11-23T22:20:11.512Z,"7km ESE of Pleasanton, CA",earthquake,0.13,0.18,0.261,58,reviewed,nc,nc
 2022-11-23T00:19:28.563Z,63.2436,-151.8194,7,1.3,ml,,,,0.85,ak,ak022f0sumah,2022-11-23T00:22:33.208Z,"33 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-23T00:10:15.450Z,36.5243333,-121.0843333,5.97,1.24,md,19,129,0.04887,0.09,nc,nc73810476,2022-11-23T22:09:13.453Z,"5km E of Pinnacles, CA",earthquake,0.27,0.54,0.133,16,reviewed,nc,nc
 2022-11-23T00:09:54.680Z,35.0321667,-117.6811667,-0.82,1.82,ml,38,58,0.09834,0.17,ci,ci40379632,2022-11-23T15:08:48.329Z,"5km NW of Boron, CA",quarry blast,0.31,31.61,0.173,45,reviewed,ci,ci
@@ -229,11 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-22T22:41:44.005Z,38.1305,-118.0271,8.7,1.5,ml,16,126.67,0.054,0.1404,nn,nn00851862,2022-11-22T23:13:15.841Z,"29 km SSE of Mina, Nevada",earthquake,,1.4,0.11,4,reviewed,nn,nn
 2022-11-22T22:37:32.622Z,31.61543446,-103.9806647,7.494091797,2.5,ml,25,55,0.01114609983,0.1,tx,tx2022wxnh,2022-11-23T17:29:42.902Z,"37 km WSW of Mentone, Texas",earthquake,0.5563605344,0.7478512946,0.2,19,reviewed,tx,tx
 2022-11-22T22:33:46.338Z,62.7945,-150.6877,40.1,1.5,ml,,,,1.16,ak,ak022ezihui1,2022-11-22T22:35:52.622Z,"33 km N of Petersville, Alaska",earthquake,,2.7,,,automatic,ak,ak
-2022-11-22T22:29:58.310Z,33.2991667,-116.057,6.36,1.01,ml,23,67,0.06255,0.17,ci,ci40379600,2022-11-23T14:21:34.969Z,"9km W of Salton City, CA",earthquake,0.29,1.07,0.124,17,reviewed,ci,ci
-2022-11-22T22:28:04.999Z,31.1103596,-103.2236626,1.606958008,2.2,ml,19,58,0.01067360129,0.2,tx,tx2022wxmz,2022-11-23T19:58:03.336Z,"21 km SW of Coyanosa, Texas",earthquake,1.411169137,0.6580848172,0.1,9,reviewed,tx,tx
-2022-11-22T22:26:06.870Z,32.8846667,-115.9586667,9.76,1.54,ml,37,40,0.009103,0.18,ci,ci40379592,2022-11-23T14:57:40.900Z,"17km N of Ocotillo, CA",earthquake,0.19,0.33,0.144,26,reviewed,ci,ci
-2022-11-22T22:22:45.710Z,35.86233333,-96.68566667,7.73,1.08,ml,37,60,0.1538698055,0.2,ok,ok2022wxmu,2022-11-23T17:07:24.263Z,"10 km WSW of Shamrock, Oklahoma",earthquake,,0.6,0.16,4,reviewed,ok,ok
-2022-11-22T22:20:22.710Z,35.279,-98.02166667,7.04,1.3,ml,16,89,0.07558516761,0.15,ok,ok2022wxms,2022-11-23T16:58:54.710Z,"7 km WSW of Minco, Oklahoma",earthquake,,0.8,0.25,3,reviewed,ok,ok
-2022-11-22T22:15:33.031Z,-28.8033,-71.3693,33.024,4.1,mb,16,187,0.622,0.36,us,us7000irn1,2022-11-22T22:47:21.040Z,"64 km WSW of Vallenar, Chile",earthquake,3.86,10.356,0.369,2,reviewed,us,us
-2022-11-22T22:13:22.802Z,58.7405,-153.7761,18.1,1.9,ml,,,,0.64,ak,ak022ezidid4,2022-11-22T22:17:22.190Z,"Kodiak Island region, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-22T22:13:03.030Z,34.8461667,-118.9758333,4.15,1.17,ml,26,96,0.07102,0.14,ci,ci40379560,2022-11-23T14:49:58.503Z,"4km NW of Frazier Park, CA",earthquake,0.21,0.4,0.134,12,reviewed,ci,ci
