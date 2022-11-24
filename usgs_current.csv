@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T18:43:13.230Z,33.4116667,-116.6068333,10.19,0.65,ml,22,87,0.07091,0.17,ci,ci40380472,2022-11-24T18:46:49.457Z,"15km N of Warner Springs, CA",earthquake,0.31,0.7,0.1,13,automatic,ci,ci
 2022-11-24T18:30:52.190Z,19.158166885376,-155.467834472656,30.9799995422363,1.9,ml,16,166,,0.109999999,hv,hv73234437,2022-11-24T18:36:23.910Z,"5 km SSE of Pāhala, Hawaii",earthquake,1.01,1.66999996,4.09,3,automatic,hv,hv
 2022-11-24T18:18:02.700Z,35.9951668,-120.5686646,2.46,1.84,md,23,50,0.02395,0.06,nc,nc73811086,2022-11-24T18:36:11.864Z,"16km NW of Parkfield, CA",earthquake,0.25,0.48,0.18,14,automatic,nc,nc
 2022-11-24T18:06:09.197Z,31.712,-104.453,5,2.7,mb_lg,17,125,0.059,0.37,us,us7000is5q,2022-11-24T18:26:48.040Z,"51 km S of Whites City, New Mexico",earthquake,2.15,1.93,0.124,24,reviewed,us,us
 2022-11-24T17:33:47.440Z,38.8376656,-122.8115005,1.55,0.85,md,6,119,0.01429,0.02,nc,nc73811076,2022-11-24T18:04:11.788Z,"8km WNW of Cobb, CA",earthquake,0.49,2.04,,1,automatic,nc,nc
 2022-11-24T17:30:13.410Z,35.9273333,-117.4281667,0.01,1.56,ml,19,193,0.1411,0.14,ci,ci40380440,2022-11-24T17:33:46.029Z,"18km N of Searles Valley, CA",earthquake,0.43,31.61,0.137,22,automatic,ci,ci
-2022-11-24T17:22:09.960Z,38.8149986,-122.7961655,15.42,0.58,md,11,105,0.007053,0.11,nc,nc73811071,2022-11-24T17:52:12.588Z,"5km NW of The Geysers, CA",earthquake,1.93,9.29,0.34,2,automatic,nc,nc
+2022-11-24T17:22:09.960Z,38.8149986,-122.7961655,15.42,0.58,md,11,105,0.007053,0.11,nc,nc73811071,2022-11-24T18:43:09.900Z,"5km NW of The Geysers, CA",earthquake,1.93,9.29,0.34,2,automatic,nc,nc
 2022-11-24T17:19:47.072Z,62.8946,-150.5778,84.6,2,ml,,,,0.28,ak,ak022f2qidhv,2022-11-24T17:21:55.718Z,"45 km NNE of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-11-24T17:19:11.220Z,33.4843333,-116.4526667,6.12,1.11,ml,30,52,0.09802,0.25,ci,ci40380424,2022-11-24T17:22:44.160Z,"22km ESE of Anza, CA",earthquake,0.32,0.99,0.178,28,automatic,ci,ci
 2022-11-24T16:31:57.770Z,38.8334999,-122.8184967,1.78,0.85,md,9,83,0.01205,0.01,nc,nc73811056,2022-11-24T16:49:11.194Z,"8km NW of The Geysers, CA",earthquake,0.33,0.78,,1,automatic,nc,nc
@@ -212,4 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T19:27:59.871Z,61.984,-149.5419,46.8,1.8,ml,,,,0.18,ak,ak022f147mxf,2022-11-23T19:29:24.852Z,"25 km SE of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-23T19:18:40.350Z,19.492,-155.584,-1.34,1.59,ml,10,117,,0.12,hv,hv73233257,2022-11-23T21:44:35.540Z,"29 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.33,0.21,0.151547592931603,5,reviewed,hv,hv
 2022-11-23T19:06:38.715Z,59.0295,-152.2858,67.1,1.9,ml,,,,0.19,ak,ak022f14339b,2022-11-23T19:08:27.681Z,"41 km SSW of Nanwalek, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2022-11-23T18:40:38.032Z,61.673,-149.8658,27.5,2,ml,,,,0.45,ak,ak022f13oxy3,2022-11-23T18:42:35.886Z,"5 km NNW of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
