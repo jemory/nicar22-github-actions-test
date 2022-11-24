@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-24T05:08:07.925Z,61.3931,-147.6709,22,1.7,ml,,,,0.65,ak,ak022f2jaqc8,2022-11-24T05:09:52.254Z,"46 km S of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-24T04:57:19.510Z,34.092,-116.855,2.94,0.78,ml,17,68,0.06714,0.25,ci,ci40380192,2022-11-24T05:00:54.482Z,"18km SSE of Big Bear Lake, CA",earthquake,0.49,1.22,0.178,19,automatic,ci,ci
+2022-11-24T04:56:12.664Z,61.4135,-152.3482,8,1.9,ml,,,,0.42,ak,ak022f2izlgy,2022-11-24T04:57:50.007Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-11-24T04:55:16.420Z,33.2163333,-116.7425,10.27,0.66,ml,23,41,0.08166,0.18,ci,ci40380176,2022-11-24T04:58:49.520Z,"3km SE of Lake Henshaw, CA",earthquake,0.32,0.82,0.208,10,automatic,ci,ci
 2022-11-24T04:40:57.290Z,33.4921667,-116.752,6.8,0.67,ml,26,65,0.07407,0.15,ci,ci40380168,2022-11-24T04:44:29.374Z,"10km SW of Anza, CA",earthquake,0.18,0.48,0.12,21,automatic,ci,ci
 2022-11-24T04:12:57.740Z,38.8134995,-122.7610016,1.43,1.05,md,16,111,0.0129,0.04,nc,nc73810871,2022-11-24T04:29:18.685Z,"3km WSW of Cobb, CA",earthquake,0.27,0.38,0.37,3,automatic,nc,nc
 2022-11-24T04:05:48.460Z,17.9293333333333,-66.9025,3.95,2.99,md,25,200,0.04304,0.21,pr,pr71383698,2022-11-24T04:51:42.226Z,"Puerto Rico region",earthquake,0.51,0.38,0.0885629509248247,9,reviewed,pr,pr
@@ -108,7 +112,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T15:49:11.222Z,61.5825,-149.8859,48.3,1.3,ml,,,,1.23,ak,ak022f11yiia,2022-11-23T15:50:58.857Z,"6 km SW of Houston, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-23T15:46:39.427Z,63.3847,-144.9893,7.6,1.3,ml,,,,0.49,ak,ak022f11xxjj,2022-11-23T15:49:13.139Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-23T15:44:29.220Z,17.9445,-66.952,9.23,2.21,md,26,209,0.07562,0.1,pr,pr71383628,2022-11-23T16:41:11.130Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.35,0.314415301149665,12,reviewed,pr,pr
-2022-11-23T15:42:58.269Z,61.6627,-149.8411,24.8,3.3,ml,,,,0.82,ak,ak022f11x41d,2022-11-23T23:42:11.624Z,"3 km NNW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
+2022-11-23T15:42:58.269Z,61.6627,-149.8411,24.8,3.3,ml,,,,0.82,ak,ak022f11x41d,2022-11-24T01:35:31.968Z,"3 km NNW of Houston, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2022-11-23T15:42:41.670Z,17.9521666666667,-66.9545,10.81,1.94,md,7,210,0.07515,0.06,pr,pr71383623,2022-11-23T18:13:08.280Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.44,0.58,0.148256722788079,7,reviewed,pr,pr
 2022-11-23T15:37:35.143Z,-24.6029,-179.4877,553.061,4.9,mb,31,148,5.223,0.49,us,us7000irty,2022-11-23T15:53:29.040Z,"south of the Fiji Islands",earthquake,13.54,12.422,0.107,30,reviewed,us,us
 2022-11-23T15:36:30.450Z,33.6516667,-116.738,12.4,2.13,ml,66,21,0.06179,0.18,ci,ci40379928,2022-11-23T16:49:25.280Z,"10km S of Idyllwild, CA",earthquake,0.17,0.34,0.172,26,reviewed,ci,ci
@@ -219,4 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-23T05:46:32.551Z,60.5816,-146.51,22.7,1.6,ml,,,,0.75,ak,ak022f0vzkyf,2022-11-23T05:48:11.975Z,"32 km SSE of Tatitlek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-23T05:38:06.930Z,34.0165,-117.1715,6.72,0.85,ml,37,95,0.0526,0.17,ci,ci40379728,2022-11-23T15:49:53.184Z,"4km SSE of Redlands, CA",earthquake,0.19,0.57,0.133,21,reviewed,ci,ci
 2022-11-23T05:26:17.670Z,17.9635,-66.8866666666667,15.47,2.16,md,7,204,0.01348,0.08,pr,pr71383568,2022-11-23T05:33:48.850Z,"1 km S of Maria Antonia, Puerto Rico",earthquake,0.78,0.56,0.0822321418046457,5,reviewed,pr,pr
-2022-11-23T04:54:25.757Z,31.7778,138.5675,10,4.6,mb,23,129,1.7,0.48,us,us7000irqz,2022-11-24T03:42:59.040Z,"Izu Islands, Japan region",earthquake,5.36,1.936,0.157,12,reviewed,us,us
