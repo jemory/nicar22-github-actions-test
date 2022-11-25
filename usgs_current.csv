@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-25T04:08:17.920Z,38.7643318,-122.7265015,2.93,0.88,md,11,75,0.003021,0.04,nc,nc73811271,2022-11-25T04:21:11.342Z,"3km ESE of The Geysers, CA",earthquake,0.43,0.84,,1,automatic,nc,nc
+2022-11-25T03:42:14.240Z,19.0196666666667,-64.8038333333333,17.9,3.43,md,10,292,0.6793,0.11,pr,pr71383923,2022-11-25T04:06:24.470Z,"76 km N of Cruz Bay, U.S. Virgin Islands",earthquake,2.64,5.24,0.0271160041471199,4,reviewed,pr,pr
 2022-11-25T03:40:09.920Z,33.1661667,-115.6538333,2.38,1.43,ml,13,80,0.0312,0.15,ci,ci40380632,2022-11-25T03:43:44.608Z,"14km WNW of Calipatria, CA",earthquake,0.36,0.62,0.172,26,automatic,ci,ci
 2022-11-25T03:36:28.170Z,19.1651668548584,-155.455001831055,34.25,2.08999991,md,25,153,,0.129999995,hv,hv73235027,2022-11-25T03:39:29.860Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.96,1.55999994,1.02999997,7,automatic,hv,hv
 2022-11-25T03:34:59.366Z,63.8004,-149.0498,2.2,1.5,ml,,,,0.59,ak,ak022f45sw7k,2022-11-25T03:37:16.994Z,"7 km SSW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-25T03:32:00.582Z,55.4285,162.3967,35,4.2,mb,23,155,3.262,0.68,us,us7000is8v,2022-11-25T04:07:18.040Z,"89 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,15.42,1.971,0.128,17,reviewed,us,us
 2022-11-25T03:31:34.000Z,-57.8912,-25.6599,35,4.7,mb,28,177,7.053,0.76,us,us7000is8u,2022-11-25T03:51:52.040Z,"South Sandwich Islands region",earthquake,15.56,1.984,0.102,29,reviewed,us,us
 2022-11-25T03:29:50.909Z,37.2713,-97.9353,9.101,2.5,ml,28,104,0.183,0.29,us,us7000is8q,2022-11-25T03:42:21.040Z,"4 km WSW of Danville, Kansas",earthquake,1.34,8.256,0.064,32,reviewed,us,us
 2022-11-25T03:25:40.781Z,61.7164,-150.8645,59.3,2,ml,,,,0.42,ak,ak022f45qxby,2022-11-25T03:28:28.194Z,"26 km NW of Susitna, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -11,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T03:06:33.253Z,59.589,-153.0516,95.3,2.1,ml,,,,0.35,ak,ak022f45mu59,2022-11-25T03:08:47.475Z,"63 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-25T02:52:52.493Z,55.3236,162.6577,10,4.3,mb,25,150,3.295,0.43,us,us7000is8h,2022-11-25T03:16:01.040Z,"101 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,15.92,1.961,0.122,19,reviewed,us,us
 2022-11-25T02:50:26.200Z,38.8364983,-122.793335,2.21,0.86,md,17,62,0.003016,0.02,nc,nc73811241,2022-11-25T03:31:13.030Z,"6km WNW of Cobb, CA",earthquake,0.25,0.44,0.03,3,automatic,nc,nc
-2022-11-25T02:45:00.670Z,38.8351669,-122.8180008,1.7,0.36,md,8,64,0.01329,0.01,nc,nc73811231,2022-11-25T03:19:13.953Z,"8km W of Cobb, CA",earthquake,0.34,1.02,,1,automatic,nc,nc
+2022-11-25T02:45:00.670Z,38.8351669,-122.8180008,1.7,0.36,md,8,64,0.01329,0.01,nc,nc73811231,2022-11-25T04:10:14.273Z,"8km W of Cobb, CA",earthquake,0.34,1.02,,1,automatic,nc,nc
 2022-11-25T02:44:50.310Z,38.8339996,-122.8170013,1.82,1.22,md,23,77,0.01189,0.02,nc,nc73811226,2022-11-25T03:57:11.194Z,"8km NW of The Geysers, CA",earthquake,0.2,0.39,0.23,5,automatic,nc,nc
 2022-11-25T02:31:47.569Z,38.626,-119.5763,1.4,1.5,ml,13,198.87,0.06,0.2391,nn,nn00852015,2022-11-25T02:38:48.070Z,"5 km W of Topaz, California",earthquake,,0.6,0.42,6,automatic,nn,nn
 2022-11-25T02:22:56.210Z,56.645,-155.1056,0,2.5,ml,,,,0.82,ak,ak022f454vrp,2022-11-25T02:24:50.529Z,"66 km WSW of Akhiok, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -195,7 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T04:40:57.290Z,33.4921667,-116.752,6.8,0.67,ml,26,65,0.07407,0.15,ci,ci40380168,2022-11-24T16:44:16.640Z,"10km SW of Anza, CA",earthquake,0.18,0.48,0.12,21,reviewed,ci,ci
 2022-11-24T04:28:39.200Z,61.4146666666667,-152.337666666667,4.34,0.33,ml,8,175,,0.21,av,av91721401,2022-11-24T05:32:37.470Z,"Southern Alaska",earthquake,0.64,16.19,0.191292231551405,8,reviewed,av,av
 2022-11-24T04:26:28.970Z,17.94,-66.896,10.89,2.23,md,6,258,0.03833,0.03,pr,pr71383713,2022-11-24T05:38:15.140Z,"3 km SSE of Guánica, Puerto Rico",earthquake,0.7,0.77,0.0359230525736609,5,reviewed,pr,pr
-2022-11-24T04:21:16.950Z,36.567,-89.587,4.05,2.25,md,26,66,0.007171,0.09,nm,nm60500911,2022-11-24T14:25:14.750Z,"1 km E of Howardville, Missouri",earthquake,0.32,0.54,0.073238947683453,20,reviewed,nm,nm
-2022-11-24T04:12:57.740Z,38.8134995,-122.7610016,1.43,1.05,md,16,111,0.0129,0.04,nc,nc73810871,2022-11-24T06:42:15.474Z,"3km WSW of Cobb, CA",earthquake,0.27,0.38,0.37,3,automatic,nc,nc
-2022-11-24T04:12:23.940Z,17.9458333333333,-66.9638333333333,10.37,2.35,md,6,218,0.08004,0.07,pr,pr71383708,2022-11-24T05:33:00.090Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.6,0.95,0.0835186881069216,6,reviewed,pr,pr
-2022-11-24T04:05:48.460Z,17.9293333333333,-66.9025,3.95,2.99,md,25,200,0.04304,0.21,pr,pr71383698,2022-11-24T14:20:21.735Z,"Puerto Rico region",earthquake,0.51,0.38,0.0885629509248247,9,reviewed,pr,pr
