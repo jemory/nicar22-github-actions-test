@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-25T08:32:31.360Z,34.0133324,-118.3610001,10.72,1.38,ml,22,58,0.01914,0.26,ci,ci40380664,2022-11-25T08:34:37.049Z,"2km NE of Baldwin Hills, CA",earthquake,0.58,0.92,0.26,9,automatic,ci,ci
+2022-11-25T08:32:31.140Z,33.9995,-118.362,12.41,1.14,ml,19,62,0.008951,0.27,ci,ci40380664,2022-11-25T08:36:09.418Z,"1km ESE of Baldwin Hills, CA",earthquake,0.62,0.9,0.224,33,automatic,ci,ci
 2022-11-25T08:31:08.600Z,34.0095,-118.3625,11.31,1.13,ml,18,57,0.01575,0.24,ci,ci40380656,2022-11-25T08:34:45.409Z,"1km NE of Baldwin Hills, CA",earthquake,0.69,0.91,0.274,25,automatic,ci,ci
 2022-11-25T08:18:32.624Z,59.5242,-152.975,85,2.1,ml,,,,0.27,ak,ak022f48okpq,2022-11-25T08:20:30.124Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-25T08:11:54.721Z,58.0259,-155.9381,22.6,1.1,ml,,,,0.17,ak,ak022f48n4eo,2022-11-25T08:13:15.130Z,"85 km SSE of King Salmon, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -93,7 +93,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T20:15:09.053Z,61.8004,-151.2521,56.9,2.7,ml,,,,1.67,ak,ak022f2s9qkj,2022-11-24T20:18:40.311Z,"22 km SSE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-24T20:14:55.520Z,38.8334999,-122.8831635,1.97,0.39,md,10,128,0.004722,0.05,nc,nc73811111,2022-11-24T21:04:13.756Z,"12km ENE of Cloverdale, CA",earthquake,0.41,0.65,0.23,3,automatic,nc,nc
 2022-11-24T20:11:51.440Z,61.4447,-146.975,8.6,3.7,ml,,,,0.94,ak,ak022f2s8yw9,2022-11-24T23:36:26.906Z,"48 km NW of Valdez, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2022-11-24T20:08:08.728Z,63.7893,-149.0801,9,1.7,ml,,,,0.63,ak,ak022f2s88h4,2022-11-24T20:11:06.211Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-24T20:08:08.728Z,63.7893,-149.0801,9,1.7,ml,,,,0.63,ak,ak022f2s88h4,2022-11-24T20:11:06.211Z,"9 km SW of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-24T20:03:52.790Z,17.9711666666667,-66.8361666666667,10.96,2.25,md,24,180,0.0412,0.12,pr,pr71383898,2022-11-24T21:01:31.730Z,"3 km SW of Indios, Puerto Rico",earthquake,0.34,0.26,0.396339197584249,21,reviewed,pr,pr
 2022-11-24T19:51:31.200Z,18.0086666666667,-67.0388333333333,13.56,2.13,md,12,103,0.03781,0.07,pr,pr71383888,2022-11-24T20:42:53.420Z,"3 km NNE of La Parguera, Puerto Rico",earthquake,0.36,0.27,0.128559356193196,5,reviewed,pr,pr
 2022-11-24T19:46:20.570Z,33.1583333,-115.7118333,1.14,1.35,ml,6,157,0.07885,0.24,ci,ci40380480,2022-11-24T19:50:03.534Z,"16km NNW of Westmorland, CA",earthquake,1.05,31.61,0.312,16,automatic,ci,ci
@@ -179,7 +179,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-24T09:08:04.601Z,60.4229,-151.6731,69.6,2.2,ml,,,,0.37,ak,ak022f2logi4,2022-11-24T09:10:56.889Z,"21 km WNW of Cohoe, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-11-24T08:57:21.682Z,39.59,-119.0865,0,1.2,ml,13,150.52,0.26,0.1956,nn,nn00851992,2022-11-24T16:20:44.127Z,"14 km E of Fernley, Nevada",earthquake,,3.4,0.44,6,reviewed,nn,nn
 2022-11-24T08:56:25.892Z,62.3913,-148.4376,28.9,1.8,ml,,,,1.09,ak,ak022f2ldcwr,2022-11-24T08:59:22.760Z,"66 km N of Chickaloon, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-24T08:49:11.350Z,19.486499786377,-155.464660644531,0.699999988079071,1.85000002,md,25,61,,0.230000004,hv,hv73233877,2022-11-24T08:52:25.610Z,"24 km WNW of Volcano, Hawaii",earthquake,0.41,1.71000004,0.200000003,9,automatic,hv,hv
-2022-11-24T08:44:45.189Z,39.558,-120.5523,15.1,0.5,ml,7,246.62,0.273,0.2393,nn,nn00852007,2022-11-24T16:17:33.126Z,"7 km E of Sierra City, California",earthquake,,1.8,0.22,3,reviewed,nn,nn
-2022-11-24T08:40:59.190Z,17.868,-66.8566666666667,18.09,2.4,md,9,247,0.1086,0.1,pr,pr71383793,2022-11-24T08:51:01.680Z,"12 km SSE of Maria Antonia, Puerto Rico",earthquake,0.77,0.5,0.0895997703885234,7,reviewed,pr,pr
-2022-11-24T08:40:01.990Z,38.7953339,-122.8089981,2.94,1.32,md,27,74,0.008392,0.03,nc,nc73810891,2022-11-24T09:26:13.491Z,"5km WNW of The Geysers, CA",earthquake,0.26,0.43,0.1,2,automatic,nc,nc
