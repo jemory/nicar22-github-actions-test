@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-26T08:38:07.820Z,33.0726667,-115.579,8.24,1.66,ml,19,91,0.0344,0.2,ci,ci40381128,2022-11-26T08:41:54.091Z,"6km NE of Westmorland, CA",earthquake,0.38,0.85,0.145,26,automatic,ci,ci
+2022-11-26T08:31:08.842Z,65.8474,-150.2625,0,1.5,ml,,,,1.17,ak,ak022f5wanok,2022-11-26T08:34:10.607Z,"38 km N of Rampart, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-26T08:10:56.640Z,19.2021675109863,-155.487335205078,32.6599998474121,1.88999999,md,34,146,,0.150000006,hv,hv73236402,2022-11-26T08:14:18.790Z,"Island of Hawaii, Hawaii",earthquake,0.86,1.29999995,0.560000002,8,automatic,hv,hv
 2022-11-26T08:09:20.450Z,17.9681666666667,-65.9728333333333,17.73,2.63,md,5,197,0.1276,0.05,pr,pr71384063,2022-11-26T08:26:13.120Z,"1 km SE of Lamboglia, Puerto Rico",earthquake,0.51,0.43,0.164139681298506,5,reviewed,pr,pr
 2022-11-26T08:07:58.840Z,38.8224983,-122.784668,1.8,1.12,md,24,47,0.009736,0.01,nc,nc73811656,2022-11-26T08:27:10.455Z,"5km W of Cobb, CA",earthquake,0.2,0.31,0.25,4,automatic,nc,nc
-2022-11-26T08:04:30.620Z,38.8218346,-122.7850037,1.77,1.22,md,19,63,0.009204,0.01,nc,nc73811651,2022-11-26T08:17:11.400Z,"5km W of Cobb, CA",earthquake,0.23,0.35,0.03,4,automatic,nc,nc
-2022-11-26T07:58:46.630Z,37.8703346,-122.2481689,9.68,2.2,md,54,34,0.01157,0.06,nc,nc73811641,2022-11-26T08:18:30.070Z,"2km E of Berkeley, CA",earthquake,0.14,0.4,0.13,27,automatic,nc,nc
+2022-11-26T08:04:30.620Z,38.8218346,-122.7850037,1.77,1.22,md,19,63,0.009204,0.01,nc,nc73811651,2022-11-26T08:34:12.506Z,"5km W of Cobb, CA",earthquake,0.23,0.35,0.03,4,automatic,nc,nc
+2022-11-26T07:58:46.630Z,37.8703346,-122.2481689,9.68,2.2,md,54,34,0.01157,0.06,nc,nc73811641,2022-11-26T08:33:11.498Z,"2km E of Berkeley, CA",earthquake,0.14,0.4,0.13,27,automatic,nc,nc
 2022-11-26T07:34:42.770Z,35.5835,-116.9093333,0.3,2.36,ml,19,55,0.2936,0.17,ci,ci40381112,2022-11-26T07:38:18.718Z,"41km NNW of Fort Irwin, CA",earthquake,0.43,31.61,0.207,25,automatic,ci,ci
 2022-11-26T07:07:39.650Z,38.8300018,-122.8498306,1.86,0.96,md,17,66,0.006023,0.02,nc,nc73811631,2022-11-26T08:12:13.377Z,"10km NW of The Geysers, CA",earthquake,0.21,0.43,0.23,3,automatic,nc,nc
 2022-11-26T07:01:21.245Z,63.544,-147.3052,7.5,1.5,ml,,,,0.53,ak,ak022f5vitit,2022-11-26T07:03:51.533Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -157,5 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-25T09:06:01.650Z,33.9936667,-118.3485,7.84,2.35,ml,72,57,0.01141,0.25,ci,ci40380672,2022-11-26T06:47:33.613Z,"0km S of View Park-Windsor Hills, CA",earthquake,0.26,0.53,0.195,26,automatic,ci,ci
 2022-11-25T09:00:18.180Z,38.7985001,-122.7511673,1.63,0.93,md,12,96,0.01896,0.02,nc,nc73811336,2022-11-25T09:35:17.272Z,"2km N of The Geysers, CA",earthquake,0.35,0.74,0.06,2,automatic,nc,nc
 2022-11-25T08:59:28.174Z,59.7992,-153.433,124.6,1.2,ml,,,,0.59,ak,ak022f48xd1q,2022-11-25T09:01:56.565Z,"37 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-25T08:32:31.140Z,33.9995,-118.362,12.41,1.14,ml,19,62,0.008951,0.27,ci,ci40380664,2022-11-25T08:36:09.418Z,"1km ESE of Baldwin Hills, CA",earthquake,0.62,0.9,0.224,33,automatic,ci,ci
-2022-11-25T08:31:08.600Z,34.0095,-118.3625,11.31,1.13,ml,18,57,0.01575,0.24,ci,ci40380656,2022-11-25T08:34:45.409Z,"1km NE of Baldwin Hills, CA",earthquake,0.69,0.91,0.274,25,automatic,ci,ci
