@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-11-27T19:58:42.492Z,39.5316,74.3448,10,4.9,mb,52,43,1.808,1.07,us,us7000issn,2022-11-27T20:14:32.040Z,"141 km W of Kashgar, China",earthquake,5.5,1.865,0.066,73,reviewed,us,us
-2022-11-27T19:56:33.805Z,64.78,-147.9644,24.3,2.5,ml,,,,0.5,ak,ak022f7qj6no,2022-11-27T20:12:27.335Z,"7 km SSE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-11-27T19:58:42.492Z,39.5316,74.3448,10,4.9,mb,52,43,1.808,1.07,us,us7000issn,2022-11-27T20:28:27.102Z,"141 km W of Kashgar, China",earthquake,5.5,1.865,0.066,73,reviewed,us,us
+2022-11-27T19:56:33.805Z,64.78,-147.9644,24.3,2.5,ml,,,,0.5,ak,ak022f7qj6no,2022-11-27T20:30:31.166Z,"7 km SSE of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-27T19:56:33.456Z,60.0582,-151.2337,39.9,1.8,ml,,,,0.55,ak,ak022f7qj6mp,2022-11-27T19:58:15.269Z,"21 km SSE of Clam Gulch, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2022-11-27T19:55:01.163Z,51.5244,-175.6184,56.966,4.8,mb,22,148,0.632,0.8,us,us7000issm,2022-11-27T20:21:13.040Z,"80 km ESE of Adak, Alaska",earthquake,6.39,8.538,0.121,21,reviewed,us,us
 2022-11-27T19:48:15.765Z,59.8738,-151.9463,41.3,1.6,ml,,,,0.15,ak,ak022f7qhfjc,2022-11-27T19:49:24.365Z,"12 km NNW of Anchor Point, Alaska",earthquake,,5.1,,,automatic,ak,ak
+2022-11-27T19:43:31.810Z,37.4108333,-119.6676667,15.36,1.61,md,11,86,0.06124,0.12,nc,nc73812111,2022-11-27T20:25:46.610Z,"7km NE of Ahwahnee, CA",earthquake,0.46,0.73,0.171,13,reviewed,nc,nc
 2022-11-27T19:21:53.505Z,60.1086,-150.1112,33.2,1.9,ml,,,,0.46,ak,ak022f7qbq46,2022-11-27T19:23:47.312Z,"37 km W of Seward, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-27T19:11:29.170Z,35.6561667,-117.5585,6.83,1.02,ml,15,131,0.1048,0.19,ci,ci40381640,2022-11-27T19:14:53.104Z,"11km ENE of Ridgecrest, CA",earthquake,0.4,1.27,0.161,11,automatic,ci,ci
 2022-11-27T19:01:19.080Z,38.8390007,-122.8096695,2.03,0.73,md,18,56,0.0151,0.02,nc,nc73812091,2022-11-27T19:32:14.155Z,"8km WNW of Cobb, CA",earthquake,0.25,0.56,0.1,2,automatic,nc,nc
@@ -61,7 +63,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-27T10:53:31.426Z,55.6389,162.6354,43.408,4.7,mb,74,54,3.509,0.38,us,us7000isqm,2022-11-27T11:14:10.040Z,"66 km S of Ust’-Kamchatsk Staryy, Russia",earthquake,8.67,7.159,0.046,147,reviewed,us,us
 2022-11-27T10:32:22.194Z,-31.0629,-179.1284,10.01,5.1,mb,46,85,2.078,0.31,us,us7000isqh,2022-11-27T11:05:31.040Z,"Kermadec Islands region",earthquake,9.35,4.156,0.082,49,reviewed,us,us
 2022-11-27T10:27:18.708Z,64.8744,-149.0745,18.8,1.5,ml,,,,0.34,ak,ak022f7l01a6,2022-11-27T10:28:43.444Z,"30 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-27T10:13:26.620Z,36.0203333,-120.8838333,9.95,0.85,md,25,69,0.006309,0.08,nc,nc73812001,2022-11-27T19:21:14.086Z,"2km E of San Ardo, CA",earthquake,0.23,0.39,0.326,13,reviewed,nc,nc
+2022-11-27T10:13:26.620Z,36.0203333,-120.8838333,9.95,0.85,md,25,69,0.006309,0.08,nc,nc73812001,2022-11-27T20:27:15.493Z,"2km E of San Ardo, CA",earthquake,0.23,0.39,0.326,13,reviewed,nc,nc
 2022-11-27T10:09:58.830Z,19.1253337860107,-155.42317199707,32.25,2.1400001,md,37,179,,0.129999995,hv,hv73238112,2022-11-27T10:13:16.180Z,"10 km SE of Pāhala, Hawaii",earthquake,0.6,1.09000003,0.280000001,13,automatic,hv,hv
 2022-11-27T10:08:57.837Z,46.9765,-112.7651,9.331,2.2,ml,14,56,0.241,0.32,us,us7000isqe,2022-11-27T10:20:13.040Z,"Western Montana",earthquake,1.92,7.434,0.074,24,reviewed,us,us
 2022-11-27T09:36:38.383Z,36.6908,-116.3505,11.8,0.5,ml,17,158.64,0.042,0.2572,nn,nn00852116,2022-11-27T09:38:51.748Z,"43 km ESE of Beatty, Nevada",earthquake,,0.6,0.96,10,automatic,nn,nn
@@ -170,5 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-26T20:42:14.550Z,37.398,-119.9928333,16.15,2.04,md,15,67,0.174,0.11,nc,nc73811871,2022-11-27T19:58:15.322Z,"10km SSW of Mariposa, CA",earthquake,0.34,0.67,0.217,19,reviewed,nc,nc
 2022-11-26T20:41:05.790Z,18.016,-66.739,12.39,2.51,md,15,176,0.02967,0.09,pr,pr71384148,2022-11-26T21:01:17.840Z,"3 km E of Magas Arriba, Puerto Rico",earthquake,0.27,0.32,0.199263746078103,7,reviewed,pr,pr
 2022-11-26T20:38:40.056Z,-37.7904,-75.0566,10,4.2,mb,18,197,1.816,1.18,us,us7000islq,2022-11-26T23:37:14.040Z,"125 km W of Lebu, Chile",earthquake,5.34,1.966,0.237,5,reviewed,us,us
-2022-11-26T20:24:36.046Z,9.0549,126.229,74.713,4.6,mb,66,111,2.075,0.66,us,us7000isln,2022-11-26T23:21:53.040Z,"3 km N of Tago, Philippines",earthquake,9.92,7.251,0.066,69,reviewed,us,us
-2022-11-26T20:22:53.340Z,19.1948337554932,-155.458831787109,34.810001373291,1.95000005,md,32,117,,0.129999995,hv,hv73237167,2022-11-26T20:27:17.970Z,"2 km ESE of Pāhala, Hawaii",earthquake,0.74,0.959999979,0.970000029,3,automatic,hv,hv
