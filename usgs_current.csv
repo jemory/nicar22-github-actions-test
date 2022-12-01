@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-01T11:32:40.810Z,35.9593333,-117.9461667,3.89,0.94,ml,12,82,0.1047,0.08,ci,ci40383088,2022-12-01T11:36:11.170Z,"4km NW of Little Lake, CA",earthquake,0.21,0.59,0.087,12,automatic,ci,ci
+2022-12-01T11:29:50.690Z,19.1433334350586,-155.500503540039,33.689998626709,2.16000009,md,46,154,,0.109999999,hv,hv73249257,2022-12-01T11:32:52.410Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.64,1,0.939999998,20,automatic,hv,hv
+2022-12-01T11:29:36.726Z,61.5009,-146.4416,32.1,2,ml,,,,0.51,ak,ak022fe7rboo,2022-12-01T11:31:01.896Z,"41 km N of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-01T11:24:32.050Z,33.2578333,-116.4075,2.95,0.68,ml,16,181,0.1593,0.27,ci,ci40383080,2022-12-01T11:28:04.117Z,"3km W of Borrego Springs, CA",earthquake,0.99,2.33,0.166,13,automatic,ci,ci
-2022-12-01T11:18:29.650Z,36.0038338,-120.5666656,1.44,1.16,md,15,155,0.025,0.05,nc,nc73813411,2022-12-01T11:20:06.989Z,"17km NW of Parkfield, CA",earthquake,0.35,0.56,0.32,6,automatic,nc,nc
+2022-12-01T11:18:29.650Z,36.0038338,-120.5666656,1.44,1.16,md,15,155,0.025,0.05,nc,nc73813411,2022-12-01T11:33:10.987Z,"17km NW of Parkfield, CA",earthquake,0.35,0.56,0.32,6,automatic,nc,nc
+2022-12-01T11:12:11.160Z,17.9501666666667,-66.9456666666667,9.46,2.39,md,10,212,0.06788,0.08,pr,pr71384893,2022-12-01T11:39:29.110Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.48,0.6,0.229773325934172,6,reviewed,pr,pr
 2022-12-01T11:08:46.050Z,35.6126667,-118.3,9.87,0.89,ml,12,76,0.09248,0.11,ci,ci40383064,2022-12-01T11:12:23.921Z,"16km E of Lake Isabella, CA",earthquake,0.34,0.58,0.102,10,automatic,ci,ci
-2022-12-01T11:08:14.810Z,38.175499,-122.4603348,9.21,1.57,md,8,191,0.02492,0.03,nc,nc73813406,2022-12-01T11:23:11.884Z,"8km NE of Black Point-Green Point, CA",earthquake,1.2,0.51,0.2,5,automatic,nc,nc
+2022-12-01T11:08:14.810Z,38.175499,-122.4603348,9.21,1.57,md,8,191,0.02492,0.03,nc,nc73813406,2022-12-01T11:41:13.003Z,"8km NE of Black Point-Green Point, CA",earthquake,1.2,0.51,0.2,5,automatic,nc,nc
 2022-12-01T11:03:43.860Z,33.2021667,-116.036,7.92,0.97,ml,27,57,0.05661,0.33,ci,ci40383056,2022-12-01T11:07:19.030Z,"11km NE of Ocotillo Wells, CA",earthquake,0.62,1.75,0.131,20,automatic,ci,ci
 2022-12-01T11:03:15.970Z,33.192,-116.038,4.14,0.99,ml,23,97,0.1811,0.28,ci,ci40383048,2022-12-01T11:07:00.420Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.54,2.07,0.112,20,automatic,ci,ci
 2022-12-01T11:02:43.774Z,-0.468,-19.8736,10,5.3,mb,48,89,9.229,0.95,us,us6000j608,2022-12-01T11:19:39.040Z,"central Mid-Atlantic Ridge",earthquake,10.63,1.866,0.057,101,reviewed,us,us
@@ -18,7 +22,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T10:19:30.002Z,62.4942,-151.4569,91.5,2.2,ml,,,,0.61,ak,ak022fe73qeg,2022-12-01T10:21:50.160Z,"35 km W of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-01T10:12:50.940Z,19.24049949646,-155.393325805664,30.7999992370605,2,md,40,139,,0.170000002,hv,hv73249117,2022-12-01T10:16:05.750Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.75,0.910000026,0.119999997,9,automatic,hv,hv
 2022-12-01T09:48:59.130Z,38.8230019,-122.7818298,9.12,1.48,md,9,123,0.00977,0.09,nc,nc73813391,2022-12-01T11:03:12.768Z,"5km W of Cobb, CA",earthquake,2.15,6.54,,1,automatic,nc,nc
-2022-12-01T09:36:05.270Z,37.3868333,-119.989,15.74,1.84,md,8,92,0.1854,0.08,nc,nc73813386,2022-12-01T10:55:11.713Z,"11km S of Mariposa, CA",earthquake,0.34,0.98,0.278,11,reviewed,nc,nc
+2022-12-01T09:36:05.270Z,37.3868333,-119.989,15.74,1.84,md,8,92,0.1854,0.08,nc,nc73813386,2022-12-01T11:39:09.990Z,"11km S of Mariposa, CA",earthquake,0.34,0.98,0.278,11,reviewed,nc,nc
 2022-12-01T09:27:54.094Z,35.28312683,-98.02507019,5.431380272,1.53,ml,11,77.24757385,0.0771619454,0.4007665525,ok,ok2022xmyt,2022-12-01T09:29:51.884Z,"Oklahoma",earthquake,3.89176582,5.320344424,,8,automatic,ok,ok
 2022-12-01T09:20:59.210Z,36.326000213623,-89.5203323364258,7.88000011444092,2.00999999,md,21,59,0.07026,0.150000006,nm,nm60501311,2022-12-01T09:25:41.290Z,"southeastern Missouri",earthquake,0.33,1.30999994,0.439999998,15,reviewed,nm,nm
 2022-12-01T09:09:25.250Z,19.2964992523193,-155.414993286133,30.0599994659424,2.37,ml,48,104,,0.140000001,hv,hv73249002,2022-12-01T09:14:55.330Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.53,0.649999976,3.62,24,automatic,hv,hv
@@ -255,4 +259,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T11:56:20.970Z,33.2523333,-117.4425,16.41,1.37,ml,44,126,0.0763,0.13,ci,ci40382632,2022-11-30T18:45:38.650Z,"6km WNW of Camp Pendleton South, CA",earthquake,0.21,0.34,0.237,23,reviewed,ci,ci
 2022-11-30T11:53:38.069Z,61.7913,-148.4718,36,1.1,ml,,,,0.74,ak,ak022fckd4ha,2022-11-30T11:55:31.772Z,"0 km SW of Chickaloon, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-11-30T11:45:25.799Z,37.1241,-117.1678,0,0.3,ml,6,232.67,0.191,0.0731,nn,nn00852302,2022-11-30T18:01:06.545Z,"43 km WNW of Beatty, Nevada",earthquake,,0,0.83,4,reviewed,nn,nn
-2022-11-30T11:40:14.888Z,-38.7043,175.925,10,4.5,mb,22,88,0.831,0.94,us,us6000j5rd,2022-12-01T07:05:35.942Z,"13 km W of Taupo, New Zealand",earthquake,3.44,1.93,0.164,11,reviewed,us,us
