@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-01T15:43:37.710Z,38.8059998,-122.8078308,1.06,1.22,md,22,83,0.009983,0.03,nc,nc73813496,2022-12-01T15:45:13.286Z,"6km NW of The Geysers, CA",earthquake,0.21,0.36,0.38,3,automatic,nc,nc
+2022-12-01T15:54:24.840Z,19.2471675872803,-155.405502319336,30.6900005340576,2.18000007,md,45,130,,0.119999997,hv,hv73249812,2022-12-01T15:57:29.890Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.54,0.620000005,0.839999974,19,automatic,hv,hv
+2022-12-01T15:43:37.710Z,38.8059998,-122.8078308,1.06,1.22,md,22,83,0.009983,0.03,nc,nc73813496,2022-12-01T16:01:11.641Z,"6km NW of The Geysers, CA",earthquake,0.21,0.36,0.38,3,automatic,nc,nc
 2022-12-01T15:36:54.430Z,19.1908340454102,-155.460830688477,32.9000015258789,2.6099999,md,30,150,,0.129999995,hv,hv73249762,2022-12-01T15:40:03.010Z,"2 km SE of Pāhala, Hawaii",earthquake,0.7,1.01999998,1.29999995,3,automatic,hv,hv
 2022-12-01T15:34:37.581Z,61.6712,-149.9463,33.3,1.8,ml,,,,0.54,ak,ak022fea64r2,2022-12-01T15:37:19.957Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-01T15:33:56.670Z,33.1695,-116.009,3.1,1.12,ml,19,44,0.02652,0.25,ci,ci40383216,2022-12-01T15:44:57.985Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.55,0.6,0.088,20,automatic,ci,ci
-2022-12-01T15:32:11.910Z,32.834,-116.0375,6.7,1.83,ml,32,50,0.06552,0.29,ci,ci40383208,2022-12-01T15:43:06.890Z,"12km NNW of Ocotillo, CA",earthquake,0.39,0.98,0.1,29,automatic,ci,ci
-2022-12-01T15:28:29.590Z,32.8346672,-116.0315018,11.2,3.82,mw,105,47,0.06988,0.29,ci,ci40383192,2022-12-01T15:49:11.485Z,"12km NNW of Ocotillo, CA",earthquake,0.27,0.59,,4,reviewed,ci,ci
+2022-12-01T15:33:56.670Z,33.1695,-116.009,3.1,1.12,ml,19,44,0.02652,0.25,ci,ci40383216,2022-12-01T15:57:34.886Z,"12km ENE of Ocotillo Wells, CA",earthquake,0.55,0.6,0.088,20,automatic,ci,ci
+2022-12-01T15:32:11.910Z,32.834,-116.0375,6.7,1.83,ml,32,50,0.06552,0.29,ci,ci40383208,2022-12-01T15:50:08.575Z,"12km NNW of Ocotillo, CA",earthquake,0.39,0.98,0.1,29,automatic,ci,ci
+2022-12-01T15:28:29.590Z,32.8346672,-116.0315018,11.2,3.82,mw,105,47,0.06988,0.29,ci,ci40383192,2022-12-01T16:00:46.878Z,"12km NNW of Ocotillo, CA",earthquake,0.27,0.59,,4,reviewed,ci,ci
 2022-12-01T15:12:27.190Z,33.2395,-116.6261667,26.48,0.73,ml,13,95,0.1599,0.31,ci,ci40383184,2022-12-01T15:16:01.819Z,"5km S of Warner Springs, CA",earthquake,1.12,1.49,0.108,12,automatic,ci,ci
 2022-12-01T15:00:14.820Z,38.8224983,-122.7853317,1.64,1.12,md,7,194,0.009914,0.01,nc,nc73813486,2022-12-01T15:26:11.437Z,"5km W of Cobb, CA",earthquake,0.77,0.48,0.11,3,automatic,nc,nc
-2022-12-01T14:32:42.280Z,38.8046684,-122.8051682,1.21,1.33,md,17,85,0.008383,0.03,nc,nc73813471,2022-12-01T14:49:12.207Z,"5km NW of The Geysers, CA",earthquake,0.21,0.38,0.49,3,automatic,nc,nc
+2022-12-01T14:32:42.280Z,38.8046684,-122.8051682,1.21,1.33,md,17,85,0.008383,0.03,nc,nc73813471,2022-12-01T15:59:11.764Z,"5km NW of The Geysers, CA",earthquake,0.21,0.38,0.49,3,automatic,nc,nc
 2022-12-01T14:12:45.505Z,38.1487,-118.0396,10.3,1.4,ml,12,124.73,0.064,0.1045,nn,nn00852359,2022-12-01T14:16:50.620Z,"27 km SSE of Mina, Nevada",earthquake,,0.6,0.34,6,automatic,nn,nn
 2022-12-01T14:01:43.490Z,34.038166,-116.6569977,6.08,1.17,ml,13,82,0.007522,0.05,ci,ci40383176,2022-12-01T15:14:33.608Z,"7km W of Morongo Valley, CA",earthquake,0.38,0.56,0.338,5,automatic,ci,ci
 2022-12-01T13:59:21.992Z,-22.8866,-68.6909,111.37,4.3,ml,20,87,0.477,0.65,us,us6000j61b,2022-12-01T15:34:56.040Z,"50 km W of San Pedro de Atacama, Chile",earthquake,4.56,7.643,,,reviewed,us,guc
@@ -237,4 +238,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T16:23:16.412Z,8.8248,126.8707,10,4.8,mb,73,62,2.163,0.73,us,us6000j5sz,2022-11-30T22:36:48.040Z,"61 km E of Aras-asan, Philippines",earthquake,10.04,1.803,0.064,75,reviewed,us,us
 2022-11-30T16:04:35.428Z,39.4336,-119.1593,7.5,1.1,ml,10,177.47,0.327,0.1953,nn,nn00852314,2022-11-30T20:05:09.450Z,"5 km ENE of Silver Springs, Nevada",earthquake,,5,0,1,reviewed,nn,nn
 2022-11-30T16:03:14.977Z,63.9629,-149.8599,10.9,1.4,ml,,,,0.86,ak,ak022fcn1iy7,2022-11-30T16:05:58.776Z,"36 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-11-30T16:01:07.400Z,38.7545013,-122.4258347,6.4,2.06,md,18,67,,0.09,nc,nc73813151,2022-11-30T17:45:13.601Z,"13km ESE of Hidden Valley Lake, CA",earthquake,0.26,1.04,0.07,13,automatic,nc,nc
