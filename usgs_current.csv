@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-01T05:42:28.760Z,38.8349991,-122.8168335,1.68,0.92,md,11,72,0.01273,0.01,nc,nc73813346,2022-12-01T05:44:01.931Z,"8km W of Cobb, CA",earthquake,0.27,0.8,,1,automatic,nc,nc
 2022-12-01T05:28:57.530Z,32.5018333,-116.8318333,11.87,1.57,ml,19,180,0.115,0.26,ci,ci40382984,2022-12-01T05:32:35.729Z,"18km E of Tijuana, B.C., MX",earthquake,1.18,1.69,0.163,11,automatic,ci,ci
 2022-12-01T05:27:21.260Z,19.155834197998,-155.467163085938,31.9799995422363,2.1500001,md,41,167,,0.109999999,hv,hv73248627,2022-12-01T05:30:45.890Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.63,0.870000005,0.730000019,17,automatic,hv,hv
 2022-12-01T05:06:41.310Z,33.2171667,-116.0675,6.21,1.64,ml,46,51,0.08696,0.22,ci,ci40382976,2022-12-01T05:17:19.300Z,"10km NE of Ocotillo Wells, CA",earthquake,0.28,1.31,0.183,28,automatic,ci,ci
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T01:55:37.710Z,19.456,-155.600833333333,-1.09,2.26,md,13,86,,0.18,hv,hv73248282,2022-12-01T03:04:51.530Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.38,0.28,0.236298140877458,5,reviewed,hv,hv
 2022-12-01T01:54:56.710Z,38.7545013,-122.4416656,4.08,1.6,md,5,162,,0.03,nc,nc73813301,2022-12-01T02:25:12.718Z,"12km ESE of Hidden Valley Lake, CA",earthquake,0.66,2.81,0.05,4,automatic,nc,nc
 2022-12-01T01:46:53.752Z,61.4386,-149.363,33.2,1.1,ml,,,,0.47,ak,ak022fe1wo4f,2022-12-01T01:48:55.227Z,"15 km ESE of Knik-Fairview, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-01T01:34:20.890Z,35.876667,-120.418663,6.15,1.59,md,26,89,0.01475,0.04,nc,nc73813291,2022-12-01T04:32:10.773Z,"3km SSE of Parkfield, CA",earthquake,0.28,0.37,0.13,13,automatic,nc,nc
+2022-12-01T01:34:20.890Z,35.876667,-120.418663,6.15,1.59,md,26,89,0.01475,0.04,nc,nc73813291,2022-12-01T05:50:13.008Z,"3km SSE of Parkfield, CA",earthquake,0.28,0.37,0.13,13,automatic,nc,nc
 2022-12-01T01:30:54.152Z,60.955,-147.9641,31.3,0.8,ml,,,,0.27,ak,ak022fe1t8p3,2022-12-01T01:33:32.404Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-01T00:57:27.280Z,33.217,-116.7403333,9.86,1.07,ml,39,41,0.02443,0.2,ci,ci40382928,2022-12-01T01:08:27.120Z,"4km SE of Lake Henshaw, CA",earthquake,0.25,0.59,0.128,26,automatic,ci,ci
 2022-12-01T00:53:00.529Z,-38.7532,175.9647,9.524,4.1,mb,18,93,0.807,0.75,us,us6000j5ws,2022-12-01T01:17:28.735Z,"12 km SW of Taupo, New Zealand",earthquake,4.18,5.518,0.301,3,reviewed,us,us
@@ -250,4 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T06:00:58.520Z,58.2543333333333,-155.127333333333,1.98,-0.85,ml,4,117,,0.1,av,av91078108,2022-12-01T02:05:14.660Z,"Alaska Peninsula",earthquake,0.34,2.21,0.178875866458806,4,reviewed,av,av
 2022-11-30T05:59:24.270Z,58.2573333333333,-155.1215,4.51,1.26,ml,11,119,,0.1,av,av91078098,2022-12-01T01:59:41.860Z,"86 km NNW of Karluk, Alaska",earthquake,0.29,0.43,0.213971014412636,11,reviewed,av,av
 2022-11-30T05:58:30.364Z,58.2583,-155.0686,0,2.5,ml,,,,0.52,ak,ak022fcgtku1,2022-12-01T01:53:44.030Z,"84 km NNW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-11-30T05:44:04.560Z,19.4688333333333,-155.598666666667,-1.21,1.55,md,8,94,,0.12,hv,hv73246322,2022-12-01T03:10:50.140Z,"27 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.35,0.178177187253221,4,reviewed,hv,hv
