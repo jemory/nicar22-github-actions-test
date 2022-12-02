@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-02T04:13:12.173Z,61.3316,-150.1447,32,1.6,ml,,,,0.69,ak,ak022ffr15ld,2022-12-02T04:15:07.811Z,"9 km WSW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-02T04:04:08.130Z,34.489,-118.966,14.09,1.54,ml,18,116,0.04181,0.24,ci,ci40383464,2022-12-02T04:07:44.752Z,"11km NNW of Fillmore, CA",earthquake,0.55,0.79,0.149,32,automatic,ci,ci
 2022-12-02T03:45:17.396Z,61.1537,-147.8655,8.4,1.4,ml,,,,0.51,ak,ak022ffqmlaz,2022-12-02T03:47:04.760Z,"61 km NE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-02T03:36:01.090Z,19.4678325653076,-155.588836669922,-1.28999996185303,1.98000002,md,9,123,,0.119999997,hv,hv73251077,2022-12-02T03:38:50.200Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.54,0.230000004,1.25999999,7,automatic,hv,hv
 2022-12-02T03:33:49.550Z,17.9013333333333,-66.8593333333333,17.64,2.74,md,6,235,0.07573,0.08,pr,pr71385063,2022-12-02T03:52:12.430Z,"9 km SSE of Maria Antonia, Puerto Rico",earthquake,0.92,0.78,0.0372660864084005,4,reviewed,pr,pr
@@ -11,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-02T02:47:28.607Z,-1.9594,128.4445,39.915,4.5,mb,27,100,2.919,0.75,us,us6000j67y,2022-12-02T03:04:03.040Z,"Kepulauan Obi, Indonesia",earthquake,8.96,8.222,0.157,15,reviewed,us,us
 2022-12-02T02:37:35.210Z,33.2523333,-117.0025,4.68,0.7,ml,8,234,0.3824,0.26,ci,ci40383432,2022-12-02T02:41:07.230Z,"5km NE of Valley Center, CA",earthquake,3.65,20.41,0.261,8,automatic,ci,ci
 2022-12-02T02:35:05.120Z,19.1356666666667,-67.1816666666667,53.52,3.44,md,31,232,0.6354,0.57,pr,pr71385038,2022-12-02T03:48:26.200Z,"Puerto Rico region",earthquake,2.16,6.47,0.0375180844550922,13,reviewed,pr,pr
-2022-12-02T02:23:24.530Z,38.762001,-122.7148361,1.33,0.78,md,8,115,0.007848,0.04,nc,nc73813651,2022-12-02T03:15:10.394Z,"2km SW of Anderson Springs, CA",earthquake,0.37,0.57,0.18,7,automatic,nc,nc
+2022-12-02T02:23:24.530Z,38.762001,-122.7148361,1.33,0.78,md,8,115,0.007848,0.04,nc,nc73813651,2022-12-02T04:01:14.666Z,"2km SW of Anderson Springs, CA",earthquake,0.37,0.57,0.18,7,automatic,nc,nc
 2022-12-02T02:20:30.450Z,19.4528333333333,-155.596666666667,-1.55,1.72,md,9,81,,0.13,hv,hv73250952,2022-12-02T03:37:06.890Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.27,0.28,0.17841264287786,5,reviewed,hv,hv
 2022-12-02T01:48:59.896Z,7.2842,-76.8484,56.115,4.7,mb,36,97,1.634,0.85,us,us6000j67s,2022-12-02T02:28:40.040Z,"33 km N of Murindó, Colombia",earthquake,4.26,8.574,0.095,34,reviewed,us,us
 2022-12-02T01:48:00.647Z,-12.0214,167.3268,295.067,4.5,mb,22,159,3.407,0.37,us,us6000j67t,2022-12-02T02:33:09.040Z,"206 km N of Sola, Vanuatu",earthquake,14.88,13.769,0.104,30,reviewed,us,us
@@ -140,7 +142,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T15:34:37.581Z,61.6712,-149.9463,33.3,1.8,ml,,,,0.54,ak,ak022fea64r2,2022-12-01T15:37:19.957Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-01T15:33:56.730Z,33.1631667,-116.0083333,4.28,1.13,ml,26,43,0.02765,0.22,ci,ci40383216,2022-12-01T19:51:58.707Z,"12km E of Ocotillo Wells, CA",earthquake,0.29,0.71,0.068,13,reviewed,ci,ci
 2022-12-01T15:32:11.720Z,32.8353333,-116.0381667,8.86,1.85,ml,38,44,0.06596,0.25,ci,ci40383200,2022-12-01T22:27:31.505Z,"12km NNW of Ocotillo, CA",earthquake,0.26,0.65,0.092,22,reviewed,ci,ci
-2022-12-01T15:28:29.660Z,32.8361667,-116.0403333,10.46,3.82,mw,79,43,0.06516,0.25,ci,ci40383192,2022-12-02T02:40:28.627Z,"12km NNW of Ocotillo, CA",earthquake,0.18,0.47,,4,reviewed,ci,ci
+2022-12-01T15:28:29.660Z,32.8361667,-116.0403333,10.46,3.82,mw,79,43,0.06516,0.25,ci,ci40383192,2022-12-02T04:11:26.911Z,"12km NNW of Ocotillo, CA",earthquake,0.18,0.47,,4,reviewed,ci,ci
 2022-12-01T15:18:07.300Z,19.4383333333333,-155.594833333333,-1.6,1.44,md,7,102,,0.1,hv,hv73249722,2022-12-01T20:50:00.310Z,"28 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.28,0.32,0.0312424014137819,4,reviewed,hv,hv
 2022-12-01T15:12:27.910Z,33.2263333,-116.736,11.23,0.62,ml,23,34,0.07917,0.14,ci,ci40383184,2022-12-01T19:56:24.738Z,"3km SE of Lake Henshaw, CA",earthquake,0.25,0.75,0.081,12,reviewed,ci,ci
 2022-12-01T15:04:29.980Z,19.4623333333333,-155.535666666667,2.7,1.67,md,5,304,,0.24,hv,hv73249682,2022-12-01T20:54:32.350Z,"29 km NNW of Pāhala, Hawaii",earthquake,1.81,1.93,0.192004781373492,4,reviewed,hv,hv
@@ -195,7 +197,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T11:12:11.160Z,17.9501666666667,-66.9456666666667,9.46,2.39,md,10,212,0.06788,0.08,pr,pr71384893,2022-12-01T11:39:29.110Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.48,0.6,0.229773325934172,6,reviewed,pr,pr
 2022-12-01T11:08:45.960Z,35.6018333,-118.3071667,9.48,0.95,ml,22,66,0.09995,0.13,ci,ci40383064,2022-12-01T18:53:52.033Z,"15km E of Lake Isabella, CA",earthquake,0.22,0.45,0.115,11,reviewed,ci,ci
 2022-12-01T11:08:14.810Z,38.175499,-122.4603348,9.21,1.57,md,8,191,0.02492,0.03,nc,nc73813406,2022-12-01T16:36:30.815Z,"8km NE of Black Point-Green Point, CA",earthquake,1.2,0.51,0.2,5,automatic,nc,nc
-2022-12-01T11:06:17.240Z,47.735166666666665,-120.04333333333334,3.63,0.1,ml,7,167,0.06957,0.06,uw,uw61896896,2022-12-01T20:25:27.560Z,"8 km SSW of Chelan Falls, Washington",earthquake,0.43,0.89,0.07394831638181457,2,reviewed,uw,uw
+2022-12-01T11:06:17.240Z,47.735166666666665,-120.04333333333334,3.63,0.1,ml,7,167,0.06957,0.06,uw,uw61896896,2022-12-01T20:25:27.560Z,"Washington",earthquake,0.43,0.89,0.07394831638181457,2,reviewed,uw,uw
 2022-12-01T11:03:43.530Z,33.1956667,-116.0343333,8.64,1.09,ml,40,56,0.05236,0.2,ci,ci40383056,2022-12-01T18:49:17.022Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.24,0.79,0.124,18,reviewed,ci,ci
 2022-12-01T11:03:15.790Z,33.196,-116.0375,8.51,1.07,ml,40,55,0.05491,0.24,ci,ci40383048,2022-12-01T18:32:59.786Z,"10km NE of Ocotillo Wells, CA",earthquake,0.27,0.89,0.148,21,reviewed,ci,ci
 2022-12-01T11:02:43.822Z,-0.4546,-19.8614,10,5.4,mww,51,61,9.233,0.8,us,us6000j608,2022-12-01T20:08:53.100Z,"central Mid-Atlantic Ridge",earthquake,10.43,1.844,0.093,11,reviewed,us,us
@@ -275,7 +277,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T05:41:02.760Z,18.075,-66.8108333333333,3.08,1.73,md,6,182,0.05506,0.14,pr,pr71384813,2022-12-01T08:28:23.360Z,"6 km NE of Yauco, Puerto Rico",earthquake,0.64,3.75,0.112000023719756,5,reviewed,pr,pr
 2022-12-01T05:28:48.250Z,31.9453333,-116.9068333,13.28,2.1,ml,13,237,0.2201,0.26,ci,ci40382984,2022-12-01T15:10:56.863Z,"22km WNW of El Sauzal, B.C., MX",earthquake,1.18,1.74,0.172,14,reviewed,ci,ci
 2022-12-01T05:27:21.260Z,19.155834197998,-155.467163085938,31.9799995422363,2.1500001,md,41,167,,0.109999999,hv,hv73248627,2022-12-01T05:30:45.890Z,"5 km SSE of Pāhala, Hawaii",earthquake,0.63,0.870000005,0.730000019,17,automatic,hv,hv
-2022-12-01T05:21:07.692Z,51.7034,-175.302,46.691,4.1,mb,73,179,0.611,0.68,us,us6000j5xt,2022-12-01T18:54:03.448Z,"93 km SW of Atka, Alaska",earthquake,7.04,10.995,0.061,74,reviewed,us,us
+2022-12-01T05:21:07.692Z,51.7034,-175.302,46.691,4.1,mb,73,179,0.611,0.68,us,us6000j5xt,2022-12-01T18:51:23.291Z,"93 km SW of Atka, Alaska",earthquake,7.04,10.995,0.061,74,reviewed,us,us
 2022-12-01T05:08:51.580Z,46.758,-120.9945,0.26,0.8300000000000001,ml,18,118,0.1193,0.48,uw,uw61896866,2022-12-02T01:52:24.270Z,"8 km SSW of Nile, Washington",earthquake,1,38.19,0.09487342287022499,5,reviewed,uw,uw
 2022-12-01T05:06:41.220Z,33.215,-116.0645,9.01,1.74,ml,68,51,0.0837,0.19,ci,ci40382976,2022-12-01T17:18:50.800Z,"10km NE of Ocotillo Wells, CA",earthquake,0.16,0.53,0.155,58,reviewed,ci,ci
 2022-12-01T05:05:16.088Z,39.2583,-117.9571,6.4,0.2,ml,7,200.74,0.136,0.0899,nn,nn00852378,2022-12-01T18:12:22.466Z,"43 km N of Gabbs, Nevada",earthquake,,17.2,0,1,reviewed,nn,nn
@@ -286,5 +288,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T04:28:04.820Z,37.6411667,-121.8113333,6.5,1.36,md,21,81,0.02654,0.09,nc,nc73813336,2022-12-01T19:50:13.943Z,"6km SW of Livermore, CA",earthquake,0.2,0.38,0.13,18,reviewed,nc,nc
 2022-12-01T04:26:09.330Z,32.911,-116.244,6.51,1.59,ml,59,59,0.06621,0.21,ci,ci40382952,2022-12-01T16:46:28.510Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.2,0.63,0.133,43,reviewed,ci,ci
 2022-12-01T04:23:43.670Z,19.4745,-155.587,-1.22,2.45,md,29,103,,0.16,hv,hv73248537,2022-12-01T06:01:39.040Z,"Hawaii region, Hawaii",earthquake,0.34,0.15,0.058279967239393,8,reviewed,hv,hv
-2022-12-01T04:13:12.930Z,19.4776666666667,-155.578666666667,-1.75,1.74,md,11,109,,0.15,hv,hv73248517,2022-12-01T04:25:28.612Z,"30 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.31,0.17,0.196436751512213,5,reviewed,hv,hv
-2022-12-01T04:00:31.510Z,58.251,-155.082833333333,5.21,-0.15,ml,4,119,,0.21,av,av91078178,2022-12-01T23:04:12.640Z,"Alaska Peninsula",earthquake,0.64,1.11,0.197540939062744,4,reviewed,av,av
