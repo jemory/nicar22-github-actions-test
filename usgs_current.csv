@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-07T15:31:39.030Z,38.8170013,-122.8190002,2.04,2.02,md,35,50,,0.06,nc,nc73815751,2022-12-07T15:34:21.882Z,"7km NW of The Geysers, CA",earthquake,0.19,0.3,0.18,37,automatic,nc,nc
-2022-12-07T15:07:30.610Z,38.8241653,-122.7976685,2.9,0.71,md,14,51,0.009721,0.02,nc,nc73815741,2022-12-07T15:09:05.542Z,"6km NW of The Geysers, CA",earthquake,0.31,0.7,0.11,15,automatic,nc,nc
+2022-12-07T15:31:39.030Z,38.8170013,-122.8190002,2.04,2.02,md,35,50,,0.06,nc,nc73815751,2022-12-07T15:46:12.003Z,"7km NW of The Geysers, CA",earthquake,0.19,0.3,0.18,37,automatic,nc,nc
+2022-12-07T15:07:30.610Z,38.8241653,-122.7976685,2.9,0.71,md,14,51,0.009721,0.02,nc,nc73815741,2022-12-07T15:35:12.945Z,"6km NW of The Geysers, CA",earthquake,0.31,0.7,0.11,15,automatic,nc,nc
 2022-12-07T15:05:33.490Z,38.828167,-122.8616638,1.1,0.79,md,13,106,0.003793,0.14,nc,nc73815736,2022-12-07T15:23:12.872Z,"11km WNW of The Geysers, CA",earthquake,0.51,0.69,0.2,15,automatic,nc,nc
 2022-12-07T15:04:59.600Z,17.9393333333333,-66.9545,10.23,2.21,md,16,218,0.05453,0.08,pr,pr71386048,2022-12-07T15:29:06.090Z,"Puerto Rico",earthquake,0.35,0.3,0.182010131044021,7,reviewed,pr,pr
 2022-12-07T14:59:36.377Z,14.1332,145.076,157.269,4.6,mb,45,69,14.895,0.57,us,us6000j7mk,2022-12-07T15:21:19.613Z,"69 km NNE of Yigo Village, Guam",earthquake,8.36,7.512,0.054,101,reviewed,us,us
@@ -64,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T08:27:53.060Z,38.3828316,-122.2044983,8.91,1.55,md,8,78,0.0681,0.06,nc,nc73815636,2022-12-07T09:53:12.873Z,"12km NE of Napa, CA",earthquake,0.34,1.17,0.18,4,automatic,nc,nc
 2022-12-07T08:25:33.050Z,18.7071666666667,-66.7876666666667,58.24,2.81,md,10,249,0.36,0.33,pr,pr71386028,2022-12-07T08:58:27.250Z,"24 km N of Hatillo, Puerto Rico",earthquake,1.52,2.21,0.0270653774605796,5,reviewed,pr,pr
 2022-12-07T08:21:46.270Z,18.0146666666667,-66.7615,14.49,2.16,md,12,172,0.09948,0.17,pr,pr71386033,2022-12-07T08:35:16.590Z,"Puerto Rico region",earthquake,0.58,0.94,0.145251519559898,7,reviewed,pr,pr
-2022-12-07T08:19:22.417Z,64.7134,-147.4948,13.3,0.5,ml,,,,0.37,ak,ak022fo34xkh,2022-12-07T08:20:55.854Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
+2022-12-07T08:19:22.417Z,64.7134,-147.4948,13.3,0.5,ml,,,,0.37,ak,ak022fo34xkh,2022-12-07T08:20:55.854Z,"8 km WSW of North Pole, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2022-12-07T08:13:51.610Z,44.7406667,-111.2045,10.91,1.04,ml,11,148,0.01173,0.17,uu,uu60527492,2022-12-07T14:17:31.420Z,"Idaho-Montana border region",earthquake,0.67,0.92,0.423,2,reviewed,uu,uu
 2022-12-07T08:06:44.590Z,33.6616667,-116.712,14.85,0.56,ml,11,100,0.0523,0.11,ci,ci40142919,2022-12-07T08:10:20.513Z,"9km S of Idyllwild, CA",earthquake,0.4,0.57,0.2,9,automatic,ci,ci
 2022-12-07T08:05:02.540Z,19.4493333333333,-155.601333333333,-1.18,2.15,md,9,91,,0.13,hv,hv73262822,2022-12-07T09:22:31.840Z,"Island of Hawaii, Hawaii",earthquake,0.36,0.34,0.147188118596348,6,reviewed,hv,hv
@@ -103,7 +103,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T05:18:50.530Z,37.2905006,-122.1920013,4.56,1.23,md,9,130,0.01517,0.16,nc,nc73815581,2022-12-07T06:48:11.683Z,"10km SW of Loyola, CA",earthquake,0.6,0.86,0.15,6,automatic,nc,nc
 2022-12-07T05:08:27.980Z,17.9465,-66.9528333333333,9.6,3.31,md,26,197,0.04922,0.13,pr,pr71385963,2022-12-07T05:48:21.472Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.34,0.36,0.184910774252551,19,reviewed,pr,pr
 2022-12-07T05:06:43.390Z,38.8306656,-122.8150024,1.53,1.08,md,20,50,0.008217,0.04,nc,nc73815576,2022-12-07T05:30:13.214Z,"8km NW of The Geysers, CA",earthquake,0.2,0.41,0.14,21,automatic,nc,nc
-2022-12-07T05:05:27.568Z,14.5317,123.064,9.04,5.2,mww,105,76,7.816,1.05,us,us6000j7j9,2022-12-07T14:48:40.502Z,"38 km NNE of Sabang Indan, Philippines",earthquake,7.83,2.168,0.093,11,reviewed,us,us
+2022-12-07T05:05:27.568Z,14.5317,123.064,9.04,5.2,mww,105,76,7.816,1.05,us,us6000j7j9,2022-12-07T15:41:45.651Z,"38 km NNE of Sabang Indan, Philippines",earthquake,7.83,2.168,0.093,11,reviewed,us,us
 2022-12-07T05:03:20.530Z,17.9538333333333,-66.9536666666667,10.16,2.38,md,18,207,0.04659,0.11,pr,pr71385948,2022-12-07T05:18:05.840Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.31,0.43,0.0476366371535633,8,reviewed,pr,pr
 2022-12-07T04:52:20.050Z,17.9376666666667,-66.9565,10.01,3.41,md,38,211,0.05705,0.13,pr,pr71385938,2022-12-07T06:05:14.040Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.31,0.26,0.210633461699977,22,reviewed,pr,pr
 2022-12-07T04:49:13.109Z,35.2455,-98.031,7.71,1.33,ml,87,38,0.04589099462,0.37,ok,ok2022xxop,2022-12-07T14:29:37.727Z,"9 km NW of Pocasset, Oklahoma",earthquake,,0.6,0.29,35,reviewed,ok,ok
@@ -119,7 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-07T03:34:00.708Z,63.8474,-148.7658,4.5,2.3,ml,,,,0.29,ak,ak022fo08xly,2022-12-07T05:41:03.040Z,"9 km E of Healy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-07T03:02:12.779Z,35.252,-98.02916667,7.08,1.33,ml,83,66,0.05128993517,0.38,ok,ok2022xxlb,2022-12-07T14:41:00.133Z,"9 km NW of Pocasset, Oklahoma",earthquake,,0.6,0.25,33,reviewed,ok,ok
 2022-12-07T02:54:38.710Z,18.0231666666667,-66.7963333333333,17.72,2.42,md,8,145,0.02711,0.16,pr,pr71385933,2022-12-07T03:12:24.220Z,"0 km NW of Guayanilla, Puerto Rico",earthquake,1.49,0.86,0.104939581398906,4,reviewed,pr,pr
-2022-12-07T02:32:40.780Z,38.367,-90.3226666666667,5.1,2.47,md,20,62,0.2153,0.18,nm,nm60501696,2022-12-07T15:26:55.397Z,"eastern Missouri",earthquake,0.31,1.45,0.0707472136163414,9,reviewed,nm,nm
+2022-12-07T02:32:40.780Z,38.367,-90.3226666666667,5.1,2.47,md,20,62,0.2153,0.18,nm,nm60501696,2022-12-07T15:41:17.252Z,"eastern Missouri",earthquake,0.31,1.45,0.0707472136163414,9,reviewed,nm,nm
 2022-12-07T02:31:45.488Z,62.6916,-151.7083,0.5,1.9,ml,,,,0.44,ak,ak022fnzmyb8,2022-12-07T02:55:27.488Z,"53 km WNW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-07T02:30:13.097Z,31.71277945,-104.1747099,7.879711914,3.5,ml,41,54,0.04915009892,0.2,tx,tx2022xxjz,2022-12-07T02:56:11.219Z,"54 km W of Mentone, Texas",earthquake,0.4511796147,0.862166478,0.2,21,reviewed,tx,tx
 2022-12-07T02:29:36.344Z,37.3564,-116.5999,1.3,0.6,ml,9,169.44,0.234,0.3156,nn,nn00852796,2022-12-07T02:38:55.450Z,"51 km NNE of Beatty, Nevada",earthquake,,27.3,1.19,7,automatic,nn,nn
