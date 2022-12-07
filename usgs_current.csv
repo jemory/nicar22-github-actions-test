@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-07T00:00:38.634Z,63.937,-149.6268,3.8,1.2,ml,,,,0.32,ak,ak022fny9fdj,2022-12-07T00:02:51.549Z,"26 km WSW of Ferry, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-06T23:41:53.530Z,37.5341682,-118.4843369,2.16,2.08,md,10,159,0.0354,0.03,nc,nc73815461,2022-12-06T23:48:13.084Z,"17km NE of Round Valley, CA",earthquake,0.41,1.38,0.26,11,automatic,nc,nc
 2022-12-06T23:23:05.378Z,61.4006,-146.6242,31.2,1.6,ml,,,,0.44,ak,ak022fmojwp5,2022-12-06T23:24:55.117Z,"33 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-06T23:20:28.870Z,19.1561660766602,-155.492660522461,33.4500007629395,2.22000003,md,32,133,,0.129999995,hv,hv73262477,2022-12-06T23:23:45.230Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.61,0.790000021,0.980000019,11,automatic,hv,hv
@@ -174,7 +175,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T08:15:39.800Z,53.3495,-165.591,38,2.4,ml,,,,0.23,ak,ak022fmfkqlb,2022-12-06T22:05:58.046Z,"85 km SE of Unalaska, Alaska",earthquake,,1.4,,,reviewed,ak,ak
 2022-12-06T08:13:36.020Z,33.7711667,-116.0778333,2.31,0.98,ml,42,86,0.1202,0.15,ci,ci40142551,2022-12-06T19:13:42.944Z,"14km NE of Coachella, CA",earthquake,0.16,0.36,0.19,17,reviewed,ci,ci
 2022-12-06T08:04:58.720Z,32.36846924,-102.1085413,8.339070638,2.1,ml,32,56,0.05471605366,0.2,tx,tx2022xvzo,2022-12-06T19:57:45.969Z,"western Texas",earthquake,0.6987629013,0.7885297504,0,7,reviewed,tx,tx
-2022-12-06T08:01:30.714Z,-0.0121,123.1747,166.334,5,mb,60,52,2.64,0.96,us,us6000j79p,2022-12-06T08:18:41.040Z,"Sulawesi, Indonesia",earthquake,7.95,7.07,0.063,81,reviewed,us,us
+2022-12-06T08:01:30.714Z,-0.0121,123.1747,166.334,5,mb,60,52,2.64,0.96,us,us6000j79p,2022-12-06T08:18:41.040Z,"62 km SSE of Gorontalo, Indonesia",earthquake,7.95,7.07,0.063,81,reviewed,us,us
 2022-12-06T07:52:58.459Z,61.4058,-150.9514,59.4,1.8,ml,,,,0.48,ak,ak022fmf7avp,2022-12-06T07:54:54.571Z,"27 km WSW of Susitna, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-06T07:44:31.710Z,38.8149986,-122.7634964,1.79,1.25,md,14,107,0.01354,0.03,nc,nc73815166,2022-12-06T09:54:13.628Z,"4km WSW of Cobb, CA",earthquake,0.31,0.51,0.19,16,automatic,nc,nc
 2022-12-06T07:36:26.400Z,36.6971,-116.2865,7.5,-0.3,ml,4,219.48,0.042,0.0722,nn,nn00852744,2022-12-06T19:57:08.118Z,"48 km ESE of Beatty, Nevada",earthquake,,3.7,0.1,3,reviewed,nn,nn
@@ -270,8 +271,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-06T00:12:17.643Z,60.7129,-151.7667,73,1.4,ml,,,,0.15,ak,ak022fmaslus,2022-12-06T00:14:14.582Z,"26 km W of Nikiski, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-12-06T00:10:37.600Z,35.9321667,-120.0313333,7.17,4.04,mw,62,103,0.09193,0.15,nc,nc73814971,2022-12-06T20:11:38.264Z,"10km SW of Kettleman City, CA",earthquake,0.26,0.59,,4,reviewed,nc,nc
 2022-12-06T00:07:48.280Z,34.3921667,-119.3075,15.11,0.82,ml,8,114,0.03664,0.2,ci,ci40142447,2022-12-06T16:13:02.948Z,"9km SW of Ojai, CA",earthquake,0.95,1.28,0.01,1,reviewed,ci,ci
-2022-12-06T00:00:32.760Z,19.1693325042725,-155.482666015625,31.0300006866455,1.84000003,md,37,98,,0.119999997,hv,hv73260892,2022-12-06T00:03:52.900Z,"3 km S of Pāhala, Hawaii",earthquake,0.61,0.899999976,0.920000017,12,automatic,hv,hv
-2022-12-05T23:58:29.110Z,34.4355,-119.3563333,5.66,0.94,ml,10,129,0.06791,0.15,ci,ci40142439,2022-12-06T16:02:02.894Z,"10km W of Ojai, CA",earthquake,0.6,1.55,0.138,2,reviewed,ci,ci
-2022-12-05T23:58:13.120Z,34.4196667,-119.3598333,10.53,0.74,ml,9,166,0.05321,0.25,ci,ci37474204,2022-12-06T16:08:47.420Z,"11km WSW of Ojai, CA",earthquake,1.03,1.03,0.037,1,reviewed,ci,ci
-2022-12-05T23:55:00.350Z,7.7215,124.7294,10.321,4.9,mb,34,100,1.063,0.56,us,us6000j76d,2022-12-06T02:13:09.296Z,"Mindanao, Philippines",earthquake,5.11,4.476,0.119,22,reviewed,us,us
-2022-12-05T23:54:47.900Z,38.8361664,-122.7914963,1.95,0.88,md,14,45,0.002413,0.01,nc,nc73814966,2022-12-06T00:18:11.154Z,"6km WNW of Cobb, CA",earthquake,0.23,0.32,0.24,14,automatic,nc,nc
