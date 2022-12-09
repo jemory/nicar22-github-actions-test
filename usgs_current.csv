@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-09T10:37:42.540Z,34.118,-117.0995026,9.03,1.61,ml,30,127,0.01155,0.34,ci,ci40143959,2022-12-09T10:39:48.132Z,"6km NNE of Mentone, CA",earthquake,0.55,1.1,0.34,6,automatic,ci,ci
 2022-12-09T10:19:05.630Z,38.8221664,-122.8274994,2.09,1.09,md,25,53,0.01334,0.02,nc,nc73816566,2022-12-09T10:20:41.394Z,"8km NW of The Geysers, CA",earthquake,0.18,0.36,0.18,25,automatic,nc,nc
 2022-12-09T10:18:23.690Z,19.2656669616699,-155.421661376953,33.7799987792969,1.97,ml,48,115,,0.140000001,hv,hv73264507,2022-12-09T10:23:55.390Z,"9 km NE of Pāhala, Hawaii",earthquake,0.57,0.720000029,3.85,5,automatic,hv,hv
 2022-12-09T10:02:21.771Z,64.3261,-150.8713,0,1.3,ml,,,,1.06,ak,ak022frfaujl,2022-12-09T10:04:41.180Z,"76 km S of Manley Hot Springs, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -64,7 +65,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-09T04:02:34.894Z,63.7965,-147.6883,0,1.5,ml,,,,0.54,ak,ak022frbq9xd,2022-12-09T04:04:43.895Z,"60 km E of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-09T04:01:57.220Z,19.1706657409668,-155.491333007812,30.25,2.4,ml,39,104,,0.140000001,hv,hv73264347,2022-12-09T06:09:40.899Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.73,0.980000019,3.99,5,automatic,hv,hv
 2022-12-09T03:56:22.840Z,17.9515,-66.9085,10.35,2.47,md,5,206,0.03638,0.11,pr,pr71386188,2022-12-09T04:24:42.980Z,"2 km S of Guánica, Puerto Rico",earthquake,0.69,0.56,0.00967074987707739,4,reviewed,pr,pr
-2022-12-09T03:46:54.230Z,36.701,137.5799,245.318,4.1,mb,27,82,0.526,0.79,us,us6000j82k,2022-12-09T04:14:48.040Z,"19 km E of Kamiichi, Japan",earthquake,14.99,11.963,0.14,14,reviewed,us,us
+2022-12-09T03:46:54.230Z,36.701,137.5799,245.318,4.1,mb,27,82,0.526,0.79,us,us6000j82k,2022-12-09T04:14:48.040Z,"eastern Honshu, Japan",earthquake,14.99,11.963,0.14,14,reviewed,us,us
 2022-12-09T03:34:26.170Z,38.831665,-122.8118362,1.84,0.71,md,10,89,0.008372,0.01,nc,nc73816406,2022-12-09T03:36:02.903Z,"8km NW of The Geysers, CA",earthquake,0.32,1,0.14,11,automatic,nc,nc
 2022-12-09T03:31:03.700Z,38.838665,-122.8098297,1.94,1.54,md,28,35,,0.02,nc,nc73816401,2022-12-09T06:11:13.953Z,"8km WNW of Cobb, CA",earthquake,0.18,0.36,0.15,29,automatic,nc,nc
 2022-12-09T03:24:33.317Z,-0.8268,-79.9196,55.289,4.5,mb,22,158,7.939,1.27,us,us6000j82i,2022-12-09T07:10:52.588Z,"24 km SE of Chone, Ecuador",earthquake,11.73,6.368,0.106,27,reviewed,us,us
@@ -219,7 +220,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:38:26.525Z,41.9699,-119.5407,1,1.2,ml,4,208.5,0.571,0.0566,nn,nn00852970,2022-12-09T02:41:03.477Z,"52 km ENE of Fort Bidwell, California",earthquake,,5.1,0.7,3,reviewed,nn,nn
 2022-12-08T11:37:06.867Z,41.9777,-119.55,0.9,1.1,ml,4,206.91,0.565,0.0683,nn,nn00852969,2022-12-09T02:41:02.058Z,"51 km ENE of Fort Bidwell, California",earthquake,,5,1.04,4,reviewed,nn,nn
 2022-12-08T11:29:13.690Z,19.4068336486816,-155.288665771484,1.0900000333786,1.73,ml,15,59,,0.0900000036,hv,hv73263922,2022-12-08T11:34:47.940Z,"6 km SW of Volcano, Hawaii",earthquake,0.19,0.189999998,0.16,3,automatic,hv,hv
-2022-12-08T11:27:35.952Z,31.68702887,-104.4851968,6.799975586,2.1,ml,34,55,0.02273841353,0.2,tx,tx2022xzxe,2022-12-08T20:16:00.880Z,"western Texas",earthquake,0.7834415056,0.6634984862,0,6,reviewed,tx,tx
+2022-12-08T11:27:35.952Z,31.68702887,-104.4851968,6.799975586,2.1,ml,34,55,0.02273841353,0.2,tx,tx2022xzxe,2022-12-08T20:16:00.880Z,"55 km S of Whites City, New Mexico",earthquake,0.7834415056,0.6634984862,0,6,reviewed,tx,tx
 2022-12-08T11:21:36.569Z,-35.5352,-71.5352,78.994,4.4,mb,32,100,0.246,0.47,us,us6000j7vu,2022-12-08T14:39:18.040Z,"4 km W of San Clemente, Chile",earthquake,4.69,8.197,0.17,10,reviewed,us,us
 2022-12-08T11:18:51.660Z,19.3961658477783,-155.268997192383,10.1300001144409,1.78999996,md,18,64,,0.150000006,hv,hv73263907,2022-12-08T11:21:57.260Z,"6 km SW of Volcano, Hawaii",earthquake,0.47,0.610000014,0.360000014,5,automatic,hv,hv
 2022-12-08T11:13:19.360Z,39.1644,-120.2792,7.8,0.4,ml,11,108.63,0.127,0.1381,nn,nn00853015,2022-12-09T02:42:48.435Z,"10 km W of Sunnyside-Tahoe City, California",earthquake,,2.3,0.28,4,reviewed,nn,nn
@@ -229,6 +230,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-08T11:00:09.030Z,38.8363342,-122.7911682,1.68,0.21,md,7,120,0.002169,0.01,nc,nc73816151,2022-12-08T12:18:13.461Z,"6km WNW of Cobb, CA",earthquake,0.5,1.47,0.14,8,automatic,nc,nc
 2022-12-08T10:44:45.010Z,38.8264999,-122.8103333,1.75,0.72,md,13,65,0.003107,0.01,nc,nc73816146,2022-12-08T11:07:14.025Z,"7km NW of The Geysers, CA",earthquake,0.32,0.64,0.06,14,automatic,nc,nc
 2022-12-08T10:41:08.540Z,19.4105,-155.2745,0.89,2.08,ml,18,47,,0.1,hv,hv73263882,2022-12-08T22:58:36.970Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.22,0.255158286429983,11,reviewed,hv,hv
-2022-12-08T10:36:21.240Z,38.8248329,-122.7953339,2.57,0.77,md,17,52,0.0116,0.01,nc,nc73816141,2022-12-08T11:52:13.310Z,"6km W of Cobb, CA",earthquake,0.28,0.65,0.12,17,automatic,nc,nc
-2022-12-08T10:34:51.446Z,36.4489,-116.226,0,0.5,ml,6,258.83,0.045,0.1498,nn,nn00853014,2022-12-09T02:42:43.527Z,"34 km NW of Pahrump, Nevada",earthquake,,0,1.04,3,reviewed,nn,nn
-2022-12-08T10:31:28.760Z,38.8848,-119.6344,1.5,0.7,ml,7,140.62,0.022,0.1455,nn,nn00853013,2022-12-09T02:42:42.035Z,"2 km NNE of Carter Springs, Nevada",earthquake,,4.1,0.38,2,reviewed,nn,nn
