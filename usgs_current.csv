@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-12T20:52:49.835Z,64.6418,-147.5981,6.1,1.5,ml,,,,0.28,ak,ak022fwk601j,2022-12-12T20:54:45.032Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-12T20:43:18.560Z,38.8241653,-122.8274994,2.12,0.81,md,17,51,0.005975,0.02,nc,nc73817706,2022-12-12T20:44:55.480Z,"8km NW of The Geysers, CA",earthquake,0.23,0.49,0.21,19,automatic,nc,nc
 2022-12-12T20:42:13.881Z,61.741,-149.8649,35.8,2,ml,,,,0.61,ak,ak022fwk3s3w,2022-12-12T20:44:20.524Z,"9 km E of Willow, Alaska",earthquake,,3.9,,,automatic,ak,ak
 2022-12-12T20:39:29.474Z,62.1468,-151.2037,79,2.1,ml,,,,0.21,ak,ak022fwk365v,2022-12-12T20:40:57.843Z,"20 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-12T20:20:59.900Z,38.119,-122.1778333,-0.07,1.67,md,25,56,0.02289,0.23,nc,nc73817701,2022-12-12T20:32:05.657Z,"5km E of Vallejo, CA",quarry blast,0.4,31.61,0.225,26,reviewed,nc,nc
+2022-12-12T20:20:59.900Z,38.119,-122.1778333,-0.07,1.67,md,25,56,0.02289,0.23,nc,nc73817701,2022-12-12T20:55:12.060Z,"5km E of Vallejo, CA",quarry blast,0.4,31.61,0.225,26,reviewed,nc,nc
 2022-12-12T20:08:17.680Z,38.7830009,-122.7334976,1.93,0.29,md,7,192,0.002533,0.02,nc,nc73817696,2022-12-12T20:44:11.985Z,"2km ENE of The Geysers, CA",earthquake,0.49,0.65,0.19,7,automatic,nc,nc
 2022-12-12T20:08:17.129Z,61.9006,-150.9802,58.5,2,ml,,,,0.41,ak,ak022fwjwi0g,2022-12-12T20:10:11.299Z,"24 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-12T19:53:10.968Z,61.6006,-146.6524,41.6,2,ml,,,,0.91,ak,ak022fwjkp21,2022-12-12T19:56:55.268Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -19,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-12T18:22:55.980Z,44.7703333,-110.8538333,1.83,0.32,md,5,179,0.01815,0.02,uu,uu60528032,2022-12-12T19:05:38.330Z,"Wyoming",earthquake,2.2,0.94,0.194,4,reviewed,uu,uu
 2022-12-12T18:15:39.820Z,19.4068336486816,-155.264663696289,0.730000019073486,2.32,ml,20,39,,0.239999995,hv,hv73267587,2022-12-12T18:21:10.870Z,"5 km SW of Volcano, Hawaii",earthquake,0.26,0.430000007,0.3,11,automatic,hv,hv
 2022-12-12T18:14:52.210Z,19.195,-64.8486,24,3.6,md,11,301,0.8493,0.22,pr,pr2022346000,2022-12-12T19:12:45.040Z,"94 km N of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.28,18.85,0.12,7,reviewed,pr,pr
-2022-12-12T18:12:39.200Z,38.546,-119.5393333,4.11,2.27,md,19,82,0.04269,0.09,nc,nc73817676,2022-12-12T20:27:11.060Z,"6km NW of Walker, CA",earthquake,0.2,0.42,0.256,30,reviewed,nc,nc
+2022-12-12T18:12:39.200Z,38.546,-119.5393333,4.11,2.27,md,19,82,0.04269,0.09,nc,nc73817676,2022-12-12T20:55:13.059Z,"6km NW of Walker, CA",earthquake,0.2,0.42,0.256,30,reviewed,nc,nc
 2022-12-12T18:10:12.860Z,44.791,-110.825,4.94,0.45,md,5,224,0.01835,0.06,uu,uu60528022,2022-12-12T18:36:51.970Z,"22 km SSW of Mammoth, Wyoming",earthquake,1.3,0.62,0.146,4,reviewed,uu,uu
 2022-12-12T18:08:07.960Z,44.793,-110.823,4.91,1.44,ml,13,104,0.02013,0.16,uu,uu60528017,2022-12-12T18:33:44.610Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.51,0.41,0.276,3,reviewed,uu,uu
 2022-12-12T18:05:44.510Z,44.7938333,-110.8196667,5.08,0.42,md,5,233,0.02263,0.02,uu,uu60032284,2022-12-12T18:16:43.050Z,"Wyoming",earthquake,1.15,0.8,0.227,4,reviewed,uu,uu
@@ -179,5 +181,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-11T21:06:15.250Z,33.6746667,-116.725,14.65,0.76,ml,21,80,0.03751,0.16,ci,ci40144639,2022-12-11T21:26:35.115Z,"7km S of Idyllwild, CA",earthquake,0.43,0.51,0.245,15,reviewed,ci,ci
 2022-12-11T20:59:29.910Z,34.0461667,-116.6996667,11.31,1.19,ml,45,38,0.04362,0.14,ci,ci40144631,2022-12-12T19:32:57.113Z,"11km W of Morongo Valley, CA",earthquake,0.15,0.38,0.209,18,reviewed,ci,ci
 2022-12-11T20:58:56.800Z,34.047,-116.7003333,11.19,1.69,ml,67,31,0.04431,0.16,ci,ci40144623,2022-12-12T18:47:45.510Z,"11km W of Morongo Valley, CA",earthquake,0.14,0.4,0.147,49,reviewed,ci,ci
-2022-12-11T20:56:42.028Z,64.9778,-164.423,13.1,3.8,ml,,,,0.66,ak,ak022fuwnhsp,2022-12-12T01:26:34.033Z,"46 km N of Solomon, Alaska",earthquake,,0.8,,,reviewed,ak,ak
-2022-12-11T20:49:15.670Z,38.7879982,-122.7496643,0.01,1.43,md,14,136,0.02135,0.05,nc,nc73817431,2022-12-11T22:27:13.970Z,"1km NNE of The Geysers, CA",earthquake,0.27,0.81,0.19,14,automatic,nc,nc
