@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-14T03:40:46.040Z,19.4188333333333,-155.247666666667,0.78,2.41,ml,25,113,,0.09,hv,hv73268947,2022-12-14T03:52:24.050Z,"3 km SSW of Volcano, Hawaii",earthquake,0.14,0.14,0.121380737703704,13,reviewed,hv,hv
+2022-12-14T04:17:20.580Z,33.9858333,-116.9798333,13.9,1.13,ml,40,40,0.1135,0.19,ci,ci40145351,2022-12-14T04:20:54.109Z,"6km N of Beaumont, CA",earthquake,0.21,0.61,0.166,25,automatic,ci,ci
+2022-12-14T04:06:01.760Z,36.5376663,-121.1151657,9.19,1.96,md,19,103,0.06597,0.05,nc,nc73818476,2022-12-14T04:18:10.606Z,"3km ENE of Pinnacles, CA",earthquake,0.3,0.77,0.18,20,automatic,nc,nc
+2022-12-14T04:05:41.240Z,19.4244995117188,-155.254165649414,1.05999994277954,2.06,ml,21,131,,0.319999993,hv,hv73268977,2022-12-14T04:16:33.660Z,"2 km SW of Volcano, Hawaii",earthquake,0.39,0.439999998,0.34,11,automatic,hv,hv
+2022-12-14T03:59:00.940Z,37.4791679,-121.3873367,5.42,1.54,md,7,90,0.05388,0.05,nc,nc73818471,2022-12-14T04:16:12.467Z,"18km WSW of Westley, CA",earthquake,0.41,1.4,0.09,7,automatic,nc,nc
+2022-12-14T03:40:46.040Z,19.4188333333333,-155.247666666667,0.78,2.41,ml,25,113,,0.09,hv,hv73268947,2022-12-14T04:11:22.742Z,"3 km SSW of Volcano, Hawaii",earthquake,0.14,0.14,0.121380737703704,13,reviewed,hv,hv
 2022-12-14T03:13:37.470Z,19.5076,-65.7491,57,3.71,md,13,284,1.2444,0.51,pr,pr2022348000,2022-12-14T03:45:58.357Z,"119 km N of Suárez, Puerto Rico",earthquake,5.91,18.69,0.11,3,reviewed,pr,pr
 2022-12-14T02:51:58.710Z,33.8256667,-117.6883333,8.79,1.19,ml,12,110,0.07262,0.14,ci,ci40145343,2022-12-14T02:58:56.420Z,"12km E of Villa Park, CA",earthquake,0.45,0.71,0.446,14,automatic,ci,ci
 2022-12-14T02:48:38.900Z,38.7896652,-122.7616653,1.76,0.71,md,9,122,0.01105,0.01,nc,nc73818456,2022-12-14T03:14:13.093Z,"1km NNW of The Geysers, CA",earthquake,0.46,0.9,0.08,10,automatic,nc,nc
@@ -115,6 +119,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T12:28:40.777Z,-23.1766,-179.1727,422.658,4.8,mb,36,85,5.997,0.77,us,us6000j8zh,2022-12-13T13:21:08.040Z,"south of the Fiji Islands",earthquake,12.69,7.922,0.098,34,reviewed,us,us
 2022-12-13T12:26:25.541Z,-28.1143,-178.2251,60.866,5.4,mww,44,72,8.979,0.28,us,us6000j8zp,2022-12-13T14:29:48.430Z,"Kermadec Islands region",earthquake,8.88,5.908,0.098,10,reviewed,us,us
 2022-12-13T12:23:28.568Z,62.2473,-150.8768,55.7,1.9,ml,,,,0.51,ak,ak022fy2rmag,2022-12-13T12:26:00.797Z,"28 km SSW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-12-13T12:19:27.310Z,61.3228333333333,-152.266333333333,-2.46,-0.41,ml,8,127,,0.08,av,av91730236,2022-12-14T04:17:09.170Z,"66 km WNW of Beluga, Alaska",earthquake,0.24,1.29,0.225850686517646,8,reviewed,av,av
 2022-12-13T12:09:43.008Z,61.5036,-149.9037,33,1.6,ml,,,,0.45,ak,ak022fy2ondo,2022-12-13T12:11:33.656Z,"3 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-13T12:02:46.780Z,19.1399993896484,-155.374664306641,28.5699996948242,2.1099999,md,46,184,,0.129999995,hv,hv73268442,2022-12-13T12:06:10.230Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.56,0.839999974,1.54999995,22,automatic,hv,hv
 2022-12-13T11:51:12.336Z,-23.5713,-66.619,189.794,4.5,mb,101,41,1.561,0.46,us,us6000j8zb,2022-12-13T13:30:13.040Z,"Jujuy, Argentina",earthquake,7.72,4.188,0.044,151,reviewed,us,us
@@ -194,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-13T05:02:10.260Z,51.8631666666667,-177.930833333333,5.86,1.28,ml,5,167,,0.08,av,av91730126,2022-12-14T00:48:07.640Z,"89 km W of Adak, Alaska",earthquake,0.43,0.88,0.132406678390136,5,reviewed,av,av
 2022-12-13T04:46:10.907Z,60.0985,-153.0625,121.8,2.2,ml,,,,0.28,ak,ak022fxy51k2,2022-12-13T06:04:50.040Z,"67 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-13T04:27:12.721Z,64.7676,-150.2283,10.9,1.7,ml,,,,0.55,ak,ak022fxy0z2l,2022-12-13T04:29:34.009Z,"32 km SE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-13T04:09:13.519Z,35.27616667,-98.02616667,7.73,2.62,ml,95,32,0,0.27,ok,ok2022yimh,2022-12-13T21:29:24.813Z,"8 km WSW of Minco, Oklahoma",earthquake,,0.4,0.24,46,reviewed,ok,ok
-2022-12-13T04:03:05.272Z,38.1844,-117.8292,1.4,1.2,ml,14,184.33,0.112,0.1801,nn,nn00853228,2022-12-13T22:56:08.253Z,"33 km SE of Mina, Nevada",earthquake,,4,0.6,3,reviewed,nn,nn
-2022-12-13T03:59:02.934Z,65.3679,-145.0268,36.8,2.4,ml,,,,0.67,ak,ak022fxxmdn9,2022-12-13T05:44:04.040Z,"25 km SSW of Central, Alaska",earthquake,,6.8,,,automatic,ak,ak
