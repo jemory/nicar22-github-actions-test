@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-15T14:41:04.810Z,19.2501659393311,-155.404159545898,6.26999998092651,2.87,ml,33,190,,0.370000005,hv,hv73270462,2022-12-15T14:46:35.400Z,"9 km ENE of Pāhala, Hawaii",earthquake,1.87,2.49000001,2.15,18,automatic,hv,hv
+2022-12-15T14:40:58.350Z,19.2118339538574,-155.414505004883,32.9900016784668,2.98,ml,49,145,,0.189999998,hv,hv73270467,2022-12-15T14:46:41.400Z,"6 km E of Pāhala, Hawaii",earthquake,0.56,0.779999971,3.22,29,automatic,hv,hv
+2022-12-15T14:40:35.250Z,19.1703338623047,-155.375335693359,32.2799987792969,2.92,ml,23,217,,0.0900000036,hv,hv73270457,2022-12-15T14:46:06.310Z,"11 km ESE of Pāhala, Hawaii",earthquake,0.85,1.30999994,3.36,32,automatic,hv,hv
 2022-12-15T14:04:29.890Z,38.8363342,-122.7914963,1.92,1.27,md,20,43,0.002259,0.02,nc,nc73818956,2022-12-15T14:37:14.766Z,"6km WNW of Cobb, CA",earthquake,0.22,0.51,0.17,21,automatic,nc,nc
 2022-12-15T13:55:13.580Z,33.3373333,-116.3751667,10.69,1.64,ml,58,40,0.0774,0.23,ci,ci40145735,2022-12-15T14:06:07.410Z,"9km N of Borrego Springs, CA",earthquake,0.26,0.56,0.123,27,automatic,ci,ci
 2022-12-15T13:12:40.630Z,33.1558333,-116.5908333,9,0.96,ml,29,53,0.06408,0.19,ci,ci40145727,2022-12-15T13:16:17.344Z,"9km N of Julian, CA",earthquake,0.3,0.62,0.193,26,automatic,ci,ci
@@ -30,6 +33,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T09:15:15.840Z,17.9791666666667,-66.886,9.84,2.27,md,7,147,0.00761,0.06,pr,pr71387258,2022-12-15T09:24:30.900Z,"0 km ENE of Maria Antonia, Puerto Rico",earthquake,0.4,0.43,0.0600644761462972,4,reviewed,pr,pr
 2022-12-15T09:14:49.888Z,-60.037,-26.9161,68.039,5.2,mb,58,61,7.762,0.61,us,us6000j9dp,2022-12-15T10:03:30.040Z,"South Sandwich Islands region",earthquake,11.25,6.339,0.072,64,reviewed,us,us
 2022-12-15T09:02:49.930Z,38.8366661,-122.7945023,1.98,0.7,md,10,75,0.003684,0.01,nc,nc73818921,2022-12-15T09:22:14.899Z,"6km WNW of Cobb, CA",earthquake,0.38,1.1,0.18,10,automatic,nc,nc
+2022-12-15T09:02:27.530Z,44.774,-111.0276667,9.23,0.07,md,9,138,0.02121,0.11,uu,uu60528152,2022-12-15T14:39:32.490Z,"12 km E of Hebgen Lake Estates, Montana",earthquake,0.59,1.07,0.262,4,reviewed,uu,uu
 2022-12-15T09:02:07.147Z,63.0515,-148.7293,7,1.6,ml,,,,0.54,ak,ak022g1bxgru,2022-12-15T09:03:52.173Z,"39 km SSE of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-15T08:58:50.300Z,33.9698333,-117.1318333,14.82,0.85,ml,22,65,0.04074,0.17,ci,ci40145687,2022-12-15T09:02:28.554Z,"8km WSW of Calimesa, CA",earthquake,0.31,0.78,0.169,23,automatic,ci,ci
 2022-12-15T08:48:00.930Z,38.8101654,-122.7925034,3.26,0.33,md,7,180,0.003098,0.01,nc,nc73818911,2022-12-15T09:10:11.832Z,"5km NW of The Geysers, CA",earthquake,1.18,1.05,0.12,8,automatic,nc,nc
@@ -129,6 +133,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T21:14:25.806Z,37.156,-117.3478,8.9,1.2,ml,12,102.78,0.161,0.1594,nn,nn00853379,2022-12-15T02:42:22.176Z,"59 km WNW of Beatty, Nevada",earthquake,,5.2,0.81,8,reviewed,nn,nn
 2022-12-14T21:12:39.778Z,-50.2767,112.4184,10,4.8,mb,10,135,21.36,0.48,us,us6000j99h,2022-12-14T21:28:49.040Z,"southeast Indian Ridge",earthquake,12.56,1.928,0.209,7,reviewed,us,us
 2022-12-14T21:04:41.583Z,60.315,-152.2964,84,1.8,ml,,,,0.38,ak,ak022fzvjtmm,2022-12-14T21:06:53.562Z,"45 km NW of Ninilchik, Alaska",earthquake,,1.8,,,automatic,ak,ak
+2022-12-14T21:03:23.300Z,36.209,-95.88666667,0,1.24,ml,26,115,0.307739611,0.41,ok,ok2022ylpg,2022-12-15T14:46:40.984Z,"7 km SSW of Owasso, Oklahoma",quarry blast,,0.6,0.13,7,reviewed,ok,ok
 2022-12-14T20:56:46.960Z,46.62416666666667,-121.75633333333333,12.68,2.91,ml,19,160,0.1269,0.12,uw,uw61898541,2022-12-15T06:22:17.879Z,"6 km WNW of Packwood, Washington",earthquake,0.35,0.88,0.1485348324086937,136,reviewed,uw,uw
 2022-12-14T20:52:37.831Z,60.3919,-151.7767,68.3,1.6,ml,,,,0.68,ak,ak022fzv8o3r,2022-12-14T20:54:52.085Z,"26 km W of Cohoe, Alaska",earthquake,,2.3,,,automatic,ak,ak
 2022-12-14T20:46:31.573Z,21.8638,95.902,10,5,mb,62,54,1.517,0.5,us,us6000j99a,2022-12-15T06:14:35.863Z,"8 km WSW of Sagaing, Myanmar",earthquake,6.99,1.842,0.061,87,reviewed,us,us
