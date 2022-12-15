@@ -1,9 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-15T21:49:38.550Z,38.8373337,-122.8101654,1.95,0.69,md,10,76,0.01392,0.01,nc,nc73819071,2022-12-15T21:51:16.534Z,"8km WNW of Cobb, CA",earthquake,0.38,0.93,0.47,12,automatic,nc,nc
-2022-12-15T21:40:43.980Z,19.03733253479,-155.346832275391,34.6100006103516,2.57,ml,51,214,,0.119999997,hv,hv73270882,2022-12-15T21:46:14.790Z,"22 km SE of Pāhala, Hawaii",earthquake,0.6,1.01999998,3.17,15,automatic,hv,hv
+2022-12-15T21:40:43.980Z,19.03733253479,-155.346832275391,34.6100006103516,2.57,ml,51,214,,0.119999997,hv,hv73270882,2022-12-15T22:04:52.040Z,"22 km SE of Pāhala, Hawaii",earthquake,0.6,1.01999998,3.17,15,automatic,hv,hv
 2022-12-15T21:38:42.200Z,38.8128319,-122.7639999,1.43,1.71,md,27,92,,0.04,nc,nc73819061,2022-12-15T21:49:10.675Z,"4km WSW of Cobb, CA",earthquake,0.19,0.31,0.17,27,automatic,nc,nc
 2022-12-15T21:34:05.140Z,19.2283325195312,-155.392166137695,31.5400009155273,1.82000005,md,39,147,,0.119999997,hv,hv73270872,2022-12-15T21:37:22.370Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.57,0.800000012,1.80999994,6,automatic,hv,hv
-2022-12-15T21:30:13.370Z,36.2348328,-120.6875,8.01,1.23,md,8,121,0.09391,0.14,nc,nc73819056,2022-12-15T21:41:10.471Z,"20km S of New Idria, CA",earthquake,0.64,1.55,0.16,5,automatic,nc,nc
+2022-12-15T21:30:13.370Z,36.2348328,-120.6875,8.01,1.23,md,8,121,0.09391,0.14,nc,nc73819056,2022-12-15T22:04:13.623Z,"20km S of New Idria, CA",earthquake,0.64,1.55,0.16,5,automatic,nc,nc
 2022-12-15T21:15:54.149Z,63.2386,-150.3185,111.9,1.7,ml,,,,0.23,ak,ak022g1j5jyu,2022-12-15T21:18:34.695Z,"70 km WSW of Cantwell, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2022-12-15T21:10:03.610Z,18.544,-66.1635,98.5,3.13,md,22,192,0.2933,0.16,pr,pr71387363,2022-12-15T21:42:10.280Z,"10 km NW of San Juan, Puerto Rico",earthquake,1.29,0.66,0.147230851926432,18,reviewed,pr,pr
 2022-12-15T21:09:28.992Z,60.3275,-151.4191,49.9,3,ml,,,,0.39,ak,ak022g1j47qb,2022-12-15T21:32:18.040Z,"7 km SW of Cohoe, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -21,7 +21,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T19:53:36.510Z,18.3343333333333,-65.9845,112.52,3.25,md,26,96,0.1058,0.15,pr,pr71387353,2022-12-15T20:56:27.900Z,"3 km SE of Trujillo Alto, Puerto Rico",earthquake,1.18,0.5,0.128454308014152,21,reviewed,pr,pr
 2022-12-15T19:38:47.728Z,39.2074,-120.0644,8.9,0.4,ml,7,96.06,0.048,0.0873,nn,nn00853476,2022-12-15T20:03:56.477Z,"2 km SE of Carnelian Bay, California",earthquake,,1.9,0.06,2,reviewed,nn,nn
 2022-12-15T19:33:28.780Z,40.7068329,-123.8079987,20.26,2.64,md,19,101,0.07128,0.09,nc,nc73819026,2022-12-15T21:49:10.539Z,"24km SE of Blue Lake, CA",earthquake,0.61,0.44,0.12,14,automatic,nc,nc
-2022-12-15T19:27:54.040Z,37.0098343,-119.7809982,-0.56,2.11,md,7,172,0.1406,0.29,nc,nc73819021,2022-12-15T21:34:10.429Z,"6km WNW of Friant, CA",earthquake,2.26,15.21,0.29,4,automatic,nc,nc
+2022-12-15T19:27:54.040Z,37.0098343,-119.7809982,-0.56,2.11,md,7,172,0.1406,0.29,nc,nc73819021,2022-12-15T22:04:12.624Z,"6km WNW of Friant, CA",earthquake,2.26,15.21,0.29,4,automatic,nc,nc
 2022-12-15T19:25:44.400Z,17.9636666666667,-67.0081666666667,7.19,1.78,md,6,196,0.03479,0.14,pr,pr71387343,2022-12-15T20:41:37.980Z,"4 km ESE of La Parguera, Puerto Rico",earthquake,0.84,0.52,0.0944810314923489,4,reviewed,pr,pr
 2022-12-15T19:20:21.460Z,38.786499,-122.7675018,2.53,1.04,md,13,81,0.01536,0.03,nc,nc73819011,2022-12-15T19:21:54.609Z,"1km NW of The Geysers, CA",earthquake,0.32,0.63,0.24,12,automatic,nc,nc
 2022-12-15T19:19:02.690Z,38.8321648,-122.815834,1.57,0.71,md,11,74,0.009845,0.03,nc,nc73819006,2022-12-15T20:24:13.022Z,"8km NW of The Geysers, CA",earthquake,0.34,0.76,0.47,11,automatic,nc,nc
@@ -35,6 +35,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T18:02:04.190Z,33.8231667,-117.4873333,2.27,1.6,ml,41,51,0.0357,0.22,ci,ci40145791,2022-12-15T18:43:11.428Z,"7km SSE of Home Gardens, CA",quarry blast,0.34,0.44,0.214,34,automatic,ci,ci
 2022-12-15T17:47:45.460Z,38.8361664,-122.8361664,1.6,1.05,md,21,65,0.002477,0.02,nc,nc73818996,2022-12-15T17:49:19.742Z,"10km NW of The Geysers, CA",earthquake,0.19,0.43,0.12,23,automatic,nc,nc
 2022-12-15T17:45:11.830Z,18.0063333333333,-66.9053333333333,14.27,1.76,md,5,168,0.0398,0.08,pr,pr71387338,2022-12-15T18:04:44.070Z,"2 km NNE of Fuig, Puerto Rico",earthquake,0.72,0.93,0.0201280560277284,3,reviewed,pr,pr
+2022-12-15T17:41:10.140Z,19.4116666666667,-155.276,10.45,1.01,md,22,57,,0.11,hv,hv73270627,2022-12-15T21:58:53.450Z,"5 km SW of Volcano, Hawaii",earthquake,0.33,0.38,0.0450938199469727,3,reviewed,hv,hv
 2022-12-15T17:02:00.201Z,60.2668,-151.0879,60.9,1.7,ml,,,,0.25,ak,ak022g1gox2s,2022-12-15T17:03:48.012Z,"12 km SE of Kasilof, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-15T16:59:55.580Z,38.1566,-117.9136,9.3,1.3,ml,15,124.11,0.04,0.1454,nn,nn00853436,2022-12-15T17:25:41.194Z,"31 km SSE of Mina, Nevada",earthquake,,1.1,1.12,4,reviewed,nn,nn
 2022-12-15T16:59:41.490Z,18.0741666666667,-66.978,6.16,1.58,md,4,215,0.03897,0.12,pr,pr71387333,2022-12-15T17:19:29.160Z,"1 km WSW of Sabana Grande, Puerto Rico",earthquake,0.96,1.21,0.0564751276808642,3,reviewed,pr,pr
@@ -201,8 +202,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T22:19:53.000Z,34.71466667,-98.47116667,0,1.15,ml,14,131,0.2564496758,0.54,ok,ok2022ylrt,2022-12-15T15:17:46.200Z,"3 km ESE of Medicine Park, Oklahoma",quarry blast,,1.3,0.33,4,reviewed,ok,ok
 2022-12-14T22:16:47.521Z,61.5131,-151.1699,70.1,1.3,ml,,,,0.32,ak,ak022fzw7ua8,2022-12-14T22:19:10.062Z,"35 km W of Susitna, Alaska",earthquake,,1.7,,,automatic,ak,ak
 2022-12-14T22:13:44.500Z,38.8303337,-122.8108368,2.31,0.51,md,8,129,0.006954,0.02,nc,nc73818721,2022-12-14T23:10:12.377Z,"8km NW of The Geysers, CA",earthquake,0.57,1.21,0.29,9,automatic,nc,nc
-2022-12-14T22:08:34.740Z,33.5016667,-116.4968333,14.24,0.57,ml,20,135,0.06257,0.14,ci,ci40145591,2022-12-15T00:26:27.014Z,"17km ESE of Anza, CA",earthquake,0.44,0.61,0.106,13,reviewed,ci,ci
-2022-12-14T22:06:51.800Z,33.8733333,-117.4923333,-0.66,1.1,ml,23,108,0.06826,0.22,ci,ci40145583,2022-12-15T00:22:50.630Z,"3km ESE of Home Gardens, CA",quarry blast,0.52,31.61,0.094,24,reviewed,ci,ci
-2022-12-14T22:02:57.930Z,58.25,-155.083833333333,4.26,0.19,ml,7,205,,0.26,av,av91730916,2022-12-15T03:33:37.170Z,"Alaska Peninsula",earthquake,0.81,1.13,0.242355394401159,7,reviewed,av,av
-2022-12-14T22:00:06.900Z,46.87083333333333,-121.71866666666666,-2.75,0.31,ml,13,90,0.009361,0.19,uw,uw61898551,2022-12-15T01:51:53.620Z,"26 km ENE of Ashford, Washington",earthquake,0.42,0.71,0.24648595445228605,8,reviewed,uw,uw
-2022-12-14T21:56:30.440Z,38.8364983,-122.8223343,2.04,1.69,md,29,111,,0.03,nc,nc73818716,2022-12-14T22:44:14.079Z,"9km NW of The Geysers, CA",earthquake,0.23,0.3,0.14,30,automatic,nc,nc
