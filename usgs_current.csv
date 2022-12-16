@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-16T11:13:09.120Z,38.8323326,-122.8178329,1.45,0.79,md,9,82,0.01079,0.01,nc,nc73819326,2022-12-16T11:14:46.216Z,"8km NW of The Geysers, CA",earthquake,0.35,0.89,0.36,10,automatic,nc,nc
+2022-12-16T11:30:10.219Z,64.8565,-148.682,13.9,2.2,ml,,,,0.49,ak,ak022g30tjlu,2022-12-16T11:32:57.767Z,"31 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-12-16T11:28:02.310Z,19.3406658172607,-155.108337402344,1.48000001907349,2.25,md,44,129,,0.340000004,hv,hv73271677,2022-12-16T11:31:20.510Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.45,0.50999999,0.930000007,31,automatic,hv,hv
+2022-12-16T11:13:09.120Z,38.8323326,-122.8178329,1.45,0.79,md,9,82,0.01079,0.01,nc,nc73819326,2022-12-16T11:29:12.515Z,"8km NW of The Geysers, CA",earthquake,0.35,0.89,0.36,10,automatic,nc,nc
 2022-12-16T11:06:56.494Z,63.2587,-142.9827,210.1,2.4,ml,,,,0.74,ak,ak022g30on5d,2022-12-16T11:09:42.037Z,"8 km S of Tok, Alaska",earthquake,,14.4,,,automatic,ak,ak
 2022-12-16T11:00:46.664Z,13.6115,120.8039,140.227,5,mww,93,101,8.02,0.61,us,us6000j9pe,2022-12-16T11:19:39.040Z,"Mindoro, Philippines",earthquake,9.89,6.418,0.089,12,reviewed,us,us
 2022-12-16T10:47:50.089Z,-58.8151,-25.2714,35,5,mb,39,131,7.68,0.75,us,us6000j9pd,2022-12-16T11:08:45.040Z,"South Sandwich Islands region",earthquake,13.07,1.947,0.093,37,reviewed,us,us
 2022-12-16T10:44:10.070Z,38.7936668,-122.8010025,3.24,1.08,md,30,40,0.005572,0.03,nc,nc73819316,2022-12-16T11:01:10.354Z,"4km WNW of The Geysers, CA",earthquake,0.24,0.42,0.13,28,automatic,nc,nc
 2022-12-16T10:44:04.097Z,64.9597,-147.9969,22.7,1.2,ml,,,,0.94,ak,ak022g30b8pl,2022-12-16T10:46:12.718Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-12-16T10:23:50.099Z,-7.1301,-80.5016,10,5,mb,75,132,6.026,0.82,us,us6000j9pb,2022-12-16T10:43:38.040Z,"70 km WSW of Pimentel, Peru",earthquake,9.94,1.88,0.032,316,reviewed,us,us
+2022-12-16T10:23:50.099Z,-7.1301,-80.5016,10,5,mb,75,132,6.026,0.82,us,us6000j9pb,2022-12-16T11:24:03.095Z,"70 km WSW of Pimentel, Peru",earthquake,9.94,1.88,0.032,316,reviewed,us,us
 2022-12-16T10:18:47.765Z,38.1699,-118.1744,1,0.6,ml,8,162.62,0.26,0.0405,nn,nn00853503,2022-12-16T10:22:06.066Z,"25 km SSW of Mina, Nevada",earthquake,,0,0.21,4,automatic,nn,nn
 2022-12-16T10:09:18.210Z,57.4013,-155.4963,51.6,2.2,ml,,,,0.2,ak,ak022g303rql,2022-12-16T10:11:40.038Z,"Alaska Peninsula",earthquake,,1.2,,,automatic,ak,ak
 2022-12-16T10:04:19.191Z,61.6538,-150.5859,44.2,1.7,ml,,,,0.53,ak,ak022g302p7a,2022-12-16T10:06:47.110Z,"12 km NNW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -229,4 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T11:46:07.290Z,51.8428333333333,-178.055666666667,2.86,2.52,ml,8,149,,0.32,av,av91080108,2022-12-16T04:58:17.260Z,"98 km W of Adak, Alaska",earthquake,0.6,0.68,0.262804192949453,8,reviewed,av,av
 2022-12-15T11:38:01.570Z,58.2595,-155.056,4.39,0.67,ml,8,204,,0.11,av,av91731236,2022-12-16T04:53:31.700Z,"84 km NNW of Karluk, Alaska",earthquake,0.62,0.46,0.243852847884148,8,reviewed,av,av
 2022-12-15T11:33:53.393Z,62.4168,-148.0888,36.5,1.9,ml,,,,0.94,ak,ak022g1db2qz,2022-12-15T11:36:06.885Z,"71 km NNW of Glacier View, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-15T11:31:12.290Z,19.1520004272461,-155.506500244141,31.7000007629395,2.69,ml,51,137,,0.150000006,hv,hv73270257,2022-12-15T11:36:42.210Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.59,0.709999979,3.08,22,automatic,hv,hv
