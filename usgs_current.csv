@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-16T11:46:49.440Z,33.6941667,-116.7323333,16.77,0.65,ml,18,107,0.02273,0.12,ci,ci40391128,2022-12-16T11:50:27.807Z,"5km SSW of Idyllwild, CA",earthquake,0.4,0.52,0.206,16,automatic,ci,ci
 2022-12-16T11:30:10.219Z,64.8565,-148.682,13.9,2.2,ml,,,,0.49,ak,ak022g30tjlu,2022-12-16T11:32:57.767Z,"31 km W of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-16T11:28:02.310Z,19.3406658172607,-155.108337402344,1.48000001907349,2.2,ml,44,129,,0.340000004,hv,hv73271677,2022-12-16T11:33:33.830Z,"14 km SSE of Fern Forest, Hawaii",earthquake,0.45,0.50999999,1.62,19,automatic,hv,hv
 2022-12-16T11:13:09.120Z,38.8323326,-122.8178329,1.45,0.79,md,9,82,0.01079,0.01,nc,nc73819326,2022-12-16T11:29:12.515Z,"8km NW of The Geysers, CA",earthquake,0.35,0.89,0.36,10,automatic,nc,nc
@@ -138,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T20:05:29.545Z,64.8215,-150.7568,21.2,1.4,ml,,,,0.79,ak,ak022g1ihxay,2022-12-15T20:07:10.457Z,"20 km SSW of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-15T19:57:30.177Z,63.1416,-149.736,68.4,1.4,ml,,,,0.57,ak,ak022g1i7lhm,2022-12-15T20:00:25.332Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-15T19:57:08.380Z,58.252,-155.056666666667,5.12,-0.43,ml,4,209,,0.21,av,av91080273,2022-12-16T10:37:54.750Z,"84 km NNW of Karluk, Alaska",earthquake,2.33,1.52,0.334089167379398,4,reviewed,av,av
-2022-12-15T19:53:36.510Z,18.3343333333333,-65.9845,112.52,3.25,md,26,96,0.1058,0.15,pr,pr71387353,2022-12-15T20:56:27.900Z,"3 km SE of Trujillo Alto, Puerto Rico",earthquake,1.18,0.5,0.128454308014152,21,reviewed,pr,pr
+2022-12-15T19:53:36.510Z,18.3343333333333,-65.9845,112.52,3.25,md,26,96,0.1058,0.15,pr,pr71387353,2022-12-16T11:54:06.582Z,"3 km SE of Trujillo Alto, Puerto Rico",earthquake,1.18,0.5,0.128454308014152,21,reviewed,pr,pr
 2022-12-15T19:44:39.600Z,58.2403333333333,-155.058333333333,4.4,-0.13,ml,4,216,,0.28,av,av91080263,2022-12-16T10:27:46.880Z,"82 km NNW of Karluk, Alaska",earthquake,2.63,2.94,0.174235754152251,4,reviewed,av,av
 2022-12-15T19:38:47.728Z,39.2074,-120.0644,8.9,0.4,ml,7,96.06,0.048,0.0873,nn,nn00853476,2022-12-16T02:41:53.780Z,"2 km SE of Carnelian Bay, California",earthquake,,1.9,0.06,2,reviewed,nn,nn
 2022-12-15T19:33:28.780Z,40.7068329,-123.8079987,20.26,2.64,md,19,101,0.07128,0.09,nc,nc73819026,2022-12-15T22:19:11.717Z,"24km SE of Blue Lake, CA",earthquake,0.61,0.44,0.12,14,automatic,nc,nc
@@ -226,6 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T12:17:23.825Z,63.0865,-151.3752,9.8,1.8,ml,,,,0.44,ak,ak022g1dt0m6,2022-12-15T12:18:44.649Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-15T11:58:20.170Z,51.8415,-178.031166666667,-1.42,1.16,ml,4,110,,0.23,av,av91080118,2022-12-16T05:09:48.890Z,"96 km W of Adak, Alaska",earthquake,0.59,1.71,0.370513998401561,4,reviewed,av,av
 2022-12-15T11:57:11.530Z,56.9146666666667,-158.065333333333,6.94,0.07,ml,4,261,,0.25,av,av91080123,2022-12-16T05:12:00.660Z,"34 km E of Port Heiden, Alaska",earthquake,1.2,1.59,0.291891615686427,4,reviewed,av,av
-2022-12-15T11:55:03.870Z,51.8525,-178.047666666667,-1.8,0.04,ml,4,128,,0.16,av,av91080113,2022-12-16T05:05:27.530Z,"97 km W of Adak, Alaska",earthquake,0.36,1.52,0.263685324367292,4,reviewed,av,av
-2022-12-15T11:47:44.290Z,51.8558333333333,-178.058,-1.8,1.89,ml,6,117,,0.28,av,av91731251,2022-12-16T05:00:14.880Z,"98 km W of Adak, Alaska",earthquake,0.52,1.67,0.273035778615278,6,reviewed,av,av
-2022-12-15T11:46:07.290Z,51.8428333333333,-178.055666666667,2.86,2.52,ml,8,149,,0.32,av,av91080108,2022-12-16T04:58:17.260Z,"98 km W of Adak, Alaska",earthquake,0.6,0.68,0.262804192949453,8,reviewed,av,av
