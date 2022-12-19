@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-19T10:11:59.700Z,35.9886665,-120.1996689,7.36,1.66,md,17,205,0.08117,0.05,nc,nc73820631,2022-12-19T10:13:32.927Z,"7km WSW of Avenal, CA",earthquake,0.73,0.49,0.1,6,automatic,nc,nc
+2022-12-19T10:11:59.700Z,35.9886665,-120.1996689,7.36,1.66,md,17,205,0.08117,0.05,nc,nc73820631,2022-12-19T10:29:13.423Z,"7km WSW of Avenal, CA",earthquake,0.73,0.49,0.1,6,automatic,nc,nc
 2022-12-19T09:55:58.429Z,60.444,-152.0148,73.1,1.6,ml,,,,0.49,ak,ak022g7yebnm,2022-12-19T09:57:43.932Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T09:55:41.166Z,64.7828,-147.3889,1.6,0.7,ml,,,,0.41,ak,ak022g7yeab2,2022-12-19T09:57:34.145Z,"4 km NNW of North Pole, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-19T09:55:36.860Z,33.1725,-116.1121667,8.79,0.95,ml,32,68,0.1127,0.22,ci,ci40392176,2022-12-19T09:59:15.058Z,"4km NNE of Ocotillo Wells, CA",earthquake,0.34,1.1,0.164,18,automatic,ci,ci
 2022-12-19T09:51:54.820Z,33.3716667,-116.299,9.78,0.71,ml,24,117,0.143,0.2,ci,ci40392168,2022-12-19T09:55:25.117Z,"15km NNE of Borrego Springs, CA",earthquake,0.37,1.18,0.151,17,automatic,ci,ci
+2022-12-19T09:47:36.030Z,17.9656666666667,-66.8695,18.63,2.45,md,13,200,0.01317,0.09,pr,pr71387983,2022-12-19T10:28:31.470Z,"Puerto Rico region",earthquake,0.49,0.38,0.117568836770376,6,reviewed,pr,pr
 2022-12-19T09:44:43.400Z,19.2049999237061,-155.520492553711,31.5200004577637,1.84000003,md,28,81,,0.150000006,hv,hv73275927,2022-12-19T09:47:55.310Z,"4 km W of Pāhala, Hawaii",earthquake,0.63,1.14999998,1.30999994,8,automatic,hv,hv
 2022-12-19T09:34:18.180Z,17.9646666666667,-66.8715,19.07,2.15,md,10,200,0.0127,0.09,pr,pr71387978,2022-12-19T09:48:37.960Z,"2 km SE of Maria Antonia, Puerto Rico",earthquake,0.64,0.37,0.124221570520146,8,reviewed,pr,pr
 2022-12-19T09:25:48.555Z,59.5511,-138.7142,35.7,2.5,ml,,,,0.81,ak,ak022g7y7vev,2022-12-19T09:28:18.058Z,"Southeastern Alaska",earthquake,,2.1,,,automatic,ak,ak
@@ -16,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T08:57:49.660Z,38.8301659,-122.8008347,1.73,0.7,md,6,111,0.009889,0.01,nc,nc73820611,2022-12-19T09:12:11.946Z,"7km W of Cobb, CA",earthquake,0.51,1.65,0.09,8,automatic,nc,nc
 2022-12-19T08:55:50.474Z,56.5923,-158.0961,124.4,2.1,ml,,,,1.06,ak,ak022g7xsvfr,2022-12-19T09:34:33.040Z,"38 km NNE of Chignik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-12-19T08:53:30.400Z,33.3828333,-116.8658333,7.95,0.52,ml,19,71,0.1717,0.18,ci,ci40392144,2022-12-19T08:57:09.911Z,"3km N of Palomar Observatory, CA",earthquake,0.34,2.75,0.074,11,automatic,ci,ci
-2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T09:53:11.190Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
+2022-12-19T08:35:34.700Z,38.7913322,-122.7594986,3.11,1.78,md,33,59,,0.05,nc,nc73820606,2022-12-19T10:33:12.449Z,"2km N of The Geysers, CA",earthquake,0.24,0.4,0.18,34,automatic,nc,nc
 2022-12-19T08:32:14.086Z,-8.6091,161.1872,10,4.5,mb,19,174,1.476,0.27,us,us6000jaa7,2022-12-19T10:08:44.040Z,"56 km ENE of Auki, Solomon Islands",earthquake,9.62,1.952,0.135,16,reviewed,us,us
 2022-12-19T08:30:26.377Z,58.2308,-155.2111,0,0.6,ml,,,,0.47,ak,ak022g7xngod,2022-12-19T08:32:47.525Z,"Alaska Peninsula",earthquake,,131.9,,,automatic,ak,ak
 2022-12-19T08:21:23.300Z,38.8209991,-122.7888336,1.38,0.94,md,14,46,0.01001,0.01,nc,nc73820601,2022-12-19T08:38:12.735Z,"6km NNW of The Geysers, CA",earthquake,0.25,0.41,0.16,15,automatic,nc,nc
@@ -26,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-19T07:50:40.850Z,33.946,-117.0025,0.2,0.3,ml,10,170,0.2953,0.36,ci,ci40392128,2022-12-19T07:54:16.837Z,"3km NW of Beaumont, CA",earthquake,1.76,31.61,0.098,3,automatic,ci,ci
 2022-12-19T07:32:54.090Z,38.7963333,-122.7541656,2.55,0.78,md,11,91,0.006095,0.06,nc,nc73820596,2022-12-19T08:26:13.664Z,"2km N of The Geysers, CA",earthquake,0.42,1.07,0.35,11,automatic,nc,nc
 2022-12-19T07:31:37.400Z,58.2492,-155.0928,3.5,0.5,ml,,,,0.1,ak,ak022g7x29n0,2022-12-19T07:33:23.117Z,"Alaska Peninsula",earthquake,,0.7,,,automatic,ak,ak
+2022-12-19T07:25:01.689Z,61.5242,-141.081,10,2.7,ml,28,94,0.544,0.39,us,us6000ja9f,2022-12-19T10:27:46.040Z,"98 km E of McCarthy, Alaska",earthquake,2.14,1.967,0.044,68,reviewed,us,us
 2022-12-19T06:58:13.656Z,59.6987,-153.4752,112.6,1.7,ml,,,,0.21,ak,ak022g7wmkj9,2022-12-19T07:11:02.178Z,"36 km ESE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-12-19T06:57:27.590Z,33.3171667,-116.3771667,9.61,1.04,ml,36,64,0.05922,0.22,ci,ci40392112,2022-12-19T07:01:10.580Z,"7km N of Borrego Springs, CA",earthquake,0.31,0.7,0.191,27,automatic,ci,ci
 2022-12-19T06:55:37.010Z,17.85,-66.8793333333333,13.15,2.07,md,10,253,0.1244,0.07,pr,pr71387968,2022-12-19T08:50:26.410Z,"13 km SSE of Guánica, Puerto Rico",earthquake,0.65,0.44,0.189074291488665,7,reviewed,pr,pr
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-18T10:52:58.560Z,19.2369995117188,-155.436492919922,34.1699981689453,2.43,ml,48,117,,0.140000001,hv,hv73274887,2022-12-18T10:58:28.820Z,"5 km NE of Pāhala, Hawaii",earthquake,0.49,0.699999988,3.15,22,automatic,hv,hv
 2022-12-18T10:48:26.920Z,34.0471667,-117.2638333,12.02,1.23,ml,51,50,0.06335,0.19,ci,ci40391744,2022-12-18T10:58:59.120Z,"0km WSW of Loma Linda, CA",earthquake,0.22,0.53,0.164,27,automatic,ci,ci
 2022-12-18T10:44:42.600Z,36.6461678,-121.2655029,4.99,1.65,md,22,133,0.05297,0.09,nc,nc73820201,2022-12-18T11:21:12.117Z,"17km SSE of Tres Pinos, CA",earthquake,0.37,0.95,0.16,20,automatic,nc,nc
-2022-12-18T10:34:07.370Z,33.719,-116.8211667,16.69,0.7,ml,24,95,0.08953,0.15,ci,ci40391736,2022-12-18T14:58:35.622Z,"7km ESE of Valle Vista, CA",earthquake,0.32,0.51,0.248,17,reviewed,ci,ci
-2022-12-18T10:20:27.590Z,17.9446666666667,-66.953,11.09,1.62,md,4,220,0.07642,0.04,pr,pr71387873,2022-12-18T10:32:59.670Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.87,0.0762594941022201,4,reviewed,pr,pr
