@@ -56,6 +56,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T16:17:03.460Z,33.6323333,-116.7041667,13.99,1.7,ml,71,38,0.04441,0.17,ci,ci40148879,2022-12-22T20:03:39.806Z,"9km NNW of Anza, CA",earthquake,0.13,0.22,0.197,53,reviewed,ci,ci
 2022-12-22T16:16:19.490Z,33.638,-116.699,13.73,1.01,ml,36,51,0.03731,0.1,ci,ci40148871,2022-12-22T18:06:07.660Z,"10km NNW of Anza, CA",earthquake,0.14,0.24,0.157,24,reviewed,ci,ci
 2022-12-22T16:12:59.120Z,19.2236671447754,-155.385665893555,32.1300010681152,2.03999996,md,33,152,,0.140000001,hv,hv73278342,2022-12-22T16:16:16.440Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.67,0.670000017,1.35000002,3,automatic,hv,hv
+2022-12-22T16:08:13.420Z,51.8418333333333,-178.03,-1.8,0.94,ml,4,111,,0.33,av,av91081588,2022-12-22T23:52:38.290Z,"96 km W of Adak, Alaska",earthquake,1.26,2.26,0.223047094055648,4,reviewed,av,av
 2022-12-22T16:00:19.760Z,58.1911666666667,-155.291166666667,2.11,0.23,ml,5,145,,0.06,av,av91736231,2022-12-22T23:42:17.730Z,"85 km NW of Karluk, Alaska",earthquake,0.26,0.42,0.465628759895095,5,reviewed,av,av
 2022-12-22T15:51:43.830Z,60.431,-152.762166666667,11.52,-0.3,ml,7,178,,0.1,av,av91081578,2022-12-22T23:26:22.680Z,"73 km NW of Ninilchik, Alaska",earthquake,0.62,0.46,0.194629373736124,7,reviewed,av,av
 2022-12-22T15:50:47.667Z,-26.1619,-177.1583,57.076,4.9,mww,120,51,5.282,0.77,us,us6000jb3k,2022-12-22T17:05:07.040Z,"south of the Fiji Islands",earthquake,10.65,5.4,0.089,12,reviewed,us,us
@@ -223,7 +224,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T02:33:06.530Z,38.5296669,-119.5066681,5.58,2.56,md,15,85,0.05713,0.1,nc,nc73822871,2022-12-22T17:08:11.550Z,"3km NW of Walker, CA",earthquake,0.38,0.8,0.28,12,automatic,nc,nc
 2022-12-22T02:25:06.679Z,62.3562,-149.0818,15.3,1.8,ml,,,,0.24,ak,ak022gcsnsff,2022-12-22T02:26:30.399Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-22T02:23:07.023Z,62.3562,-149.0763,8.3,1.9,ml,,,,0.43,ak,ak022gcsnd0u,2022-12-22T02:25:14.132Z,"45 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-22T02:22:50.250Z,37.6201667,-122.025,3.82,3.34,mw,141,16,,0.16,nc,nc73822861,2022-12-22T23:10:58.643Z,"3km N of Union City, CA",earthquake,0.1,0.17,,3,reviewed,nc,nc
+2022-12-22T02:22:50.250Z,37.6201667,-122.025,3.82,3.34,mw,141,16,,0.16,nc,nc73822861,2022-12-22T23:52:49.555Z,"3km N of Union City, CA",earthquake,0.1,0.17,,3,reviewed,nc,nc
 2022-12-22T01:54:51.800Z,58.1711666666667,-155.3725,2.37,0.53,ml,8,76,,0.06,av,av91735381,2022-12-22T19:44:56.760Z,"86 km NW of Karluk, Alaska",earthquake,0.2,0.58,0.200434269921608,8,reviewed,av,av
 2022-12-22T01:53:33.350Z,17.9506666666667,-66.9613333333333,11.62,2.09,md,5,212,0.08108,0.05,pr,pr71388478,2022-12-22T02:02:58.300Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.61,0.88,0.0634485560795948,4,reviewed,pr,pr
 2022-12-22T01:37:21.649Z,62.8425,-151.5802,0,2,ml,,,,0.69,ak,ak022gcs4ykm,2022-12-22T01:39:48.834Z,"56 km NW of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -250,6 +251,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T00:11:39.981Z,62.1273,-147.388,39.7,1.4,ml,,,,0.63,ak,ak022gcrdzri,2022-12-22T00:13:21.909Z,"23 km NNW of Eureka Roadhouse, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2022-12-22T00:04:00.510Z,34.0071667,-116.8646667,15.62,1.15,ml,54,29,0.05488,0.16,ci,ci40148671,2022-12-22T15:44:37.700Z,"9km N of Banning, CA",earthquake,0.15,0.43,0.152,32,reviewed,ci,ci
 2022-12-22T00:03:09.640Z,38.8226662,-122.8529968,2.75,0.77,md,8,194,0.01404,0.01,nc,nc73822806,2022-12-22T00:24:12.824Z,"10km WNW of The Geysers, CA",earthquake,2.25,1.07,0.21,9,automatic,nc,nc
-2022-12-21T23:51:58.510Z,19.3608333333333,-155.303666666667,10.91,0.59,md,5,113,,0.11,hv,hv73277837,2022-12-22T02:18:54.390Z,"11 km SW of Volcano, Hawaii",earthquake,1.62,2.13,0.0214471159015773,2,reviewed,hv,hv
-2022-12-21T23:51:55.240Z,40.565834,-124.1901703,4.62,1.85,md,7,176,0.144,0.08,nc,nc73822801,2022-12-22T00:15:12.778Z,"4km SW of Fortuna, CA",earthquake,2.35,8.6,0.08,3,automatic,nc,nc
-2022-12-21T23:47:48.930Z,51.8448333333333,-178.035333333333,-1.8,1.57,ml,5,111,,0.33,av,av91081458,2022-12-22T04:31:38.880Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.63,2.08,0.269310229848121,5,reviewed,av,av
