@@ -1,5 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-23T14:28:36.880Z,38.8201675,-122.796669,2.68,1.5,md,32,30,0.01096,0.03,nc,nc73823696,2022-12-23T14:31:45.204Z,"6km NW of The Geysers, CA",earthquake,0.21,0.38,0.12,31,automatic,nc,nc
+2022-12-23T14:42:56.580Z,38.8263321,-122.7988358,2.71,0.27,md,12,75,0.009255,0.01,nc,nc73823711,2022-12-23T14:44:33.821Z,"7km NW of The Geysers, CA",earthquake,0.38,0.83,0.15,13,automatic,nc,nc
+2022-12-23T14:37:00.310Z,19.4171657562256,-155.258666992188,1.12999999523163,2.48,ml,33,58,,0.140000001,hv,hv73279387,2022-12-23T14:42:32.400Z,"3 km SW of Volcano, Hawaii",earthquake,0.21,0.209999993,0.49,13,automatic,hv,hv
+2022-12-23T14:36:59.110Z,38.5091667,-122.7450027,1.32,2.6,md,47,34,0.1264,0.15,nc,nc73823706,2022-12-23T14:46:54.562Z,"1km SE of Larkfield-Wikiup, CA",earthquake,0.21,4.66,0.09,43,automatic,nc,nc
+2022-12-23T14:35:06.540Z,38.8354988,-122.7811661,0.33,0.77,md,12,78,0.007734,0.02,nc,nc73823701,2022-12-23T14:36:43.829Z,"5km WNW of Cobb, CA",earthquake,0.26,0.38,0.24,16,automatic,nc,nc
+2022-12-23T14:28:36.880Z,38.8201675,-122.796669,2.68,1.5,md,32,30,0.01096,0.03,nc,nc73823696,2022-12-23T14:45:09.797Z,"6km NW of The Geysers, CA",earthquake,0.21,0.38,0.12,31,automatic,nc,nc
 2022-12-23T14:17:28.700Z,38.3474,-119.314,13.4,1.5,ml,16,127.44,0.099,0.3648,nn,nn00854061,2022-12-23T14:20:24.458Z,"12 km NW of Bridgeport, California",earthquake,,0.6,0.34,8,automatic,nn,nn
 2022-12-23T14:02:20.950Z,61.2291,-149.0421,27.3,2.2,ml,,,,0.76,ak,ak022gen7ftb,2022-12-23T14:04:01.219Z,"26 km SSW of Knik River, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-23T13:31:11.840Z,33.2785,-115.9685,3.05,1.37,ml,40,43,0.105,0.25,ci,ci40149143,2022-12-23T13:42:06.290Z,"2km SSW of Salton City, CA",earthquake,0.33,0.96,0.204,27,automatic,ci,ci
@@ -215,4 +219,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-22T14:55:53.280Z,36.5491676,-121.0986633,2.73,2.16,md,13,109,0.05586,0.12,nc,nc73823141,2022-12-22T16:04:11.710Z,"4km ENE of Pinnacles, CA",earthquake,0.4,1.1,0.14,14,automatic,nc,nc
 2022-12-22T14:52:09.040Z,51.8638333333333,-177.861666666667,7.82,1.83,ml,7,150,,0.12,av,av91736146,2022-12-22T22:55:57.300Z,"84 km W of Adak, Alaska",earthquake,0.5,0.47,0.189717866444125,7,reviewed,av,av
 2022-12-22T14:48:54.140Z,38.8253326,-122.7958298,2.67,1.18,md,28,34,0.01129,0.02,nc,nc73823136,2022-12-22T15:49:11.624Z,"6km W of Cobb, CA",earthquake,0.21,0.4,0.16,28,automatic,nc,nc
-2022-12-22T14:45:08.660Z,37.6016667,-118.8085,3.83,0.32,md,10,238,0.02007,0.03,nc,nc73823131,2022-12-22T17:52:11.330Z,"12km WNW of Toms Place, CA",earthquake,0.56,0.74,0.274,9,reviewed,nc,nc
