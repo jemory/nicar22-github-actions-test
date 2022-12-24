@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-24T17:35:39.280Z,38.7861671,-122.7336655,1.75,1.07,md,14,84,0.003779,0.02,nc,nc73824201,2022-12-24T17:37:13.247Z,"2km ENE of The Geysers, CA",earthquake,0.25,0.53,0.08,13,automatic,nc,nc
+2022-12-24T18:03:25.555Z,38.4071,-117.827,0.5,1.7,ml,18,153.23,0.242,0.2737,nn,nn00854119,2022-12-24T18:06:32.770Z,"24 km E of Mina, Nevada",earthquake,,3.6,0.44,10,automatic,nn,nn
+2022-12-24T17:58:34.498Z,63.1202,-149.6273,90.1,1.7,ml,,,,0.35,ak,ak022ggcv49l,2022-12-24T18:00:55.019Z,"45 km SW of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-24T17:35:39.280Z,38.7861671,-122.7336655,1.75,1.07,md,14,84,0.003779,0.02,nc,nc73824201,2022-12-24T18:02:12.576Z,"2km ENE of The Geysers, CA",earthquake,0.25,0.53,0.08,13,automatic,nc,nc
 2022-12-24T17:35:27.000Z,38.7871666,-122.7328339,1.88,1.32,md,14,86,0.004964,0.02,nc,nc73824196,2022-12-24T17:52:11.501Z,"2km ENE of The Geysers, CA",earthquake,0.31,0.62,0.07,14,automatic,nc,nc
-2022-12-24T17:21:33.900Z,37.6576653,-122.0666656,4.29,1.78,md,18,84,0.07842,0.11,nc,nc73824191,2022-12-24T17:55:11.523Z,"2km NNE of Hayward, CA",earthquake,0.28,0.91,0.2,15,automatic,nc,nc
+2022-12-24T17:21:33.900Z,37.6576653,-122.0666656,4.29,1.78,md,18,84,0.07842,0.11,nc,nc73824191,2022-12-24T17:56:10.530Z,"2km NNE of Hayward, CA",earthquake,0.28,0.91,0.2,15,automatic,nc,nc
 2022-12-24T17:20:49.378Z,58.913,-154.4314,116.3,2,ml,,,,0.42,ak,ak022ggcn07d,2022-12-24T17:23:19.681Z,"61 km SSE of Kokhanok, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-24T17:17:40.690Z,33.0585,-116.5303333,12.7,0.74,ml,16,65,0.06073,0.21,ci,ci40149431,2022-12-24T17:21:09.677Z,"7km ESE of Julian, CA",earthquake,0.46,0.98,0.204,9,automatic,ci,ci
 2022-12-24T16:57:47.436Z,62.0112,-147.7552,25.1,2,ml,,,,0.69,ak,ak022ggc9hxz,2022-12-24T17:00:01.555Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -61,12 +63,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-24T09:58:34.350Z,19.2621666666667,-64.784,24.03,3.23,md,10,300,0.9196,0.28,pr,pr71388808,2022-12-24T10:35:16.970Z,"Virgin Islands region",earthquake,1.41,23.89,0.0746906072518059,8,reviewed,pr,pr
 2022-12-24T09:53:08.020Z,35.8841667,-117.7025,2.54,1.42,ml,17,76,0.09089,0.19,ci,ci40149367,2022-12-24T10:03:40.710Z,"19km ESE of Little Lake, CA",earthquake,0.36,0.57,0.212,18,automatic,ci,ci
 2022-12-24T09:34:19.170Z,38.8445015,-122.8156662,0.81,0.71,md,11,59,0.01178,0.03,nc,nc73824076,2022-12-24T10:30:12.992Z,"8km WNW of Cobb, CA",earthquake,0.25,0.5,0.1,11,automatic,nc,nc
-2022-12-24T09:32:58.891Z,53.8703,-131.5338,10,4,ml,12,127,0.772,0.56,us,us6000jbf8,2022-12-24T10:17:31.634Z,"93 km WSW of Prince Rupert, Canada",earthquake,2.82,1.959,0.081,20,reviewed,us,us
+2022-12-24T09:32:58.891Z,53.8703,-131.5338,10,4,ml,12,127,0.772,0.56,us,us6000jbf8,2022-12-24T18:12:32.688Z,"93 km WSW of Prince Rupert, Canada",earthquake,2.82,1.959,0.081,20,reviewed,us,us
 2022-12-24T09:23:55.174Z,35.28451157,-97.99350739,5.162351608,1.6,ml,11,99.84426117,0.09448694438,0.2220922059,ok,ok2022zczf,2022-12-24T09:26:16.252Z,"5 km SW of Minco, Oklahoma",earthquake,,6.044226093,,9,automatic,ok,ok
 2022-12-24T09:14:50.100Z,33.2786667,-115.6381667,10.7,1.31,ml,19,89,0.04966,0.21,ci,ci40149359,2022-12-24T09:25:28.430Z,"12km SE of Bombay Beach, CA",earthquake,0.59,0.97,0.108,26,automatic,ci,ci
 2022-12-24T09:08:30.560Z,38.8156662,-122.8268356,1.77,0.4,md,10,79,0.007031,0.01,nc,nc73824071,2022-12-24T09:25:12.650Z,"7km NW of The Geysers, CA",earthquake,0.36,0.65,0.24,11,automatic,nc,nc
 2022-12-24T09:07:38.990Z,19.2218341827393,-155.387664794922,31.6399993896484,1.90999997,md,37,152,,0.129999995,hv,hv73280537,2022-12-24T09:10:54.140Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.81,1.03999996,0.949999988,3,automatic,hv,hv
-2022-12-24T09:01:22.283Z,53.8593,-131.6885,10,4.5,mb,76,132,0.736,0.7,us,us6000jbf4,2022-12-24T16:45:41.247Z,"102 km WSW of Prince Rupert, Canada",earthquake,5.11,1.907,0.051,111,reviewed,us,us
+2022-12-24T09:01:22.283Z,53.8593,-131.6885,10,4.5,mb,76,132,0.736,0.7,us,us6000jbf4,2022-12-24T18:08:42.028Z,"102 km WSW of Prince Rupert, Canada",earthquake,5.11,1.907,0.051,111,reviewed,us,us
 2022-12-24T08:46:13.240Z,38.7960014,-122.774498,-0.25,1.1,md,14,81,0.01086,0.04,nc,nc73824061,2022-12-24T10:03:14.845Z,"3km NW of The Geysers, CA",earthquake,0.24,0.68,0.35,15,automatic,nc,nc
 2022-12-24T08:35:41.645Z,28.2716,138.799,521.944,5.5,mww,176,52,4.907,0.77,us,us6000jbf0,2022-12-24T10:41:17.646Z,"Bonin Islands, Japan region",earthquake,9.88,6.062,0.075,17,reviewed,us,us
 2022-12-24T08:23:43.157Z,59.7359,-153.1806,107,2,ml,,,,0.33,ak,ak022gg7aqff,2022-12-24T08:26:03.821Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -196,8 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-23T18:43:00.340Z,19.2333335876465,-155.393661499023,30.5400009155273,2.11999989,md,35,142,,0.150000006,hv,hv73279627,2022-12-23T18:46:15.740Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.62,0.790000021,0.629999995,17,automatic,hv,hv
 2022-12-23T18:42:46.595Z,60.2408,-140.9287,12.1,1.9,ml,,,,0.3,ak,ak022geptsur,2022-12-23T18:44:05.509Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
 2022-12-23T18:31:31.013Z,60.0135,-153.3143,133.8,2.3,ml,,,,0.29,ak,ak022geprerx,2022-12-23T18:33:43.303Z,"50 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-23T18:06:44.873Z,36.785,-115.9635,5.1,0.2,ml,26,128.75,0.021,0.1856,nn,nn00854071,2022-12-24T02:43:05.706Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.1,0.3,16,reviewed,nn,nn
-2022-12-23T18:06:33.579Z,31.6065073,-104.1966027,6.131567383,2.8,ml,23,67,0.06674192411,0.1,tx,tx2022zbuy,2022-12-23T18:30:49.260Z,"50 km NW of Toyah, Texas",earthquake,0.6680011971,0.8029555145,0.2,18,reviewed,tx,tx
-2022-12-23T18:06:05.280Z,38.831665,-122.8174973,1.65,1.17,md,14,82,0.01009,0.02,nc,nc73823766,2022-12-23T20:10:14.729Z,"8km NW of The Geysers, CA",earthquake,0.26,0.74,0.16,14,automatic,nc,nc
-2022-12-23T18:01:23.350Z,33.4086667,-116.3415,13.54,0.91,ml,27,97,0.05333,0.17,ci,ci40149199,2022-12-23T19:49:04.243Z,"17km N of Borrego Springs, CA",earthquake,0.29,0.69,0.124,17,reviewed,ci,ci
-2022-12-23T18:01:16.975Z,57.6723,-152.6333,45,2.5,ml,,,,0.83,ak,ak022gepky7l,2022-12-23T18:04:35.525Z,"Kodiak Island region, Alaska",earthquake,,0.7,,,automatic,ak,ak
