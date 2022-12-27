@@ -1,4 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-27T05:28:29.939Z,60.8249,-147.074,20.7,2.1,ml,,,,0.64,ak,ak022gl45inl,2022-12-27T05:30:26.202Z,"21 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-12-27T05:19:21.577Z,62.4964,-151.7394,16.1,1.9,ml,,,,0.86,ak,ak022gl43kkd,2022-12-27T05:21:26.585Z,"50 km W of Petersville, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-27T05:17:17.405Z,61.1047,-152.45,139.5,2.2,ml,,,,0.38,ak,ak022gl434t8,2022-12-27T05:19:21.321Z,"70 km W of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-12-27T05:12:44.330Z,17.98,-66.9738333333333,7.41,2.24,md,18,165,0.06253,0.12,pr,pr71389173,2022-12-27T05:31:23.110Z,"6 km W of Fuig, Puerto Rico",earthquake,0.3,0.18,0.0120838262641914,4,reviewed,pr,pr
 2022-12-27T04:59:10.776Z,62.5501,-151.8008,0.1,2.7,ml,,,,0.99,ak,ak022gl3qorp,2022-12-27T05:01:41.881Z,"53 km W of Petersville, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-27T04:39:39.900Z,38.8201675,-122.7913361,1.48,2.17,md,32,43,,0.06,nc,nc73825531,2022-12-27T05:09:11.772Z,"6km NNW of The Geysers, CA",earthquake,0.18,0.26,0.2,34,automatic,nc,nc
 2022-12-27T03:52:15.750Z,36.9749985,-121.0461655,7.59,1.96,md,27,105,0.0545,0.16,nc,nc73825516,2022-12-27T04:56:50.565Z,"20km WSW of Los Banos, CA",earthquake,0.52,1,0.17,25,automatic,nc,nc
@@ -25,7 +29,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T01:25:50.360Z,19.111665725708,-155.47200012207,8.82999992370605,2.45000005,md,33,179,,0.270000011,hv,hv73284187,2022-12-27T01:32:17.040Z,"10 km S of Pāhala, Hawaii",earthquake,0.8,0.829999983,1.33000004,22,automatic,hv,hv
 2022-12-27T01:06:14.360Z,38.8409996,-122.8758316,2.7,1.33,md,24,85,0.005719,0.03,nc,nc73825476,2022-12-27T02:39:12.904Z,"12km NW of The Geysers, CA",earthquake,0.26,0.43,0.15,24,automatic,nc,nc
 2022-12-27T01:03:39.870Z,19.4911670684814,-155.505996704102,-1.05999994277954,1.89999998,md,19,80,,0.270000011,hv,hv73284182,2022-12-27T01:06:48.920Z,"Island of Hawaii, Hawaii",earthquake,0.55,0.680000007,0.25,5,automatic,hv,hv
-2022-12-27T01:00:47.207Z,-21.9699,-174.4911,10,5.5,mww,39,115,1.036,0.89,us,us6000jbvz,2022-12-27T03:04:44.712Z,"Tonga",earthquake,7.9,1.892,0.098,10,reviewed,us,us
+2022-12-27T01:00:47.207Z,-21.9699,-174.4911,10,5.5,mww,39,115,1.036,0.89,us,us6000jbvz,2022-12-27T05:26:34.305Z,"Tonga",earthquake,7.9,1.892,0.098,10,reviewed,us,us
 2022-12-27T00:57:57.587Z,31.71687287,-104.3513881,6.131567383,2.3,ml,13,85,0.07138977775,0.2,tx,tx2022zhvb,2022-12-27T01:26:02.434Z,"50 km S of Whites City, New Mexico",earthquake,0.9395839973,1.203558,0.2,10,reviewed,tx,tx
 2022-12-27T00:55:34.653Z,-21.411,-67.2743,181.148,4.7,mb,52,60,1.871,0.93,us,us6000jbvu,2022-12-27T01:11:58.040Z,"115 km SSW of Uyuni, Bolivia",earthquake,7.74,8.016,0.04,190,reviewed,us,us
 2022-12-27T00:46:24.950Z,17.9738333333333,-66.9771666666667,8.25,2.15,md,12,176,0.06398,0.04,pr,pr71389163,2022-12-27T01:01:57.030Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.25,0.49,0.0761493449884354,4,reviewed,pr,pr
@@ -35,8 +39,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-27T00:29:10.409Z,38.1751,-117.889,10.5,0.6,ml,9,173.84,0.066,0.1269,nn,nn00854216,2022-12-27T00:32:14.032Z,"30 km SE of Mina, Nevada",earthquake,,0.6,0.24,5,automatic,nn,nn
 2022-12-27T00:17:08.240Z,35.0448333,-117.6698333,0.26,1.76,ml,20,138,0.1123,0.23,ci,ci40150431,2022-12-27T00:20:44.000Z,"5km NNW of Boron, CA",quarry blast,0.73,31.61,0.148,29,automatic,ci,ci
 2022-12-27T00:13:53.126Z,65.0008,-147.3875,2.8,1.3,ml,,,,0.63,ak,ak022gl136og,2022-12-27T00:15:31.344Z,"11 km ENE of Fox, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-27T00:11:02.067Z,28.1151,33.3613,10,4.7,mb,95,77,3.711,0.91,us,us6000jbvn,2022-12-27T02:42:56.293Z,"29 km WSW of El-Tor, Egypt",earthquake,9.06,1.894,0.06,84,reviewed,us,us
-2022-12-27T00:09:34.483Z,35.2545,139.9364,70.552,4.4,mb,29,144,1.551,0.53,us,us6000jbvr,2022-12-27T05:01:06.847Z,"near the south coast of Honshu, Japan",earthquake,4.72,8.009,0.13,17,reviewed,us,us
+2022-12-27T00:11:02.067Z,28.1151,33.3613,10,4.7,mb,95,77,3.711,0.91,us,us6000jbvn,2022-12-27T05:20:07.542Z,"29 km WSW of El-Tor, Egypt",earthquake,9.06,1.894,0.06,84,reviewed,us,us
+2022-12-27T00:09:34.483Z,35.2545,139.9364,70.552,4.4,mb,29,144,1.551,0.53,us,us6000jbvr,2022-12-27T05:21:55.715Z,"near the south coast of Honshu, Japan",earthquake,4.72,8.009,0.13,17,reviewed,us,us
 2022-12-26T23:57:40.650Z,19.1633338928223,-155.48649597168,35.5099983215332,2.33999991,md,31,115,,0.109999999,hv,hv73284102,2022-12-27T00:00:53.480Z,"Hawaii region, Hawaii",earthquake,0.68,1.07000005,1.84000003,14,automatic,hv,hv
 2022-12-26T23:48:11.169Z,-6.1028,103.8083,36.284,4.7,mb,33,181,1.928,0.85,us,us6000jbvk,2022-12-27T00:15:13.040Z,"southwest of Sumatra, Indonesia",earthquake,10.19,7.714,0.117,22,reviewed,us,us
 2022-12-26T23:46:12.780Z,17.9215,-67.0113333333333,12.01,1.61,md,5,247,0.05703,0.03,pr,pr71389158,2022-12-26T23:59:33.070Z,"6 km SSE of La Parguera, Puerto Rico",earthquake,0.79,0.64,0.036767597496554,3,reviewed,pr,pr
@@ -200,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-26T05:39:04.828Z,38.1856,-117.8598,7.3,1.7,ml,18,138.51,0.091,0.1554,nn,nn00854182,2022-12-26T19:58:43.710Z,"31 km SE of Mina, Nevada",earthquake,,1.6,0.22,6,reviewed,nn,nn
 2022-12-26T05:35:39.590Z,19.1601657867432,-155.489334106445,11.5200004577637,1.96000004,md,35,124,,0.170000002,hv,hv73283207,2022-12-26T05:38:53.370Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.38,0.400000006,1.59000003,14,automatic,hv,hv
 2022-12-26T05:32:57.379Z,57.1238,-156.3897,17.2,2.4,ml,,,,0.51,ak,ak022gjgn355,2022-12-26T06:04:03.040Z,"74 km SE of Ugashik, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-12-26T05:27:53.425Z,-19.2282,-177.589,514.765,5.5,mww,80,41,2.958,0.78,us,us6000jbqu,2022-12-26T09:12:41.126Z,"Fiji region",earthquake,9.44,6.36,0.083,14,reviewed,us,us
-2022-12-26T05:24:50.580Z,54.3256666666667,-164.536,17.29,1.15,ml,5,278,,0.15,av,av91081733,2022-12-26T23:02:43.260Z,"83 km ENE of Akutan, Alaska",earthquake,1.46,2.27,0.489899733889818,5,reviewed,av,av
-2022-12-26T05:21:02.080Z,17.9825,-66.8538333333333,11.39,2.47,md,6,184,0.02531,0.04,pr,pr71389088,2022-12-26T05:32:30.430Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,0.35,0.45,0.21591644902315,5,reviewed,pr,pr
