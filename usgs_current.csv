@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-29T06:33:56.850Z,38.8311653,-122.8024979,1.84,0.35,md,10,103,0.009758,0.01,nc,nc73826266,2022-12-29T06:35:30.874Z,"7km W of Cobb, CA",earthquake,0.39,0.98,0.25,10,automatic,nc,nc
+2022-12-29T06:51:14.950Z,19.1359996795654,-155.358993530273,30.75,2.37,ml,45,187,,0.119999997,hv,hv73286127,2022-12-29T06:56:49.920Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.57,0.790000021,2.76,10,automatic,hv,hv
+2022-12-29T06:33:56.850Z,38.8311653,-122.8024979,1.84,0.35,md,10,103,0.009758,0.01,nc,nc73826266,2022-12-29T06:57:12.420Z,"7km W of Cobb, CA",earthquake,0.39,0.98,0.25,10,automatic,nc,nc
 2022-12-29T06:30:06.693Z,63.0542,-150.709,109,1.8,ml,,,,0.71,ak,ak022gofu0vx,2022-12-29T06:32:41.769Z,"62 km N of Petersville, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-12-29T06:10:51.440Z,-23.5885,-176.2934,133.175,5.2,mb,48,118,2.61,0.55,us,us7000j0sk,2022-12-29T06:30:20.040Z,"south of the Fiji Islands",earthquake,7.54,8.539,0.084,49,reviewed,us,us
 2022-12-29T06:10:41.040Z,35.6236667,-117.4168333,5.37,1.83,ml,26,100,0.05236,0.14,ci,ci40150991,2022-12-29T06:21:17.490Z,"16km SSW of Trona, CA",earthquake,0.29,0.8,0.132,27,automatic,ci,ci
@@ -77,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T21:49:35.880Z,38.7858315,-122.7425003,1.33,1.04,md,12,82,0.005204,0.03,nc,nc73826106,2022-12-28T22:28:13.319Z,"2km NE of The Geysers, CA",earthquake,0.28,0.52,0.29,13,automatic,nc,nc
 2022-12-28T21:45:42.040Z,37.4824982,-121.6504974,10.37,1.65,md,16,71,0.005318,0.08,nc,nc73826101,2022-12-28T22:58:14.496Z,"20km NE of Alum Rock, CA",earthquake,0.35,0.71,0.05,11,automatic,nc,nc
 2022-12-28T21:41:37.603Z,60.1754,-152.5974,97.4,2,ml,,,,0.4,ak,ak022gn1alq8,2022-12-28T21:43:09.749Z,"53 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-12-28T21:36:43.240Z,38.7298333,-122.4198333,8.28,1.11,md,37,50,0.0704,0.14,nc,nc73826096,2022-12-29T06:14:12.278Z,"15km SE of Hidden Valley Lake, CA",earthquake,0.22,0.53,0.091,15,reviewed,nc,nc
+2022-12-28T21:36:43.240Z,38.7298333,-122.4198333,8.28,1.11,md,37,50,0.0704,0.14,nc,nc73826096,2022-12-29T06:53:11.529Z,"15km SE of Hidden Valley Lake, CA",earthquake,0.22,0.53,0.091,15,reviewed,nc,nc
 2022-12-28T21:26:02.150Z,33.662,-116.7551667,12.3,1.27,ml,43,42,0.05978,0.17,ci,ci40150919,2022-12-28T21:29:39.686Z,"9km SSW of Idyllwild, CA",earthquake,0.22,0.38,0.239,27,automatic,ci,ci
 2022-12-28T21:17:27.526Z,61.0051,-148.1002,0.9,0.9,ml,,,,1.04,ak,ak022gn15frk,2022-12-28T21:23:27.094Z,"40 km NE of Whittier, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-12-28T21:12:17.132Z,59.7919,-152.7109,85.2,2.4,ml,,,,0.42,ak,ak022gn147fr,2022-12-28T21:14:41.361Z,"49 km W of Anchor Point, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -200,4 +201,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T07:19:05.840Z,33.0185,-116.4323333,3.24,1.2,ml,34,44,0.1373,0.22,ci,ci40150775,2022-12-28T07:22:51.989Z,"17km ESE of Julian, CA",earthquake,0.33,1.23,0.156,28,automatic,ci,ci
 2022-12-28T07:17:15.942Z,20.7608,144.716,158.695,4.6,mb,61,135,16.03,0.86,us,us7000j0kx,2022-12-28T07:49:44.040Z,"Maug Islands region, Northern Mariana Islands",earthquake,13.79,8.07,0.067,66,reviewed,us,us
 2022-12-28T07:09:34.479Z,59.3984,-151.1913,49.6,1.8,ml,,,,0.76,ak,ak022gmsro3r,2022-12-28T07:12:14.864Z,"Kenai Peninsula, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2022-12-28T06:56:51.482Z,58.2246,-154.8441,3.3,0.6,ml,,,,0.18,ak,ak022gmsgch2,2022-12-28T06:59:19.712Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
