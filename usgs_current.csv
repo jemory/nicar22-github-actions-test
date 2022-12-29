@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2022-12-29T11:06:50.883Z,61.6286,-150.068,31,1.8,ml,,,,0.5,ak,ak022goio54w,2022-12-29T11:08:58.282Z,"13 km W of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-29T10:54:13.267Z,31.5829,-104.5794,6.2,2.8,ml,25,75,0.109,0.16,us,us7000j0tk,2022-12-29T10:59:29.040Z,"64 km NNE of Van Horn, Texas",earthquake,1.24,2.974,0.047,59,reviewed,us,us
+2022-12-29T10:54:13.807Z,31.62005683,-104.5302642,7.828295898,2.7,ml,16,85,0.05474645721,0.1,tx,tx2022zmfs,2022-12-29T11:21:27.771Z,"63 km SSW of Whites City, New Mexico",earthquake,0.9731909593,0.6803379354,0.2,12,reviewed,tx,tx
 2022-12-29T10:52:54.680Z,38.8376656,-122.8368301,1.23,0.74,md,11,115,0.001397,0.01,nc,nc73826321,2022-12-29T10:54:31.045Z,"10km NW of The Geysers, CA",earthquake,0.29,0.65,0.39,11,automatic,nc,nc
 2022-12-29T10:51:50.610Z,38.8383331,-122.8366699,1.49,0.74,md,19,82,0.0009585,0.02,nc,nc73826311,2022-12-29T10:53:25.790Z,"10km NW of The Geysers, CA",earthquake,0.18,0.59,0.35,21,automatic,nc,nc
 2022-12-29T10:51:42.910Z,38.8376656,-122.8365021,1.42,1.65,md,22,80,0.001216,0.01,nc,nc73826316,2022-12-29T11:07:10.870Z,"10km NW of The Geysers, CA",earthquake,0.18,0.4,0.2,23,automatic,nc,nc
@@ -203,6 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-28T11:52:00.400Z,33.1663333,-116.0165,2.9,1.21,ml,23,65,0.03328,0.24,ci,ci40150839,2022-12-28T18:16:00.034Z,"11km ENE of Ocotillo Wells, CA",earthquake,0.4,0.56,0.057,23,reviewed,ci,ci
 2022-12-28T11:44:58.518Z,60.1296,-146.8887,24.2,2.2,ml,,,,0.44,ak,ak022gmvcyfv,2022-12-28T11:46:41.744Z,"62 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-28T11:35:47.990Z,18.6508333333333,-64.3808333333333,53.28,3.32,md,5,329,0.4884,0.15,pr,pr71389413,2022-12-28T14:20:52.500Z,"56 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,3.96,2.56,0.0157930771490924,3,reviewed,pr,pr
-2022-12-28T11:25:29.350Z,19.2418327331543,-155.398330688477,32.9300003051758,2.6099999,md,32,136,,0.119999997,hv,hv73285337,2022-12-28T11:28:47.070Z,"Island of Hawaii, Hawaii",earthquake,0.87,0.74000001,1.29999995,3,automatic,hv,hv
-2022-12-28T11:25:23.533Z,59.9915,-153.3133,126,1.4,ml,,,,0.3,ak,ak022gmv8t4x,2022-12-28T11:27:09.881Z,"49 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-28T11:23:11.023Z,37.1856,-117.3689,4.2,0.3,ml,5,176.05,0.226,0.1562,nn,nn00854280,2022-12-29T02:41:26.746Z,"59 km SSW of Goldfield, Nevada",earthquake,,9.2,1.01,4,reviewed,nn,nn
