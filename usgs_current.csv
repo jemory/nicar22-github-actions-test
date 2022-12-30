@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-30T12:50:45.350Z,38.7768326,-122.7016678,1.92,1.35,md,9,172,0.008842,0.13,nc,nc73826791,2022-12-30T13:04:11.388Z,"1km WNW of Anderson Springs, CA",earthquake,1.14,0.66,0.29,8,automatic,nc,nc
+2022-12-30T13:27:44.044Z,62.4476,-149.3082,15.9,1.7,ml,,,,0.22,ak,ak022gq7iuck,2022-12-30T13:30:02.494Z,"40 km E of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-12-30T13:21:49.575Z,63.1515,-150.5273,104.3,1.4,ml,,,,0.4,ak,ak022gq7hkh9,2022-12-30T13:23:51.231Z,"73 km SE of Denali National Park, Alaska",earthquake,,2,,,automatic,ak,ak
+2022-12-30T12:50:45.350Z,38.7768326,-122.7016678,1.92,1.35,md,9,172,0.008842,0.13,nc,nc73826791,2022-12-30T13:16:13.451Z,"1km WNW of Anderson Springs, CA",earthquake,1.14,0.66,0.29,8,automatic,nc,nc
 2022-12-30T12:49:27.370Z,38.767334,-122.6963348,0.82,0.86,md,6,154,0.002451,0.01,nc,nc73826786,2022-12-30T13:06:14.400Z,"1km SSW of Anderson Springs, CA",earthquake,0.83,0.43,0.37,7,automatic,nc,nc
 2022-12-30T12:33:11.894Z,63.9947,-149.7902,9.2,1.6,ml,,,,0.53,ak,ak022gq6ymk5,2022-12-30T12:35:41.879Z,"33 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-30T12:28:38.300Z,19.2416667938232,-155.386169433594,28.5300006866455,2.54999995,md,14,151,,0.140000001,hv,hv73287677,2022-12-30T12:31:39.800Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.83,1.07000005,1.00999999,3,automatic,hv,hv
@@ -74,7 +76,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T04:16:56.053Z,-0.2131,97.3105,10,5,mb,52,136,1.53,0.75,us,us7000j0zu,2022-12-30T04:34:01.040Z,"271 km SW of Sibolga, Indonesia",earthquake,4.67,1.894,0.079,52,reviewed,us,us
 2022-12-30T04:14:45.580Z,33.9671667,-116.8056667,11.18,0.84,ml,20,62,0.06783,0.23,ci,ci40151343,2022-12-30T04:18:20.566Z,"6km NNW of Cabazon, CA",earthquake,0.43,0.9,0.198,25,automatic,ci,ci
 2022-12-30T03:55:13.570Z,33.596,-116.5866667,1.89,0.42,ml,17,81,0.008092,0.28,ci,ci40151335,2022-12-30T03:58:49.595Z,"9km ENE of Anza, CA",earthquake,0.6,0.7,0.26,5,automatic,ci,ci
-2022-12-30T03:54:19.350Z,40.6048333,-124.0726667,17.03,2.27,md,28,58,0.1034,0.15,nc,nc73826661,2022-12-30T11:07:13.672Z,"7km NNE of Hydesville, CA",earthquake,0.28,0.4,0.118,19,reviewed,nc,nc
+2022-12-30T03:54:19.350Z,40.6048333,-124.0726667,17.03,2.27,md,28,58,0.1034,0.15,nc,nc73826661,2022-12-30T13:19:10.466Z,"7km NNE of Hydesville, CA",earthquake,0.28,0.4,0.118,19,reviewed,nc,nc
 2022-12-30T03:12:02.710Z,62.0549,-145.2191,18.3,1.5,ml,,,,1.67,ak,ak022gq1h7db,2022-12-30T03:14:17.281Z,"7 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-30T03:06:58.110Z,33.925,-116.7861667,13.74,0.54,ml,17,73,0.09165,0.23,ci,ci40151327,2022-12-30T03:10:27.871Z,"1km N of Cabazon, CA",earthquake,0.49,1.55,0.119,12,automatic,ci,ci
 2022-12-30T02:51:25.600Z,33.9615,-116.8151667,11.32,1.73,ml,61,28,0.05418,0.17,ci,ci40151319,2022-12-30T03:01:55.900Z,"6km NNW of Cabazon, CA",earthquake,0.17,0.42,0.15,29,automatic,ci,ci
@@ -150,7 +152,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T17:29:22.698Z,38.1787,-117.8767,8.3,1.4,ml,10,136.94,0.076,0.112,nn,nn00854315,2022-12-29T18:52:03.552Z,"31 km SE of Mina, Nevada",earthquake,,2.1,0.43,3,reviewed,nn,nn
 2022-12-29T17:28:40.760Z,33.0346667,-115.5836667,9.58,1.43,ml,16,74,0.003875,0.21,ci,ci40151119,2022-12-29T17:32:22.336Z,"4km E of Westmorland, CA",earthquake,0.46,1.27,0.243,20,automatic,ci,ci
 2022-12-29T17:24:55.930Z,38.7890015,-122.7649994,2.09,0.5,md,5,163,0.01232,0,nc,nc73826476,2022-12-29T17:51:14.452Z,"2km NNW of The Geysers, CA",earthquake,0.8,2.11,0.23,6,automatic,nc,nc
-2022-12-29T17:17:29.200Z,40.5995,-124.0883333,17.5,2.54,md,29,56,0.09628,0.13,nc,nc73826471,2022-12-30T13:04:10.387Z,"6km N of Hydesville, CA",earthquake,0.24,0.41,0.144,31,reviewed,nc,nc
+2022-12-29T17:17:29.200Z,40.5995,-124.0883333,17.5,2.54,md,29,56,0.09628,0.13,nc,nc73826471,2022-12-30T13:26:14.511Z,"6km N of Hydesville, CA",earthquake,0.24,0.41,0.144,31,reviewed,nc,nc
 2022-12-29T17:02:47.370Z,38.8233337,-122.7926636,1.54,0.32,md,7,96,0.0136,0.01,nc,nc73826466,2022-12-29T17:20:13.143Z,"6km NNW of The Geysers, CA",earthquake,0.6,1.34,0.15,11,automatic,nc,nc
 2022-12-29T16:51:34.644Z,-18.8601,169.3023,250.485,4.8,mb,41,79,4.118,0.64,us,us7000j0v9,2022-12-29T17:08:18.040Z,"75 km N of Isangel, Vanuatu",earthquake,10.51,7.909,0.07,64,reviewed,us,us
 2022-12-29T16:51:07.215Z,60.1543,-151.8003,66.5,1.8,ml,,,,0.35,ak,ak022golwv0h,2022-12-29T16:53:20.087Z,"13 km NNW of Ninilchik, Alaska",earthquake,,1.4,,,automatic,ak,ak
@@ -189,7 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-29T13:51:52.920Z,34.3611667,-116.9795,1.12,1.34,ml,17,61,0.09582,0.26,ci,ci40151063,2022-12-29T13:55:28.444Z,"9km S of Lucerne Valley, CA",earthquake,0.47,0.72,0.174,28,automatic,ci,ci
 2022-12-29T13:47:02.440Z,38.796833,-122.7361679,1.18,0.83,md,11,105,0.01358,0.02,nc,nc73826376,2022-12-29T14:21:15.076Z,"3km NE of The Geysers, CA",earthquake,0.26,0.49,0.11,10,automatic,nc,nc
 2022-12-29T13:35:53.462Z,-3.0236,127.7742,43.825,4.5,mb,14,94,3.792,0.37,us,us7000j0ub,2022-12-29T15:05:11.040Z,"Seram, Indonesia",earthquake,9.96,11.173,0.204,8,reviewed,us,us
-2022-12-29T13:31:38.820Z,35.9920006,-120.5488358,3.6,1.1,md,9,119,0.01767,0.07,nc,nc73826366,2022-12-29T15:32:13.488Z,"15km NW of Parkfield, CA",earthquake,0.41,0.53,0.11,4,automatic,nc,nc
-2022-12-29T13:16:48.520Z,38.8349991,-122.8188324,2.1,1.03,md,8,214,0.01346,0.01,nc,nc73826361,2022-12-29T13:48:12.869Z,"8km NW of The Geysers, CA",earthquake,1.05,0.86,0.36,9,automatic,nc,nc
-2022-12-29T13:15:46.640Z,19.2356662750244,-155.408828735352,33.1500015258789,1.75999999,md,39,134,,0.119999997,hv,hv73286442,2022-12-29T13:18:58.390Z,"Hawaii region, Hawaii",earthquake,0.58,0.720000029,0.75,3,automatic,hv,hv
-2022-12-29T13:13:37.458Z,6.2678,126.1549,140.555,5.2,mww,98,102,0.981,0.91,us,us7000j0u9,2022-12-30T07:53:13.593Z,"10 km SSW of Pondaguitan, Philippines",earthquake,8.33,2.629,0.071,19,reviewed,us,us
