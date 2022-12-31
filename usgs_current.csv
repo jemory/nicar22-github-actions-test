@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-31T03:02:30.720Z,19.1935005187988,-155.487503051758,31.8400001525879,3.04,ml,45,77,,0.119999997,hv,hv73288327,2022-12-31T03:14:55.316Z,"1 km SW of Pāhala, Hawaii",earthquake,0.46,0.670000017,3.57,30,automatic,hv,hv
 2022-12-31T02:37:37.220Z,38.7883339,-122.7679977,1.24,0.89,md,5,97,0.01388,0,nc,nc73827031,2022-12-31T02:54:14.450Z,"2km NW of The Geysers, CA",earthquake,0.48,1.69,0.16,8,automatic,nc,nc
 2022-12-31T02:24:25.220Z,17.9651666666667,-66.8313333333333,17.62,2.3,md,6,207,0.04666,0.13,pr,pr71389968,2022-12-31T02:58:51.300Z,"3 km SSW of Indios, Puerto Rico",earthquake,1.27,0.85,0.0550624881576283,4,reviewed,pr,pr
 2022-12-31T02:16:19.890Z,34.2313333,-117.406,9.94,0.74,ml,10,114,0.04103,0.26,ci,ci40151607,2022-12-31T02:19:57.140Z,"1km NNW of Devore, CA",earthquake,0.79,1.19,0.136,12,automatic,ci,ci
@@ -23,7 +24,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T23:34:58.640Z,35.7978333,-117.624,6.35,1,ml,14,79,0.02798,0.14,ci,ci40151583,2022-12-30T23:38:35.187Z,"20km W of Searles Valley, CA",earthquake,0.32,0.61,0.207,9,automatic,ci,ci
 2022-12-30T23:20:56.690Z,19.1895008087158,-155.509170532227,33.7400016784668,2.3599999,md,38,89,,0.119999997,hv,hv73288192,2022-12-30T23:24:08.250Z,"3 km WSW of Pāhala, Hawaii",earthquake,0.62,0.800000012,1.54999995,23,automatic,hv,hv
 2022-12-30T23:16:18.600Z,19.1714992523193,-155.508163452148,35.0299987792969,2.4000001,md,37,109,,0.150000006,hv,hv73288187,2022-12-30T23:19:39.230Z,"Island of Hawaii, Hawaii",earthquake,0.74,0.920000017,0.949999988,16,automatic,hv,hv
-2022-12-30T23:14:38.375Z,-0.1454,97.3537,10,4.4,mb,23,202,1.457,0.4,us,us7000j15a,2022-12-30T23:31:25.040Z,"Kepulauan Batu, Indonesia",earthquake,10.36,1.972,0.143,14,reviewed,us,us
+2022-12-30T23:14:38.375Z,-0.1454,97.3537,10,4.4,mb,23,202,1.457,0.4,us,us7000j15a,2022-12-30T23:31:25.040Z,"262 km SW of Sibolga, Indonesia",earthquake,10.36,1.972,0.143,14,reviewed,us,us
 2022-12-30T23:03:47.998Z,61.2596,-150.2845,39.6,1.6,ml,,,,0.47,ak,ak022gqdc1in,2022-12-30T23:05:18.254Z,"19 km SW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-12-30T22:55:16.050Z,18.0731666666667,-67.0983333333333,18.39,3.03,md,20,122,0.04804,0.22,pr,pr71389923,2022-12-30T23:39:13.970Z,"1 km SSE of Monte Grande, Puerto Rico",earthquake,0.5,0.31,0.16628437897365,12,reviewed,pr,pr
 2022-12-30T22:48:01.500Z,18.0855,-66.7876666666667,6.29,2.3,md,12,79,0.06525,0.12,pr,pr71389943,2022-12-30T23:23:30.920Z,"4 km WNW of Santo Domingo, Puerto Rico",earthquake,0.36,0.48,0.183528975432781,7,reviewed,pr,pr
@@ -78,7 +79,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T16:02:56.518Z,65.0017,-147.4887,0,1.3,ml,,,,1.5,ak,ak022gq95t96,2022-12-30T16:05:17.238Z,"7 km NE of Fox, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-12-30T16:01:26.650Z,38.7885017,-122.7678299,2.45,1.1,md,12,79,0.01367,0.02,nc,nc73826826,2022-12-30T17:06:11.884Z,"2km NW of The Geysers, CA",earthquake,0.35,0.73,0.13,13,automatic,nc,nc
 2022-12-30T15:37:39.310Z,38.3636667,-122.6363333,3.55,1.16,md,18,41,0.033,0.12,nc,nc73826816,2022-12-30T23:56:13.348Z,"6km ENE of Rohnert Park, CA",earthquake,0.28,0.62,0.218,19,reviewed,nc,nc
-2022-12-30T15:36:00.918Z,19.0129,-102.7603,93.666,4.7,mb,38,177,1.579,0.62,us,us7000j12p,2022-12-30T17:36:11.584Z,"5 km WNW of Bonifacio Moreno (El Aguaje), Mexico",earthquake,12.04,4.602,0.046,142,reviewed,us,us
+2022-12-30T15:36:00.918Z,19.0129,-102.7603,93.666,4.7,mb,38,177,1.579,0.62,us,us7000j12p,2022-12-31T03:10:23.155Z,"5 km WNW of Bonifacio Moreno (El Aguaje), Mexico",earthquake,12.04,4.602,0.046,142,reviewed,us,us
 2022-12-30T15:35:13.701Z,-23.2048,-175.28,10,4.8,mb,26,78,2.027,0.65,us,us7000j12q,2022-12-30T16:23:54.040Z,"Tonga region",earthquake,9.38,1.853,0.09,38,reviewed,us,us
 2022-12-30T15:29:41.640Z,38.7576675,-122.7023315,-0.37,1.38,md,6,126,0.01076,0.15,nc,nc73826811,2022-12-30T16:12:11.519Z,"2km SSW of Anderson Springs, CA",earthquake,0.68,1.55,0.36,5,automatic,nc,nc
 2022-12-30T15:16:10.819Z,60.1279,-153.6213,168.5,2,ml,,,,0.47,ak,ak022gq8na55,2022-12-30T15:18:18.476Z,"39 km ESE of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -189,5 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-30T03:55:13.570Z,33.596,-116.5866667,1.89,0.42,ml,17,81,0.008092,0.28,ci,ci40151335,2022-12-30T03:58:49.595Z,"9km ENE of Anza, CA",earthquake,0.6,0.7,0.26,5,automatic,ci,ci
 2022-12-30T03:54:19.350Z,40.6048333,-124.0726667,17.03,2.27,md,28,58,0.1034,0.15,nc,nc73826661,2022-12-30T13:41:20.605Z,"7km NNE of Hydesville, CA",earthquake,0.28,0.4,0.118,19,reviewed,nc,nc
 2022-12-30T03:48:49.260Z,17.9418333333333,-66.9585,9.77,2.47,md,25,212,0.05625,0.12,pr,pr71389673,2022-12-30T18:04:48.730Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.36,0.28,0.0676009295859195,9,reviewed,pr,pr
-2022-12-30T03:12:02.710Z,62.0549,-145.2191,18.3,1.5,ml,,,,1.67,ak,ak022gq1h7db,2022-12-30T03:14:17.281Z,"7 km NE of Silver Springs, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2022-12-30T03:06:58.110Z,33.925,-116.7861667,13.74,0.54,ml,17,73,0.09165,0.23,ci,ci40151327,2022-12-30T03:10:27.871Z,"1km N of Cabazon, CA",earthquake,0.49,1.55,0.119,12,automatic,ci,ci
