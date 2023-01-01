@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-01T03:32:25.570Z,33.4018333,-116.3803333,3.62,0.55,ml,18,127,0.1368,0.19,ci,ci40152527,2023-01-01T03:36:03.302Z,"16km N of Borrego Springs, CA",earthquake,0.4,1.36,0.117,12,automatic,ci,ci
 2023-01-01T03:17:16.150Z,38.8284988,-122.8144989,1.86,0.87,md,10,79,0.006158,0.02,nc,nc73827371,2023-01-01T03:18:53.308Z,"8km NW of The Geysers, CA",earthquake,0.37,1.03,0.54,10,automatic,nc,nc
 2023-01-01T03:16:21.950Z,38.8165016,-122.8198318,2.47,1.09,md,19,49,0.01027,0.01,nc,nc73827366,2023-01-01T03:17:58.108Z,"7km NW of The Geysers, CA",earthquake,0.23,0.46,0.19,21,automatic,nc,nc
-2023-01-01T03:01:30.120Z,38.7890015,-122.7614975,2.51,1.04,md,8,160,0.01855,0.02,nc,nc73827361,2023-01-01T03:08:11.503Z,"1km NNW of The Geysers, CA",earthquake,0.76,1.22,0.48,8,automatic,nc,nc
-2023-01-01T03:01:23.700Z,38.7019997,-122.8239975,10.24,1.56,md,7,213,0.08237,0.04,nc,nc73827356,2023-01-01T03:18:12.329Z,"10km SW of The Geysers, CA",earthquake,2.5,2.1,0.7,7,automatic,nc,nc
+2023-01-01T03:16:16.153Z,-6.6469,155.1723,48.569,5.4,mww,122,59,5.482,0.73,us,us7000j1bs,2023-01-01T03:36:59.162Z,"50 km SW of Panguna, Papua New Guinea",earthquake,8.57,5.436,0.098,10,reviewed,us,us
+2023-01-01T03:05:28.420Z,18.0673333333333,-67.1113333333333,19.69,2.23,md,7,194,0.05263,0.1,pr,pr71390098,2023-01-01T03:35:22.220Z,"2 km S of Monte Grande, Puerto Rico",earthquake,0.97,0.62,0.112350821791813,4,reviewed,pr,pr
+2023-01-01T03:01:30.120Z,38.7890015,-122.7614975,2.51,1.04,md,8,160,0.01855,0.02,nc,nc73827361,2023-01-01T03:28:12.383Z,"1km NNW of The Geysers, CA",earthquake,0.76,1.22,0.48,8,automatic,nc,nc
+2023-01-01T03:01:23.700Z,38.7019997,-122.8239975,10.24,1.56,md,7,213,0.08237,0.04,nc,nc73827356,2023-01-01T03:35:13.419Z,"10km SW of The Geysers, CA",earthquake,2.5,2.1,0.7,7,automatic,nc,nc
 2023-01-01T02:41:10.040Z,33.2285,-116.5945,17,0.79,ml,29,102,0.05304,0.17,ci,ci40152519,2023-01-01T02:44:42.662Z,"7km SSE of Warner Springs, CA",earthquake,0.35,0.54,0.145,16,automatic,ci,ci
 2023-01-01T02:21:58.120Z,58.2723,-154.9807,1.2,1.3,ml,,,,0.25,ak,ak0231ouu84,2023-01-01T02:24:29.982Z,"Alaska Peninsula",earthquake,,2.2,,,automatic,ak,ak
 2023-01-01T02:19:31.800Z,33.405,-116.381,1.19,0.64,ml,17,126,0.1398,0.2,ci,ci40152503,2023-01-01T02:22:56.661Z,"17km N of Borrego Springs, CA",earthquake,0.42,0.71,0.126,13,automatic,ci,ci
@@ -166,7 +169,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T12:17:51.150Z,33.401,-116.3833333,1.84,1.15,ml,36,95,0.1354,0.2,ci,ci40151823,2022-12-31T13:46:37.748Z,"16km N of Borrego Springs, CA",earthquake,0.27,0.59,0.17,25,automatic,ci,ci
 2022-12-31T12:15:55.000Z,33.4021667,-116.37,3.79,1.6,ml,28,121,0.1296,0.18,ci,ci40151815,2022-12-31T13:43:25.441Z,"16km N of Borrego Springs, CA",earthquake,0.35,0.8,0.319,5,automatic,ci,ci
 2022-12-31T12:15:02.560Z,19.3396666666667,-155.303833333333,2.36,0.73,md,15,81,,0.09,hv,hv73289047,2022-12-31T12:38:35.130Z,"13 km SSW of Volcano, Hawaii",earthquake,0.26,0.31,0.0595608904732979,5,reviewed,hv,hv
-2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2023-01-01T03:20:40.674Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
+2022-12-31T12:12:26.570Z,33.3981667,-116.3913345,2.46,4.17,mw,119,16,0.07407,0.2,ci,ci40151807,2023-01-01T03:37:06.441Z,"16km N of Borrego Springs, CA",earthquake,0.18,0.68,,6,reviewed,ci,ci
 2022-12-31T12:10:45.550Z,34.3571667,-116.9193333,5.25,1.19,ml,26,107,0.07656,0.14,ci,ci40151799,2022-12-31T12:14:26.430Z,"11km SSE of Lucerne Valley, CA",earthquake,0.26,0.81,0.136,29,automatic,ci,ci
 2022-12-31T12:09:20.220Z,33.1598333,-116.459,9.53,0.74,ml,18,122,0.1136,0.19,ci,ci40151791,2022-12-31T13:40:21.308Z,"13km SW of Borrego Springs, CA",earthquake,0.44,0.9,0.233,10,reviewed,ci,ci
 2022-12-31T12:06:29.210Z,38.822834,-122.8088303,1.19,0.76,md,10,94,0.001121,0.02,nc,nc73827171,2022-12-31T12:42:20.357Z,"7km NW of The Geysers, CA",earthquake,0.31,0.73,0.13,10,automatic,nc,nc
@@ -204,11 +207,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T09:18:30.970Z,40.5391667,-124.3166667,17.7,2.64,md,27,187,0.0446,0.09,nc,nc73827136,2022-12-31T23:04:03.559Z,"6km SW of Ferndale, CA",earthquake,0.34,0.28,0.102,29,reviewed,nc,nc
 2022-12-31T09:09:03.847Z,38.1742,-117.8961,7,0.9,ml,8,171.99,0.061,0.0779,nn,nn00854363,2022-12-31T09:12:20.074Z,"30 km SE of Mina, Nevada",earthquake,,1.1,0.83,5,automatic,nn,nn
 2022-12-31T09:04:44.000Z,38.4780006,-122.0543365,4.63,1.36,md,5,117,0.06829,0.05,nc,nc73827131,2022-12-31T09:59:12.896Z,"9km SW of Winters, CA",earthquake,0.64,2.52,0.25,5,automatic,nc,nc
-2022-12-31T09:02:23.330Z,38.463665,-121.9963303,18.94,3.16,ml,45,49,,0.3,nc,nc73827126,2023-01-01T00:27:49.527Z,"5km WNW of Allendale, CA",earthquake,0.56,0.41,0.27,13,automatic,nc,nc
+2022-12-31T09:02:23.330Z,38.463665,-121.9963303,18.94,3.16,ml,45,49,,0.3,nc,nc73827126,2023-01-01T03:33:49.326Z,"5km WNW of Allendale, CA",earthquake,0.56,0.41,0.27,13,automatic,nc,nc
 2022-12-31T09:02:10.435Z,63.014,-150.5533,18.1,1.2,ml,,,,0.32,ak,ak022grsj0xf,2022-12-31T09:04:14.487Z,"58 km N of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-31T08:56:22.590Z,33.2658333,-116.4233333,4.47,1.31,ml,48,52,0.005685,0.18,ci,ci40151679,2022-12-31T12:55:37.492Z,"5km WNW of Borrego Springs, CA",earthquake,0.23,0.6,0.14,27,reviewed,ci,ci
 2022-12-31T08:53:58.830Z,19.4101666666667,-155.2815,0.78,1.33,md,17,107,,0.08,hv,hv73288862,2022-12-31T09:08:51.440Z,"6 km SW of Volcano, Hawaii",earthquake,0.15,0.24,0.00944952175446367,3,reviewed,hv,hv
-2022-12-31T08:52:11.414Z,35.85176086,-97.18344879,2.267204046,2.54,ml,66,30.30499268,0.08611340821,0.695299656,ok,ok2022zpsr,2023-01-01T03:21:44.810Z,"5 km E of Meridian, Oklahoma",earthquake,1.385683808,1.228486272,,49,automatic,ok,ok
+2022-12-31T08:52:11.414Z,35.85176086,-97.18344879,2.267204046,2.54,ml,66,30.30499268,0.08611340821,0.695299656,ok,ok2022zpsr,2023-01-01T03:35:32.446Z,"5 km E of Meridian, Oklahoma",earthquake,1.385683808,1.228486272,,49,automatic,ok,ok
 2022-12-31T08:45:52.050Z,38.7938347,-122.7276688,2.39,1.14,md,9,96,0.01273,0.02,nc,nc73827121,2022-12-31T09:19:11.667Z,"3km NE of The Geysers, CA",earthquake,0.42,1.06,0.3,8,automatic,nc,nc
 2022-12-31T08:45:21.600Z,19.403,-155.2875,0.87,0.22,md,11,95,,0.07,hv,hv73288852,2022-12-31T09:10:46.090Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.35,0.0266522279231508,2,reviewed,hv,hv
 2022-12-31T08:34:41.520Z,17.8005,-66.9446666666667,13.84,2.05,md,8,285,0.1844,0.11,pr,pr71389998,2022-12-31T08:53:28.780Z,"Puerto Rico region",earthquake,0.95,0.39,0.135404808356844,8,reviewed,pr,pr
@@ -263,6 +266,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-31T04:11:06.310Z,19.4033333333333,-155.270833333333,0.49,0.49,md,12,66,,0.09,hv,hv73288422,2022-12-31T08:42:14.720Z,"5 km SW of Volcano, Hawaii",earthquake,0.16,0.32,0.180918825860521,2,reviewed,hv,hv
 2022-12-31T03:57:50.697Z,63.8512,-148.7568,0.7,1.9,ml,,,,0.47,ak,ak022grpaasd,2022-12-31T03:59:38.074Z,"10 km E of Healy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-31T03:47:34.619Z,65.7455,-147.7018,11.8,1.3,ml,,,,0.64,ak,ak022grp84st,2022-12-31T03:50:50.799Z,"45 km ENE of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2022-12-31T03:31:43.697Z,-23.0845,-68.8996,97.691,5,mww,71,79,0.677,1.15,us,us7000j15y,2022-12-31T15:33:05.509Z,"Antofagasta, Chile",earthquake,4.91,4.671,0.066,22,reviewed,us,us
-2022-12-31T03:26:24.790Z,19.3996666666667,-155.266666666667,1.78,0.57,md,16,55,,0.09,hv,hv73288347,2022-12-31T08:05:13.940Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.27,0.0343088576689948,4,reviewed,hv,hv
-2022-12-31T03:23:39.130Z,38.7958336,-122.765831,0.69,1.2,md,14,68,0.006764,0.03,nc,nc73827041,2022-12-31T04:58:13.186Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.46,0.15,18,automatic,nc,nc
