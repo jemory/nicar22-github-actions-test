@@ -1,6 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-03T05:50:13.100Z,41.7563324,-111.9458313,-2.16,2.85,ml,33,70,0.07167,0.37,uu,uu60529032,2023-01-03T05:54:22.760Z,"3 km SSW of Benson, Utah",earthquake,0.66,5.62,0.35,17,automatic,uu,uu
+2023-01-03T05:49:44.300Z,36.5703316,-121.152832,8.36,1.73,md,10,189,0.02626,0.04,nc,nc73828236,2023-01-03T05:51:21.660Z,"4km N of Pinnacles, CA",earthquake,1.69,0.96,0.14,7,automatic,nc,nc
+2023-01-03T05:47:29.420Z,35.7738333,-117.6041667,6.52,1.13,ml,17,134,0.04217,0.15,ci,ci40153207,2023-01-03T05:50:56.240Z,"18km W of Searles Valley, CA",earthquake,0.37,0.62,0.19,12,automatic,ci,ci
+2023-01-03T05:44:22.560Z,38.8148346,-122.7963333,2.32,1.09,md,25,61,0.006904,0.02,nc,nc73828231,2023-01-03T05:45:56.773Z,"5km NW of The Geysers, CA",earthquake,0.2,0.4,0.14,26,automatic,nc,nc
+2023-01-03T05:42:13.420Z,33.7926667,-117.0335,-0.25,0.69,ml,14,200,0.1394,0.34,ci,ci40153199,2023-01-03T05:45:49.420Z,"7km W of San Jacinto, CA",earthquake,1.62,31.61,0.155,10,automatic,ci,ci
 2023-01-03T05:34:56.234Z,36.7602,-115.4158,1.8,0.9,ml,9,195.35,0.329,0.3485,nn,nn00854446,2023-01-03T05:37:13.778Z,"31 km NE of Indian Springs, Nevada",earthquake,,27,0.4,5,automatic,nn,nn
 2023-01-03T05:34:00.494Z,38.1656,-117.9022,1.7,0.2,ml,9,156.79,0.052,0.1268,nn,nn00854445,2023-01-03T05:37:20.461Z,"30 km SE of Mina, Nevada",earthquake,,4.8,0.26,5,automatic,nn,nn
+2023-01-03T05:24:20.070Z,18.8268333333333,-65.035,16.12,3,md,8,259,0.4777,0.12,pr,pr71390653,2023-01-03T05:53:56.690Z,"54 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.71,1.15,0.0653994325351346,3,reviewed,pr,pr
 2023-01-03T05:16:49.260Z,17.9451666666667,-66.7618333333333,11.11,2.41,md,8,223,0.1154,0.1,pr,pr71390648,2023-01-03T05:32:21.170Z,"7 km SW of Tallaboa, Puerto Rico",earthquake,0.6,1.06,0.0488081079655331,4,reviewed,pr,pr
 2023-01-03T05:06:55.690Z,35.5045,-118.394,8.23,0.79,ml,13,105,0.1709,0.17,ci,ci40153183,2023-01-03T05:10:34.915Z,"13km SE of Bodfish, CA",earthquake,0.39,2.04,0.05,6,automatic,ci,ci
 2023-01-03T04:58:48.780Z,40.1030006,-120.9981689,1.48,2.28,md,7,134,0.3479,0.04,nc,nc73828221,2023-01-03T05:28:14.681Z,"6km SW of Greenville, CA",earthquake,0.46,7.96,0.1,5,automatic,nc,nc
@@ -218,7 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T06:08:46.610Z,38.7700005,-122.7356644,1.16,0.97,md,10,96,0.01191,0.02,nc,nc73827826,2023-01-02T06:53:13.446Z,"2km ESE of The Geysers, CA",earthquake,0.33,0.41,0.27,9,automatic,nc,nc
 2023-01-02T06:01:21.128Z,60.2727,-151.0376,46,2,ml,,,,0.41,ak,ak0233enjyo,2023-01-02T06:03:09.899Z,"14 km ESE of Kasilof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-02T05:57:38.573Z,63.4232,-149.0059,13.6,1.3,ml,,,,1.49,ak,ak0233ee5t0,2023-01-02T05:59:52.269Z,"4 km NW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-02T05:51:50.920Z,38.8378334,-122.8296661,1.85,0.5,md,6,132,0.004608,0.01,nc,nc73827816,2023-01-02T06:30:11.331Z,"9km NW of The Geysers, CA",earthquake,0.49,1.03,0.31,8,automatic,nc,nc
-2023-01-02T05:50:52.720Z,33.4013333,-116.3776667,2.64,0.85,ml,16,83,0.1282,0.27,ci,ci40152911,2023-01-02T05:54:27.160Z,"16km N of Borrego Springs, CA",earthquake,0.52,2.23,0.137,11,automatic,ci,ci
-2023-01-02T05:48:21.202Z,-59.74,-25.8967,10,4.7,mb,26,178,7.952,0.29,us,us7000j1iv,2023-01-02T06:31:40.040Z,"South Sandwich Islands region",earthquake,8.66,1.972,0.108,26,reviewed,us,us
-2023-01-02T05:46:12.350Z,37.5596667,-118.8703333,4.33,0.66,md,10,245,0.04462,0.03,nc,nc73827811,2023-01-02T18:26:11.524Z,"13km SE of Mammoth Lakes, CA",earthquake,1.76,1.61,0.116,8,reviewed,nc,nc
