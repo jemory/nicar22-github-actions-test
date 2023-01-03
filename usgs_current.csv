@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-03T10:41:23.640Z,19.1176662445068,-155.396331787109,30.0699996948242,2.13000011,md,41,186,,0.129999995,hv,hv73293152,2023-01-03T10:44:28.360Z,"Hawaii region, Hawaii",earthquake,0.63,0.970000029,1.55999994,18,automatic,hv,hv
+2023-01-03T09:58:25.140Z,-40.9373,-88.1001,10,4.8,mb,72,211,10.365,0.45,us,us7000j1sw,2023-01-03T10:37:16.040Z,"West Chile Rise",earthquake,8.05,1.968,0.069,65,reviewed,us,us
 2023-01-03T09:38:24.020Z,38.8214989,-122.8544998,2.24,0.85,md,7,136,0.02151,0,nc,nc73828301,2023-01-03T09:58:13.648Z,"10km WNW of The Geysers, CA",earthquake,0.48,1.71,0.28,8,automatic,nc,nc
 2023-01-03T09:38:12.690Z,41.7933333,-111.9241667,5.63,2.67,ml,12,93,0.1066,0.18,uu,uu60529057,2023-01-03T10:23:57.210Z,"0 km NE of Benson, Utah",earthquake,0.71,1.33,0.084,10,reviewed,uu,uu
 2023-01-03T09:32:29.183Z,-3.9307,133.2745,30.815,4.8,mb,41,112,1.434,1.07,us,us7000j1sr,2023-01-03T09:48:30.040Z,"196 km NNE of Tual, Indonesia",earthquake,10.35,6.712,0.111,25,reviewed,us,us
@@ -224,6 +226,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-02T11:23:05.738Z,61.615,-150.3801,35.8,2.1,ml,,,,0.69,ak,ak0233hrejx,2023-01-02T11:25:07.022Z,"10 km NE of Susitna, Alaska",earthquake,,2.8,,,automatic,ak,ak
 2023-01-02T11:13:12.360Z,38.8446655,-122.8806686,2.1,0.4,md,6,147,0.0105,0.01,nc,nc73827921,2023-01-02T11:31:13.048Z,"13km ENE of Cloverdale, CA",earthquake,0.4,1.42,0.25,9,automatic,nc,nc
 2023-01-02T10:57:53.640Z,19.1456666666667,-67.251,32.02,3.09,md,10,298,0.6875,0.41,pr,pr71390433,2023-01-02T11:25:18.980Z,"74 km NNW of San Antonio, Puerto Rico",earthquake,2.11,13.14,0.0402429122060095,6,reviewed,pr,pr
-2023-01-02T10:40:38.330Z,38.8061676,-122.8075027,0.83,1.06,md,8,186,0.0097,0.03,nc,nc73827911,2023-01-02T11:14:13.942Z,"6km NW of The Geysers, CA",earthquake,0.64,0.93,0.22,8,automatic,nc,nc
-2023-01-02T10:39:59.892Z,5.4736,97.1091,10,5.1,mb,29,59,0.292,0.69,us,us7000j1l9,2023-01-02T12:06:38.524Z,"northern Sumatra, Indonesia",earthquake,5.64,1.903,0.134,18,reviewed,us,us
-2023-01-02T10:36:40.938Z,60.2572,-153.3922,163.7,2.6,ml,,,,0.46,ak,ak0233h8ty7,2023-01-03T07:50:02.040Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
