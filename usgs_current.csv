@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-04T09:53:50.030Z,33.397,-116.3796667,4.25,0.82,ml,27,96,0.1318,0.23,ci,ci40153543,2023-01-04T09:57:25.106Z,"16km N of Borrego Springs, CA",earthquake,0.38,0.86,0.106,16,automatic,ci,ci
+2023-01-04T09:52:31.920Z,35.8673333,-117.4905,8.27,1.03,ml,14,82,0.101,0.15,ci,ci40153535,2023-01-04T09:56:02.419Z,"14km NW of Searles Valley, CA",earthquake,0.35,0.97,0.157,7,automatic,ci,ci
+2023-01-04T09:52:08.700Z,32.1753333,-116.945,14.09,2.44,ml,16,244,0.2752,0.23,ci,ci40153527,2023-01-04T09:55:40.138Z,"6km SSW of Primo Tapia, B.C., MX",earthquake,1.31,1.57,0.139,26,automatic,ci,ci
 2023-01-04T09:28:42.877Z,58.4476,-153.5622,67.8,1.7,ml,,,,0.28,ak,ak0236rodsh,2023-01-04T09:30:13.439Z,"57 km NW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-04T09:21:09.880Z,36.1876667,-118.0226667,2.44,1.09,ml,13,127,0.1528,0.18,ci,ci40153519,2023-01-04T09:24:45.436Z,"11km S of Olancha, CA",earthquake,0.37,1.88,0.192,11,automatic,ci,ci
+2023-01-04T09:19:05.880Z,18.175,-67.0045,25,3.09,md,31,43,0.02359,0.18,pr,pr71390863,2023-01-04T09:56:11.010Z,"2 km WSW of Maricao, Puerto Rico",earthquake,0.26,0.6,0.118250309125588,17,reviewed,pr,pr
 2023-01-04T09:16:44.204Z,58.3417,-154.7623,11.7,1.1,ml,,,,0.65,ak,ak0236rltac,2023-01-04T09:18:52.231Z,"87 km NNW of Karluk, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-04T09:12:07.190Z,38.8160019,-122.8001633,3.33,1.08,md,21,56,0.008875,0.01,nc,nc73828691,2023-01-04T09:35:17.082Z,"6km NW of The Geysers, CA",earthquake,0.24,0.53,0.15,22,automatic,nc,nc
 2023-01-04T09:07:24.145Z,62.3266,-150.2937,61,1.7,ml,,,,0.59,ak,ak0236rjuam,2023-01-04T09:09:10.651Z,"3 km WNW of Trapper Creek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -159,7 +163,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T16:23:57.130Z,38.8246651,-122.807663,1.35,1.33,md,16,74,0.01927,0.02,nc,nc73828411,2023-01-03T17:09:12.215Z,"7km NW of The Geysers, CA",earthquake,0.21,0.59,0.26,17,automatic,nc,nc
 2023-01-03T16:22:57.470Z,46.1955,-122.18433333333333,1.45,0.39,ml,14,136,0.004771,0.13,uw,uw61901311,2023-01-03T18:36:04.390Z,"37 km NNE of Amboy, Washington",earthquake,0.38,0.22,0.22071136073769634,6,reviewed,uw,uw
 2023-01-03T16:18:17.030Z,46.19733333333333,-122.18183333333333,0.93,0.63,ml,19,138,0.003835,0.08,uw,uw61901306,2023-01-03T18:41:55.830Z,"37 km NNE of Amboy, Washington",earthquake,0.32,0.19,0.31091086079851354,15,reviewed,uw,uw
-2023-01-03T16:12:37.294Z,60.977,-151.0597,29.7,1.6,ml,,,,0.76,ak,ak023587mmp,2023-01-03T16:14:21.468Z,"Kenai Peninsula, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-01-03T16:12:37.294Z,60.977,-151.0597,29.7,1.6,ml,,,,0.76,ak,ak023587mmp,2023-01-03T16:14:21.468Z,"10 km SSE of Tyonek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-03T15:58:52.960Z,35.9523315,-120.4958344,3.93,0.56,md,8,196,0.03782,0.02,nc,nc73828401,2023-01-03T16:16:10.889Z,"8km NW of Parkfield, CA",earthquake,0.7,1.71,0.48,3,automatic,nc,nc
 2023-01-03T15:49:39.740Z,19.24049949646,-155.103500366211,40,1.73000002,md,39,221,,0.180000007,hv,hv73293677,2023-01-03T15:52:52.670Z,"25 km S of Fern Forest, Hawaii",earthquake,1.1,0.560000002,1.73000002,4,automatic,hv,hv
 2023-01-03T15:48:26.750Z,34.353,-116.926,4.79,1.26,ml,23,104,0.08168,0.19,ci,ci40153319,2023-01-03T15:51:58.374Z,"11km SSE of Lucerne Valley, CA",earthquake,0.37,1.29,0.137,30,automatic,ci,ci
