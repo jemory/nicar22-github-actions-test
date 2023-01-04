@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-04T17:27:34.580Z,35.8756676,-117.6853333,4.2,1.32,ml,15,158,0.09307,0.1,ci,ci40153679,2023-01-04T17:29:39.708Z,"21km ESE of Little Lake, CA",earthquake,0.38,0.85,0.131,4,automatic,ci,ci
+2023-01-04T17:38:08.460Z,18.8291664123535,-154.912338256836,11.2200002670288,2.75,ml,40,282,,0.200000003,hv,hv73295042,2023-01-04T17:43:40.790Z,"70 km S of Leilani Estates, Hawaii",earthquake,3.19,4.03999996,0.29,10,automatic,hv,hv
+2023-01-04T17:37:18.683Z,58.1649,-155.4094,0,0.7,ml,,,,0.85,ak,ak0236whq70,2023-01-04T17:39:25.431Z,"87 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-01-04T17:27:34.600Z,35.874,-117.6865,2.83,1.3,ml,18,118,0.09121,0.19,ci,ci40153679,2023-01-04T17:31:07.733Z,"21km ESE of Little Lake, CA",earthquake,0.41,0.6,0.123,16,automatic,ci,ci
 2023-01-04T17:02:29.960Z,36.20916667,-95.87566667,0,1.42,ml,57,203,0.3059399641,0.51,ok,ok2023agug,2023-01-04T17:13:09.593Z,"6 km SSW of Owasso, Oklahoma",quarry blast,,0.7,0.18,23,reviewed,ok,ok
 2023-01-04T16:44:21.628Z,18.4501,-69.0971,114.643,4.3,mb,39,110,0.683,0.59,us,us7000j23e,2023-01-04T17:21:20.849Z,"Dominican Republic region",earthquake,6.87,6.145,0.122,19,reviewed,us,us
 2023-01-04T16:43:01.449Z,36.41783333,-96.91783333,4.84,1.1,ml,51,62,0.0188962919,0.22,ok,ok2023agtm,2023-01-04T17:00:15.577Z,"Oklahoma",earthquake,,0.4,0.23,21,reviewed,ok,ok
@@ -46,7 +48,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T10:50:28.856Z,59.1273,-152.5199,60.5,2.3,ml,,,,0.32,ak,ak0236sei1x,2023-01-04T16:53:50.040Z,"42 km SW of Nanwalek, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-04T10:47:31.048Z,36.1669,-115.5333,14.7,1.3,ml,11,304.31,0.669,0.3431,nn,nn00854502,2023-01-04T10:49:31.922Z,"14 km SE of Mount Charleston, Nevada",earthquake,,2,0.16,6,automatic,nn,nn
 2023-01-04T10:42:05.400Z,35.7741661,-120.6301651,6.91,2.02,md,25,45,0.1475,0.04,nc,nc73828701,2023-01-04T11:03:12.626Z,"6km ENE of San Miguel, CA",earthquake,0.23,1.15,0.16,23,automatic,nc,nc
-2023-01-04T10:33:37.274Z,36.3357,-115.1301,6.9,1.2,ml,11,223.02,0.17,0.1484,nn,nn00854500,2023-01-04T10:36:01.541Z,"Nevada",earthquake,,2.4,0.44,5,automatic,nn,nn
+2023-01-04T10:33:37.984Z,36.3369,-115.1743,6,1.2,ml,18,209.38,0.169,0.1781,nn,nn00854500,2023-01-04T17:42:29.258Z,"14 km NW of Nellis Air Force Base, Nevada",earthquake,,4,1.05,5,reviewed,nn,nn
 2023-01-04T10:07:50.009Z,65.054,-148.9101,15.1,1.3,ml,,,,0.33,ak,ak0236s5bw8,2023-01-04T10:09:37.882Z,"23 km ESE of Minto, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-04T10:04:28.361Z,31.7246,73.9665,10,3.5,mb,12,196,2.009,0.42,us,us7000j22v,2023-01-04T15:09:51.764Z,"Pakistan",earthquake,10.84,2.011,0.493,1,reviewed,us,us
 2023-01-04T10:04:10.780Z,34.3626667,-116.7413333,2.25,1.08,ml,14,119,0.07274,0.18,ci,ci40153559,2023-01-04T10:07:37.452Z,"15km NE of Big Bear City, CA",earthquake,0.33,0.5,0.189,20,automatic,ci,ci
@@ -69,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T08:16:31.604Z,57.5544,-155.1786,37.7,2.2,ml,,,,0.52,ak,ak0236r0cpk,2023-01-04T08:20:18.906Z,"43 km W of Karluk, Alaska",earthquake,,4.3,,,automatic,ak,ak
 2023-01-04T08:05:04.520Z,33.688,-116.0328333,8.29,1.28,ml,38,81,0.04843,0.2,ci,ci40153495,2023-01-04T08:08:34.774Z,"11km ENE of Thermal, CA",earthquake,0.26,0.82,0.125,26,automatic,ci,ci
 2023-01-04T07:55:47.770Z,19.1704998016357,-155.466339111328,30.0900001525879,2.03,ml,35,156,,0.109999999,hv,hv73294552,2023-01-04T08:01:18.780Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.57,0.730000019,0.4,5,automatic,hv,hv
-2023-01-04T07:47:26.477Z,37.0267,-116.2151,1.7,0.7,ml,10,149.13,0.157,0.2803,nn,nn00854499,2023-01-04T07:49:40.261Z,"Nevada",earthquake,,4.2,0.23,7,automatic,nn,nn
+2023-01-04T07:47:27.149Z,37.0151,-116.2167,5.6,0.5,ml,28,60.76,0.038,0.1607,nn,nn00854499,2023-01-04T17:33:02.906Z,"49 km ENE of Beatty, Nevada",earthquake,,1.3,0.23,20,reviewed,nn,nn
 2023-01-04T07:44:51.000Z,38.8266678,-122.854332,2.76,0.54,md,10,93,0.002169,0.01,nc,nc73828671,2023-01-04T08:47:16.780Z,"10km WNW of The Geysers, CA",earthquake,0.4,0.74,0.41,11,automatic,nc,nc
 2023-01-04T07:39:36.210Z,38.7729988,-122.6776657,2.55,1.32,md,7,142,0.01757,0.02,nc,nc73828666,2023-01-04T09:11:16.927Z,"1km E of Anderson Springs, CA",earthquake,0.64,0.99,0.18,7,automatic,nc,nc
 2023-01-04T07:33:03.650Z,38.7701683,-122.675499,2.43,1.15,md,8,148,0.0187,0.02,nc,nc73828661,2023-01-04T08:47:15.780Z,"2km ESE of Anderson Springs, CA",earthquake,0.91,0.65,0.45,7,automatic,nc,nc
@@ -97,7 +99,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-04T05:09:31.330Z,34.1158333,-117.4915,4.29,1,ml,22,62,0.09191,0.18,ci,ci40153471,2023-01-04T05:13:03.159Z,"4km WNW of Fontana, CA",earthquake,0.32,0.81,0.16,26,automatic,ci,ci
 2023-01-04T05:08:07.807Z,60.9531,-150.7134,14.1,1.6,ml,,,,0.35,ak,ak0236p6abw,2023-01-04T05:10:02.753Z,"3 km NNW of Point Possession, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-04T04:58:33.690Z,19.1200008392334,-155.386505126953,31.5100002288818,1.74000001,md,37,187,,0.100000001,hv,hv73294407,2023-01-04T05:01:43.650Z,"13 km SE of Pāhala, Hawaii",earthquake,0.61,1.02999997,0.860000014,8,automatic,hv,hv
-2023-01-04T04:57:11.047Z,58.2405,-155.1954,1.2,0.5,ml,,,,0.24,ak,ak0236ovd28,2023-01-04T04:59:01.406Z,"86 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-04T04:54:42.370Z,31.68932281,-104.485758,4.948999022999999,3,ml,12,75,0.02438604685,0.1,tx,tx2023afwf,2023-01-04T05:29:52.572Z,"54 km S of Whites City, New Mexico",earthquake,1.0739596,1.221349849,0.1,11,reviewed,tx,tx
 2023-01-04T04:53:40.490Z,34.358,-116.9221667,4.5,1.26,ml,24,64,0.07898,0.2,ci,ci40153463,2023-01-04T14:50:40.140Z,"10km SSE of Lucerne Valley, CA",earthquake,0.36,0.7,0.12,26,reviewed,ci,ci
 2023-01-04T04:22:19.270Z,38.831501,-122.8190002,1.65,0.77,md,16,64,0.01068,0.03,nc,nc73828616,2023-01-04T04:40:14.348Z,"8km NW of The Geysers, CA",earthquake,0.25,0.66,0.15,17,automatic,nc,nc
@@ -207,4 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-03T17:58:12.420Z,35.676,-117.5385,4.83,0.46,ml,9,110,0.1088,0.14,ci,ci40153351,2023-01-04T15:04:18.609Z,"14km ENE of Ridgecrest, CA",earthquake,0.33,0.75,0.116,3,reviewed,ci,ci
 2023-01-03T17:56:46.500Z,43.69616666666667,-121.28516666666667,6.07,0.47000000000000003,ml,6,186,0.03715,0.08,uw,uw61901316,2023-01-03T18:29:17.670Z,"Oregon",earthquake,0.99,0.61,0.1180675519022758,5,reviewed,uw,uw
 2023-01-03T17:55:44.573Z,-2.4596,140.7484,26.757,5,mb,67,108,8.502,0.67,us,us7000j1vz,2023-01-04T15:58:02.040Z,"near the north coast of Papua, Indonesia",earthquake,8.69,5.05,0.076,60,reviewed,us,us
-2023-01-03T17:43:01.313Z,60.2274,-152.2686,98.6,2,ml,,,,0.36,ak,ak02358zmnn,2023-01-03T17:44:57.978Z,"38 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
