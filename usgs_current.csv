@@ -27,6 +27,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T15:26:11.770Z,63.6619,-149.7162,32.8,1.6,ml,,,,0.53,ak,ak023a6b6k9,2023-01-06T15:28:27.108Z,"40 km WSW of Denali Park, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-06T15:22:36.920Z,17.9661666666667,-66.8353333333333,16.92,1.94,md,7,205,0.04273,0.08,pr,pr71391293,2023-01-06T16:07:25.600Z,"3 km SSW of Indios, Puerto Rico",earthquake,0.45,0.6,0.0889090155945234,7,reviewed,pr,pr
 2023-01-06T15:18:21.220Z,19.2443332672119,-155.384170532227,33.6800003051758,2,md,40,140,,0.129999995,hv,hv73298072,2023-01-06T15:21:33.990Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.779999971,1.38999999,12,automatic,hv,hv
+2023-01-06T15:11:18.829Z,40.0701,-119.5396,0,0.6,ml,3,217.47,0.178,0.0363,nn,nn00854601,2023-01-06T20:05:33.377Z,"14 km NNE of Sutcliffe, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-01-06T15:03:56.571Z,38.5228,-119.5312,6.1,1.7,ml,18,122.97,0.064,0.162,nn,nn00854589,2023-01-06T15:23:04.340Z,"4 km W of Walker, California",earthquake,,1.3,0.25,4,reviewed,nn,nn
 2023-01-06T14:54:10.970Z,17.9618333333333,-66.9515,11.61,2.01,md,6,196,0.07001,0.2,pr,pr71391288,2023-01-06T15:13:00.410Z,"4 km SW of Fuig, Puerto Rico",earthquake,0.71,1.32,0.124321604057448,4,reviewed,pr,pr
 2023-01-06T14:44:29.082Z,61.5187,-150.7343,67.4,1.4,ml,,,,0.81,ak,ak023a5tn6k,2023-01-06T14:46:03.815Z,"12 km WSW of Susitna, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -56,7 +57,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T12:44:19.055Z,63.2637,-151.942,2.5,1.2,ml,,,,0.71,ak,ak023a4mr72,2023-01-06T12:48:36.030Z,"32 km SSW of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-06T12:33:17.447Z,-4.0219,-81.7361,8.721,4.4,mb,27,142,1.731,0.54,us,us7000j2in,2023-01-06T12:45:19.040Z,"63 km WNW of El Alto, Peru",earthquake,6.55,3.681,0.149,13,reviewed,us,us
 2023-01-06T12:27:20.046Z,54.9953,-163.4613,163.565,2.8,ml,16,152,0.141,0.33,us,us7000j2il,2023-01-06T12:39:53.040Z,"16 km NNW of False Pass, Alaska",earthquake,9.98,8.841,0.071,26,reviewed,us,us
-2023-01-06T12:27:19.500Z,40.7068333,-124.2103333,18.71,3.27,ml,25,161,0.01679,0.12,nc,nc73829331,2023-01-06T19:35:27.278Z,"3km SW of Humboldt Hill, CA",earthquake,0.51,0.32,0.284,34,reviewed,nc,nc
+2023-01-06T12:27:19.500Z,40.7068333,-124.2103333,18.71,3.27,ml,25,161,0.01679,0.12,nc,nc73829331,2023-01-06T20:07:37.379Z,"3km SW of Humboldt Hill, CA",earthquake,0.51,0.32,0.284,34,reviewed,nc,nc
 2023-01-06T12:27:09.020Z,33.6628333,-116.741,14.91,0.97,ml,28,48,0.0566,0.2,ci,ci40154087,2023-01-06T12:30:54.818Z,"9km SSW of Idyllwild, CA",earthquake,0.37,0.55,0.157,30,automatic,ci,ci
 2023-01-06T12:24:21.300Z,38.8096657,-122.7171631,-0.85,0.81,md,7,215,0.03445,0.3,nc,nc73829326,2023-01-06T12:25:54.175Z,"2km SSE of Cobb, CA",earthquake,1.8,11.81,0.31,7,automatic,nc,nc
 2023-01-06T12:23:48.598Z,61.195,-149.346,29.9,1.3,ml,,,,0.37,ak,ak023a4ibfv,2023-01-06T12:25:24.370Z,"16 km ESE of Elmendorf Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -238,7 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-05T20:29:57.382Z,62.9724,-149.169,6.5,1.9,ml,,,,0.33,ak,ak0238lrqre,2023-01-05T20:31:26.766Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-05T20:19:38.079Z,28.138,127.953,127.162,4.4,mb,35,84,1.328,0.57,us,us7000j2eh,2023-01-05T21:07:59.040Z,"northwest of the Ryukyu Islands, Japan",earthquake,7.81,8.603,0.098,30,reviewed,us,us
 2023-01-05T20:12:24.510Z,19.4041666666667,-155.272166666667,0.73,1.65,md,17,71,,0.1,hv,hv73296857,2023-01-05T20:25:01.330Z,"5 km SW of Volcano, Hawaii",earthquake,0.15,0.21,0.109367895115384,3,reviewed,hv,hv
-2023-01-05T20:10:18.631Z,60.0325,-152.1099,3.1,1.5,ml,,,,0.34,ak,ak0238lnl5z,2023-01-05T20:12:37.280Z,"23 km WNW of Happy Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-05T20:09:57.690Z,19.4121666666667,-155.263833333333,1.41,0.54,md,14,69,,0.12,hv,hv73296847,2023-01-05T20:21:11.280Z,"4 km SW of Volcano, Hawaii",earthquake,0.21,0.32,0.167340108804348,3,reviewed,hv,hv
-2023-01-05T20:01:51.635Z,58.9008,-152.7567,58.6,2.1,ml,,,,0.37,ak,ak0238llq9n,2023-01-05T20:04:06.501Z,"69 km SW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-05T19:58:52.590Z,19.4156666666667,-155.263333333333,1.71,1.85,ml,18,74,,0.09,hv,hv73296827,2023-01-05T20:29:30.080Z,"4 km SW of Volcano, Hawaii",earthquake,0.2,0.23,0.0629267501888757,10,reviewed,hv,hv
