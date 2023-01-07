@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-07T11:04:07.498Z,60.7252,-146.5984,20,1.5,ml,,,,0.6,ak,ak023brc2jx,2023-01-07T11:06:00.064Z,"16 km SSE of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-07T10:50:58.764Z,61.7271,-147.7568,33,1.4,ml,,,,0.94,ak,ak023br0lue,2023-01-07T10:54:01.125Z,"10 km SSW of Glacier View, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-01-07T10:44:58.936Z,58.2491,-155.1913,0.1,0.3,ml,,,,0.29,ak,ak023bqzbk5,2023-01-07T10:45:56.423Z,"87 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-07T10:41:53.151Z,62.3277,-151.6887,88.7,1.4,ml,,,,0.29,ak,ak023bqynyr,2023-01-07T10:43:54.374Z,"40 km NNW of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -9,7 +10,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T10:13:06.718Z,61.4863,-149.8985,33.7,1.1,ml,,,,0.48,ak,ak023bqskbz,2023-01-07T10:14:43.863Z,"4 km SE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-07T10:10:48.650Z,33.4013333,-116.3735,4.38,0.74,ml,18,110,0.1293,0.17,ci,ci40154263,2023-01-07T10:14:24.884Z,"16km N of Borrego Springs, CA",earthquake,0.4,0.89,0.107,15,automatic,ci,ci
 2023-01-07T09:59:41.866Z,63.3325,-149.043,78,1.7,ml,,,,0.77,ak,ak023bqh2eo,2023-01-07T10:11:56.803Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-07T09:59:18.686Z,45.4643,-73.9597,10.219,2.5,mb_lg,12,109,0.24,0.34,us,us7000j2s6,2023-01-07T10:48:30.951Z,"4 km S of Pointe-Calumet, Canada",earthquake,2.06,8.321,0.361,2,reviewed,us,us
+2023-01-07T09:59:18.686Z,45.4643,-73.9597,10.219,2.5,mb_lg,12,109,0.24,0.34,us,us7000j2s6,2023-01-07T11:05:42.949Z,"4 km S of Pointe-Calumet, Canada",earthquake,2.06,8.321,0.361,2,reviewed,us,us
 2023-01-07T09:52:03.893Z,62.2794,-151.3586,87.1,1.1,ml,,,,0.24,ak,ak023bqfhfp,2023-01-07T09:53:58.513Z,"Central Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-07T09:28:07.226Z,60.175,-151.5165,67,1.6,ml,,,,0.14,ak,ak023bqacia,2023-01-07T09:29:22.801Z,"9 km SW of Clam Gulch, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-01-07T09:13:50.920Z,17.9663333333333,-66.9386666666667,11.93,2.1,md,4,191,0.05721,0.09,pr,pr71391438,2023-01-07T09:44:26.530Z,"3 km W of Guánica, Puerto Rico",earthquake,0.71,1.03,0.0642026535438958,4,reviewed,pr,pr
@@ -230,7 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-06T11:27:33.690Z,19.2245006561279,-155.427505493164,34.2599983215332,1.77999997,md,31,133,,0.189999998,hv,hv73297992,2023-01-06T11:30:52.970Z,"Island of Hawaii, Hawaii",earthquake,0.77,1,1.35000002,10,automatic,hv,hv
 2023-01-06T11:23:28.760Z,58.253,-155.111666666667,3.82,-0.01,ml,11,88,,0.09,av,av91743576,2023-01-07T03:01:36.050Z,"85 km NNW of Karluk, Alaska",earthquake,0.25,0.53,0.139400863698424,11,reviewed,av,av
 2023-01-06T11:21:17.650Z,38.7980003,-122.8119965,3.15,1.18,md,18,70,0.01192,0.02,nc,nc73829281,2023-01-06T12:59:17.319Z,"5km WNW of The Geysers, CA",earthquake,0.3,0.54,0.14,20,automatic,nc,nc
-2023-01-06T11:15:16.380Z,38.8264999,-122.7888336,1.74,1.11,md,20,67,0.01195,0.04,nc,nc73829276,2023-01-06T13:16:12.417Z,"6km W of Cobb, CA",earthquake,0.22,0.38,0.13,23,automatic,nc,nc
-2023-01-06T11:04:10.310Z,19.4011666666667,-155.271333333333,1.67,1.22,md,11,64,,0.1,hv,hv73297987,2023-01-07T04:40:44.660Z,"6 km SW of Volcano, Hawaii",earthquake,0.26,0.42,0.154190310149335,3,reviewed,hv,hv
-2023-01-06T11:03:50.543Z,61.1927,-147.0292,20.1,1.4,ml,,,,0.46,ak,ak023a3slny,2023-01-06T11:05:11.145Z,"37 km W of Valdez, Alaska",earthquake,,3,,,automatic,ak,ak
-2023-01-06T10:58:46.441Z,62.9218,-149.2922,61.6,1.6,ml,,,,0.94,ak,ak023a3iy4k,2023-01-06T11:00:59.471Z,"55 km SSW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
