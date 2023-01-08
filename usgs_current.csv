@@ -5,7 +5,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T12:32:42.219Z,-14.9383,166.8778,27.719,7,mww,111,36,6.103,0.59,us,us7000j2yw,2023-01-08T13:27:54.122Z,"23 km WNW of Port-Olry, Vanuatu",earthquake,6.59,3.997,0.056,31,reviewed,us,us
 2023-01-08T12:29:44.440Z,19.4286670684814,-155.25666809082,-0.0900000035762787,2.3,ml,21,71,,0.109999999,hv,hv73299177,2023-01-08T12:35:15.700Z,"2 km WSW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.31,6,automatic,hv,hv
 2023-01-08T12:25:48.170Z,19.4331665039062,-155.25700378418,0.379999995231628,2.00999999,md,11,143,,0.0700000003,hv,hv73299172,2023-01-08T12:28:49.920Z,"2 km WSW of Volcano, Hawaii",earthquake,0.22,0.330000013,0.790000021,5,automatic,hv,hv
-2023-01-08T12:20:42.500Z,19.2133331298828,-155.441497802734,32.939998626709,1.84000003,md,35,128,,0.170000002,hv,hv73299167,2023-01-08T12:24:02.930Z,"4 km ENE of Pāhala, Hawaii",earthquake,0.73,0.970000029,1.63999999,6,automatic,hv,hv
+2023-01-08T12:20:42.500Z,19.2133331298828,-155.441497802734,32.939998626709,1.84000003,md,35,128,,0.170000002,hv,hv73299167,2023-01-08T12:24:02.930Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.970000029,1.63999999,6,automatic,hv,hv
 2023-01-08T12:20:38.261Z,64.6674,-147.7593,14.6,0.4,ml,,,,0.16,ak,ak023dfkche,2023-01-08T12:24:03.907Z,"15 km S of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-08T12:15:51.065Z,56.7763,-157.3982,78.9,2.3,ml,,,,0.65,ak,ak023dfjaw2,2023-01-08T12:18:31.059Z,"77 km ESE of Port Heiden, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-08T11:59:16.770Z,19.2473335266113,-155.414169311523,31.8500003814697,1.96000004,md,40,126,,0.129999995,hv,hv73299157,2023-01-08T12:02:23.810Z,"8 km NE of Pāhala, Hawaii",earthquake,0.58,0.870000005,0.860000014,11,automatic,hv,hv
@@ -89,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T02:11:34.723Z,64.5806,-146.9303,29.5,0.9,ml,,,,0.83,ak,ak023d9k2ps,2023-01-08T02:12:48.948Z,"6 km NNW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-08T02:08:54.890Z,38.9176674,-122.5800018,4,1.67,md,5,198,0.176,0.04,nc,nc73829776,2023-01-08T02:41:16.501Z,"3km ENE of Lower Lake, CA",earthquake,2.17,8.14,0.24,2,automatic,nc,nc
 2023-01-08T02:04:52.450Z,33.7258333,-116.9846667,18.5,0.51,ml,14,135,0.2259,0.29,ci,ci40154535,2023-01-08T02:08:22.459Z,"3km SSW of Hemet, CA",earthquake,1.33,2.51,0.156,3,automatic,ci,ci
-2023-01-08T02:03:02.307Z,16.3666,-93.951,108.345,4.1,mb,20,167,1.744,0.9,us,us7000j2w4,2023-01-08T02:46:54.040Z,"9 km NNE of Lázaro Cárdenas, Mexico",earthquake,6.32,15.138,0.13,16,reviewed,us,us
+2023-01-08T02:03:02.307Z,16.3666,-93.951,108.345,4.1,mb,20,167,1.744,0.9,us,us7000j2w4,2023-01-08T02:46:54.040Z,"Chiapas, Mexico",earthquake,6.32,15.138,0.13,16,reviewed,us,us
 2023-01-08T02:01:12.890Z,33.6496667,-116.693,16.47,0.48,ml,17,103,0.06383,0.14,ci,ci40154527,2023-01-08T02:04:47.603Z,"10km SSE of Idyllwild, CA",earthquake,0.4,0.46,0.131,9,automatic,ci,ci
 2023-01-08T02:00:27.662Z,60.4854,-151.9316,67.7,1.6,ml,,,,0.59,ak,ak023d9hpam,2023-01-08T02:02:38.728Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-08T01:23:26.140Z,33.6523333,-116.7428333,14.6,0.53,ml,21,88,0.06112,0.16,ci,ci40154511,2023-01-08T01:26:59.760Z,"10km SSW of Idyllwild, CA",earthquake,0.37,0.52,0.184,12,automatic,ci,ci
@@ -186,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T14:08:23.890Z,33.494,-116.7663333,8.39,1.08,ml,41,38,0.03382,0.15,ci,ci40154319,2023-01-07T14:19:12.890Z,"11km ENE of Aguanga, CA",earthquake,0.16,0.54,0.149,26,automatic,ci,ci
 2023-01-07T14:08:11.394Z,60.2978,-152.7589,108.2,1.7,ml,,,,0.24,ak,ak023bt58j7,2023-01-07T14:10:38.637Z,"Southern Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-07T14:02:08.437Z,61.3087,-146.4089,23.7,1.9,ml,,,,0.62,ak,ak023bt3y0b,2023-01-07T14:03:44.746Z,"20 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-07T13:42:28.652Z,61.3677,-150.5384,18.1,1.9,ml,,,,0.46,ak,ak023bsr4lt,2023-01-07T13:44:01.944Z,"19 km S of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
