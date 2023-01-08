@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-08T11:36:59.460Z,36.973999,-121.6013336,5.05,1.01,md,8,88,0.06484,0.06,nc,nc73829956,2023-01-08T11:38:32.635Z,"5km SW of Gilroy, CA",earthquake,0.36,1.37,0.2,8,automatic,nc,nc
+2023-01-08T11:32:04.688Z,36.7418,-115.6579,16,0.8,ml,8,299.75,0.235,0.2514,nn,nn00854627,2023-01-08T11:34:42.873Z,"Nevada",earthquake,,2.8,0.02,2,automatic,nn,nn
 2023-01-08T11:22:27.730Z,19.1578330993652,-155.489166259766,34.8199996948242,2.01999998,md,39,129,,0.140000001,hv,hv73299137,2023-01-08T11:25:50.250Z,"Island of Hawaii, Hawaii",earthquake,0.64,0.879999995,0.379999995,9,automatic,hv,hv
 2023-01-08T11:11:02.440Z,35.8796667,-117.7066667,2.18,1.48,ml,19,112,0.08527,0.19,ci,ci40154663,2023-01-08T11:14:32.248Z,"19km ESE of Little Lake, CA",earthquake,0.36,0.46,0.134,19,automatic,ci,ci
 2023-01-08T11:05:10.192Z,58.1854,-155.4037,0.4,2,ml,,,,0.59,ak,ak023devmyz,2023-01-08T11:07:11.343Z,"Alaska Peninsula",earthquake,,0.3,,,automatic,ak,ak
@@ -76,7 +78,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T02:11:34.723Z,64.5806,-146.9303,29.5,0.9,ml,,,,0.83,ak,ak023d9k2ps,2023-01-08T02:12:48.948Z,"6 km NNW of Salcha, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-08T02:08:54.890Z,38.9176674,-122.5800018,4,1.67,md,5,198,0.176,0.04,nc,nc73829776,2023-01-08T02:41:16.501Z,"3km ENE of Lower Lake, CA",earthquake,2.17,8.14,0.24,2,automatic,nc,nc
 2023-01-08T02:04:52.450Z,33.7258333,-116.9846667,18.5,0.51,ml,14,135,0.2259,0.29,ci,ci40154535,2023-01-08T02:08:22.459Z,"3km SSW of Hemet, CA",earthquake,1.33,2.51,0.156,3,automatic,ci,ci
-2023-01-08T02:03:02.307Z,16.3666,-93.951,108.345,4.1,mb,20,167,1.744,0.9,us,us7000j2w4,2023-01-08T02:46:54.040Z,"Chiapas, Mexico",earthquake,6.32,15.138,0.13,16,reviewed,us,us
+2023-01-08T02:03:02.307Z,16.3666,-93.951,108.345,4.1,mb,20,167,1.744,0.9,us,us7000j2w4,2023-01-08T02:46:54.040Z,"9 km NNE of Lázaro Cárdenas, Mexico",earthquake,6.32,15.138,0.13,16,reviewed,us,us
 2023-01-08T02:01:12.890Z,33.6496667,-116.693,16.47,0.48,ml,17,103,0.06383,0.14,ci,ci40154527,2023-01-08T02:04:47.603Z,"10km SSE of Idyllwild, CA",earthquake,0.4,0.46,0.131,9,automatic,ci,ci
 2023-01-08T02:00:27.662Z,60.4854,-151.9316,67.7,1.6,ml,,,,0.59,ak,ak023d9hpam,2023-01-08T02:02:38.728Z,"Kenai Peninsula, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-01-08T01:23:26.140Z,33.6523333,-116.7428333,14.6,0.53,ml,21,88,0.06112,0.16,ci,ci40154511,2023-01-08T01:26:59.760Z,"10km SSW of Idyllwild, CA",earthquake,0.37,0.52,0.184,12,automatic,ci,ci
@@ -189,5 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T12:16:47.412Z,59.9754,-153.3929,129,2.5,ml,,,,1.03,ak,ak023bs05u1,2023-01-07T12:19:54.659Z,"45 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-07T12:01:43.550Z,38.774334,-122.7166672,1.77,1.89,md,14,93,0.01424,0.02,nc,nc73829661,2023-01-07T12:35:16.497Z,"2km W of Anderson Springs, CA",earthquake,0.28,0.37,0.2,15,automatic,nc,nc
 2023-01-07T11:58:47.459Z,-10.0489,161.8872,121.188,4.6,mb,20,101,2.006,0.61,us,us7000j2sp,2023-01-07T13:41:40.880Z,"45 km N of Kirakira, Solomon Islands",earthquake,14.92,15.02,0.129,18,reviewed,us,us
-2023-01-07T11:43:41.119Z,61.0213,-149.3956,28.5,1.6,ml,,,,0.45,ak,ak023brki2n,2023-01-07T11:45:43.725Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-07T11:42:13.230Z,33.0375,-116.401,4.12,0.93,ml,34,65,0.1693,0.21,ci,ci40154279,2023-01-07T11:45:52.409Z,"19km ESE of Julian, CA",earthquake,0.36,1.01,0.098,18,automatic,ci,ci
