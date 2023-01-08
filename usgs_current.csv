@@ -11,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T07:30:26.140Z,33.5341667,-116.7273333,4.5,0.24,ml,13,155,0.03224,0.13,ci,ci40154607,2023-01-08T07:33:53.818Z,"6km WSW of Anza, CA",earthquake,0.66,0.39,0.127,4,automatic,ci,ci
 2023-01-08T07:28:30.302Z,63.2111,-150.6501,130.2,3.2,ml,,,,0.38,ak,ak023dcmvjq,2023-01-08T07:52:36.040Z,"65 km SE of Denali National Park, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-08T07:19:59.970Z,35.932,-117.6956667,1.7,1.51,ml,18,132,0.1005,0.18,ci,ci40154599,2023-01-08T07:31:07.570Z,"19km E of Little Lake, CA",earthquake,0.33,0.43,0.149,21,automatic,ci,ci
-2023-01-08T07:17:08.290Z,38.9433327,-122.857666,11.49,1.91,md,5,159,,0.05,nc,nc73829866,2023-01-08T08:19:24.029Z,"4km SSW of Kelseyville, CA",earthquake,1.59,0.54,0.57,3,automatic,nc,nc
+2023-01-08T07:17:08.290Z,38.9433327,-122.857666,11.49,1.91,md,5,159,,0.05,nc,nc73829866,2023-01-08T08:37:13.648Z,"4km SSW of Kelseyville, CA",earthquake,1.59,0.54,0.57,3,automatic,nc,nc
 2023-01-08T06:59:55.827Z,58.2873,-154.9888,2.7,0.6,ml,,,,0.85,ak,ak023dc852h,2023-01-08T07:02:43.305Z,"86 km NNW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-08T06:59:38.660Z,19.0126,-65.0768,23,4.16,md,31,201,0.6691,0.18,pr,pr2023008000,2023-01-08T08:02:22.723Z,"75 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,0.71,13.5,0.06,21,reviewed,pr,pr
 2023-01-08T06:58:54.540Z,32.9101667,-116.2418333,5.71,1.59,ml,46,62,0.06814,0.21,ci,ci40154591,2023-01-08T07:10:00.440Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.26,0.81,0.157,26,automatic,ci,ci
@@ -118,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T17:01:28.454Z,60.3545,-151.7886,58.4,1.6,ml,,,,0.55,ak,ak023buw2nh,2023-01-07T17:03:04.962Z,"25 km WNW of Clam Gulch, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-07T16:58:14.521Z,61.3229,-150.7925,42.1,1.9,ml,,,,0.38,ak,ak023bumtsc,2023-01-07T17:00:00.282Z,"25 km NE of Beluga, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-01-07T16:40:24.908Z,-3.8105,133.4705,10,4.8,mb,40,88,1.507,0.94,us,us7000j2tu,2023-01-07T17:42:34.040Z,"216 km NNE of Tual, Indonesia",earthquake,5.67,1.697,0.107,27,reviewed,us,us
-2023-01-07T16:39:22.140Z,37.427166,-121.7866669,2.92,2.43,md,42,33,0.05601,0.09,nc,nc73829691,2023-01-08T03:08:13.894Z,"8km NNE of Alum Rock, CA",earthquake,0.18,0.62,0.18,44,automatic,nc,nc
+2023-01-07T16:39:22.140Z,37.427166,-121.7866669,2.92,2.43,md,42,33,0.05601,0.09,nc,nc73829691,2023-01-08T08:37:12.615Z,"8km NNE of Alum Rock, CA",earthquake,0.18,0.62,0.18,44,automatic,nc,nc
 2023-01-07T16:23:12.042Z,61.6831,-149.6634,31.4,1.6,ml,,,,0.38,ak,ak023bufbj8,2023-01-07T16:25:08.767Z,"7 km NNW of Meadow Lakes, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-07T16:22:54.850Z,33.904,-116.891,11.9,1.34,ml,52,30,0.07649,0.2,ci,ci40154359,2023-01-07T16:33:17.270Z,"3km SSW of Banning, CA",earthquake,0.21,0.59,0.17,28,automatic,ci,ci
 2023-01-07T16:22:05.573Z,61.9879,-150.7652,72,1.5,ml,,,,0.32,ak,ak023buf3bh,2023-01-07T16:23:38.155Z,"33 km E of Skwentna, Alaska",earthquake,,1.5,,,automatic,ak,ak
@@ -187,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T09:09:55.029Z,61.5299,-146.7306,35,1.3,ml,,,,0.3,ak,ak023bq6dla,2023-01-07T09:11:13.142Z,"Southern Alaska",earthquake,,5.1,,,automatic,ak,ak
 2023-01-07T09:03:11.320Z,33.8836667,-116.8785,15.78,0.81,ml,24,75,0.08398,0.11,ci,ci40154255,2023-01-07T09:06:43.489Z,"5km S of Banning, CA",earthquake,0.22,0.51,0.125,23,automatic,ci,ci
 2023-01-07T08:58:10.357Z,-38.4051,176.0692,169.388,4.1,mb,11,78,0.745,0.51,us,us7000j2s0,2023-01-07T09:16:32.040Z,"North Island of New Zealand",earthquake,5.97,4.944,0.214,6,reviewed,us,us
-2023-01-07T08:34:14.633Z,61.295,-149.3993,33.5,1.1,ml,,,,0.29,ak,ak023bpq7rr,2023-01-07T08:35:40.774Z,"9 km ESE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
