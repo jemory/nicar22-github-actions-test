@@ -1,10 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-08T14:24:29.540Z,38.8143349,-122.7861633,1.73,1.14,md,11,88,0.004413,0.02,nc,nc73829981,2023-01-08T14:26:02.489Z,"5km NNW of The Geysers, CA",earthquake,0.32,0.63,0.16,13,automatic,nc,nc
+2023-01-08T14:13:13.410Z,62.246,-150.5633,24.8,1.2,ml,,,,0.31,ak,ak023dgpnrh,2023-01-08T14:14:54.556Z,"18 km WSW of Trapper Creek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-01-08T14:11:13.458Z,59.0511,-153.9645,110.2,1.7,ml,,,,0.13,ak,ak023dgp8c1,2023-01-08T14:12:38.838Z,"63 km SE of Kokhanok, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-08T13:50:08.737Z,-15.1521,166.7046,35,4.7,mb,22,86,5.842,0.94,us,us7000j2zj,2023-01-08T14:09:41.040Z,"Vanuatu",earthquake,6.91,1.957,0.133,17,reviewed,us,us
 2023-01-08T13:27:27.270Z,19.2430000305176,-155.411666870117,31.8099994659424,1.78999996,md,37,129,,0.140000001,hv,hv73299187,2023-01-08T13:30:39.550Z,"Hawaii region, Hawaii",earthquake,0.62,1.03999996,0.600000024,3,automatic,hv,hv
 2023-01-08T13:24:30.153Z,-15.1082,166.9271,35,4.8,mb,39,63,5.968,0.53,us,us7000j2ze,2023-01-08T13:59:00.040Z,"17 km WSW of Port-Olry, Vanuatu",earthquake,10.33,1.914,0.085,43,reviewed,us,us
 2023-01-08T13:07:11.960Z,38.8426666,-122.8388367,1.84,0.98,md,17,92,0.00484,0.02,nc,nc73829971,2023-01-08T13:24:12.370Z,"10km NW of The Geysers, CA",earthquake,0.26,0.43,0.15,19,automatic,nc,nc
 2023-01-08T12:56:46.776Z,59.8675,-151.3002,46.6,1.8,ml,,,,0.19,ak,ak023dfs2x1,2023-01-08T12:58:28.602Z,"14 km N of Fritz Creek, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-01-08T12:32:42.219Z,-14.9383,166.8778,27.719,7,mww,111,36,6.103,0.59,us,us7000j2yw,2023-01-08T13:59:38.726Z,"23 km WNW of Port-Olry, Vanuatu",earthquake,6.59,3.997,0.056,31,reviewed,us,us
+2023-01-08T12:32:42.219Z,-14.9383,166.8778,27.719,7,mww,111,36,6.103,0.59,us,us7000j2yw,2023-01-08T14:22:24.290Z,"23 km WNW of Port-Olry, Vanuatu",earthquake,6.59,3.997,0.056,31,reviewed,us,us
 2023-01-08T12:29:44.440Z,19.4286670684814,-155.25666809082,-0.0900000035762787,2.3,ml,21,71,,0.109999999,hv,hv73299177,2023-01-08T12:35:15.700Z,"2 km WSW of Volcano, Hawaii",earthquake,0.16,0.239999995,0.31,6,automatic,hv,hv
 2023-01-08T12:25:48.170Z,19.4331665039062,-155.25700378418,0.379999995231628,2.00999999,md,11,143,,0.0700000003,hv,hv73299172,2023-01-08T12:28:49.920Z,"2 km WSW of Volcano, Hawaii",earthquake,0.22,0.330000013,0.790000021,5,automatic,hv,hv
 2023-01-08T12:20:42.500Z,19.2133331298828,-155.441497802734,32.939998626709,1.84000003,md,35,128,,0.170000002,hv,hv73299167,2023-01-08T12:24:02.930Z,"Island of Hawaii, Hawaii",earthquake,0.73,0.970000029,1.63999999,6,automatic,hv,hv
@@ -181,7 +184,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-07T14:42:37.775Z,37.4697,141.6841,49.478,4.7,mb,30,174,2.932,0.53,us,us7000j2td,2023-01-07T16:19:06.040Z,"60 km E of Namie, Japan",earthquake,9.91,9.302,0.108,26,reviewed,us,us
 2023-01-07T14:41:27.646Z,59.7156,-153.1821,100.5,1.9,ml,,,,0.28,ak,ak023btccf0,2023-01-07T14:43:19.632Z,"52 km E of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-07T14:37:46.390Z,17.991,-67.0003333333333,9.3,2.29,md,8,146,0.04696,0.13,pr,pr71391473,2023-01-07T16:02:24.990Z,"Puerto Rico",earthquake,0.46,0.89,0.0368392758476315,5,reviewed,pr,pr
-2023-01-07T14:26:27.786Z,61.3493,-152.2694,10,2.5,ml,37,31,0.257,1.13,us,us7000j2t9,2023-01-07T17:28:41.040Z,"67 km WNW of Beluga, Alaska",earthquake,3.29,1.971,0.037,94,reviewed,us,us
-2023-01-07T14:21:10.370Z,38.8366661,-122.7798309,2.15,0.98,md,11,137,0.006505,0.02,nc,nc73829676,2023-01-07T14:39:12.207Z,"5km WNW of Cobb, CA",earthquake,0.67,1.17,0.18,12,automatic,nc,nc
-2023-01-07T14:20:57.150Z,33.2686667,-116.4258333,4.88,1.17,ml,35,56,0.007281,0.2,ci,ci40154327,2023-01-07T14:31:45.760Z,"5km WNW of Borrego Springs, CA",earthquake,0.31,0.77,0.151,26,automatic,ci,ci
-2023-01-07T14:18:38.083Z,61.872,-150.5482,29.5,1.6,ml,,,,0.73,ak,ak023bt7fr4,2023-01-07T14:31:19.526Z,"30 km WNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
