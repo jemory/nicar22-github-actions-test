@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-09T07:08:45.230Z,38.7958336,-122.7453308,2.52,1.49,md,10,178,,0.02,nc,nc73830201,2023-01-09T07:10:20.751Z,"2km NNE of The Geysers, CA",earthquake,0.77,0.84,0.08,9,automatic,nc,nc
+2023-01-09T07:08:45.230Z,38.7958336,-122.7453308,2.52,1.49,md,10,178,,0.02,nc,nc73830201,2023-01-09T07:25:11.526Z,"2km NNE of The Geysers, CA",earthquake,0.77,0.84,0.08,9,automatic,nc,nc
 2023-01-09T07:05:07.510Z,19.2533340454102,-155.389495849609,33.9000015258789,1.84000003,md,38,174,,0.109999999,hv,hv73299802,2023-01-09T07:08:12.160Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.65,0.75999999,1.28999996,6,automatic,hv,hv
 2023-01-09T06:48:48.250Z,61.7324,-149.6044,38.3,1.7,ml,,,,0.63,ak,ak023ezp461,2023-01-09T06:50:30.692Z,"Southern Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-09T06:46:16.962Z,63.2037,-151.3349,0,1.2,ml,,,,0.75,ak,ak023ezombk,2023-01-09T06:48:18.296Z,"42 km SSE of Denali National Park, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -17,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-09T04:46:55.180Z,35.6073333,-118.3051667,8.99,0.94,ml,14,78,0.09549,0.1,ci,ci40154855,2023-01-09T05:00:27.549Z,"15km E of Lake Isabella, CA",earthquake,0.29,0.72,0.128,8,automatic,ci,ci
 2023-01-09T04:28:50.040Z,35.9736667,-117.506,2.38,1.17,ml,8,237,0.1742,0.09,ci,ci40154847,2023-01-09T04:32:14.649Z,"25km NNW of Searles Valley, CA",earthquake,0.93,1.42,0.228,6,automatic,ci,ci
 2023-01-09T04:24:13.456Z,60.722,-152.0036,80.2,2.1,ml,,,,0.44,ak,ak023eyd135,2023-01-09T04:26:28.784Z,"39 km W of Nikiski, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-01-09T04:11:46.358Z,61.4896,-149.9018,30.8,1.5,ml,,,,0.56,ak,ak023eyabbf,2023-01-09T04:14:13.512Z,"4 km SE of Big Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-01-09T04:11:46.358Z,61.4896,-149.9018,30.8,1.5,ml,,,,0.56,ak,ak023eyabbf,2023-01-09T04:14:13.512Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-09T04:06:18.740Z,37.1343346,-121.517334,13.49,1.28,md,8,111,0.06649,0.06,nc,nc73830161,2023-01-09T04:39:14.580Z,"10km NE of San Martin, CA",earthquake,0.74,1.9,0.29,8,automatic,nc,nc
 2023-01-09T03:58:46.350Z,38.8224983,-122.8491669,2.65,0.3,md,8,107,0.00785,0.07,nc,nc73830156,2023-01-09T04:15:14.470Z,"10km WNW of The Geysers, CA",earthquake,0.76,1.39,0.18,10,automatic,nc,nc
 2023-01-09T03:45:41.823Z,61.8972,-150.9393,63.5,2.1,ml,,,,0.36,ak,ak023exw5pi,2023-01-09T03:47:44.980Z,"26 km ESE of Skwentna, Alaska",earthquake,,1,,,automatic,ak,ak
@@ -166,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-08T07:44:38.562Z,-9.1375,-108.3746,10,4.7,mb,55,113,26.05,0.53,us,us7000j2xu,2023-01-08T08:28:45.040Z,"central East Pacific Rise",earthquake,14.42,1.943,0.064,75,reviewed,us,us
 2023-01-08T07:42:56.600Z,38.7941666,-122.7473297,-0.63,2.66,md,7,143,,0.25,nc,nc73829906,2023-01-08T10:04:12.171Z,"2km NNE of The Geysers, CA",earthquake,2.79,3.54,0.14,7,automatic,nc,nc
 2023-01-08T07:41:50.325Z,65.0757,-150.5171,13.5,1.3,ml,,,,0.74,ak,ak023dcppfc,2023-01-08T07:43:57.325Z,"9 km NNE of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-08T07:30:26.140Z,33.5341667,-116.7273333,4.5,0.24,ml,13,155,0.03224,0.13,ci,ci40154607,2023-01-08T07:33:53.818Z,"6km WSW of Anza, CA",earthquake,0.66,0.39,0.127,4,automatic,ci,ci
-2023-01-08T07:28:30.472Z,63.219,-150.6774,127.6,3.7,ml,,,,0.57,ak,ak023dcmvjq,2023-01-08T23:22:40.614Z,"63 km SE of Denali National Park, Alaska",earthquake,,0.4,,,reviewed,ak,ak
