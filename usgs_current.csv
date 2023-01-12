@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-12T18:11:22.320Z,38.8823318,-122.822998,2.27,0.95,md,8,224,0.009987,0.04,nc,nc73831356,2023-01-12T18:12:56.091Z,"11km S of Kelseyville, CA",earthquake,1.08,1.13,0.31,9,automatic,nc,nc
+2023-01-12T18:09:51.550Z,19.2513332366943,-155.384674072266,30.5300006866455,2.27,ml,40,137,,0.159999996,hv,hv73302212,2023-01-12T18:15:22.110Z,"11 km ENE of Pāhala, Hawaii",earthquake,0.53,0.620000005,3.4,4,automatic,hv,hv
 2023-01-12T17:51:04.982Z,63.0505,-150.7917,117.1,1.9,ml,,,,0.35,ak,ak023k4vh42,2023-01-12T17:53:08.879Z,"61 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-12T17:36:34.940Z,33.3196667,-116.7331667,3.95,0.84,ml,12,174,0.2525,0.36,ci,ci40402064,2023-01-12T17:40:10.274Z,"9km NNE of Lake Henshaw, CA",earthquake,1.88,31.61,0.251,10,automatic,ci,ci
 2023-01-12T17:34:30.196Z,63.2895,-149.2852,87.4,1.4,ml,,,,0.87,ak,ak023k4rw1h,2023-01-12T17:36:44.552Z,"20 km SW of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -11,17 +13,17 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T16:11:47.440Z,38.8364983,-122.7903366,1.93,0.99,md,12,73,0.001908,0.01,nc,nc73831311,2023-01-12T16:33:13.956Z,"6km WNW of Cobb, CA",earthquake,0.31,0.44,0.25,12,automatic,nc,nc
 2023-01-12T16:11:22.270Z,18.3923,-68.8998,102,4,md,22,177,0.5325,0.48,pr,pr2023012002,2023-01-12T16:50:10.266Z,"8 km ESE of La Romana, Dominican Republic",earthquake,2.7,1.65,0.06,11,reviewed,pr,pr
 2023-01-12T15:47:54.680Z,38.8429985,-122.8421631,1.61,0.27,md,7,139,0.006824,0.01,nc,nc73831301,2023-01-12T16:04:13.797Z,"10km NW of The Geysers, CA",earthquake,0.53,0.91,0.2,7,automatic,nc,nc
-2023-01-12T15:26:22.420Z,33.3985,-118.0291667,12.31,1.79,ml,22,170,0.2645,0.3,ci,ci40402048,2023-01-12T15:29:51.439Z,"26km SSW of Newport Beach, CA",earthquake,1.06,5.75,0.158,32,automatic,ci,ci
+2023-01-12T15:26:22.420Z,33.3985,-118.0291667,12.31,1.79,ml,22,170,0.2645,0.3,ci,ci40402048,2023-01-12T17:59:37.595Z,"26km SSW of Newport Beach, CA",earthquake,1.06,5.75,0.158,32,automatic,ci,ci
 2023-01-12T15:22:00.409Z,61.5787,-150.4108,50.8,1.7,ml,,,,0.87,ak,ak023k3ids8,2023-01-12T15:23:49.062Z,"6 km NE of Susitna, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-12T15:21:16.340Z,33.2935,-116.7595,5.5,1.41,ml,49,24,0.05737,0.23,ci,ci40402040,2023-01-12T15:31:46.820Z,"6km N of Lake Henshaw, CA",earthquake,0.26,1.06,0.17,26,automatic,ci,ci
 2023-01-12T15:16:03.883Z,38.1998,-117.7361,0,2,ml,15,142.53,0.125,0.4075,nn,nn00854786,2023-01-12T15:18:05.260Z,"38 km ESE of Mina, Nevada",earthquake,,3.9,0.81,6,automatic,nn,nn
 2023-01-12T15:05:59.260Z,19.1588325500488,-155.489837646484,31.8999996185303,2.00999999,md,37,127,,0.129999995,hv,hv73302137,2023-01-12T15:09:12.160Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.65,1.23000002,1.40999997,14,automatic,hv,hv
-2023-01-12T15:05:23.721Z,54.9814,-157.3589,0,3,ml,,,,1.37,ak,ak023k3eses,2023-01-12T15:08:19.104Z,"153 km SE of Perryville, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-01-12T15:05:23.721Z,54.9814,-157.3589,0,3,ml,,,,1.37,ak,ak023k3eses,2023-01-12T18:23:30.040Z,"153 km SE of Perryville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-12T14:58:08.697Z,59.8721,-153.3529,115.7,2,ml,,,,0.51,ak,ak023k34olh,2023-01-12T15:01:06.972Z,"43 km ENE of Pedro Bay, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-01-12T14:27:16.120Z,35.591,-117.3776667,0.18,2.5,ml,26,78,0.06677,0.16,ci,ci40402032,2023-01-12T14:38:08.920Z,"19km S of Trona, CA",earthquake,0.31,31.61,0.183,26,automatic,ci,ci
+2023-01-12T14:27:16.560Z,35.5923333,-117.3818333,6.82,2.5,ml,32,77,0.0687,0.11,ci,ci40402032,2023-01-12T18:10:34.572Z,"19km S of Trona, CA",earthquake,0.19,0.47,0.175,26,reviewed,ci,ci
 2023-01-12T14:24:09.972Z,-30.6312,-71.3471,52.784,4.8,mb,37,64,0.252,0.79,us,us7000j3wu,2023-01-12T14:50:18.040Z,"14 km WSW of Ovalle, Chile",earthquake,3.68,5.072,0.109,26,reviewed,us,us
 2023-01-12T14:23:59.956Z,59.6479,-152.4337,73.8,1.7,ml,,,,0.62,ak,ak023k2xahn,2023-01-12T14:26:32.624Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-01-12T14:21:57.300Z,33.8316667,-117.6646667,2.52,1.87,ml,61,48,0.05881,0.22,ci,ci40402024,2023-01-12T14:33:04.690Z,"10km WSW of Corona, CA",earthquake,0.24,0.42,0.193,26,automatic,ci,ci
+2023-01-12T14:21:57.310Z,33.8318333,-117.6683333,4.56,1.87,ml,64,38,0.05027,0.19,ci,ci40402024,2023-01-12T18:02:58.950Z,"10km WSW of Corona, CA",earthquake,0.18,0.39,0.191,22,reviewed,ci,ci
 2023-01-12T14:06:13.020Z,18.2111,-68.5503,121,3.6,md,14,286,0.3467,0.38,pr,pr2023012001,2023-01-12T15:03:32.465Z,"Mona Passage",earthquake,3.38,1.69,0.11,5,reviewed,pr,pr
 2023-01-12T14:02:54.586Z,-24.3272,179.4489,543.643,4.6,mb,23,96,5.448,0.84,us,us7000j3wp,2023-01-12T14:16:07.040Z,"south of the Fiji Islands",earthquake,15.63,15.07,0.082,44,reviewed,us,us
 2023-01-12T13:40:31.171Z,38.6585,-118.2962,12.9,1.4,ml,9,120.22,0.418,0.259,nn,nn00854782,2023-01-12T13:42:21.605Z,"32 km ENE of Hawthorne, Nevada",earthquake,,2.3,0.29,6,automatic,nn,nn
@@ -37,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T12:40:51.252Z,63.0575,-150.2949,84,1.3,ml,,,,0.69,ak,ak023k1u1dp,2023-01-12T12:47:19.747Z,"66 km NNE of Petersville, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-12T12:28:33.653Z,-23.2748,-174.7875,10,5.3,mww,45,87,2.13,1.41,us,us7000j3wd,2023-01-12T12:48:26.040Z,"Tonga region",earthquake,8.23,1.882,0.093,11,reviewed,us,us
 2023-01-12T12:08:29.092Z,65.5232,-147.9839,15.7,1.2,ml,,,,0.58,ak,ak023k1n55p,2023-01-12T12:10:55.103Z,"25 km E of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-12T12:07:00.740Z,33.9991667,-117.2545,15.45,1.05,ml,24,100,0.06535,0.19,ci,ci40402000,2023-01-12T12:10:29.844Z,"6km S of Loma Linda, CA",earthquake,0.28,0.46,0.278,26,automatic,ci,ci
+2023-01-12T12:07:00.610Z,33.9991667,-117.2583333,15.91,1.04,ml,48,80,0.06243,0.15,ci,ci40402000,2023-01-12T18:15:43.096Z,"6km S of Loma Linda, CA",earthquake,0.17,0.29,0.243,22,reviewed,ci,ci
 2023-01-12T11:29:29.300Z,31.68535796,-104.3931148,6.131567383,2.6,ml,30,56,0.044201479,0.3,tx,tx2023auzh,2023-01-12T15:39:23.348Z,"western Texas",earthquake,0.9407835555,0.8884965104,0.2,42,reviewed,tx,tx
 2023-01-12T11:26:47.930Z,33.834,-117.667,3.46,1.1,ml,39,52,0.0495,0.17,ci,ci40401992,2023-01-12T17:37:20.158Z,"10km WSW of Corona, CA",earthquake,0.2,0.27,0.166,20,reviewed,ci,ci
 2023-01-12T11:11:55.714Z,-23.2336,-174.7229,10,5.3,mww,33,120,2.102,1.18,us,us7000j3v7,2023-01-12T11:31:44.040Z,"211 km S of ‘Ohonua, Tonga",earthquake,8.73,1.93,0.083,14,reviewed,us,us
@@ -62,7 +64,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-12T09:09:09.395Z,61.5128,-147.97,6.4,1.4,ml,,,,1.04,ak,ak023jzv0jf,2023-01-12T09:10:51.214Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-12T08:26:18.050Z,18.9486,-64.2588,10,3.67,md,17,227,0.9177,0.38,pr,pr2023012000,2023-01-12T08:58:23.177Z,"Virgin Islands region",earthquake,2.33,2.88,0.05,7,reviewed,pr,pr
 2023-01-12T08:11:19.936Z,-23.3558,-174.6806,36.563,4.8,mb,31,111,2.229,0.49,us,us7000j3up,2023-01-12T08:32:44.040Z,"225 km S of ‘Ohonua, Tonga",earthquake,8.91,9.851,0.109,26,reviewed,us,us
-2023-01-12T08:07:27.610Z,37.7531666666667,-84.7186666666667,35.29,2.64,md,12,63,0.3285,0.33,se,se60500283,2023-01-12T17:51:13.811Z,"4 km E of Burgin, Kentucky",earthquake,0.63,1.75,0.0813830622912013,7,reviewed,se,se
+2023-01-12T08:07:27.610Z,37.7531666666667,-84.7186666666667,35.29,2.64,md,12,63,0.3285,0.33,se,se60500283,2023-01-12T18:20:37.118Z,"4 km E of Burgin, Kentucky",earthquake,0.63,1.75,0.0813830622912013,7,reviewed,se,se
 2023-01-12T08:05:46.450Z,46.888333333333335,-121.91316666666667,3.54,0.61,ml,13,103,0.03486,0.19,uw,uw61902116,2023-01-12T17:15:53.980Z,"17 km NNE of Ashford, Washington",earthquake,0.47,31.61,0.21798146559519574,6,reviewed,uw,uw
 2023-01-12T07:36:37.666Z,63.0027,-150.5565,101.8,1.7,ml,,,,0.31,ak,ak023jytzue,2023-01-12T07:39:02.482Z,"57 km N of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-12T07:35:40.288Z,60.2027,-150.8427,46.1,2.1,ml,,,,0.19,ak,ak023jytqzq,2023-01-12T07:47:41.092Z,"28 km ESE of Kasilof, Alaska",earthquake,,2.1,,,automatic,ak,ak
