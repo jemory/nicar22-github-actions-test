@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-15T13:51:17.320Z,19.216667175293,-155.383499145508,30.2299995422363,2.49000001,md,48,156,,0.140000001,hv,hv73304297,2023-01-15T13:54:26.640Z,"10 km E of Pāhala, Hawaii",earthquake,0.63,0.779999971,1.26999998,39,automatic,hv,hv
+2023-01-15T13:43:13.180Z,38.7946663,-122.7649994,3.52,0.77,md,9,79,0.01797,0.01,nc,nc73832296,2023-01-15T13:44:50.375Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.97,0.33,10,automatic,nc,nc
 2023-01-15T13:41:59.610Z,38.828167,-122.8568344,2.24,0.77,md,14,96,0.0006218,0.03,nc,nc73832291,2023-01-15T13:43:35.215Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.5,0.21,16,automatic,nc,nc
 2023-01-15T13:21:37.539Z,63.2495,-150.5004,125.1,1.3,ml,,,,0.34,ak,ak023p0xft4,2023-01-15T13:24:27.416Z,"69 km ESE of Denali National Park, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-01-15T13:15:58.100Z,38.7588348,-122.7148361,1.17,1.68,md,14,73,,0.07,nc,nc73832281,2023-01-15T13:41:16.610Z,"3km SW of Anderson Springs, CA",earthquake,0.28,0.32,0.09,17,automatic,nc,nc
@@ -167,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-14T14:31:40.250Z,38.187,-117.8105,4.3,1.4,ml,9,195.44,0.136,0.1644,nn,nn00854837,2023-01-14T14:33:38.554Z,"34 km SE of Mina, Nevada",earthquake,,2.9,0.35,6,automatic,nn,nn
 2023-01-14T14:31:27.236Z,-15.0637,166.5451,10,5,mb,25,86,8.533,0.79,us,us7000j4e1,2023-01-14T14:51:10.040Z,"56 km W of Port-Olry, Vanuatu",earthquake,13.05,1.932,0.078,52,reviewed,us,us
 2023-01-14T14:22:05.500Z,17.8945,-66.8473333333333,16.21,2.23,md,7,235,0.08569,0.05,pr,pr71392718,2023-01-14T14:39:06.610Z,"10 km SSE of Maria Antonia, Puerto Rico",earthquake,0.73,0.6,0.0832873418458675,5,reviewed,pr,pr
-2023-01-14T13:44:54.856Z,64.4302,-146.7265,10,1,ml,,,,0.24,ak,ak023ndj1ay,2023-01-14T13:47:12.073Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
