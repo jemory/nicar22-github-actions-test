@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T11:34:35.124Z,38.1861,-117.8144,7.2,1.6,ml,10,147.25,0.135,0.1201,nn,nn00854894,2023-01-16T11:37:16.237Z,"34 km SE of Mina, Nevada",earthquake,,1.4,0.48,5,automatic,nn,nn
+2023-01-16T11:31:26.810Z,19.3374996185303,-155.282669067383,1.21000003814697,1.82,ml,30,75,,0.230000004,hv,hv73304962,2023-01-16T11:36:58.830Z,"12 km SSW of Volcano, Hawaii",earthquake,0.32,0.409999996,3.87,3,automatic,hv,hv
+2023-01-16T11:27:36.547Z,61.2905,-150.0678,40.5,1.7,ml,,,,0.43,ak,ak023qnb6pi,2023-01-16T11:29:22.453Z,"9 km SSW of Point MacKenzie, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-16T11:22:27.688Z,64.7335,-148.0085,20.4,1.2,ml,,,,1.2,ak,ak023qna3g0,2023-01-16T11:23:55.980Z,"12 km S of Ester, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-16T10:35:58.762Z,59.8161,-152.9425,102.7,2.1,ml,,,,0.47,ak,ak023qmrijo,2023-01-16T10:38:26.674Z,"62 km W of Anchor Point, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-01-16T10:15:09.455Z,-41.6122,-88.4064,10,4.9,mb,26,189,12.478,0.99,us,us7000j4np,2023-01-16T11:02:02.040Z,"West Chile Rise",earthquake,9.62,1.992,0.086,55,reviewed,us,us
@@ -190,5 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T12:04:17.421Z,-14.9531,166.8895,29.099,5.6,mww,99,25,8.722,0.69,us,us7000j4ij,2023-01-16T06:17:11.715Z,"22 km WNW of Port-Olry, Vanuatu",earthquake,8.39,2.96,0.054,33,reviewed,us,us
 2023-01-15T11:53:39.860Z,61.1706,-150.8224,60.2,1.6,ml,,,,0.77,ak,ak023ozxf36,2023-01-15T11:55:44.777Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-15T11:43:50.620Z,38.7873344,-122.7631683,0.7,1.54,md,26,68,0.01354,0.03,nc,nc73832256,2023-01-15T12:26:14.155Z,"1km NNW of The Geysers, CA",earthquake,0.2,0.38,0.14,27,automatic,nc,nc
-2023-01-15T11:37:37.081Z,25.0389,125.8155,43.478,4.9,mb,56,111,2.611,0.54,us,us7000j4if,2023-01-15T12:04:05.040Z,"southwestern Ryukyu Islands, Japan",earthquake,8.01,6.454,0.053,113,reviewed,us,us
-2023-01-15T11:32:35.730Z,36.0728333,-117.8843333,4.6,2.48,ml,21,82,0.05063,0.12,ci,ci40402808,2023-01-15T16:05:54.736Z,"6km ENE of Coso Junction, CA",earthquake,0.23,0.79,0.215,25,automatic,ci,ci
