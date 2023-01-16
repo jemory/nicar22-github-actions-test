@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-16T04:42:11.650Z,34.138,-117.6823333,12.73,1.37,ml,38,64,0.04056,0.22,ci,ci40403032,2023-01-16T04:45:49.454Z,"6km NW of Upland, CA",earthquake,0.36,0.61,0.146,27,automatic,ci,ci
+2023-01-16T04:36:34.900Z,33.2336667,-116.6206667,15.9,1.72,ml,52,26,0.04102,0.2,ci,ci40403024,2023-01-16T04:40:13.139Z,"6km SSE of Warner Springs, CA",earthquake,0.25,0.61,0.152,25,automatic,ci,ci
+2023-01-16T04:35:55.809Z,38.0836,-118.1926,5.8,1.4,ml,8,157.12,0.256,0.3943,nn,nn00854874,2023-01-16T04:37:44.024Z,"34 km SSW of Mina, Nevada",earthquake,,0.9,0.51,6,automatic,nn,nn
 2023-01-16T04:20:56.021Z,56.6409,-156.1193,48.7,2.6,ml,,,,0.44,ak,ak023qj3oyq,2023-01-16T04:26:15.040Z,"123 km WSW of Akhiok, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-01-16T04:09:41.050Z,63.284,-151.3087,0,1.7,ml,,,,0.64,ak,ak023qj1axl,2023-01-16T04:11:39.283Z,"35 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-16T03:51:36.346Z,-7.902,128.4287,63.912,4.3,mb,13,128,2.844,0.68,us,us7000j4md,2023-01-16T04:13:09.040Z,"171 km ENE of Lospalos, Timor Leste",earthquake,6.98,10.768,0.177,9,reviewed,us,us
@@ -31,7 +34,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T00:12:56.790Z,38.7888336,-122.7596664,1.6,0.92,md,5,195,0.01177,0.03,nc,nc73832571,2023-01-16T01:04:11.440Z,"1km NNW of The Geysers, CA",earthquake,0.81,1.21,0.29,9,automatic,nc,nc
 2023-01-16T00:11:56.820Z,38.8226662,-122.8535004,2.44,0.64,md,15,64,0.005538,0.01,nc,nc73832566,2023-01-16T00:52:11.379Z,"10km WNW of The Geysers, CA",earthquake,0.27,0.68,0.23,9,automatic,nc,nc
 2023-01-16T00:11:50.810Z,38.8226662,-122.8531647,2.65,1.54,md,16,64,0.005668,0.02,nc,nc73832561,2023-01-16T01:14:12.498Z,"10km WNW of The Geysers, CA",earthquake,0.31,0.63,0.19,16,automatic,nc,nc
-2023-01-16T00:03:40.580Z,53.362,-165.2123,35,3,ml,10,197,0.843,0.59,us,us7000j4lq,2023-01-16T00:13:44.040Z,"93 km SSE of Akutan, Alaska",earthquake,4.98,2.012,0.081,20,reviewed,us,us
+2023-01-16T00:03:40.580Z,53.362,-165.2123,35,3,ml,10,197,0.843,0.59,us,us7000j4lq,2023-01-16T00:13:44.040Z,"Fox Islands, Aleutian Islands, Alaska",earthquake,4.98,2.012,0.081,20,reviewed,us,us
 2023-01-16T00:00:36.100Z,33.456,-116.5655,12.01,1.05,ml,33,111,0.0493,0.21,ci,ci40402968,2023-01-16T03:22:57.430Z,"15km SE of Anza, CA",earthquake,0.31,0.57,0.207,26,reviewed,ci,ci
 2023-01-15T23:48:17.260Z,38.7859993,-122.7369995,1.59,1.06,md,11,85,0.02298,0.01,nc,nc73832551,2023-01-16T00:09:12.150Z,"2km ENE of The Geysers, CA",earthquake,0.3,0.95,0.2,10,automatic,nc,nc
 2023-01-15T23:35:37.670Z,19.2546672821045,-155.399673461914,31.1599998474121,1.83000004,md,30,147,,0.129999995,hv,hv73304617,2023-01-15T23:38:53.120Z,"10 km NE of Pāhala, Hawaii",earthquake,0.67,0.819999993,1.54999995,6,automatic,hv,hv
@@ -206,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-15T05:19:20.524Z,59.6097,-152.8977,94.5,1.9,ml,,,,0.26,ak,ak023ow5hmc,2023-01-15T05:21:10.617Z,"62 km WNW of Nanwalek, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-15T05:18:12.729Z,63.1082,-144.4411,3.4,1.8,ml,,,,0.62,ak,ak023ow59aw,2023-01-15T05:20:06.970Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-15T04:51:00.165Z,61.3417,-144.4944,6,1.7,ml,,,,1.33,ak,ak023ovqvda,2023-01-15T04:54:18.278Z,"19 km S of Chitina, Alaska",earthquake,,17.1,,,automatic,ak,ak
-2023-01-15T04:46:43.260Z,38.8263321,-122.8111649,1.38,0.7,md,12,64,0.02025,0.02,nc,nc73832101,2023-01-15T05:49:13.827Z,"7km NW of The Geysers, CA",earthquake,0.23,1.1,0.09,13,automatic,nc,nc
-2023-01-15T04:42:14.932Z,29.9605,139.1939,396.19,5.2,mww,125,61,3.189,0.83,us,us7000j4gm,2023-01-15T05:00:05.040Z,"Izu Islands, Japan region",earthquake,8.78,6.593,0.093,11,reviewed,us,us
-2023-01-15T04:40:38.581Z,62.2477,-150.4409,19.6,1.6,ml,,,,0.44,ak,ak023ovolg2,2023-01-15T04:42:15.469Z,"13 km SW of Trapper Creek, Alaska",earthquake,,0.3,,,automatic,ak,ak
