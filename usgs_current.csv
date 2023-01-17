@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-17T18:42:34.190Z,38.8238335,-122.7978363,2.98,0.26,md,7,105,0.01597,0.01,nc,nc73833246,2023-01-17T18:44:08.097Z,"6km NW of The Geysers, CA",earthquake,0.48,1.46,0.14,8,automatic,nc,nc
 2023-01-17T18:28:06.338Z,59.744,-153.1116,106.5,2.7,ml,,,,0.31,ak,ak023sf0ptj,2023-01-17T18:29:51.482Z,"56 km E of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T18:11:33.870Z,19.099666595459,-155.422836303711,29.1599998474121,1.98000002,md,29,187,,0.129999995,hv,hv73306017,2023-01-17T18:14:50.780Z,"12 km SSE of Pāhala, Hawaii",earthquake,0.66,0.970000029,1.79999995,10,automatic,hv,hv
+2023-01-17T18:05:42.309Z,-24.614,-70.0847,60.489,4.4,mb,44,70,0.291,0.9,us,us7000j4y9,2023-01-17T18:35:52.040Z,"96 km NNE of Taltal, Chile",earthquake,7.24,6.497,0.096,34,reviewed,us,us
 2023-01-17T17:45:23.780Z,38.8243332,-122.8061676,1.49,0.71,md,12,121,0.003192,0.01,nc,nc73833241,2023-01-17T18:14:13.166Z,"7km NW of The Geysers, CA",earthquake,0.33,0.69,0.31,15,automatic,nc,nc
 2023-01-17T17:43:14.380Z,35.767,-117.562,8.95,1.09,ml,14,155,0.05656,0.23,ci,ci40403352,2023-01-17T17:46:41.197Z,"14km W of Searles Valley, CA",earthquake,0.59,1.09,0.123,10,automatic,ci,ci
 2023-01-17T17:40:58.250Z,42.1404,-29.2623,9.983,5.1,mww,153,57,5.23,0.71,us,us7000j4y5,2023-01-17T17:58:21.040Z,"Azores Islands region",earthquake,8.99,2.881,0.098,10,reviewed,us,us
@@ -65,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-17T09:39:21.110Z,63.2,-148.8997,0,1.3,ml,,,,0.88,ak,ak023s9q7bw,2023-01-17T09:41:24.962Z,"21 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-17T09:38:48.034Z,-15.3297,-172.8909,10,4.9,mb,34,119,2.495,0.38,us,us7000j4v1,2023-01-17T10:09:24.040Z,"Samoa Islands region",earthquake,11.08,1.72,0.074,61,reviewed,us,us
 2023-01-17T09:22:17.850Z,19.0155,-67.8471666666667,4.89,3.25,md,10,249,0.7101,0.45,pr,pr71393038,2023-01-17T17:19:52.350Z,"75 km NE of Punta Cana, Dominican Republic",earthquake,2.49,31.61,0.0781913774094782,9,reviewed,pr,pr
-2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T16:08:54.620Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
+2023-01-17T09:08:03.980Z,40.4625015,-125.2178345,4.46,3.29,ml,26,292,,0.46,nc,nc73833076,2023-01-17T18:47:56.717Z,"80km WNW of Petrolia, CA",earthquake,11.37,31.94,0.155,4,automatic,nc,nc
 2023-01-17T08:53:10.360Z,38.822834,-122.8073349,2.92,0.26,md,7,84,0.002212,0.01,nc,nc73833071,2023-01-17T09:10:11.832Z,"7km NW of The Geysers, CA",earthquake,0.54,1.89,0.14,9,automatic,nc,nc
 2023-01-17T08:49:03.272Z,63.8533,-150.0107,3.8,1.6,ml,,,,0.57,ak,ak023s96vkn,2023-01-17T08:51:30.734Z,"47 km WSW of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-17T08:39:57.190Z,37.427166,-121.8125,0.15,1.38,md,6,150,0.06437,0.05,nc,nc73833066,2023-01-17T08:56:10.748Z,"7km N of Alum Rock, CA",earthquake,0.85,6.76,0.17,4,automatic,nc,nc
@@ -181,5 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-16T19:17:57.596Z,61.7222,-149.5199,40,1.4,ml,,,,0.72,ak,ak023qs0k0f,2023-01-16T19:20:09.437Z,"11 km NNW of Tanaina, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-16T18:54:51.070Z,18.06,-67.1155,19.9,2.31,md,17,78,0.0536,0.12,pr,pr71392933,2023-01-16T19:10:01.800Z,"3 km SSW of Monte Grande, Puerto Rico",earthquake,0.47,0.27,0.145978807627046,9,reviewed,pr,pr
 2023-01-16T18:49:42.630Z,48.260333333333335,-116.95616666666666,-0.74,1.6600000000000001,md,8,167,0.1113,0.6,uw,uw61893752,2023-01-16T22:43:27.660Z,"9 km NNW of Priest River, Idaho",explosion,2.19,31.61,0.20756483168415185,5,reviewed,uw,uw
-2023-01-16T18:37:50.221Z,62.8423,-149.6827,74.3,1.4,ml,,,,0.51,ak,ak023qrje3f,2023-01-16T20:08:55.888Z,"48 km NNE of Chase, Alaska",earthquake,,1.2,,,automatic,ak,ak
-2023-01-16T18:35:17.170Z,38.8348333,-122.817,2.07,0.37,md,15,61,0.01264,0.01,nc,nc73832896,2023-01-16T21:16:17.972Z,"8km W of Cobb, CA",earthquake,0.28,0.72,0.201,3,reviewed,nc,nc
