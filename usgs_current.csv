@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-19T17:47:54.010Z,19.1663341522217,-155.45783996582,30.8099994659424,1.94000006,md,41,139,,0.129999995,hv,hv73307832,2023-01-19T17:51:12.940Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.62,0.870000005,1.42999995,12,automatic,hv,hv
 2023-01-19T17:32:16.910Z,38.8323326,-122.8208313,1.98,0.71,md,9,77,0.01226,0.01,nc,nc73834046,2023-01-19T17:33:51.026Z,"8km NW of The Geysers, CA",earthquake,0.4,1.18,0.07,10,automatic,nc,nc
 2023-01-19T17:31:50.900Z,33.166,-116.6386667,17.93,0.99,ml,24,103,0.03384,0.2,ci,ci40404112,2023-01-19T17:35:48.833Z,"10km NNW of Julian, CA",earthquake,0.41,0.61,0.153,22,automatic,ci,ci
-2023-01-19T17:16:35.340Z,37.5533333,-121.1514969,2.05,2.47,md,6,219,0.7855,0.12,nc,nc73834036,2023-01-19T17:40:19.328Z,"3km ESE of Grayson, CA",earthquake,4.64,10.29,,1,automatic,nc,nc
-2023-01-19T17:15:55.870Z,36.8076668,-121.5308304,3.84,3.78,ml,65,40,0.02448,0.2,nc,nc73834041,2023-01-19T17:40:19.501Z,"4km S of San Juan Bautista, CA",earthquake,0.26,0.53,0.18,53,reviewed,nc,nc
+2023-01-19T17:16:35.340Z,37.5533333,-121.1514969,2.05,2.47,md,6,219,0.7855,0.12,nc,nc73834036,2023-01-19T17:50:56.662Z,"3km ESE of Grayson, CA",earthquake,4.64,10.29,,1,automatic,nc,nc
+2023-01-19T17:15:55.870Z,36.8076668,-121.5308304,3.84,3.78,ml,65,40,0.02448,0.2,nc,nc73834041,2023-01-19T17:49:34.795Z,"4km S of San Juan Bautista, CA",earthquake,0.26,0.53,0.18,53,reviewed,nc,nc
 2023-01-19T17:07:32.510Z,38.8346672,-122.8168335,1.69,0.68,md,11,77,0.01243,0.01,nc,nc73834031,2023-01-19T17:38:12.318Z,"8km W of Cobb, CA",earthquake,0.29,0.75,0.37,12,automatic,nc,nc
 2023-01-19T17:03:36.815Z,62.2209,-151.1504,71.8,2.3,ml,,,,0.64,ak,ak023vpcolr,2023-01-19T17:05:01.583Z,"28 km NNE of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-19T17:03:07.780Z,19.3906669616699,-155.272171020508,6.6399998664856,1.73,ml,27,52,,0.389999986,hv,hv73307787,2023-01-19T17:08:39.990Z,"7 km SW of Volcano, Hawaii",earthquake,0.71,0.779999971,0.28,10,automatic,hv,hv
@@ -61,7 +62,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T11:18:58.170Z,33.3691667,-116.4215,11.97,1.07,ml,38,78,0.1008,0.24,ci,ci40403928,2023-01-19T11:22:30.508Z,"13km NNW of Borrego Springs, CA",earthquake,0.35,0.98,0.223,27,automatic,ci,ci
 2023-01-19T10:44:20.021Z,64.4176,-147.0063,1.7,1.3,ml,,,,0.27,ak,ak023vlfehe,2023-01-19T10:46:38.319Z,"12 km SSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-19T10:42:38.520Z,19.1084995269775,-155.40983581543,31.4300003051758,1.78999996,md,44,187,,0.109999999,hv,hv73307542,2023-01-19T10:45:55.740Z,"12 km SE of Pāhala, Hawaii",earthquake,0.48,0.980000019,0.600000024,7,automatic,hv,hv
-2023-01-19T10:35:01.270Z,32.916,-116.2403333,8.39,0.95,ml,21,84,0.06552,0.14,ci,ci40403920,2023-01-19T10:38:39.953Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.23,0.8,0.242,12,automatic,ci,ci
+2023-01-19T10:35:01.190Z,32.9161667,-116.2408333,8.64,0.89,ml,31,45,0.06508,0.15,ci,ci40403920,2023-01-19T17:46:59.775Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.19,0.66,0.145,11,reviewed,ci,ci
 2023-01-19T10:34:41.216Z,58.2216,-154.6642,35.9,1.3,ml,,,,0.62,ak,ak023vldayh,2023-01-19T10:36:43.770Z,"73 km N of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-19T10:24:18.731Z,65.2692,-149.405,6.5,1.9,ml,,,,0.45,ak,ak023vlb429,2023-01-19T10:25:54.178Z,"13 km N of Minto, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-19T10:07:05.460Z,34.102,-116.9738333,9.63,0.76,ml,14,59,0.0326,0.12,ci,ci40403912,2023-01-19T14:34:38.704Z,"10km NE of Yucaipa, CA",earthquake,0.3,0.53,0.166,13,reviewed,ci,ci
@@ -69,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T10:00:48.590Z,38.8483315,-122.817337,1.65,0.33,md,7,114,0.007872,0.02,nc,nc73833931,2023-01-19T10:22:13.670Z,"9km WNW of Cobb, CA",earthquake,0.41,1.22,0.24,7,automatic,nc,nc
 2023-01-19T09:59:11.710Z,19.1238327026367,-155.449172973633,28.9200000762939,2.05999994,md,45,218,,0.129999995,hv,hv73307492,2023-01-19T10:02:27.080Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.829999983,1.16999996,16,automatic,hv,hv
 2023-01-19T09:58:45.430Z,19.2628326416016,-155.458831787109,1.0900000333786,1.79,ml,10,209,,0.180000007,hv,hv73307487,2023-01-19T10:04:15.640Z,"6 km NNE of Pāhala, Hawaii",earthquake,1.75,2.22000003,3.81,3,automatic,hv,hv
-2023-01-19T09:53:56.500Z,32.9133333,-116.2486667,5.09,1.38,ml,39,62,0.06173,0.25,ci,ci40403904,2023-01-19T10:04:55.940Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.32,1.05,0.15,27,automatic,ci,ci
+2023-01-19T09:53:56.480Z,32.9105,-116.2436667,7.1,1.33,ml,54,38,0.06675,0.19,ci,ci40403904,2023-01-19T17:42:52.200Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.17,0.67,0.153,30,reviewed,ci,ci
 2023-01-19T09:52:44.420Z,38.8121681,-122.7949982,1.11,0.37,md,8,77,0.01124,0.02,nc,nc73833926,2023-01-19T10:08:12.800Z,"5km NW of The Geysers, CA",earthquake,0.33,0.81,0.31,8,automatic,nc,nc
 2023-01-19T09:39:01.450Z,38.8328323,-122.8174973,1.63,0.71,md,8,172,0.01106,0.01,nc,nc73833921,2023-01-19T09:58:11.538Z,"8km NW of The Geysers, CA",earthquake,0.63,0.98,0.17,8,automatic,nc,nc
 2023-01-19T09:29:43.630Z,38.7581673,-122.730835,2.7,1.17,md,14,108,0.005789,0.03,nc,nc73833916,2023-01-19T10:34:13.738Z,"3km SE of The Geysers, CA",earthquake,0.35,0.55,0.11,13,automatic,nc,nc
@@ -211,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T18:04:35.722Z,60.766,-147.311,13.5,2.1,ml,,,,0.76,ak,ak023u2ezec,2023-01-18T18:06:35.307Z,"36 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-18T18:03:50.266Z,62.1545,-149.4294,47.6,1.8,ml,,,,0.38,ak,ak023u2essy,2023-01-18T18:05:19.413Z,"21 km E of Susitna North, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-18T18:02:54.314Z,-30.0062,-176.0176,10,4.6,mb,19,136,1.815,0.5,us,us7000j5ah,2023-01-18T20:15:15.040Z,"Kermadec Islands region",earthquake,6.88,1.966,0.11,25,reviewed,us,us
-2023-01-18T17:41:37.313Z,38.4887,-119.489,7.5,1.3,ml,14,88.95,0.043,0.1192,nn,nn00854978,2023-01-18T19:53:01.754Z,"Central California",earthquake,,1,0.09,4,reviewed,nn,nn
