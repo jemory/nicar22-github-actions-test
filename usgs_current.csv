@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-19T06:52:45.620Z,32.917,-116.2428333,6.53,0.61,ml,15,136,0.06323,0.17,ci,ci40403856,2023-01-19T06:56:21.212Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.42,1.01,0.074,2,automatic,ci,ci
 2023-01-19T06:39:07.150Z,38.8330002,-122.8193359,1.74,0.25,md,7,97,0.01201,0.03,nc,nc73833871,2023-01-19T06:40:40.688Z,"8km NW of The Geysers, CA",earthquake,0.48,1.44,0.1,8,automatic,nc,nc
 2023-01-19T06:25:24.664Z,59.6649,-153.0475,99.8,1.6,ml,,,,0.96,ak,ak023vixlte,2023-01-19T06:28:57.127Z,"61 km ESE of Pedro Bay, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-19T06:19:05.560Z,58.1161,-155.5663,23.6,0.9,ml,,,,0.62,ak,ak023viwa1o,2023-01-19T06:20:46.833Z,"89 km NW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -198,6 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-18T07:11:20.390Z,38.8336678,-122.7891693,1.9,1.76,md,31,52,,0.03,nc,nc73833486,2023-01-18T08:00:12.281Z,"6km WNW of Cobb, CA",earthquake,0.19,0.28,0.14,33,automatic,nc,nc
 2023-01-18T07:06:00.960Z,38.8349991,-122.8160019,1.31,0.21,md,8,61,0.01248,0.01,nc,nc73833481,2023-01-18T07:49:14.215Z,"8km W of Cobb, CA",earthquake,0.34,0.87,0.1,8,automatic,nc,nc
 2023-01-18T07:05:06.610Z,40.3081667,-121.8886667,4.69,1.93,md,24,76,0.06758,0.18,nc,nc73833476,2023-01-18T12:29:10.802Z,"12km S of Manton, CA",earthquake,0.28,1.03,0.147,24,reviewed,nc,nc
-2023-01-18T07:01:09.520Z,38.8354988,-122.814003,1.47,0.82,md,17,59,0.01247,0.02,nc,nc73833471,2023-01-18T07:38:15.144Z,"8km W of Cobb, CA",earthquake,0.23,0.49,0.17,17,automatic,nc,nc
-2023-01-18T07:00:34.116Z,2.7616,127.0111,35,4.8,mb,43,111,2.008,0.77,us,us7000j566,2023-01-18T07:29:18.040Z,"159 km NW of Tobelo, Indonesia",earthquake,6.53,1.815,0.086,42,reviewed,us,us
-2023-01-18T06:53:40.230Z,38.8081665,-122.7938309,1.87,0.75,md,16,52,0.001167,0.02,nc,nc73833466,2023-01-18T07:26:14.170Z,"5km NW of The Geysers, CA",earthquake,0.26,0.5,0.48,16,automatic,nc,nc
