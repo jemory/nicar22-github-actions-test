@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-23T21:02:40.860Z,32.9038333,-116.9436667,2.35,1.53,ml,25,122,0.08347,0.34,ci,ci40405104,2023-01-23T21:10:07.110Z,"6km NNW of Lakeside, CA",earthquake,0.65,1.17,0.11,13,automatic,ci,ci
+2023-01-23T21:44:42.571Z,69.6357,-144.8407,20.8,4.2,ml,,,,0.81,ak,ak02312e4ly8,2023-01-23T21:51:30.422Z,"northern Alaska",earthquake,,3.4,,,automatic,ak,ak
+2023-01-23T21:43:51.120Z,38.8371658,-122.8375015,1.48,1.09,md,15,109,0.00212,0.03,nc,nc73836426,2023-01-23T21:45:25.298Z,"10km NW of The Geysers, CA",earthquake,0.25,0.66,0.32,17,automatic,nc,nc
+2023-01-23T21:10:24.910Z,38.4891667,-112.8405,0.12,-0.43,md,8,203,0.01143,0.08,uu,uu60530167,2023-01-23T21:44:42.450Z,"Utah",earthquake,0.53,2.24,0.256,3,reviewed,uu,uu
+2023-01-23T21:02:40.860Z,32.9038333,-116.9436667,2.35,1.53,ml,25,122,0.08347,0.34,ci,ci40405104,2023-01-23T21:51:24.310Z,"6km NNW of Lakeside, CA",earthquake,0.65,1.17,0.11,13,automatic,ci,ci
 2023-01-23T20:33:00.210Z,38.8434982,-122.8291702,2.63,0.93,md,7,156,0.006955,0.01,nc,nc73836411,2023-01-23T21:30:14.565Z,"10km WNW of Cobb, CA",earthquake,1.75,2.98,0.55,9,automatic,nc,nc
-2023-01-23T20:12:37.133Z,20.2286,-156.5036,26.08,3,ml,30,218,0.568,0.26,us,us6000jisf,2023-01-23T20:52:58.092Z,"47 km S of Mākena, Hawaii",earthquake,6.21,8.206,0.055,43,reviewed,us,us
+2023-01-23T20:12:38.040Z,20.2938333333333,-156.610833333333,4.54,2.51,md,47,167,,0.26,hv,hv73311012,2023-01-23T21:50:44.138Z,"43 km SSW of Mākena, Hawaii",earthquake,0.53,0.98,0.0851072118562453,15,reviewed,hv,hv
 2023-01-23T20:03:59.830Z,33.8171667,-117.4833333,2.12,1.58,ml,38,44,0.03192,0.2,ci,ci40405096,2023-01-23T20:15:22.370Z,"8km SSE of Home Gardens, CA",earthquake,0.34,0.42,0.257,31,automatic,ci,ci
 2023-01-23T19:19:44.360Z,33.6748333,-116.7225,12.48,0.58,ml,18,91,0.0369,0.17,ci,ci40405072,2023-01-23T21:29:04.623Z,"7km S of Idyllwild, CA",earthquake,0.47,0.64,0.057,8,reviewed,ci,ci
 2023-01-23T19:12:21.731Z,58.1875,-155.392,0,1.8,ml,,,,0.57,ak,ak02312cqu4d,2023-01-23T19:14:03.223Z,"88 km NW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -17,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-23T17:46:06.530Z,19.0354995727539,-155.412673950195,32.3800010681152,2.57,ml,41,208,,0.180000007,hv,hv73310947,2023-01-23T20:57:07.040Z,"17 km ESE of Naalehu, Hawaii",earthquake,0.76,1.44000006,0.47,5,automatic,hv,hv
 2023-01-23T17:40:16.480Z,44.3366667,-110.5205,6.27,1.08,md,9,114,0.0556,0.08,uu,uu60530152,2023-01-23T18:37:54.660Z,"58 km SE of West Yellowstone, Montana",earthquake,0.43,0.81,0.291,6,reviewed,uu,uu
 2023-01-23T17:36:39.120Z,19.1678333282471,-155.459335327148,8.85000038146973,1.72000003,md,31,123,,0.25,hv,hv73310937,2023-01-23T17:39:57.050Z,"Island of Hawaii, Hawaii",earthquake,0.79,1,0.629999995,11,automatic,hv,hv
-2023-01-23T17:34:40.718Z,38.1715,-117.8379,8,1.8,ml,8,139.52,0.119,0.0514,nn,nn00855155,2023-01-23T17:36:21.585Z,"33 km SE of Mina, Nevada",earthquake,,0.6,0.2,6,automatic,nn,nn
+2023-01-23T17:34:40.997Z,38.171,-117.8403,11.2,1.7,ml,11,138.78,0.099,0.1035,nn,nn00855155,2023-01-23T21:50:17.280Z,"33 km SE of Mina, Nevada",earthquake,,1.6,0.19,4,reviewed,nn,nn
 2023-01-23T17:27:15.292Z,63.33,-145.3196,9.4,1.3,ml,,,,0.86,ak,ak02312bn65j,2023-01-23T17:30:14.701Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-23T17:08:36.370Z,18.8481666666667,-64.6288333333333,11.03,3.18,md,6,308,0.5315,0.2,pr,pr71394133,2023-01-23T20:05:43.040Z,"Virgin Islands",earthquake,1.62,2.76,0.0212999345327467,5,reviewed,pr,pr
 2023-01-23T17:06:49.034Z,2.7517,126.938,35.081,5,mb,52,95,2.013,0.8,us,us7000j6e6,2023-01-23T17:42:23.040Z,"Molucca Sea",earthquake,12.13,7.042,0.077,53,reviewed,us,us
@@ -135,4 +138,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-22T22:08:56.488Z,14.0872,-91.3552,69.093,4.6,mb,20,189,0.941,0.4,us,us7000j6a4,2023-01-23T04:15:52.040Z,"Guatemala",earthquake,7.79,11.07,0.244,5,reviewed,us,us
 2023-01-22T22:08:27.516Z,38.5957,99.0242,11.667,4.1,mb,22,101,10.681,0.51,us,us7000j6a5,2023-01-23T04:14:09.040Z,"129 km WSW of Zhangye, China",earthquake,11.21,4.362,0.14,14,reviewed,us,us
 2023-01-22T21:57:44.680Z,37.6258333,-122.482,7.37,1.48,md,36,136,0.01269,0.07,nc,nc73836036,2023-01-23T21:30:14.738Z,"1km NNE of Pacifica, CA",earthquake,0.24,0.19,0.236,25,reviewed,nc,nc
-2023-01-22T21:49:17.630Z,40.527668,-124.4148331,16.8,3.27,ml,20,251,0.07866,0.07,nc,nc73836031,2023-01-23T18:00:02.156Z,"14km WSW of Ferndale, CA",earthquake,1.26,0.31,0.308,10,automatic,nc,nc
