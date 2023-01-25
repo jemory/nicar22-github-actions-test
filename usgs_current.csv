@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-25T02:10:27.870Z,35.9576667,-117.7086667,2.66,1.52,ml,20,140,0.08496,0.17,ci,ci40161047,2023-01-25T02:14:02.857Z,"18km E of Little Lake, CA",earthquake,0.33,0.46,0.203,16,automatic,ci,ci
-2023-01-25T01:47:20.340Z,40.5881653,-124.2278366,4.73,2.71,md,12,215,0.1401,0.04,nc,nc73836866,2023-01-25T02:11:52.731Z,"3km ENE of Ferndale, CA",earthquake,0.55,0.98,0.11,13,automatic,nc,nc
+2023-01-25T02:46:21.110Z,38.8343315,-122.8180008,2.07,0.72,md,11,61,0.01255,0.01,nc,nc73836881,2023-01-25T02:47:58.456Z,"8km NW of The Geysers, CA",earthquake,0.32,0.84,0.1,12,automatic,nc,nc
+2023-01-25T02:41:22.510Z,36.7044983,-121.3793335,-0.44,1.53,md,13,125,0.02654,0.13,nc,nc73836876,2023-01-25T02:42:58.465Z,"11km SSW of Tres Pinos, CA",earthquake,0.49,1.76,0.22,9,automatic,nc,nc
+2023-01-25T02:10:27.870Z,35.9576667,-117.7086667,2.66,1.52,ml,20,140,0.08496,0.17,ci,ci40161047,2023-01-25T02:20:57.590Z,"18km E of Little Lake, CA",earthquake,0.33,0.46,0.203,16,automatic,ci,ci
+2023-01-25T01:47:20.340Z,40.5881653,-124.2278366,4.73,2.71,md,12,215,0.1401,0.04,nc,nc73836866,2023-01-25T02:35:04.565Z,"3km ENE of Ferndale, CA",earthquake,0.55,0.98,0.11,13,automatic,nc,nc
 2023-01-25T01:43:11.780Z,38.8248329,-122.7914963,1.38,0.98,md,15,48,0.01359,0.02,nc,nc73836861,2023-01-25T02:08:13.574Z,"6km W of Cobb, CA",earthquake,0.27,0.56,0.25,15,automatic,nc,nc
 2023-01-25T01:31:17.628Z,60.3732,-152.4864,90,2.2,ml,,,,0.65,ak,ak02315d7sia,2023-01-25T01:34:34.239Z,"57 km NW of Ninilchik, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-25T01:22:04.612Z,64.6038,-147.0697,10.4,1.1,ml,,,,0.05,ak,ak02315d5u2c,2023-01-25T01:27:34.224Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -29,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T22:14:48.920Z,41.7651,-119.9013,2.3,1.6,ml,4,240.69,0.329,0.1176,nn,nn00855236,2023-01-25T00:30:14.207Z,"23 km ESE of Fort Bidwell, California",earthquake,,2.8,0.45,4,reviewed,nn,nn
 2023-01-24T22:09:03.524Z,65.4457,-148.2204,9.9,1.4,ml,,,,0.25,ak,ak0231421svk,2023-01-24T22:11:03.033Z,"17 km ESE of Livengood, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-24T22:07:45.590Z,19.2626667022705,-155.373001098633,30.4899997711182,1.98000002,md,33,171,,0.150000006,hv,hv73312002,2023-01-24T22:21:59.937Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.65,0.839999974,0.159999996,9,automatic,hv,hv
-2023-01-24T22:03:46.790Z,46.269,-119.39033333333333,-0.26,2.19,ml,17,203,0.05643,0.07,uw,uw61903576,2023-01-25T00:13:58.832Z,"4 km SSW of West Richland, Washington",explosion,0.37,31.61,0.12877645283357442,13,reviewed,uw,uw
+2023-01-24T22:03:46.790Z,46.269,-119.39033333333333,-0.26,2.19,ml,17,203,0.05643,0.07,uw,uw61903576,2023-01-25T02:35:33.002Z,"4 km SSW of West Richland, Washington",explosion,0.37,31.61,0.12877645283357442,13,reviewed,uw,uw
 2023-01-24T21:50:16.300Z,38.7911682,-122.7275009,1.42,1.02,md,7,96,0.01071,0.01,nc,nc73836796,2023-01-24T21:51:51.226Z,"3km ENE of The Geysers, CA",earthquake,0.49,2.91,0.16,7,automatic,nc,nc
 2023-01-24T21:45:48.032Z,59.992,-152.2414,62.3,1.8,ml,,,,0.58,ak,ak023141o5eq,2023-01-24T21:48:06.578Z,"28 km W of Happy Valley, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-01-24T21:45:23.083Z,64.7435,-149.2154,16.1,1.4,ml,,,,0.34,ak,ak023141o4k4,2023-01-24T21:47:21.981Z,"16 km NNW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -232,8 +234,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T03:20:26.100Z,36.166,-118.0833333,2.34,1.31,ml,16,75,0.1911,0.13,ci,ci40405184,2023-01-24T16:41:09.814Z,"15km SSW of Olancha, CA",earthquake,0.18,0.86,0.091,9,reviewed,ci,ci
 2023-01-24T03:17:51.375Z,36.7075,-116.0922,4.5,-0.2,ml,7,165.22,0.013,0.0467,nn,nn00855190,2023-01-24T18:46:32.445Z,"California-Nevada border region",earthquake,,1.4,0.07,3,reviewed,nn,nn
 2023-01-24T02:53:31.197Z,2.9174,127.1702,35,4.6,mb,33,127,2.14,0.72,us,us6000jiu4,2023-01-24T22:57:21.040Z,"161 km NW of Tobelo, Indonesia",earthquake,11.19,1.94,0.105,27,reviewed,us,us
-2023-01-24T02:30:04.742Z,2.949,127.1119,35,5.4,mb,103,60,2.178,0.69,us,us6000jitx,2023-01-24T22:18:23.348Z,"167 km NW of Tobelo, Indonesia",earthquake,8.45,1.829,0.045,168,reviewed,us,us
-2023-01-24T02:25:56.070Z,33.1695,-115.7201667,0.68,1.34,ml,7,183,0.08297,0.28,ci,ci40405176,2023-01-24T18:54:32.442Z,"17km NNW of Westmorland, CA",earthquake,0.87,16.56,0.155,3,reviewed,ci,ci
-2023-01-24T02:25:24.390Z,33.186,-115.6845,0.39,1.18,ml,5,277,0.05201,0.18,ci,ci37494524,2023-01-24T18:54:11.857Z,"16km WSW of Niland, CA",earthquake,1.12,31.61,0.045,3,reviewed,ci,ci
-2023-01-24T02:25:23.600Z,2.8291,126.8647,35,4.7,mb,27,124,2.104,0.6,us,us6000jitw,2023-01-24T21:23:10.040Z,"176 km NW of Tobelo, Indonesia",earthquake,11.36,1.936,0.126,19,reviewed,us,us
-2023-01-24T02:19:41.540Z,42.03933333333333,-124.39366666666666,6.47,2.65,ml,13,214,0.08348,0.05,uw,uw61894537,2023-01-24T16:26:17.007Z,"9 km W of Brookings, Oregon",earthquake,0.94,0.56,0.09335457392973501,10,reviewed,uw,uw
