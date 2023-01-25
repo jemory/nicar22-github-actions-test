@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-25T04:45:45.570Z,34.0003333,-116.817,9.5,0.36,ml,12,78,0.03556,0.27,ci,ci40161087,2023-01-25T04:49:13.019Z,"10km NNW of Cabazon, CA",earthquake,0.73,2.05,0.064,4,automatic,ci,ci
 2023-01-25T04:39:09.520Z,32.953,-116.3108333,5.44,0.81,ml,17,59,0.006466,0.17,ci,ci40161079,2023-01-25T04:42:48.589Z,"25km NE of Pine Valley, CA",earthquake,0.31,0.61,0.126,11,automatic,ci,ci
 2023-01-25T04:36:32.620Z,38.7921677,-122.7835007,-0.82,0.76,md,8,110,0.003597,0.26,nc,nc73836916,2023-01-25T04:38:08.268Z,"3km NW of The Geysers, CA",earthquake,0.58,2.68,0.06,8,automatic,nc,nc
-2023-01-25T04:35:31.860Z,35.5294991,-120.8288345,7.23,1.6,md,14,111,0.0939,0.07,nc,nc73836911,2023-01-25T04:37:08.690Z,"11km NNE of Cayucos, CA",earthquake,0.63,1.36,0.1,9,automatic,nc,nc
+2023-01-25T04:35:31.860Z,35.5294991,-120.8288345,7.23,1.6,md,14,111,0.0939,0.07,nc,nc73836911,2023-01-25T04:53:11.606Z,"11km NNE of Cayucos, CA",earthquake,0.63,1.36,0.1,9,automatic,nc,nc
 2023-01-25T04:35:02.530Z,33.9251667,-117.1755,13.82,0.88,ml,20,48,0.02227,0.14,ci,ci40161071,2023-01-25T04:38:41.371Z,"5km E of Moreno Valley, CA",earthquake,0.23,0.5,0.12,18,automatic,ci,ci
-2023-01-25T04:33:46.830Z,38.8103333,-122.824501,1.93,0.76,md,8,86,0.003936,0.03,nc,nc73836906,2023-01-25T04:35:23.528Z,"7km WNW of The Geysers, CA",earthquake,0.38,0.96,0.23,10,automatic,nc,nc
+2023-01-25T04:33:46.830Z,38.8103333,-122.824501,1.93,0.76,md,8,86,0.003936,0.03,nc,nc73836906,2023-01-25T04:52:17.599Z,"7km WNW of The Geysers, CA",earthquake,0.38,0.96,0.23,10,automatic,nc,nc
 2023-01-25T04:12:26.900Z,34.1581667,-116.9721667,10.19,1.76,ml,58,35,0.07114,0.19,ci,ci40161063,2023-01-25T04:22:55.130Z,"11km SSW of Big Bear Lake, CA",earthquake,0.22,0.43,0.209,26,automatic,ci,ci
 2023-01-25T04:06:46.200Z,38.8398323,-122.8378296,1.6,0.64,md,9,117,0.002211,0.01,nc,nc73836901,2023-01-25T04:34:16.490Z,"10km NW of The Geysers, CA",earthquake,0.34,0.61,0.12,9,automatic,nc,nc
 2023-01-25T04:03:47.387Z,62.9801,-149.9147,70.4,1.5,ml,,,,0.74,ak,ak02315eu5ki,2023-01-25T04:06:01.392Z,"59 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -227,4 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-24T05:01:34.300Z,33.472,-116.5706667,8.17,0.98,ml,36,77,0.03474,0.15,ci,ci40405216,2023-01-24T14:58:10.900Z,"13km SE of Anza, CA",earthquake,0.19,0.38,0.125,27,reviewed,ci,ci
 2023-01-24T05:00:57.730Z,37.5473333,-118.8765,6.71,0.69,md,16,194,0.05687,0.02,nc,nc73836531,2023-01-24T21:33:10.917Z,"13km SE of Mammoth Lakes, CA",earthquake,0.56,0.95,0.089,14,reviewed,nc,nc
 2023-01-24T04:58:00.580Z,37.76,-122.5555,12.99,1.22,md,28,156,0.07289,0.08,nc,nc73836526,2023-01-24T15:45:15.911Z,"6km NW of San Francisco Zoo, CA",earthquake,0.43,0.69,0.167,21,reviewed,nc,nc
-2023-01-24T04:50:38.400Z,42.0325,-124.457,-0.43,2.65,ml,13,225,0.1296,0.16,uw,uw61894547,2023-01-25T00:32:21.040Z,"14 km W of Brookings, Oregon",earthquake,1.14,0.82,0.09432660396750037,10,reviewed,uw,uw
