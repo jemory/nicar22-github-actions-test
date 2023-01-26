@@ -1,5 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-26T12:39:04.402Z,60.0584,-147.4482,19.8,2.1,ml,,,,0.64,ak,ak023177cld4,2023-01-26T12:41:24.403Z,"31 km E of Chenega, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-26T12:19:46.490Z,62.8122,-149.898,72.2,2,ml,,,,0.57,ak,ak0231778eah,2023-01-26T12:21:53.888Z,"41 km NNE of Chase, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-01-26T12:09:18.090Z,17.9941666666667,-66.7405,15.18,2.26,md,7,200,0.1334,0.12,pr,pr71394508,2023-01-26T12:47:37.500Z,"Puerto Rico",earthquake,0.64,1.11,0.00985631679710908,3,reviewed,pr,pr
 2023-01-26T11:54:08.430Z,33.9571667,-116.8618333,5.34,0.87,ml,22,74,0.105,0.22,ci,ci40162087,2023-01-26T11:57:49.520Z,"4km NNE of Banning, CA",earthquake,0.34,2.18,0.13,22,automatic,ci,ci
 2023-01-26T11:33:51.930Z,19.1685009002686,-155.491500854492,34.5999984741211,2.29999995,md,41,107,,0.129999995,hv,hv73313242,2023-01-26T11:37:06.070Z,"Hawaii region, Hawaii",earthquake,0.63,0.829999983,0.5,17,automatic,hv,hv
 2023-01-26T11:24:33.850Z,38.831665,-122.8183365,1.67,0.86,md,12,58,0.01048,0.01,nc,nc73837696,2023-01-26T12:07:15.487Z,"8km NW of The Geysers, CA",earthquake,0.31,0.74,0.23,12,automatic,nc,nc
@@ -7,9 +9,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T10:57:59.170Z,38.8406677,-122.8235016,1.84,0.68,md,10,91,0.009587,0.01,nc,nc73837686,2023-01-26T11:56:15.415Z,"9km WNW of Cobb, CA",earthquake,0.42,0.73,0.09,10,automatic,nc,nc
 2023-01-26T10:51:35.773Z,63.4687,-149.9546,118.1,1.4,ml,,,,0.14,ak,ak0231768d61,2023-01-26T10:53:23.462Z,"50 km W of Cantwell, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-01-26T10:50:49.395Z,61.3926,-149.4048,33.7,1.6,ml,,,,0.46,ak,ak02317686i3,2023-01-26T10:53:25.390Z,"11 km NE of Eagle River, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-01-26T10:45:53.633Z,-30.254,-178.6685,135.699,6,mww,70,34,1.184,1.08,us,us6000jjcy,2023-01-26T11:22:35.856Z,"Kermadec Islands, New Zealand",earthquake,10.36,4.873,0.055,32,reviewed,us,us
+2023-01-26T10:45:53.633Z,-30.254,-178.6685,135.699,6,mww,70,34,1.184,1.08,us,us6000jjcy,2023-01-26T12:49:09.170Z,"Kermadec Islands, New Zealand",earthquake,10.36,4.873,0.055,32,reviewed,us,us
 2023-01-26T10:40:53.423Z,61.7151,-149.9118,17,1.4,ml,,,,0.3,ak,ak02317661ni,2023-01-26T10:43:01.413Z,"7 km ESE of Willow, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-01-26T10:35:02.240Z,37.598835,-118.8089981,5.86,1.63,md,15,170,0.01823,0.02,nc,nc73837656,2023-01-26T12:20:11.559Z,"12km WNW of Toms Place, CA",earthquake,0.64,0.59,0.25,13,automatic,nc,nc
+2023-01-26T10:35:02.240Z,37.598835,-118.8089981,5.86,1.63,md,15,170,0.01823,0.02,nc,nc73837656,2023-01-26T12:57:16.766Z,"12km WNW of Toms Place, CA",earthquake,0.64,0.59,0.25,13,automatic,nc,nc
 2023-01-26T10:25:18.805Z,64.7596,-148.9293,18,0.9,ml,,,,0.77,ak,ak0231762r1z,2023-01-26T10:27:52.416Z,"19 km NNE of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-26T09:51:26.334Z,64.7307,-147.7285,12.3,0.9,ml,,,,0.34,ak,ak023175mwu1,2023-01-26T09:53:20.926Z,"9 km SSE of South Van Horn, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-26T09:42:25.328Z,62.2009,-150.1185,19.5,1.6,ml,,,,0.4,ak,ak023175kzb8,2023-01-26T09:44:10.175Z,"13 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -50,7 +52,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T04:29:44.168Z,-0.1167,-77.4795,10,4.1,mb,16,119,0.294,0.69,us,us6000jjbm,2023-01-26T06:13:57.040Z,"67 km NW of Puerto Francisco de Orellana, Ecuador",earthquake,2.7,1.981,0.261,4,reviewed,us,us
 2023-01-26T04:23:51.367Z,2.8727,126.967,35,5.7,mww,90,38,2.125,0.82,us,us6000jjbj,2023-01-26T06:27:32.356Z,"171 km NW of Tobelo, Indonesia",earthquake,4.97,1.892,0.061,26,reviewed,us,us
 2023-01-26T04:20:14.820Z,38.3904991,-122.4189987,5.77,1.6,md,12,137,0.04052,0.07,nc,nc73837506,2023-01-26T06:53:15.597Z,"5km WSW of Yountville, CA",earthquake,0.51,0.85,0.23,11,automatic,nc,nc
-2023-01-26T04:16:05.490Z,16.6078,-25.6214,10,5.3,mb,76,43,9.079,0.59,us,us6000jjbh,2023-01-26T12:21:34.971Z,"Cape Verde",earthquake,10.04,1.833,0.026,502,reviewed,us,us
+2023-01-26T04:16:05.490Z,16.6078,-25.6214,10,5.3,mb,76,43,9.079,0.59,us,us6000jjbh,2023-01-26T12:55:27.255Z,"Cape Verde",earthquake,10.04,1.833,0.026,502,reviewed,us,us
 2023-01-26T04:07:56.374Z,-30.3095,-178.728,35,4.4,mb,12,177,1.258,0.78,us,us6000jjbd,2023-01-26T06:00:04.040Z,"Kermadec Islands, New Zealand",earthquake,9.77,2.007,0.203,11,reviewed,us,us
 2023-01-26T04:01:41.250Z,38.8371658,-122.8013306,2.24,0.78,md,9,67,0.00867,0.01,nc,nc73837501,2023-01-26T04:21:13.652Z,"7km WNW of Cobb, CA",earthquake,0.44,1.29,0.35,9,automatic,nc,nc
 2023-01-26T03:43:15.465Z,61.8364,-150.8749,32,1.6,ml,,,,0.75,ak,ak0231720kmy,2023-01-26T03:45:19.850Z,"32 km ESE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -167,12 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T13:29:16.700Z,19.1919994354248,-155.382339477539,32.0400009155273,1.99000001,md,40,173,,0.119999997,hv,hv73312597,2023-01-25T13:32:31.390Z,"10 km E of Pāhala, Hawaii",earthquake,0.6,0.910000026,0.689999998,11,automatic,hv,hv
 2023-01-25T13:19:39.197Z,55.754,-158.5617,56.2,2.5,ml,,,,0.4,ak,ak02315kagu7,2023-01-25T20:38:05.499Z,"40 km ESE of Perryville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-25T13:09:02.696Z,31.64311071,-104.1831298,3.792138672,2,ml,24,63,0.0753340939,0.1,tx,tx2023bswc,2023-01-26T08:12:26.789Z,"51 km NW of Toyah, Texas",earthquake,0.5169367378,1.385712102,0.1,16,reviewed,tx,tx
-2023-01-25T12:55:32.225Z,38.5984,-119.4216,4.8,1.7,ml,16,67.79,0.078,0.0958,nn,nn00855263,2023-01-25T17:26:27.292Z,"California-Nevada border region",earthquake,,2.4,0.22,3,reviewed,nn,nn
-2023-01-25T12:50:38.510Z,38.8370018,-122.7998352,1.61,1.08,md,19,66,0.007544,0.02,nc,nc73837046,2023-01-25T13:07:13.870Z,"7km WNW of Cobb, CA",earthquake,0.2,0.43,0.13,19,automatic,nc,nc
-2023-01-25T12:46:17.709Z,-5.5069,153.6635,42.747,4.6,mb,30,173,7.522,0.84,us,us6000jj5v,2023-01-25T13:12:13.040Z,"201 km SE of Kokopo, Papua New Guinea",earthquake,13.74,9.073,0.11,25,reviewed,us,us
-2023-01-25T12:43:10.638Z,55.0933,-160.3468,10.8,1.9,ml,,,,0.37,ak,ak02315ju4ud,2023-01-25T15:11:41.787Z,"28 km SSE of Sand Point, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2023-01-25T12:41:27.300Z,35.8525,-97.19066667,9.1,1.69,ml,71,46,0.08818269555,0.17,ok,ok2023bsvf,2023-01-25T20:34:25.186Z,"5 km ENE of Meridian, Oklahoma",earthquake,,0.8,0.23,32,reviewed,ok,ok
-2023-01-25T12:38:06.783Z,38.5824,-119.4403,7.3,1.2,ml,13,93.3,0.063,0.1406,nn,nn00855261,2023-01-25T18:04:00.326Z,"California-Nevada border region",earthquake,,2.4,0,1,reviewed,nn,nn
-2023-01-25T12:37:05.514Z,35.7757,28.5931,25.889,5.9,mww,126,34,0.581,1.35,us,us6000jj5k,2023-01-26T08:43:14.648Z,"62 km SE of Lárdos, Greece",earthquake,6.11,4.203,0.049,40,reviewed,us,us
-2023-01-25T12:36:46.670Z,38.5777,-119.4482,8.3,1.3,ml,14,78.37,0.057,0.1646,nn,nn00855260,2023-01-25T17:54:39.723Z,"5 km ENE of Coleville, California",earthquake,,2.1,0.14,2,reviewed,nn,nn
-2023-01-25T12:35:56.394Z,36.4063,-116.9072,5.7,-0.1,ml,8,195.34,0.234,0.1442,nn,nn00855258,2023-01-25T18:10:15.102Z,"6 km SW of Furnace Creek, California",earthquake,,7.1,1.16,4,reviewed,nn,nn
