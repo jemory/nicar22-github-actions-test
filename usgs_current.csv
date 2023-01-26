@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-26T04:20:14.820Z,38.3904991,-122.4189987,5.77,1.6,md,12,137,0.04052,0.07,nc,nc73837506,2023-01-26T04:21:47.615Z,"5km WSW of Yountville, CA",earthquake,0.51,0.85,0.23,11,automatic,nc,nc
+2023-01-26T04:01:41.250Z,38.8371658,-122.8013306,2.24,0.78,md,9,67,0.00867,0.01,nc,nc73837501,2023-01-26T04:21:13.652Z,"7km WNW of Cobb, CA",earthquake,0.44,1.29,0.35,9,automatic,nc,nc
 2023-01-26T03:43:15.465Z,61.8364,-150.8749,32,1.6,ml,,,,0.75,ak,ak0231720kmy,2023-01-26T03:45:19.850Z,"32 km ESE of Skwentna, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-26T03:35:13.550Z,19.1781673431396,-155.346832275391,27.8099994659424,1.89999998,md,41,184,,0.140000001,hv,hv73313012,2023-01-26T03:38:18.530Z,"14 km E of Pāhala, Hawaii",earthquake,0.58,1.01999998,0.889999986,15,automatic,hv,hv
 2023-01-26T03:16:22.081Z,-1.963,-79.9953,75.211,4.4,mb,21,137,0.491,0.29,us,us6000jjb9,2023-01-26T03:32:59.040Z,"4 km SW of El Triunfo, Ecuador",earthquake,5.37,9.012,0.204,7,reviewed,us,us
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T00:12:51.510Z,33.6805,-117.1895,28.35,1.42,ml,7,175,0.1532,0.24,ci,ci40161839,2023-01-26T00:16:20.776Z,"7km SW of Menifee, CA",earthquake,4.31,1.59,0.448,24,automatic,ci,ci
 2023-01-26T00:09:01.000Z,39.0519981,-122.3556671,1.54,1.78,md,5,219,0.4005,0.01,nc,nc73837426,2023-01-26T03:53:16.470Z,"21km WSW of Williams, CA",earthquake,2.06,7.98,,1,automatic,nc,nc
 2023-01-25T23:58:17.091Z,62.5345,-149.6288,56.2,1.5,ml,,,,0.59,ak,ak02315qh43x,2023-01-26T00:00:15.776Z,"26 km ENE of Chase, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-01-25T23:53:33.216Z,43.1104,-71.5131,8.913,1.9,ml,20,120,0.605,0.56,us,us6000jjam,2023-01-26T03:51:09.096Z,"1 km S of Bow Bog, New Hampshire",earthquake,1.56,7.002,0.081,20,reviewed,us,us
+2023-01-25T23:53:33.216Z,43.1104,-71.5131,8.913,1.9,ml,20,120,0.605,0.56,us,us6000jjam,2023-01-26T04:18:34.915Z,"1 km S of Bow Bog, New Hampshire",earthquake,1.56,7.002,0.081,20,reviewed,us,us
 2023-01-25T23:45:55.790Z,38.8351669,-122.8126678,1.51,0.71,md,10,74,0.01193,0.01,nc,nc73837421,2023-01-26T00:57:16.398Z,"8km W of Cobb, CA",earthquake,0.32,0.7,0.1,10,automatic,nc,nc
 2023-01-25T23:38:27.512Z,12.48,40.5288,10,4.3,mb,36,105,2.456,0.55,us,us6000jjan,2023-01-26T00:31:17.040Z,"92 km NW of Semera, Ethiopia",earthquake,12.28,1.942,0.102,27,reviewed,us,us
 2023-01-25T23:37:39.180Z,32.8335,-116.095,12.3,1.56,ml,27,55,0.04158,0.24,ci,ci40161831,2023-01-25T23:48:20.590Z,"14km NW of Ocotillo, CA",earthquake,0.42,0.86,0.154,27,automatic,ci,ci
@@ -68,7 +70,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T18:48:31.150Z,35.8105,-117.5293333,-0.75,1.15,ml,12,170,0.05566,0.12,ci,ci40161695,2023-01-25T21:26:38.258Z,"12km WNW of Searles Valley, CA",quarry blast,0.43,31.61,0.107,9,reviewed,ci,ci
 2023-01-25T18:25:05.185Z,37.4529,-115.5484,12.8,1.3,ml,7,135.94,0.248,0.1253,nn,nn00855273,2023-01-25T21:47:47.189Z,"27 km SE of Rachel, Nevada",earthquake,,10.6,1.15,5,reviewed,nn,nn
 2023-01-25T18:23:29.580Z,38.8173332,-122.7958298,2.42,2.24,md,38,44,,0.06,nc,nc73837216,2023-01-25T21:35:17.152Z,"6km NW of The Geysers, CA",earthquake,0.19,0.31,0.18,43,automatic,nc,nc
-2023-01-25T18:07:06.190Z,33.8911667,-118.7116667,16.39,1.55,ml,10,207,0.1379,0.1,ci,ci40161663,2023-01-26T03:28:48.800Z,"16km SE of Malibu, CA",earthquake,0.52,0.76,0.121,10,reviewed,ci,ci
+2023-01-25T18:07:06.190Z,33.8911667,-118.7116667,16.39,1.55,ml,10,207,0.1379,0.1,ci,ci40161663,2023-01-26T04:01:36.991Z,"16km SE of Malibu, CA",earthquake,0.52,0.76,0.121,10,reviewed,ci,ci
 2023-01-25T18:04:02.190Z,38.8214989,-122.7981644,2.9,0.22,md,10,112,0.009494,0.01,nc,nc73837196,2023-01-25T18:54:16.112Z,"6km NW of The Geysers, CA",earthquake,0.45,1.01,0.09,10,automatic,nc,nc
 2023-01-25T17:59:39.300Z,38.8258324,-122.7976685,2.01,1.48,md,24,49,0.009991,0.02,nc,nc73837191,2023-01-25T21:20:15.034Z,"6km W of Cobb, CA",earthquake,0.19,0.42,0.22,25,automatic,nc,nc
 2023-01-25T17:54:41.900Z,33.1708333,-116.6921667,10.36,0.87,ml,30,71,0.04706,0.17,ci,ci40161655,2023-01-25T18:56:28.664Z,"10km SE of Lake Henshaw, CA",earthquake,0.24,0.35,0.148,12,reviewed,ci,ci
@@ -104,7 +106,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T14:05:09.860Z,33.8926667,-118.6975,14.52,1.57,ml,10,167,0.1438,0.11,ci,ci40161575,2023-01-25T15:47:04.003Z,"16km S of Malibu Beach, CA",earthquake,0.39,0.8,0.143,21,reviewed,ci,ci
 2023-01-25T14:02:55.870Z,33.9405,-117.9246667,6.83,1.62,ml,41,104,0.004941,0.17,ci,ci40161567,2023-01-25T22:46:17.591Z,"2km ENE of La Habra, CA",earthquake,0.22,0.36,0.136,24,reviewed,ci,ci
 2023-01-25T13:57:28.300Z,34.0355,-117.2461667,17.92,1.51,ml,65,63,0.07608,0.13,ci,ci40161559,2023-01-25T19:02:15.570Z,"2km SE of Loma Linda, CA",earthquake,0.13,0.27,0.177,24,reviewed,ci,ci
-2023-01-25T13:52:50.130Z,19.4074993133545,-155.824996948242,4.73999977111816,2,md,24,116,,0.159999996,hv,hv73312617,2023-01-25T13:55:53.360Z,"6 km SE of Honaunau-Napoopoo, Hawaii",earthquake,0.41,1.46000004,0.519999981,9,automatic,hv,hv
+2023-01-25T13:52:49.780Z,19.4156666666667,-155.844833333333,6.29,2.15,md,36,128,,0.21,hv,hv73312617,2023-01-26T04:08:59.050Z,"4 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.29,0.5,0.178088718916309,16,reviewed,hv,hv
 2023-01-25T13:44:15.280Z,38.8339996,-122.815834,1.24,0.71,md,8,89,0.01151,0.01,nc,nc73837056,2023-01-25T15:54:09.803Z,"8km NW of The Geysers, CA",earthquake,0.49,1.39,0.41,10,automatic,nc,nc
 2023-01-25T13:43:54.210Z,36.239666,-120.3511658,8.5,1.3,md,8,124,0.09531,0.08,nc,nc73837051,2023-01-25T15:59:16.981Z,"11km N of Coalinga, CA",earthquake,0.64,1.21,0.19,4,automatic,nc,nc
 2023-01-25T13:39:22.060Z,19.154333114624,-155.496002197266,34.8499984741211,2.28999996,md,41,136,,0.140000001,hv,hv73312607,2023-01-25T13:44:53.820Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.65,0.899999976,0.209999993,13,automatic,hv,hv
@@ -145,9 +147,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T10:21:13.380Z,32.0271667,-115.5365,18.04,2.17,ml,16,104,0.3503,0.19,ci,ci40161399,2023-01-25T15:40:28.958Z,"41km WSW of Alberto Oviedo Mota, B.C., MX",earthquake,0.33,1.23,0.221,11,reviewed,ci,ci
 2023-01-25T10:15:03.140Z,47.678666666666665,-123.3935,4.01,1.31,ml,18,57,0.2305,0.19,uw,uw61903646,2023-01-25T18:58:43.940Z,"35 km NNW of Hoodsport, Washington",earthquake,0.33,31.61,0.06296794926750171,11,reviewed,uw,uw
 2023-01-25T10:09:09.290Z,35.9618333,-117.9138333,8.71,0.84,ml,10,139,0.07899,0.07,ci,ci40161391,2023-01-25T14:35:27.546Z,"3km NNW of Little Lake, CA",earthquake,0.28,0.6,0.214,10,reviewed,ci,ci
-2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T03:23:59.387Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
+2023-01-25T10:03:33.360Z,33.8863333,-118.7026667,13.83,3.61,ml,127,134,0.1462,0.24,ci,ci40161287,2023-01-26T04:00:57.369Z,"16km S of Malibu Beach, CA",earthquake,0.27,0.48,0.14,192,reviewed,ci,ci
 2023-01-25T10:01:41.890Z,35.8515,-97.19116667,7.98,3.53,ml,84,46,0,0.12,ok,ok2023bspx,2023-01-26T02:28:34.594Z,"5 km ENE of Meridian, Oklahoma",earthquake,,0.3,0.26,43,reviewed,ok,ok
-2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T03:53:41.246Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
+2023-01-25T10:00:54.680Z,33.885,-118.7045,14.71,4.19,mw,155,134,0.1464,0.24,ci,ci40161279,2023-01-26T04:21:27.771Z,"16km S of Malibu Beach, CA",earthquake,0.25,0.35,,6,reviewed,ci,ci
 2023-01-25T09:59:08.048Z,61.4313,-146.363,29.2,1.8,ml,,,,0.84,ak,ak02315i58no,2023-01-25T10:01:20.233Z,"33 km N of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-25T09:54:20.360Z,38.8813324,-122.7841644,10.97,0.25,md,6,230,0.03915,0.05,nc,nc73836986,2023-01-25T12:24:12.264Z,"8km NW of Cobb, CA",earthquake,4.32,2.42,0.07,4,automatic,nc,nc
 2023-01-25T09:49:26.635Z,37.2144,-117.3541,1.7,1,ml,12,168.89,0.219,0.1891,nn,nn00855246,2023-01-25T22:22:07.306Z,"55 km S of Goldfield, Nevada",earthquake,,4,0.51,8,reviewed,nn,nn
@@ -202,6 +204,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-25T04:35:31.860Z,35.5294991,-120.8288345,7.23,1.6,md,14,111,0.0939,0.07,nc,nc73836911,2023-01-25T07:45:14.569Z,"11km NNE of Cayucos, CA",earthquake,0.63,1.36,0.1,9,automatic,nc,nc
 2023-01-25T04:35:02.530Z,33.9228333,-117.1746667,13.46,0.88,ml,45,46,0.02453,0.16,ci,ci40161071,2023-01-25T18:02:47.018Z,"5km E of Moreno Valley, CA",earthquake,0.17,0.38,0.119,17,reviewed,ci,ci
 2023-01-25T04:33:46.830Z,38.8103333,-122.824501,1.93,0.76,md,8,86,0.003936,0.03,nc,nc73836906,2023-01-25T07:15:13.418Z,"7km WNW of The Geysers, CA",earthquake,0.38,0.96,0.23,10,automatic,nc,nc
-2023-01-25T04:12:26.840Z,34.1578333,-116.9721667,10.32,1.72,ml,81,35,0.07084,0.16,ci,ci40161063,2023-01-25T17:52:39.480Z,"11km SSW of Big Bear Lake, CA",earthquake,0.12,0.24,0.18,65,reviewed,ci,ci
-2023-01-25T04:06:46.200Z,38.8398323,-122.8378296,1.6,0.64,md,9,117,0.002211,0.01,nc,nc73836901,2023-01-25T04:34:16.490Z,"10km NW of The Geysers, CA",earthquake,0.34,0.61,0.12,9,automatic,nc,nc
-2023-01-25T04:03:47.387Z,62.9801,-149.9147,70.4,1.5,ml,,,,0.74,ak,ak02315eu5ki,2023-01-25T04:06:01.392Z,"59 km N of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
