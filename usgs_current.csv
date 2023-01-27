@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-27T11:27:32.412Z,61.6355,-149.8954,33.2,1.5,ml,,,,0.47,ak,ak02318u7ztl,2023-01-27T11:30:34.251Z,"4 km W of Houston, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T11:07:35.770Z,19.25,-155.38932800293,31.3899993896484,1.83000004,md,47,136,,0.109999999,hv,hv73313842,2023-01-27T11:10:44.520Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.49,0.600000024,1.30999994,17,automatic,hv,hv
+2023-01-27T11:06:52.611Z,18.8544,-64.348,49.13,4.5,mb,60,118,0.763,0.75,us,us6000jjna,2023-01-27T11:26:48.853Z,"74 km NE of Cruz Bay, U.S. Virgin Islands",earthquake,5.32,8.63,0.095,32,reviewed,us,us
 2023-01-27T10:50:24.590Z,35.3601667,-118.6776667,4.98,1.49,ml,28,49,0.1291,0.18,ci,ci40162615,2023-01-27T11:01:01.070Z,"22km NE of Arvin, CA",earthquake,0.26,1.03,0.181,25,automatic,ci,ci
 2023-01-27T10:41:49.190Z,38.6878319,-122.3876648,0.97,1.77,md,10,104,0.05876,0.26,nc,nc73838236,2023-01-27T10:58:26.695Z,"14km NNE of Angwin, CA",earthquake,0.74,3.49,0.12,9,automatic,nc,nc
 2023-01-27T10:35:21.681Z,58.2587,-155.0224,2,0.4,ml,,,,0.36,ak,ak02318to948,2023-01-27T10:37:45.339Z,"83 km NNW of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-01-27T10:32:44.713Z,60.66,-151.8314,73.4,1.7,ml,,,,0.58,ak,ak02318tnnqp,2023-01-27T10:34:21.967Z,"Kenai Peninsula, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-27T10:28:22.060Z,40.5856667,-124.1204987,15.73,3.72,ml,24,139,0.1683,0.09,nc,nc73838231,2023-01-27T11:14:21.376Z,"3km ESE of Fortuna, CA",earthquake,0.35,0.47,0.274,11,reviewed,nc,nc
+2023-01-27T10:28:22.060Z,40.5856667,-124.1204987,15.73,3.72,ml,24,139,0.1683,0.09,nc,nc73838231,2023-01-27T11:30:01.796Z,"3km ESE of Fortuna, CA",earthquake,0.35,0.47,0.274,11,reviewed,nc,nc
 2023-01-27T09:58:33.020Z,38.8219986,-122.8088303,1.35,0.77,md,16,68,0.001699,0.04,nc,nc73838226,2023-01-27T10:22:15.462Z,"7km NW of The Geysers, CA",earthquake,0.24,0.56,0.14,18,automatic,nc,nc
 2023-01-27T09:58:10.142Z,61.5313,-146.3163,41.5,1.2,ml,,,,1,ak,ak02318t7q3a,2023-01-27T10:00:05.287Z,"44 km N of Valdez, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-01-27T09:57:24.440Z,33.3416667,-116.79,15.17,0.47,ml,21,61,0.1086,0.17,ci,ci40162607,2023-01-27T10:00:55.036Z,"7km ESE of Palomar Observatory, CA",earthquake,0.38,0.9,0.147,8,automatic,ci,ci
@@ -24,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T08:41:47.480Z,57.6986,-155.7133,25.6,1.6,ml,,,,0.39,ak,ak02318siq70,2023-01-27T08:43:35.835Z,"76 km W of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T08:39:41.920Z,32.8866667,-115.991,8.41,1.32,ml,27,59,0.01836,0.21,ci,ci40162551,2023-01-27T08:43:21.967Z,"17km N of Ocotillo, CA",earthquake,0.33,0.72,0.164,23,automatic,ci,ci
 2023-01-27T08:30:12.674Z,61.1911,-146.8153,0,1.8,ml,,,,0.98,ak,ak02318sgamr,2023-01-27T08:32:18.114Z,"26 km WNW of Valdez, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-01-27T08:22:30.431Z,40.3749,-127.1251,10,3.3,ml,97,247,2.295,1.01,us,us6000jjml,2023-01-27T11:15:30.678Z,"243 km W of Ferndale, California",earthquake,2.28,2.017,0.038,90,reviewed,us,us
+2023-01-27T08:22:30.431Z,40.3749,-127.1251,10,3.3,ml,97,247,2.295,1.01,us,us6000jjml,2023-01-27T11:20:22.962Z,"243 km W of Ferndale, California",earthquake,2.28,2.017,0.038,90,reviewed,us,us
 2023-01-27T07:24:19.735Z,38.1883,-117.8067,0.4,1.4,ml,14,151.43,0.13,0.1789,nn,nn00855367,2023-01-27T07:26:36.099Z,"34 km SE of Mina, Nevada",earthquake,,3.9,0.23,7,automatic,nn,nn
 2023-01-27T07:24:15.110Z,33.4155,-116.5846667,12,0.75,ml,22,75,0.06661,0.16,ci,ci40162535,2023-01-27T07:27:49.622Z,"16km NNE of Warner Springs, CA",earthquake,0.29,0.55,0.144,21,automatic,ci,ci
 2023-01-27T07:16:28.750Z,36.2181667,-117.8761667,1.71,1.15,ml,13,98,0.1018,0.2,ci,ci40162527,2023-01-27T07:19:57.247Z,"14km ESE of Olancha, CA",earthquake,0.5,0.73,0.179,10,automatic,ci,ci
@@ -233,5 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-26T11:54:08.240Z,33.9608333,-116.858,9.84,0.83,ml,36,53,0.08506,0.18,ci,ci40162087,2023-01-26T18:26:07.894Z,"4km NNE of Banning, CA",earthquake,0.2,0.55,0.107,17,reviewed,ci,ci
 2023-01-26T11:47:50.890Z,37.1493333,-121.5235,10.44,0.82,md,17,66,0.06448,0.07,nc,nc73837701,2023-01-26T21:46:52.167Z,"10km NE of San Martin, CA",earthquake,0.22,0.44,0.189,14,reviewed,nc,nc
 2023-01-26T11:33:51.930Z,19.1685009002686,-155.491500854492,34.5999984741211,2.29999995,md,41,107,,0.129999995,hv,hv73313242,2023-01-26T11:37:06.070Z,"Hawaii region, Hawaii",earthquake,0.63,0.829999983,0.5,17,automatic,hv,hv
-2023-01-26T11:24:33.850Z,38.831665,-122.8183365,1.67,0.86,md,12,58,0.01048,0.01,nc,nc73837696,2023-01-26T13:39:10.009Z,"8km NW of The Geysers, CA",earthquake,0.31,0.74,0.23,12,automatic,nc,nc
-2023-01-26T11:23:50.410Z,53.9083333333333,-166.361833333333,9.14,0.39,ml,8,182,,0.23,av,av91085768,2023-01-26T22:24:26.140Z,"11 km ENE of Unalaska, Alaska",earthquake,2.06,4.02,0.281889240447901,7,reviewed,av,av
