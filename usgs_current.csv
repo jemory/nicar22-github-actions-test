@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-28T13:22:50.160Z,19.0463333129883,-155.411666870117,34.9300003051758,2.63,ml,43,243,,0.140000001,hv,hv73314537,2023-01-28T13:28:20.290Z,"17 km E of Naalehu, Hawaii",earthquake,0.6,1.05999994,0.28,5,automatic,hv,hv
 2023-01-28T13:06:56.810Z,33.6801667,-116.7376667,14.08,0.67,ml,15,74,0.0366,0.1,ci,ci40163151,2023-01-28T13:10:27.994Z,"7km SSW of Idyllwild, CA",earthquake,0.35,0.54,0.193,10,automatic,ci,ci
 2023-01-28T13:02:38.064Z,63.1184,-149.0048,57.1,1.6,ml,,,,0.66,ak,ak0231aisv26,2023-01-28T13:04:38.674Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-01-28T12:04:27.780Z,33.2298333,-116.7018333,16.57,0.64,ml,11,173,0.2679,0.27,ci,ci40163143,2023-01-28T12:07:57.230Z,"6km ESE of Lake Henshaw, CA",earthquake,1.25,4.63,0.083,4,automatic,ci,ci
@@ -59,7 +60,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T05:42:51.471Z,8.6615,-82.8114,14.309,3,ml,9,163,0.18,0.44,us,us6000jjxv,2023-01-28T06:09:10.040Z,"3 km N of Breñón, Panama",earthquake,3.68,1.809,0.097,14,reviewed,us,us
 2023-01-28T05:35:55.955Z,63.5899,-147.1319,123.6,1.5,ml,,,,0.6,ak,ak0231ae8lpk,2023-01-28T05:38:34.816Z,"85 km SW of Delta Junction, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-01-28T05:33:02.980Z,17.985,-66.8851666666667,12.54,3.32,md,19,92,0.01138,0.09,pr,pr71394748,2023-01-28T05:54:41.860Z,"Puerto Rico region",earthquake,0.31,0.26,0.0835406457337109,6,reviewed,pr,pr
-2023-01-28T05:32:49.829Z,44.224,12.3869,4.576,4.3,mb,58,31,0.966,0.51,us,us6000jjxr,2023-01-28T11:55:42.298Z,"2 km SSE of Pinarella, Italy",earthquake,4.39,3.767,0.178,9,reviewed,us,us
+2023-01-28T05:32:49.829Z,44.224,12.3869,4.576,4.3,mb,58,31,0.966,0.51,us,us6000jjxr,2023-01-28T13:16:44.286Z,"2 km SSE of Pinarella, Italy",earthquake,4.39,3.767,0.178,9,reviewed,us,us
 2023-01-28T05:29:31.420Z,33.6936667,-116.174,-0.29,1.05,ml,13,258,0.2517,0.32,ci,ci40162999,2023-01-28T05:33:12.997Z,"2km N of Coachella, CA",earthquake,2.79,31.61,0.23,8,automatic,ci,ci
 2023-01-28T05:29:12.090Z,38.8046684,-122.8184967,2.82,1.07,md,13,69,0.00934,0.02,nc,nc73838696,2023-01-28T06:06:13.737Z,"6km WNW of The Geysers, CA",earthquake,0.32,0.74,0.29,14,automatic,nc,nc
 2023-01-28T05:28:55.930Z,32.2851667,-117.0388333,15.54,1.48,ml,5,306,0.4565,0.17,ci,ci40162991,2023-01-28T05:32:40.037Z,"5km S of Rosarito, B.C., MX",earthquake,3.08,12.72,0.207,5,automatic,ci,ci
@@ -203,7 +204,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T16:29:40.568Z,63.0152,-151.5502,1,1.4,ml,,,,0.48,ak,ak02318x7lwo,2023-01-27T16:31:12.909Z,"59 km S of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-27T16:27:56.370Z,19.1774997711182,-155.508163452148,36.0400009155273,2.02999997,md,39,102,,0.119999997,hv,hv73313992,2023-01-27T16:31:05.790Z,"4 km SW of Pāhala, Hawaii",earthquake,0.7,0.99000001,0.649999976,9,automatic,hv,hv
 2023-01-27T16:11:15.240Z,58.218,-155.201666666667,2.53,-0.37,ml,6,126,,0.05,av,av91752086,2023-01-27T23:26:50.480Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.56,0.164075591709711,6,reviewed,av,av
-2023-01-27T16:09:40.270Z,19.2388324737549,-155.425338745117,36.2799987792969,2.44000006,md,43,123,,0.129999995,hv,hv73313972,2023-01-27T17:09:01.040Z,"Hawaii region, Hawaii",earthquake,0.53,0.649999976,0.610000014,22,automatic,hv,hv
+2023-01-27T16:09:40.270Z,19.2388324737549,-155.425338745117,36.2799987792969,2.44000006,md,43,123,,0.129999995,hv,hv73313972,2023-01-27T17:09:01.040Z,"Island of Hawaii, Hawaii",earthquake,0.53,0.649999976,0.610000014,22,automatic,hv,hv
 2023-01-27T16:00:52.677Z,31.73822328,-104.1125246,6.22154541,2.3,ml,26,40,0.03683789236,0.2,tx,tx2023bwsv,2023-01-27T19:54:17.246Z,"western Texas",earthquake,0.4538220118,0.5123475437000001,0.2,16,reviewed,tx,tx
 2023-01-27T15:57:42.390Z,46.34733333333333,-122.42583333333333,5.49,1.16,ml,21,169,0.07163,0.27,uw,uw61904136,2023-01-27T23:17:12.270Z,"20 km SSE of Mossyrock, Washington",earthquake,0.87,2.05,0.13659817357894743,14,reviewed,uw,uw
 2023-01-27T15:57:05.070Z,60.9359,-151.3076,31.1,1.3,ml,,,,0.95,ak,ak02318ws3mk,2023-01-27T15:59:59.488Z,"17 km SSW of Tyonek, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -234,4 +235,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-27T13:59:51.040Z,38.8116684,-122.8291702,1.44,0.26,md,8,104,0.002796,0.01,nc,nc73838266,2023-01-27T15:45:14.429Z,"7km WNW of The Geysers, CA",earthquake,0.35,0.73,0.09,8,automatic,nc,nc
 2023-01-27T13:45:57.890Z,60.9902,-146.0913,26.3,1.2,ml,,,,1.29,ak,ak02318virvx,2023-01-27T13:48:29.026Z,"20 km SE of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-27T13:38:55.370Z,38.8071671,-122.7750015,-0.06,0.27,md,6,156,0.007531,0.01,nc,nc73838261,2023-01-27T15:19:14.394Z,"4km NNW of The Geysers, CA",earthquake,0.39,1.21,0.07,8,automatic,nc,nc
-2023-01-27T13:27:29.783Z,36.5055,-116.9345,0,1.2,ml,28,170.17,0.069,0.185,nn,nn00855373,2023-01-27T17:29:13.353Z,"California-Nevada border region",earthquake,,0,1.29,14,reviewed,nn,nn
