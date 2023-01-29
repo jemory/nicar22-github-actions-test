@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-29T08:23:11.260Z,34.295,-118.882,19.03,1.44,ml,8,164,0.1157,0.15,ci,ci40163671,2023-01-29T08:26:53.025Z,"1km N of Moorpark, CA",earthquake,1.03,1.61,0.308,8,automatic,ci,ci
+2023-01-29T08:05:37.580Z,34.444,-119.3126667,7.57,1.27,ml,14,93,0.04831,0.28,ci,ci40163663,2023-01-29T08:09:19.215Z,"6km W of Ojai, CA",earthquake,0.74,1.15,0.276,18,automatic,ci,ci
+2023-01-29T08:04:05.520Z,38.7960014,-122.7646637,0.88,1.08,md,16,66,0.006024,0.04,nc,nc73839201,2023-01-29T08:25:14.526Z,"2km NNW of The Geysers, CA",earthquake,0.25,0.46,0.1,16,automatic,nc,nc
 2023-01-29T07:53:39.846Z,59.6912,-148.79,21.7,1.7,ml,,,,0.72,ak,ak0231c32jkw,2023-01-29T07:56:04.175Z,"55 km SE of Lowell Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-29T07:49:34.331Z,60.9391,-150.9931,47,1.3,ml,,,,0.67,ak,ak0231c31oaf,2023-01-29T07:51:52.084Z,"16 km SSE of Tyonek, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-01-29T07:39:52.900Z,19.1708335876465,-155.471328735352,30.5799999237061,2.39,ml,45,81,,0.129999995,hv,hv73315017,2023-01-29T07:49:42.040Z,"3 km SSE of Pāhala, Hawaii",earthquake,0.57,0.810000002,3.38,7,automatic,hv,hv
@@ -22,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T05:45:53.840Z,35.3645,-118.5866667,0.51,1.36,ml,22,95,0.154,0.2,ci,ci40163623,2023-01-29T05:50:36.611Z,"26km SSW of Bodfish, CA",earthquake,0.32,31.61,0.179,17,automatic,ci,ci
 2023-01-29T05:36:25.130Z,38.7601662,-122.713501,1.38,1.3,md,11,72,0.008995,0.03,nc,nc73839156,2023-01-29T07:57:15.325Z,"2km SW of Anderson Springs, CA",earthquake,0.29,0.36,0.23,11,automatic,nc,nc
 2023-01-29T05:29:30.010Z,38.7796669,-122.7113342,2.21,0.73,md,8,108,0.01485,0.01,nc,nc73839151,2023-01-29T07:29:19.144Z,"2km WNW of Anderson Springs, CA",earthquake,0.51,1.06,0.5,7,automatic,nc,nc
-2023-01-29T05:26:30.246Z,36.255,-98.6395,5,3.4,ml,39,69,0.314,0.22,us,us6000jk41,2023-01-29T06:58:28.110Z,"14 km W of Fairview, Oklahoma",earthquake,0.98,1.915,0.055,43,reviewed,us,us
+2023-01-29T05:26:30.246Z,36.255,-98.6395,5,3.4,ml,39,69,0.314,0.22,us,us6000jk41,2023-01-29T08:26:59.975Z,"14 km W of Fairview, Oklahoma",earthquake,0.98,1.915,0.055,43,reviewed,us,us
 2023-01-29T05:15:38.779Z,2.7299,127.0686,62.215,4.6,mb,56,108,1.968,0.65,us,us6000jk40,2023-01-29T06:10:44.040Z,"152 km NW of Tobelo, Indonesia",earthquake,8.06,7.555,0.086,44,reviewed,us,us
 2023-01-29T05:13:56.450Z,38.8040009,-122.815834,3.18,0.65,md,9,117,0.0115,0.02,nc,nc73839146,2023-01-29T05:35:17.984Z,"6km WNW of The Geysers, CA",earthquake,0.57,1.42,0.31,12,automatic,nc,nc
 2023-01-29T05:09:17.030Z,38.8330002,-122.8153305,1.58,0.63,md,9,88,0.01043,0.01,nc,nc73839141,2023-01-29T07:01:13.967Z,"8km NW of The Geysers, CA",earthquake,0.35,1.11,0.38,10,automatic,nc,nc
@@ -83,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T00:06:31.420Z,38.8018341,-122.8188324,2.97,0.76,md,10,100,0.01071,0.02,nc,nc73838986,2023-01-29T00:39:13.272Z,"6km WNW of The Geysers, CA",earthquake,0.52,1.04,0.03,11,automatic,nc,nc
 2023-01-29T00:00:51.280Z,38.8014984,-122.8186646,3.03,1.72,md,32,62,0.01103,0.04,nc,nc73838981,2023-01-29T07:46:33.878Z,"6km WNW of The Geysers, CA",earthquake,0.21,0.39,0.13,32,automatic,nc,nc
 2023-01-28T23:58:56.180Z,19.1571674346924,-155.488494873047,34.4799995422363,2.32999992,md,35,161,,0.129999995,hv,hv73314812,2023-01-29T00:02:04.780Z,"5 km SSW of Pāhala, Hawaii",earthquake,0.65,0.980000019,0.330000013,17,automatic,hv,hv
-2023-01-28T23:56:58.670Z,40.5355,-124.3973333,24.7,3.7,mw,35,209,0.07528,0.12,nc,nc73838976,2023-01-29T07:29:43.332Z,"12km WSW of Ferndale, CA",earthquake,0.37,0.4,,3,reviewed,nc,nc
+2023-01-28T23:56:58.670Z,40.5355,-124.3973333,24.7,3.7,mw,35,209,0.07528,0.12,nc,nc73838976,2023-01-29T08:05:36.542Z,"12km WSW of Ferndale, CA",earthquake,0.37,0.4,,3,reviewed,nc,nc
 2023-01-28T23:49:30.710Z,34.162,-117.9858333,3.28,1.47,ml,8,92,0.1742,0.37,ci,ci40163503,2023-01-28T23:53:03.961Z,"2km NE of Monrovia, CA",earthquake,1.16,7.43,0.369,23,automatic,ci,ci
 2023-01-28T23:46:18.120Z,33.5215,-116.7275,4.8,0.81,ml,35,36,0.04454,0.24,ci,ci40163495,2023-01-28T23:49:56.609Z,"6km SW of Anza, CA",earthquake,0.34,0.85,0.129,21,automatic,ci,ci
 2023-01-28T23:38:29.755Z,57.4463,-154.9881,37.9,2,ml,,,,0.58,ak,ak0231aoyw8v,2023-01-28T23:41:09.025Z,"34 km WSW of Karluk, Alaska",earthquake,,9.8,,,automatic,ak,ak
@@ -206,7 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-28T08:54:28.120Z,33.524,-116.5688333,13.07,0.45,ml,22,67,0.04009,0.21,ci,ci40163087,2023-01-28T08:57:59.299Z,"10km ESE of Anza, CA",earthquake,0.43,0.59,0.137,9,automatic,ci,ci
 2023-01-28T08:37:03.310Z,33.5141667,-116.5755,11.94,1.57,ml,60,47,0.02936,0.2,ci,ci40163079,2023-01-28T08:47:57.700Z,"10km ESE of Anza, CA",earthquake,0.19,0.35,0.191,26,automatic,ci,ci
 2023-01-28T08:34:09.050Z,34.6581667,-116.3005,2.87,1.11,ml,10,78,0.1253,0.1,ci,ci40163071,2023-01-28T08:37:35.221Z,"15km WSW of Ludlow, CA",earthquake,0.22,1.01,0.107,12,automatic,ci,ci
-2023-01-28T08:21:41.130Z,33.1153333,-116.4183333,11.88,0.92,ml,33,42,0.1433,0.2,ci,ci40163063,2023-01-28T08:25:20.618Z,"16km SSW of Borrego Springs, CA",earthquake,0.29,0.82,0.188,20,automatic,ci,ci
-2023-01-28T08:17:52.560Z,46.873666666666665,-121.76283333333333,-2.72,0.32,ml,16,151,0.02113,0.13,uw,uw61904286,2023-01-29T07:09:51.820Z,"24 km ENE of Ashford, Washington",earthquake,0.27,0.48,0.07831693146379992,5,reviewed,uw,uw
-2023-01-28T08:11:30.250Z,17.9841666666667,-66.8363333333333,14.37,2.28,md,12,183,0.04185,0.17,pr,pr71394758,2023-01-28T08:47:08.290Z,"2 km WSW of Indios, Puerto Rico",earthquake,0.55,0.57,0.220506515917425,4,reviewed,pr,pr
-2023-01-28T08:06:15.100Z,32.372,-115.4183333,1.04,1.92,ml,18,106,0.1069,0.29,ci,ci40163055,2023-01-28T08:09:51.806Z,"21km W of Delta, B.C., MX",earthquake,0.64,31.61,0.2,20,automatic,ci,ci
