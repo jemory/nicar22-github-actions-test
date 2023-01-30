@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-30T03:49:51.530Z,37.972168,-122.0531693,14.16,1.82,md,26,87,0.06204,0.15,nc,nc73839611,2023-01-30T03:51:28.906Z,"2km ESE of Pacheco, CA",earthquake,0.37,0.76,0.11,20,automatic,nc,nc
 2023-01-30T03:17:53.757Z,63.4903,-151.1315,2.5,1.6,ml,,,,0.64,ak,ak0231do0gy7,2023-01-30T03:20:31.990Z,"30 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-30T03:08:25.740Z,38.8059998,-122.81633,3.13,1.13,md,11,81,0.01044,0.02,nc,nc73839596,2023-01-30T03:26:12.363Z,"6km WNW of The Geysers, CA",earthquake,0.38,1.05,0.25,12,automatic,nc,nc
 2023-01-30T02:54:51.830Z,35.5085,-118.3961667,5.73,1.1,ml,18,67,0.1665,0.11,ci,ci40163927,2023-01-30T02:58:27.438Z,"12km SE of Bodfish, CA",earthquake,0.22,1.04,0.15,10,automatic,ci,ci
@@ -66,7 +67,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T18:48:36.180Z,38.8383331,-122.8355026,1.44,0.7,md,13,91,0.0002558,0.03,nc,nc73839401,2023-01-29T20:38:09.876Z,"10km NW of The Geysers, CA",earthquake,0.26,0.43,0.29,13,automatic,nc,nc
 2023-01-29T18:48:00.670Z,35.653,-117.5393333,9.7,1.51,ml,19,141,0.09139,0.16,ci,ci40163839,2023-01-29T21:20:10.814Z,"13km ENE of Ridgecrest, CA",earthquake,0.32,0.84,0.143,19,reviewed,ci,ci
 2023-01-29T18:41:50.692Z,58.1574,-155.3822,1.2,1.3,ml,,,,0.16,ak,ak0231c9jrh9,2023-01-29T18:43:08.081Z,"85 km NW of Karluk, Alaska",earthquake,,2.8,,,automatic,ak,ak
-2023-01-29T18:32:34.202Z,19.2684,-69.8934,10.972,4.3,mb,82,117,0.801,0.65,us,us6000jk6t,2023-01-30T03:12:38.297Z,"5 km S of El Factor, Dominican Republic",earthquake,5.44,5.506,0.072,55,reviewed,us,us
+2023-01-29T18:32:34.202Z,19.2684,-69.8934,10.972,4.3,mb,82,117,0.801,0.65,us,us6000jk6t,2023-01-30T03:42:47.835Z,"5 km S of El Factor, Dominican Republic",earthquake,5.44,5.506,0.072,55,reviewed,us,us
 2023-01-29T18:25:50.070Z,35.7271667,-117.615,8.96,2.51,ml,26,113,0.08952,0.16,ci,ci40163831,2023-01-29T18:36:08.520Z,"13km NNE of Ridgecrest, CA",earthquake,0.27,0.7,0.198,25,automatic,ci,ci
 2023-01-29T18:22:20.977Z,61.5122,-140.7707,3.772,3,ml,18,90,0.626,0.44,us,us6000jk6q,2023-01-29T22:25:07.294Z,"Southern Yukon Territory, Canada",earthquake,2.48,7.808,0.039,86,reviewed,us,us
 2023-01-29T18:12:03.580Z,33.5473333,-116.4068333,5.21,0.8,ml,33,56,0.0286,0.18,ci,ci40163807,2023-01-29T18:15:43.144Z,"16km SW of La Quinta, CA",earthquake,0.27,0.68,0.162,21,automatic,ci,ci
@@ -190,6 +191,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T04:14:26.904Z,60.574,-151.7867,83.1,1.8,ml,,,,0.57,ak,ak0231c11uua,2023-01-29T04:16:34.176Z,"26 km W of Salamatof, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-29T04:06:53.880Z,33.0613333,-116.4088333,13.14,1.77,ml,61,33,0.08929,0.22,ci,ci40163591,2023-01-29T15:13:22.010Z,"18km E of Julian, CA",earthquake,0.23,0.62,0.214,25,reviewed,ci,ci
 2023-01-29T04:06:36.190Z,33.0678333,-116.4028333,12.27,0.83,ml,18,48,0.09598,0.22,ci,ci40163583,2023-01-29T04:10:16.183Z,"19km E of Julian, CA",earthquake,0.42,1.23,0.186,13,automatic,ci,ci
-2023-01-29T03:48:10.405Z,38.6464,44.8532,10,4.1,mb,17,127,1.502,0.79,us,us6000jk3l,2023-01-29T04:10:42.040Z,"Turkey-Iran border region",earthquake,8.22,1.956,0.175,9,reviewed,us,us
-2023-01-29T03:44:41.370Z,18.8663333333333,-65.3226666666667,8.54,3.42,md,13,255,0.5572,0.31,pr,pr71394798,2023-01-29T04:13:17.320Z,"62 km N of Culebra, Puerto Rico",earthquake,1.11,1.45,0.03950717071256,5,reviewed,pr,pr
-2023-01-29T03:41:58.860Z,60.4202,-142.9168,2.6,0.6,ml,,,,0.17,ak,ak0231c0m8fg,2023-01-29T17:14:32.499Z,"112 km S of McCarthy, Alaska",earthquake,,1.4,,,reviewed,ak,ak
