@@ -1,11 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-01-30T19:40:40.560Z,38.8149986,-122.7955017,1.85,1.59,md,32,42,0.007022,0.03,nc,nc73839881,2023-01-30T19:42:18.576Z,"5km NW of The Geysers, CA",earthquake,0.17,0.27,0.16,32,automatic,nc,nc
+2023-01-30T19:51:31.280Z,33.884,-116.2625,2.43,0.74,ml,12,65,0.09344,0.16,ci,ci40164287,2023-01-30T19:55:05.266Z,"14km ENE of Thousand Palms, CA",earthquake,0.41,0.52,0.121,12,automatic,ci,ci
+2023-01-30T19:49:07.506Z,60.1144,-153.0565,119.6,1.5,ml,,,,0.27,ak,ak0231dxq5z2,2023-01-30T19:51:20.508Z,"69 km ENE of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-01-30T19:40:40.560Z,38.8149986,-122.7955017,1.85,1.59,md,32,42,0.007022,0.03,nc,nc73839881,2023-01-30T19:43:53.787Z,"5km NW of The Geysers, CA",earthquake,0.17,0.27,0.16,32,automatic,nc,nc
+2023-01-30T19:28:52.085Z,45.7468,-110.5859,5,4.1,ml,21,100,0.645,0.66,us,us6000jke7,2023-01-30T19:55:36.883Z,"Western Montana",earthquake,1.53,1.905,0.045,66,reviewed,us,us
 2023-01-30T19:20:17.590Z,38.8126678,-122.8274994,1.81,0.78,md,11,60,0.004015,0.03,nc,nc73839876,2023-01-30T19:39:11.440Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.72,0.12,12,automatic,nc,nc
 2023-01-30T19:06:23.440Z,60.8955,-149.6785,34.1,1.2,ml,,,,0.25,ak,ak0231dxgze8,2023-01-30T19:08:29.583Z,"3 km SW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T18:52:23.120Z,33.2626667,-116.4063333,3.64,0.72,ml,19,125,0.01062,0.17,ci,ci40164279,2023-01-30T18:55:48.669Z,"3km WNW of Borrego Springs, CA",earthquake,0.38,0.34,0.145,11,automatic,ci,ci
 2023-01-30T18:49:31.150Z,37.2898331,-121.6598358,6.07,2.22,md,47,41,0.03257,0.08,nc,nc73839866,2023-01-30T19:06:19.227Z,"16km E of Seven Trees, CA",earthquake,0.15,0.33,0.18,47,automatic,nc,nc
 2023-01-30T18:48:30.400Z,38.8180008,-122.80233,8.57,0.73,md,8,161,0.0081,0.06,nc,nc73839861,2023-01-30T19:06:18.227Z,"6km NW of The Geysers, CA",earthquake,1.42,4.44,0.17,10,automatic,nc,nc
-2023-01-30T18:45:37.301Z,12.1356,93.5221,104.548,4.9,mb,82,36,5.896,0.84,us,us6000jkdx,2023-01-30T19:32:25.912Z,"99 km ENE of Port Blair, India",earthquake,8.48,5.056,0.063,83,reviewed,us,us
+2023-01-30T18:45:37.301Z,12.1356,93.5221,104.548,4.9,mb,82,36,5.896,0.84,us,us6000jkdx,2023-01-30T19:54:21.618Z,"99 km ENE of Port Blair, India",earthquake,8.48,5.056,0.063,83,reviewed,us,us
 2023-01-30T18:43:56.830Z,34.2141667,-117.662,13.54,1.24,ml,25,67,0.02477,0.23,ci,ci40164271,2023-01-30T18:47:30.223Z,"13km NW of Rancho Cucamonga, CA",earthquake,0.46,0.57,0.308,33,automatic,ci,ci
 2023-01-30T18:32:52.628Z,64.5764,-147.8525,7.7,1.9,ml,,,,1.19,ak,ak0231dx16nq,2023-01-30T18:35:23.475Z,"26 km S of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-30T18:31:58.331Z,62.6711,-149.6064,50.7,1.5,ml,,,,0.85,ak,ak0231dx0zdc,2023-01-30T18:33:43.097Z,"35 km NE of Chase, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -206,6 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-29T20:18:58.078Z,5.423,126.1765,152.004,4.6,mb,66,74,1.74,1.21,us,us6000jk73,2023-01-30T06:03:35.068Z,"79 km E of Sarangani, Philippines",earthquake,4.35,6.913,0.063,75,reviewed,us,us
 2023-01-29T20:12:41.630Z,35.5073333,-118.3866667,10.06,1.14,ml,17,76,0.1707,0.15,ci,ci40163847,2023-01-29T22:07:27.297Z,"13km SE of Bodfish, CA",earthquake,0.29,0.85,0.117,14,reviewed,ci,ci
 2023-01-29T19:57:15.538Z,2.8689,126.9675,47.666,5,mb,26,140,2.121,0.66,us,us6000jk70,2023-01-29T20:28:55.040Z,"171 km NW of Tobelo, Indonesia",earthquake,5.52,10.023,0.069,66,reviewed,us,us
-2023-01-29T19:52:07.840Z,37.8544998,-122.0145035,4.25,2.23,md,8,171,0.745,0.17,nc,nc73839426,2023-01-30T09:44:41.621Z,"2km ENE of Alamo, CA",earthquake,6.51,14.8,,1,automatic,nc,nc
-2023-01-29T19:51:14.940Z,38.8031654,-122.8176651,2.72,1.48,md,26,62,0.01065,0.03,nc,nc73839421,2023-01-29T21:58:14.385Z,"6km WNW of The Geysers, CA",earthquake,0.23,0.4,0.18,28,automatic,nc,nc
-2023-01-29T19:50:38.820Z,61.2968,-151.8202,86,1.5,ml,,,,0.58,ak,ak0231ca73m2,2023-01-29T19:53:03.520Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
