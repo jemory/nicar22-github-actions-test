@@ -1,7 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-01-31T21:41:58.470Z,38.7804985,-122.7641678,1.5,0.27,md,10,98,0.009841,0.02,nc,nc73840286,2023-01-31T21:43:36.129Z,"1km WNW of The Geysers, CA",earthquake,0.3,0.71,0.14,10,automatic,nc,nc
+2023-01-31T21:41:15.080Z,37.4753342,-118.8399963,3.99,2.72,md,19,174,0.1148,0.03,nc,nc73840281,2023-01-31T21:45:12.444Z,"17km SW of Toms Place, CA",earthquake,0.32,1.53,0.11,24,automatic,nc,nc
 2023-01-31T21:29:37.500Z,35.6868333,-117.5125,6.74,1.44,ml,19,157,0.1082,0.19,ci,ci40164751,2023-01-31T21:33:14.611Z,"13km SW of Searles Valley, CA",earthquake,0.41,1.11,0.082,19,automatic,ci,ci
 2023-01-31T21:29:14.000Z,33.884,-116.259,3,1.61,ml,45,61,0.08233,0.2,ci,ci40164743,2023-01-31T21:32:56.663Z,"14km ENE of Thousand Palms, CA",earthquake,0.24,0.7,0.199,27,automatic,ci,ci
-2023-01-31T21:28:09.210Z,35.7221667,-117.5635,8.46,1.39,ml,18,150,0.09738,0.17,ci,ci40164735,2023-01-31T21:31:42.658Z,"15km NE of Ridgecrest, CA",earthquake,0.46,1.27,0.209,17,automatic,ci,ci
+2023-01-31T21:28:34.560Z,17.914,-66.9016666666667,14.89,2.24,md,9,231,0.05827,0.07,pr,pr71395013,2023-01-31T21:39:05.690Z,"6 km S of Guánica, Puerto Rico",earthquake,0.86,0.46,0.143320741876249,5,reviewed,pr,pr
+2023-01-31T21:28:09.210Z,35.7221667,-117.5635,8.46,1.39,ml,18,150,0.09738,0.17,ci,ci40164735,2023-01-31T21:39:09.400Z,"15km NE of Ridgecrest, CA",earthquake,0.46,1.27,0.209,17,automatic,ci,ci
 2023-01-31T21:07:32.090Z,32.781,-115.544,10.33,2.1,ml,20,110,0.08539,0.2,ci,ci40164727,2023-01-31T21:18:00.200Z,"2km ESE of El Centro, CA",earthquake,0.49,0.93,0.291,27,automatic,ci,ci
 2023-01-31T21:06:27.346Z,60.9985,-147.6633,14.7,2,ml,,,,1.36,ak,ak0231fm75yb,2023-01-31T21:08:51.569Z,"55 km WNW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T21:04:12.870Z,36.0144997,-120.5721664,2.75,1.23,md,11,118,0.02927,0.04,nc,nc73840276,2023-01-31T21:16:11.271Z,"18km NW of Parkfield, CA",earthquake,0.35,0.8,0.14,4,automatic,nc,nc
@@ -10,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T20:33:36.669Z,61.4193,-146.6102,31.7,1.4,ml,,,,0.71,ak,ak0231flrkv6,2023-01-31T20:35:43.926Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-01-31T20:32:24.920Z,38.8333321,-122.815834,1.58,0.69,md,11,63,0.01089,0.01,nc,nc73840256,2023-01-31T20:43:11.078Z,"8km NW of The Geysers, CA",earthquake,0.27,0.68,0.5,12,automatic,nc,nc
 2023-01-31T20:25:13.032Z,64.4259,-148.074,6.3,1.4,ml,,,,0.83,ak,ak0231flptbb,2023-01-31T20:27:07.495Z,"44 km SSW of South Van Horn, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-01-31T20:16:12.640Z,37.3344994,-122.2013321,9.05,1.87,md,26,76,0.04156,0.1,nc,nc73840251,2023-01-31T20:28:10.976Z,"6km SSE of Portola Valley, CA",earthquake,0.27,0.59,0.1,22,automatic,nc,nc
+2023-01-31T20:16:12.640Z,37.3344994,-122.2013321,9.05,1.87,md,26,76,0.04156,0.1,nc,nc73840251,2023-01-31T21:38:16.510Z,"6km SSE of Portola Valley, CA",earthquake,0.27,0.59,0.1,22,automatic,nc,nc
 2023-01-31T20:13:12.230Z,32.7905,-115.5643333,3.36,1.67,ml,14,68,0.1001,0.3,ci,ci40164711,2023-01-31T20:16:52.283Z,"1km WNW of El Centro, CA",earthquake,0.62,1.15,0.235,24,automatic,ci,ci
 2023-01-31T20:06:47.680Z,34.9151667,-119.5706667,7.29,1.08,ml,15,100,0.0892,0.22,ci,ci40164703,2023-01-31T20:10:25.494Z,"22km SW of Maricopa, CA",earthquake,0.46,1.35,0.093,6,automatic,ci,ci
 2023-01-31T20:06:29.642Z,58.1477,-151.6257,4.9,2.3,ml,,,,0.63,ak,ak0231fllrzo,2023-01-31T20:09:33.775Z,"57 km ENE of Ouzinkie, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -165,7 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T02:16:40.051Z,36.9717,-116.008,7.1,-0.1,ml,7,105.28,0.042,0.0964,nn,nn00855497,2023-01-31T17:40:25.274Z,"53 km NW of Indian Springs, Nevada",earthquake,,2.4,0.24,5,reviewed,nn,nn
 2023-01-31T02:05:27.970Z,19.2483329772949,-155.395172119141,30.5499992370605,1.98000002,md,35,179,,0.119999997,hv,hv73316047,2023-01-31T02:08:28.560Z,"Hawaii region, Hawaii",earthquake,0.8,0.980000019,0.5,8,automatic,hv,hv
 2023-01-31T02:02:15.710Z,35.778,-98.07833333,10.33,1.8,ml,69,37,0.1907625659,0.15,ok,ok2023cczd,2023-01-31T13:31:30.387Z,"10 km WNW of Okarche, Oklahoma",earthquake,,1.4,0.21,52,reviewed,ok,ok
-2023-01-31T02:00:36.702Z,59.6157,-153.5687,119.2,2,ml,,,,0.42,ak,ak0231faupcm,2023-01-31T02:02:59.798Z,"35 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-01-31T02:00:36.702Z,59.6157,-153.5687,119.2,2,ml,,,,0.42,ak,ak0231faupcm,2023-01-31T21:37:29.700Z,"35 km ESE of Pedro Bay, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T01:47:59.480Z,59.9627,-152.5389,75.1,1.5,ml,,,,0.62,ak,ak0231fajhfg,2023-01-31T01:50:20.272Z,"Southern Alaska",earthquake,,2,,,automatic,ak,ak
 2023-01-31T01:41:24.420Z,38.847332,-122.81633,1.68,0.71,md,12,56,0.009142,0.03,nc,nc73839981,2023-01-31T04:19:13.725Z,"8km WNW of Cobb, CA",earthquake,0.35,0.79,0.09,12,automatic,nc,nc
 2023-01-31T01:41:13.890Z,19.1768333333333,-155.480833333333,28.59,1.51,md,19,128,,0.11,hv,hv73316042,2023-01-31T06:24:57.650Z,"2 km S of Pāhala, Hawaii",earthquake,0.71,0.92,0.135701411129118,10,reviewed,hv,hv
@@ -204,5 +207,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T22:15:08.110Z,49.00383333333333,-122.2765,-0.45,1.5,ml,5,205,0.1261,0.25,uw,uw61904601,2023-01-31T05:00:10.950Z,"0 km WNW of Sumas, Washington",explosion,4.95,31.61,0.05129997069499581,2,reviewed,uw,uw
 2023-01-30T22:09:27.960Z,33.8878333,-116.257,2.47,0.91,ml,15,99,0.0955,0.26,ci,ci40164343,2023-01-30T22:13:04.128Z,"14km ENE of Thousand Palms, CA",earthquake,0.52,0.72,0.173,15,automatic,ci,ci
 2023-01-30T21:48:25.030Z,38.8346672,-122.8069992,2.05,1.01,md,17,63,0.01151,0.01,nc,nc73839936,2023-01-30T22:41:18.645Z,"7km W of Cobb, CA",earthquake,0.25,0.6,0.12,16,automatic,nc,nc
-2023-01-30T21:42:11.990Z,32.612,-116.9786667,2.54,1.31,ml,23,244,0.04114,0.27,ci,ci40164327,2023-01-30T21:45:54.080Z,"7km ESE of Chula Vista, CA",quarry blast,1.85,0.58,0.218,6,automatic,ci,ci
-2023-01-30T21:38:10.510Z,46.86566666666667,-122.26466666666667,-0.36,1.3800000000000001,ml,23,177,0.1037,0.15,uw,uw61904596,2023-01-31T01:25:03.250Z,"0 km SE of Eatonville, Washington",explosion,0.38,31.61,0.1397241606003563,12,reviewed,uw,uw
