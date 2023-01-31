@@ -3,7 +3,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T09:15:30.247Z,64.8142,-150.5344,10.9,1.2,ml,,,,0.36,ak,ak0231ff3xts,2023-01-31T09:17:33.701Z,"21 km SSE of Manley Hot Springs, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-01-31T09:03:19.539Z,59.9178,-153.0011,111.7,1.9,ml,,,,0.48,ak,ak0231ff1cqt,2023-01-31T09:06:14.410Z,"63 km ENE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-01-31T09:02:05.480Z,18.173,-66.979,19.04,2.61,md,9,120,0.2071,0.12,pr,pr71394938,2023-01-31T09:17:02.320Z,"0 km S of Maricao, Puerto Rico",earthquake,0.34,0.59,0.0715327355142703,7,reviewed,pr,pr
-2023-01-31T09:01:40.260Z,33.1811667,-115.6116667,1.67,1.94,ml,38,85,0.004969,0.23,ci,ci40164447,2023-01-31T09:12:46.950Z,"11km SW of Niland, CA",earthquake,0.33,0.37,0.16,26,automatic,ci,ci
+2023-01-31T09:01:40.260Z,33.1811667,-115.6116667,1.67,1.94,ml,38,85,0.004969,0.23,ci,ci40164447,2023-01-31T09:34:51.771Z,"11km SW of Niland, CA",earthquake,0.33,0.37,0.16,26,automatic,ci,ci
 2023-01-31T08:49:57.551Z,19.8499,121.3855,21.758,4.6,mb,48,68,2.967,0.56,us,us6000jkhu,2023-01-31T09:12:18.040Z,"90 km SW of Basco, Philippines",earthquake,9.25,5.459,0.088,39,reviewed,us,us
 2023-01-31T08:26:38.450Z,33.8826667,-116.5726667,10.96,1.21,ml,37,44,0.05335,0.15,ci,ci40164439,2023-01-31T08:37:34.930Z,"3km SW of Garnet, CA",earthquake,0.19,0.42,0.152,26,automatic,ci,ci
 2023-01-31T08:17:00.393Z,60.6023,-142.7618,13.1,0.9,ml,,,,0.18,ak,ak0231feivcn,2023-01-31T08:18:26.801Z,"93 km S of McCarthy, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -18,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T07:13:43.200Z,35.5018333,-118.3953333,4.63,2.13,ml,35,32,0.1729,0.21,ci,ci40164423,2023-01-31T07:24:14.100Z,"13km SE of Bodfish, CA",earthquake,0.25,2.61,0.261,26,automatic,ci,ci
 2023-01-31T06:56:10.414Z,63.1035,-151.4346,5.3,1.6,ml,,,,0.56,ak,ak0231fdkdu9,2023-01-31T07:00:03.433Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T06:50:31.095Z,61.1837,-142.6301,14.8,1.6,ml,,,,0.61,ak,ak0231fdj5d5,2023-01-31T06:57:13.893Z,"31 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T09:03:10.643Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
+2023-01-31T06:37:33.320Z,38.7775002,-122.7826691,3.43,1.28,md,8,160,0.01486,0.17,nc,nc73840071,2023-01-31T09:29:14.829Z,"2km W of The Geysers, CA",earthquake,1.82,2.35,0.25,7,automatic,nc,nc
 2023-01-31T06:17:52.610Z,38.8115005,-122.8123322,3.24,1.05,md,17,63,0.01201,0.02,nc,nc73840066,2023-01-31T07:03:12.835Z,"6km NW of The Geysers, CA",earthquake,0.31,0.99,0.19,18,automatic,nc,nc
 2023-01-31T06:12:30.610Z,38.8366661,-122.80867,1.9,0.69,md,10,90,0.0133,0.01,nc,nc73840061,2023-01-31T08:11:12.303Z,"8km WNW of Cobb, CA",earthquake,0.36,1.12,0.52,12,automatic,nc,nc
 2023-01-31T06:08:08.372Z,61.0644,-152.3274,101.2,2,ml,,,,0.68,ak,ak0231fda38v,2023-01-31T06:10:35.693Z,"64 km W of Tyonek, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -212,4 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-30T09:59:53.855Z,31.62969046,-104.2885011,7.494091797,2.1,ml,37,60,0.04655547907,0.2,tx,tx2023cbtk,2023-01-30T20:11:21.511Z,"58 km NW of Toyah, Texas",earthquake,0.6250944704999999,0.8048106655,0.2,29,reviewed,tx,tx
 2023-01-30T09:52:06.738Z,12.5473,-88.3174,58.814,4.9,mb,70,134,1.307,1.57,us,us6000jka2,2023-01-30T13:50:45.634Z,"76 km SSW of Chirilagua, El Salvador",earthquake,6.7,8.253,0.027,446,reviewed,us,us
 2023-01-30T09:39:41.580Z,46.848166666666664,-121.76883333333333,-0.27,-0.14,ml,14,86,0.02762,0.08,uw,uw61904511,2023-01-30T18:04:43.490Z,"22 km ENE of Ashford, Washington",earthquake,0.22,1.3,0.07890852908990684,5,reviewed,uw,uw
-2023-01-30T09:39:15.420Z,37.623333,-118.8493347,6.53,1.9,md,18,75,0.01165,0.03,nc,nc73839731,2023-01-30T13:10:15.012Z,"12km E of Mammoth Lakes, CA",earthquake,0.4,0.47,0.09,19,automatic,nc,nc
