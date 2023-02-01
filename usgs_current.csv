@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-01T06:47:41.746Z,60.2092,-151.0629,66.3,1.5,ml,,,,0.47,ak,ak0231h11vb2,2023-02-01T06:49:20.507Z,"18 km SE of Kasilof, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-02-01T06:41:41.556Z,61.3708,-151.9525,97.1,1.5,ml,,,,0.38,ak,ak0231h10kzv,2023-02-01T06:43:48.387Z,"53 km WNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-01T06:31:43.241Z,63.4513,-147.5987,4,1.9,ml,,,,0.43,ak,ak0231h0yfys,2023-02-01T06:33:30.494Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-01T06:20:43.920Z,38.8288345,-122.8154984,2.23,0.7,md,13,61,0.006889,0.02,nc,nc73840426,2023-02-01T06:32:11.497Z,"8km NW of The Geysers, CA",earthquake,0.28,0.73,0.17,13,automatic,nc,nc
 2023-02-01T05:55:42.590Z,38.8348351,-122.8058319,2.21,0.99,md,12,60,0.01189,0,nc,nc73840416,2023-02-01T06:14:11.909Z,"7km W of Cobb, CA",earthquake,0.4,0.71,0.17,12,automatic,nc,nc
@@ -227,5 +229,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-31T07:09:20.350Z,46.85216666666667,-121.75716666666666,1.45,0.11,ml,17,72,0.02343,0.08,uw,uw61904631,2023-01-31T19:11:32.060Z,"23 km ENE of Ashford, Washington",earthquake,0.24,0.55,0.15153199811558832,8,reviewed,uw,uw
 2023-01-31T06:56:10.414Z,63.1035,-151.4346,5.3,1.6,ml,,,,0.56,ak,ak0231fdkdu9,2023-01-31T07:00:03.433Z,"50 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-01-31T06:53:20.653Z,38.3001,-118.6008,6.8,-0.1,ml,5,293.82,0.09,0.035,nn,nn00855500,2023-01-31T17:55:56.069Z,"25 km S of Hawthorne, Nevada",earthquake,,32.5,0,1,reviewed,nn,nn
-2023-01-31T06:50:31.095Z,61.1837,-142.6301,14.8,1.6,ml,,,,0.61,ak,ak0231fdj5d5,2023-01-31T06:57:13.893Z,"31 km SSE of McCarthy, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-01-31T06:50:27.460Z,19.3643333333333,-155.128,7.28,0.46,md,10,169,,0.08,hv,hv73316262,2023-02-01T02:23:26.140Z,"11 km S of Fern Forest, Hawaii",earthquake,0.85,0.72,0.0477033705695614,3,reviewed,hv,hv
