@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-03T17:47:16.730Z,38.8214989,-122.7955017,0.91,0.71,md,11,79,0.01351,0.03,nc,nc73841481,2023-02-03T17:48:49.672Z,"6km NW of The Geysers, CA",earthquake,0.38,0.68,0.14,11,automatic,nc,nc
 2023-02-03T17:08:38.000Z,33.7918333,-116.1213333,2.43,0.76,ml,18,92,0.08358,0.29,ci,ci40165855,2023-02-03T17:12:15.669Z,"12km NE of Indio, CA",earthquake,0.55,1.08,0.068,15,automatic,ci,ci
 2023-02-03T17:07:39.160Z,33.7916667,-116.1158333,2.25,0.91,ml,19,94,0.08816,0.17,ci,ci40165847,2023-02-03T17:11:15.200Z,"12km NE of Indio, CA",earthquake,0.3,0.52,0.094,23,automatic,ci,ci
 2023-02-03T17:03:57.016Z,61.2161,-151.4045,69.4,1.5,ml,,,,0.53,ak,ak0231kiexmd,2023-02-03T17:05:44.326Z,"19 km WNW of Beluga, Alaska",earthquake,,0.8,,,automatic,ak,ak
@@ -36,7 +37,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T13:09:33.310Z,38.8363342,-122.7900009,1.83,0.72,md,7,79,0.002089,0.01,nc,nc73841406,2023-02-03T14:38:12.692Z,"6km WNW of Cobb, CA",earthquake,0.51,1.55,0.26,8,automatic,nc,nc
 2023-02-03T13:02:50.830Z,35.5903333,-117.5981667,9.2,1.43,ml,17,108,0.13,0.19,ci,ci40165791,2023-02-03T13:13:44.110Z,"8km ESE of Ridgecrest, CA",earthquake,0.38,1.13,0.183,20,automatic,ci,ci
 2023-02-03T12:51:14.980Z,39.0441666,-123.072998,13.3,1.53,md,7,141,0.08573,0.06,nc,nc73841401,2023-02-03T14:12:12.547Z,"13km SE of Talmage, CA",earthquake,0.53,1.18,0.03,3,automatic,nc,nc
-2023-02-03T12:48:55.939Z,61.4862,-140.7181,4.675,3.3,ml,37,60,0.626,0.83,us,us6000jl60,2023-02-03T12:58:53.040Z,"117 km E of McCarthy, Alaska",earthquake,3.28,4.164,0.033,118,reviewed,us,us
+2023-02-03T12:48:55.939Z,61.4862,-140.7181,4.675,3.3,ml,37,60,0.626,0.83,us,us6000jl60,2023-02-03T17:54:57.595Z,"117 km E of McCarthy, Alaska",earthquake,3.28,4.164,0.033,118,reviewed,us,us
 2023-02-03T12:46:58.988Z,61.2925,-147.4505,0,1.4,ml,,,,1.9,ak,ak0231kfozje,2023-02-03T12:48:58.704Z,"58 km S of Glacier View, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-03T12:45:24.970Z,38.8170013,-122.8498306,1.16,0.71,md,6,138,0.02429,0.01,nc,nc73841396,2023-02-03T13:46:12.419Z,"9km WNW of The Geysers, CA",earthquake,0.67,1.06,0.4,7,automatic,nc,nc
 2023-02-03T12:44:15.970Z,36.8027,21.6287,37.092,4.3,mb,35,212,0.444,0.46,us,us6000jl5y,2023-02-03T13:29:55.040Z,"7 km WSW of Methóni, Greece",earthquake,6.87,8.063,0.161,11,reviewed,us,us
@@ -213,8 +214,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-02T18:03:35.899Z,61.3864,-150.0672,45.4,1.4,ml,,,,0.67,ak,ak0231ivgz3o,2023-02-02T20:50:12.558Z,"5 km WNW of Point MacKenzie, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-02T18:03:00.830Z,19.2321662902832,-155.390167236328,31.3199996948242,1.89,ml,42,145,,0.150000006,hv,hv73317962,2023-02-02T18:08:30.580Z,"9 km ENE of Pāhala, Hawaii",earthquake,0.59,0.829999983,3.33,7,automatic,hv,hv
 2023-02-02T18:01:24.590Z,46.343833333333336,-122.36333333333333,16.79,1.27,ml,45,80,0.04119,0.14,uw,uw61905081,2023-02-02T19:56:40.210Z,"22 km SSE of Mossyrock, Washington",earthquake,0.3,0.38,0.2014322160452292,23,reviewed,uw,uw
-2023-02-02T17:55:14.550Z,34.0181667,-116.7368333,12.51,0.73,ml,24,147,0.06131,0.09,ci,ci40165519,2023-02-02T19:56:40.802Z,"12km NNE of Cabazon, CA",earthquake,0.22,0.39,0.145,5,reviewed,ci,ci
-2023-02-02T17:55:06.240Z,58.178,-155.356666666667,0.81,-0.4,ml,8,173,,0.05,av,av91754231,2023-02-03T02:56:55.570Z,"86 km NW of Karluk, Alaska",earthquake,0.27,1.07,0.146488570155106,8,reviewed,av,av
-2023-02-02T17:54:51.190Z,34.0198333,-116.7273333,12.57,0.5,ml,16,151,0.06851,0.12,ci,ci37497572,2023-02-02T20:01:48.372Z,"13km NNE of Cabazon, CA",earthquake,0.34,0.74,0.207,4,reviewed,ci,ci
-2023-02-02T17:49:23.860Z,38.7886658,-122.8119965,-0.67,1.37,md,19,132,0.006984,0.21,nc,nc73841061,2023-02-02T20:08:12.100Z,"5km WNW of The Geysers, CA",earthquake,0.56,0.96,0.21,21,automatic,nc,nc
-2023-02-02T17:46:50.490Z,53.387,-168.1715,0.25,0.89,ml,6,195,,0.33,av,av91086858,2023-02-03T03:15:23.140Z,"67 km NE of Nikolski, Alaska",earthquake,0.9,0.75,0.186311650199839,5,reviewed,av,av
