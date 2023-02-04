@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-04T19:38:21.500Z,38.7999992,-122.8010025,2.94,1.03,md,12,65,0.009119,0.02,nc,nc73841961,2023-02-04T19:39:56.639Z,"5km WNW of The Geysers, CA",earthquake,0.38,0.96,0.11,14,automatic,nc,nc
+2023-02-04T19:52:24.711Z,59.9665,-149.1825,18.8,1.4,ml,,,,0.58,ak,ak0231m7fkx3,2023-02-04T19:54:21.454Z,"18 km SE of Lowell Point, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-02-04T19:49:37.680Z,33.5223333,-116.524,11.81,0.95,ml,36,40,0.03556,0.21,ci,ci40410976,2023-02-04T19:53:11.934Z,"14km ESE of Anza, CA",earthquake,0.28,0.46,0.196,24,automatic,ci,ci
+2023-02-04T19:40:20.272Z,31.62083591,-103.9802855,7.018493652,3.7,ml,22,52,0.01408549174,0.1,tx,tx2023clqb,2023-02-04T19:53:01.909Z,"37 km WSW of Mentone, Texas",earthquake,0.6114518333999999,0.4077145666,0.3,19,reviewed,tx,tx
+2023-02-04T19:38:21.500Z,38.7999992,-122.8010025,2.94,1.03,md,12,65,0.009119,0.02,nc,nc73841961,2023-02-04T19:56:13.329Z,"5km WNW of The Geysers, CA",earthquake,0.38,0.96,0.11,14,automatic,nc,nc
 2023-02-04T19:24:34.457Z,59.1087,-145.8788,4.9,3.6,ml,,,,0.58,ak,ak0231m79lqk,2023-02-04T19:26:51.837Z,"159 km S of Cordova, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-04T19:01:16.842Z,65.0078,-148.0907,15.7,1.9,ml,,,,0.69,ak,ak0231m74msk,2023-02-04T19:02:54.356Z,"18 km NNW of Ester, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-04T18:54:24.969Z,59.8707,-153.4134,137.8,2.6,ml,,,,0.5,ak,ak0231m6ukrk,2023-02-04T18:56:37.354Z,"39 km ENE of Pedro Bay, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -14,7 +17,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T18:12:37.080Z,38.8268318,-122.8544998,2.41,1.17,md,17,61,0.001986,0.01,nc,nc73841911,2023-02-04T19:06:12.013Z,"10km WNW of The Geysers, CA",earthquake,0.24,0.62,0.33,15,automatic,nc,nc
 2023-02-04T18:12:28.930Z,38.8269997,-122.8550034,2.62,2.17,md,25,94,0.001559,0.02,nc,nc73841926,2023-02-04T19:16:12.501Z,"10km WNW of The Geysers, CA",earthquake,0.23,0.43,0.1,27,automatic,nc,nc
 2023-02-04T18:12:15.940Z,38.8271675,-122.854332,2.49,0.8,md,5,127,0.01561,0.01,nc,nc73841906,2023-02-04T18:55:12.949Z,"10km WNW of The Geysers, CA",earthquake,0.95,4.01,0.32,8,automatic,nc,nc
-2023-02-04T18:09:49.304Z,51.6632,-177.5098,65.7,3.8,ml,,,,0.73,ak,ak0231m6kzf6,2023-02-04T18:23:18.154Z,"64 km WSW of Adak, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-04T18:09:48.439Z,51.6302,-177.5117,67.1,3.9,ml,,,,0.36,ak,ak0231m6kzf6,2023-02-04T19:50:39.514Z,"66 km WSW of Adak, Alaska",earthquake,,0.4,,,reviewed,ak,ak
 2023-02-04T18:03:04.590Z,38.8269997,-122.8544998,2.2,0.78,md,15,96,0.001932,0.01,nc,nc73841896,2023-02-04T18:33:13.808Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.53,0.19,17,automatic,nc,nc
 2023-02-04T17:45:42.000Z,38.793335,-122.7785034,3.97,0.75,md,9,100,0.01639,0.02,nc,nc73841886,2023-02-04T18:10:12.653Z,"3km NW of The Geysers, CA",earthquake,0.52,1.49,0.19,10,automatic,nc,nc
 2023-02-04T17:44:42.431Z,37.1648,-116.6064,9.5,0.7,ml,10,180.79,0.094,0.2076,nn,nn00855696,2023-02-04T17:45:43.007Z,"31 km NNE of Beatty, Nevada",earthquake,,2.7,1.26,5,automatic,nn,nn
@@ -212,4 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-03T20:18:46.370Z,19.4236666666667,-155.379666666667,8.85,1.69,ml,29,97,,0.11,hv,hv73318682,2023-02-03T22:01:55.150Z,"15 km W of Volcano, Hawaii",earthquake,0.31,0.69,0.119189433029287,6,reviewed,hv,hv
 2023-02-03T20:04:43.196Z,60.2944,-152.5272,106,1.5,ml,,,,0.55,ak,ak0231kk7f34,2023-02-03T20:07:33.796Z,"54 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-03T20:03:38.480Z,35.6761667,-117.5206667,6.06,0.78,ml,17,98,0.1014,0.1,ci,ci40410432,2023-02-03T21:50:53.982Z,"15km SW of Searles Valley, CA",earthquake,0.22,0.92,0.161,7,reviewed,ci,ci
-2023-02-03T19:58:26.500Z,33.0376667,-116.3991667,6.49,1.28,ml,47,44,0.05135,0.16,ci,ci40410312,2023-02-03T21:48:01.280Z,"19km ESE of Julian, CA",earthquake,0.16,0.36,0.16,27,reviewed,ci,ci
