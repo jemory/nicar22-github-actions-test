@@ -1,14 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-05T20:35:47.576Z,60.2198,-153.3122,162.2,2.9,ml,,,,0.5,ak,ak0231nvgrjn,2023-02-05T20:38:12.262Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-05T20:51:23.420Z,33.8876667,-116.2623333,2.56,1.49,ml,32,67,0.08301,0.31,ci,ci40411376,2023-02-05T20:54:54.844Z,"14km ENE of Thousand Palms, CA",earthquake,0.38,0.62,0.174,28,automatic,ci,ci
+2023-02-05T20:35:47.576Z,60.2198,-153.3122,162.2,2.9,ml,,,,0.5,ak,ak0231nvgrjn,2023-02-05T20:54:44.040Z,"55 km E of Port Alsworth, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-05T20:35:32.290Z,33.5515,-116.6796667,7.24,1.31,ml,47,32,0.04371,0.2,ci,ci40411368,2023-02-05T20:39:07.604Z,"1km SW of Anza, CA",earthquake,0.21,0.46,0.173,26,automatic,ci,ci
-2023-02-05T20:34:29.640Z,38.8066673,-122.8206635,1.78,1.06,md,13,66,0.007006,0.03,nc,nc73842341,2023-02-05T20:36:07.270Z,"6km WNW of The Geysers, CA",earthquake,0.28,0.63,0.21,14,automatic,nc,nc
+2023-02-05T20:34:29.640Z,38.8066673,-122.8206635,1.78,1.06,md,13,66,0.007006,0.03,nc,nc73842341,2023-02-05T20:53:13.826Z,"6km WNW of The Geysers, CA",earthquake,0.28,0.63,0.21,14,automatic,nc,nc
+2023-02-05T20:27:42.260Z,19.0128,-68.4588,35,2.7,ml,13,197,0.501,0.35,us,us6000jlkr,2023-02-05T20:48:53.040Z,"Dominican Republic region",earthquake,4.11,1.94,0.071,26,reviewed,us,us
 2023-02-05T20:25:14.842Z,62.9343,-151.2914,127,1.9,ml,,,,0.32,ak,ak0231nvejx8,2023-02-05T20:27:30.306Z,"55 km NNW of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-05T20:18:05.139Z,32.1013,-102.0889,5,2.4,mb_lg,26,49,0.072,0.48,us,us6000jlkp,2023-02-05T20:43:11.950Z,"11 km N of Midland, Texas",earthquake,1.06,1.801,0.193,7,reviewed,us,us
 2023-02-05T19:39:14.833Z,61.8381,-150.5531,34.6,1.6,ml,,,,0.65,ak,ak0231nuw4cb,2023-02-05T19:41:47.027Z,"Southern Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-05T19:10:47.700Z,38.2055016,-121.8148346,4.91,1.79,md,10,185,0.4351,0.32,nc,nc73842321,2023-02-05T20:20:10.606Z,"12km WNW of Rio Vista, CA",earthquake,5.82,26.25,0.22,2,automatic,nc,nc
 2023-02-05T19:10:02.879Z,61.4969,-146.6387,21.4,1.9,ml,,,,0.75,ak,ak0231nupvnj,2023-02-05T19:12:11.885Z,"43 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-05T18:59:29.970Z,62.8111,-148.42,51.6,1.9,ml,,,,0.52,ak,ak0231nuf085,2023-02-05T19:01:35.308Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-05T18:57:03.500Z,38.8296661,-122.8006668,1.12,0.85,md,9,113,0.02207,0.02,nc,nc73842316,2023-02-05T19:55:10.456Z,"7km W of Cobb, CA",earthquake,0.31,1.27,0.15,11,automatic,nc,nc
+2023-02-05T18:57:03.500Z,38.8296661,-122.8006668,1.12,0.85,md,9,113,0.02207,0.02,nc,nc73842316,2023-02-05T20:53:14.825Z,"7km W of Cobb, CA",earthquake,0.31,1.27,0.15,11,automatic,nc,nc
 2023-02-05T18:41:19.020Z,19.0340003967285,-155.408004760742,34.7099990844727,1.88,ml,44,211,,0.129999995,hv,hv73319842,2023-02-05T19:47:47.040Z,"18 km ESE of Naalehu, Hawaii",earthquake,0.58,0.980000019,5.27,3,automatic,hv,hv
 2023-02-05T18:31:33.231Z,59.7158,-153.0799,21.5,3.2,ml,,,,0.23,ak,ak0231nu90ff,2023-02-05T19:40:57.040Z,"58 km E of Pedro Bay, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-05T18:28:16.550Z,38.8284988,-122.8563309,2.23,0.65,md,8,130,0.01497,0.01,nc,nc73842306,2023-02-05T20:26:11.646Z,"10km WNW of The Geysers, CA",earthquake,0.42,0.68,0.36,10,automatic,nc,nc
@@ -156,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-04T21:49:43.020Z,17.8635,-66.907,12.23,2.75,md,20,221,0.1081,0.13,pr,pr71395378,2023-02-04T22:12:53.110Z,"11 km S of Guánica, Puerto Rico",earthquake,0.43,0.33,0.122684266542084,9,reviewed,pr,pr
 2023-02-04T21:24:55.530Z,37.2442,71.4366,151.861,4.3,mb,29,75,2.248,0.66,us,us6000jlgk,2023-02-04T21:44:47.040Z,"29 km SSW of Khorugh, Tajikistan",earthquake,5.85,14.572,0.216,6,reviewed,us,us
 2023-02-04T21:03:51.948Z,-17.558,-178.5865,545.131,4.3,mb,34,107,3.209,0.69,us,us6000jlgj,2023-02-04T21:37:41.040Z,"229 km ENE of Levuka, Fiji",earthquake,15.23,9.898,0.116,21,reviewed,us,us
-2023-02-04T20:49:49.678Z,63.5688,-151.9713,32.1,1.7,ml,,,,1.12,ak,ak0231m80fav,2023-02-04T20:52:00.500Z,"12 km WNW of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
