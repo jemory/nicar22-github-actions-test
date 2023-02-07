@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-07T10:36:08.740Z,38.8354988,-122.8136673,0.65,0.75,md,7,115,0.01241,0.02,nc,nc73842941,2023-02-07T10:37:44.601Z,"8km W of Cobb, CA",earthquake,0.48,1.56,0.35,8,automatic,nc,nc
+2023-02-07T10:36:08.740Z,38.8354988,-122.8136673,0.65,0.75,md,7,115,0.01241,0.02,nc,nc73842941,2023-02-07T10:47:12.169Z,"8km W of Cobb, CA",earthquake,0.48,1.56,0.35,8,automatic,nc,nc
 2023-02-07T10:26:09.734Z,64.1802,-147.9675,11.1,1.1,ml,,,,0.27,ak,ak0231r0j46l,2023-02-07T10:28:08.242Z,"58 km ENE of Ferry, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-07T10:18:13.368Z,38.0026,38.5474,10,5.4,mww,94,29,1.348,0.56,us,us6000jm7f,2023-02-07T10:40:25.338Z,"6 km WSW of Sincik, Turkey",earthquake,5.35,1.838,0.073,18,reviewed,us,us
+2023-02-07T10:18:13.368Z,38.0026,38.5474,10,5.4,mww,94,29,1.348,0.56,us,us6000jm7f,2023-02-07T10:46:52.067Z,"6 km WSW of Sincik, Turkey",earthquake,5.35,1.838,0.073,18,reviewed,us,us
+2023-02-07T09:56:46.485Z,-3.593,126.5943,10,4.7,mb,37,52,3.429,0.67,us,us6000jm7c,2023-02-07T10:50:02.040Z,"176 km W of Ambon, Indonesia",earthquake,6.15,1.766,0.112,24,reviewed,us,us
 2023-02-07T09:31:43.920Z,59.7432,-152.7083,86.1,1.8,ml,,,,0.51,ak,ak0231qzytso,2023-02-07T09:34:14.373Z,"49 km W of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-07T09:08:06.390Z,33.4438333,-116.636,4.58,0.78,ml,32,38,0.05807,0.25,ci,ci40411776,2023-02-07T09:11:51.759Z,"13km SSE of Anza, CA",earthquake,0.29,0.57,0.167,18,automatic,ci,ci
 2023-02-07T08:49:35.903Z,49.4715,-28.4164,10,5,mb,51,127,18.899,0.78,us,us6000jm74,2023-02-07T09:08:43.040Z,"northern Mid-Atlantic Ridge",earthquake,12.63,1.918,0.041,193,reviewed,us,us
@@ -60,7 +61,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T02:43:28.181Z,38.1106,36.9246,10,4.3,mb,14,62,0.964,0.92,us,us6000jm54,2023-02-07T03:00:02.040Z,"15 km S of Afşin, Turkey",earthquake,3.21,1.987,0.161,11,reviewed,us,us
 2023-02-07T02:39:04.012Z,38.6188,37.4776,15.141,4.2,mb,22,72,1.296,1.05,us,us6000jm53,2023-02-07T03:15:46.040Z,"8 km NNW of Darende, Turkey",earthquake,3.67,5.287,0.176,9,reviewed,us,us
 2023-02-07T02:35:14.640Z,37.477,-118.8445,7.51,0.65,md,9,132,0.1135,0.04,nc,nc73842811,2023-02-07T10:10:14.930Z,"17km WSW of Toms Place, CA",earthquake,0.57,2.23,0.178,8,reviewed,nc,nc
-2023-02-07T02:29:34.153Z,14.0559,145.0736,107.37,5,mb,52,77,0.505,0.63,us,us6000jm51,2023-02-07T07:22:32.196Z,"60 km NNE of Yigo Village, Guam",earthquake,11.38,6.349,0.061,84,reviewed,us,us
+2023-02-07T02:29:34.153Z,14.0559,145.0736,107.37,5,mb,52,77,0.505,0.63,us,us6000jm51,2023-02-07T10:49:52.252Z,"60 km NNE of Yigo Village, Guam",earthquake,11.38,6.349,0.061,84,reviewed,us,us
 2023-02-07T02:19:17.810Z,38.8343315,-122.8178329,1.46,0.71,md,9,142,0.01249,0.01,nc,nc73842806,2023-02-07T04:23:14.777Z,"8km NW of The Geysers, CA",earthquake,0.47,1.82,0.12,9,automatic,nc,nc
 2023-02-07T02:14:17.440Z,61.3792,-150.1101,34.3,1.7,ml,,,,0.81,ak,ak0231qvp3cg,2023-02-07T02:16:15.748Z,"7 km WNW of Point MacKenzie, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-07T02:11:32.694Z,61.3886,-147.2434,33.6,1.5,ml,,,,0.26,ak,ak0231qvohdh,2023-02-07T02:12:53.838Z,"51 km SSE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -236,5 +237,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-06T11:11:41.258Z,37.82,37.2952,17.971,4.9,mb,65,74,0.65,0.83,us,us6000jlqx,2023-02-06T18:17:14.832Z,"8 km N of Çağlayancerit, Turkey",earthquake,5.77,4.455,0.082,47,reviewed,us,us
 2023-02-06T11:05:35.742Z,37.9231,36.6909,10,5.2,mb,55,134,1.14,0.89,us,us6000jlqr,2023-02-06T18:18:05.114Z,"20 km ESE of Göksun, Turkey",earthquake,6.76,1.706,0.087,43,reviewed,us,us
 2023-02-06T11:01:34.428Z,37.4806,37.2218,10,5,mb,27,239,1.746,0.78,us,us6000jlqy,2023-02-06T18:10:00.466Z,"6 km W of Pazarcık, Turkey",earthquake,14.65,1.982,0.15,14,reviewed,us,us
-2023-02-06T10:51:30.942Z,38.1236,38.0529,12.336,5.7,mb,88,69,1.162,0.97,us,us6000jlql,2023-02-06T18:16:13.290Z,"16 km ENE of Doğanşehir, Turkey",earthquake,5.65,4.266,0.051,139,reviewed,us,us
-2023-02-06T10:46:14.490Z,56.4107,-156.7716,39.5,2.8,ml,,,,0.8,ak,ak0231pd42dl,2023-02-06T11:43:12.084Z,"101 km E of Chignik, Alaska",earthquake,,7.8,,,automatic,ak,ak
