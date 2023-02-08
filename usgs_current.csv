@@ -1,7 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-08T07:21:47.620Z,34.0605,-118.9481667,2.62,1.28,ml,14,175,0.02022,0.3,ci,ci40412168,2023-02-08T07:25:28.694Z,"14km WNW of Malibu, CA",earthquake,1.11,0.65,0.211,21,automatic,ci,ci
 2023-02-08T06:53:50.030Z,19.2609996795654,-155.413497924805,32.2799987792969,2.83,ml,45,120,,0.129999995,hv,hv73321177,2023-02-08T07:11:25.144Z,"9 km NE of Pāhala, Hawaii",earthquake,0.49,0.589999974,3.11,28,automatic,hv,hv
 2023-02-08T06:39:06.830Z,38.7999992,-122.8188324,10.91,0.77,md,6,213,0.01199,0.02,nc,nc73843411,2023-02-08T06:50:10.390Z,"6km WNW of The Geysers, CA",earthquake,3.03,7.56,0.4,8,automatic,nc,nc
-2023-02-08T06:27:07.090Z,38.7911682,-122.7210007,3.44,0.78,md,7,96,0.01462,0.01,nc,nc73843406,2023-02-08T06:38:10.310Z,"3km NW of Anderson Springs, CA",earthquake,0.45,2.83,0.05,8,automatic,nc,nc
+2023-02-08T06:27:07.090Z,38.7911682,-122.7210007,3.44,0.78,md,7,96,0.01462,0.01,nc,nc73843406,2023-02-08T07:29:45.627Z,"3km NW of Anderson Springs, CA",earthquake,0.45,2.83,0.05,8,automatic,nc,nc
 2023-02-08T06:19:47.971Z,61.3325,-141.943,4.8,1.3,ml,,,,0.42,ak,ak0231sln9vk,2023-02-08T06:23:01.549Z,"53 km ESE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-08T06:15:49.077Z,62.6073,-151.0868,79.1,2.1,ml,,,,0.49,ak,ak0231slmgez,2023-02-08T06:18:15.944Z,"20 km NW of Petersville, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-08T06:13:11.840Z,38.7938347,-122.7289963,-0.92,0.99,md,6,130,0.01218,0.07,nc,nc73843401,2023-02-08T06:32:11.271Z,"3km NE of The Geysers, CA",earthquake,0.35,2.87,0.22,7,automatic,nc,nc
@@ -27,7 +28,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-08T05:21:02.100Z,33.5681667,-116.8576667,1.69,0.7,ml,8,209,0.1308,0.24,ci,ci40412144,2023-02-08T05:24:37.232Z,"14km N of Aguanga, CA",earthquake,0.89,1.11,0.173,6,automatic,ci,ci
 2023-02-08T05:12:36.941Z,58.2352,-155.0881,0.1,1,ml,,,,0.74,ak,ak0231sl0cr2,2023-02-08T05:15:06.058Z,"83 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-08T05:04:29.480Z,38.8095016,-122.8348312,1.17,1.38,md,23,53,0.0228,0.02,nc,nc73843316,2023-02-08T07:07:11.491Z,"8km WNW of The Geysers, CA",earthquake,0.18,0.4,0.13,23,automatic,nc,nc
-2023-02-08T05:04:15.680Z,38.8101654,-122.8353348,1.06,1.19,md,24,48,0.004982,0.04,nc,nc73843311,2023-02-08T05:20:39.293Z,"8km WNW of The Geysers, CA",earthquake,0.17,0.32,0.14,22,automatic,nc,nc
+2023-02-08T05:04:15.680Z,38.8101654,-122.8353348,1.06,1.19,md,24,48,0.004982,0.04,nc,nc73843311,2023-02-08T07:32:11.781Z,"8km WNW of The Geysers, CA",earthquake,0.17,0.32,0.14,22,automatic,nc,nc
 2023-02-08T04:52:02.006Z,46.4364,152.8927,35,4.6,mb,47,132,7.366,0.44,us,us6000jmff,2023-02-08T05:33:29.040Z,"Kuril Islands",earthquake,10.81,1.923,0.102,29,reviewed,us,us
 2023-02-08T04:51:04.428Z,61.6455,-149.4705,29.8,1.8,ml,,,,0.48,ak,ak0231skn7je,2023-02-08T04:52:39.314Z,"3 km NW of Tanaina, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-08T04:40:45.040Z,34.3583333,-116.454,7.18,1.35,ml,23,113,0.08912,0.21,ci,ci40412120,2023-02-08T04:51:37.210Z,"27km N of Yucca Valley, CA",earthquake,0.4,1.02,0.186,28,automatic,ci,ci
@@ -245,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-07T07:58:08.120Z,58.1853333333333,-155.3215,1.97,0.04,ml,7,229,,0.06,av,av91756281,2023-02-08T03:02:02.780Z,"85 km NW of Karluk, Alaska",earthquake,0.47,0.35,0.231936057268348,6,reviewed,av,av
 2023-02-07T07:37:22.289Z,38.6397,-119.7978,9.6,0.4,ml,6,229.22,0.055,0.199,nn,nn00855792,2023-02-07T18:31:14.732Z,"6 km SSW of Markleeville, California",earthquake,,2,0,1,reviewed,nn,nn
 2023-02-07T07:32:26.230Z,38.8288345,-122.802002,1.59,0.77,md,10,79,0.008322,0.01,nc,nc73842926,2023-02-07T08:27:17.268Z,"7km W of Cobb, CA",earthquake,0.35,0.91,0.42,13,automatic,nc,nc
-2023-02-07T07:26:36.400Z,38.0354,37.6579,16.534,4.5,mb,35,113,0.932,0.62,us,us6000jm6v,2023-02-07T08:29:49.040Z,"19 km WSW of Doğanşehir, Turkey",earthquake,3.66,5.223,0.171,10,reviewed,us,us
-2023-02-07T07:25:17.090Z,38.8283348,-122.8103333,1.11,0.23,md,9,64,0.004937,0.02,nc,nc73842921,2023-02-07T10:00:16.868Z,"7km NW of The Geysers, CA",earthquake,0.34,0.85,0.12,9,automatic,nc,nc
-2023-02-07T07:22:05.830Z,36.2938347,-120.7656631,3.07,1.49,md,5,181,0.3598,0.13,nc,nc73842916,2023-02-07T09:38:10.712Z,"16km SSW of New Idria, CA",earthquake,4.54,11.35,0.17,5,automatic,nc,nc
