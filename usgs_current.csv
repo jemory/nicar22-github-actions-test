@@ -1,13 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-10T14:31:10.310Z,44.7906685,-110.9684982,11.25,2.53,ml,26,39,0.04125,0.21,uu,uu60530861,2023-02-10T14:38:38.060Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,0.41,0.6,1,11,reviewed,uu,uu
 2023-02-10T14:20:53.523Z,61.5663,-149.7665,33.3,1.5,ml,,,,0.46,ak,ak0231w1hp60,2023-02-10T14:22:38.477Z,"7 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-10T14:07:23.640Z,38.6086655,-122.4543304,3.98,1.64,md,16,122,0.04669,0.09,nc,nc73844536,2023-02-10T14:34:14.215Z,"4km N of Angwin, CA",earthquake,0.35,1.08,0.1,13,automatic,nc,nc
 2023-02-10T14:06:00.740Z,38.6091652,-122.4511642,2.89,1.37,md,8,122,0.04426,0.02,nc,nc73844531,2023-02-10T14:22:15.154Z,"4km N of Angwin, CA",earthquake,0.38,1.42,0.14,5,automatic,nc,nc
 2023-02-10T13:44:00.930Z,38.8349991,-122.7913361,1.99,1.23,md,20,91,0.003492,0.02,nc,nc73844521,2023-02-10T14:01:15.006Z,"6km WNW of Cobb, CA",earthquake,0.21,0.37,0.15,22,automatic,nc,nc
 2023-02-10T13:34:10.883Z,7.5295,-36.8272,10,4.9,mb,54,74,15.903,0.58,us,us6000jn33,2023-02-10T14:13:35.040Z,"central Mid-Atlantic Ridge",earthquake,6.89,1.845,0.073,58,reviewed,us,us
-2023-02-10T13:21:06.850Z,38.8474998,-122.8181686,0.64,0.33,md,10,94,0.008215,0.01,nc,nc73844516,2023-02-10T13:39:15.850Z,"9km WNW of Cobb, CA",earthquake,0.3,0.78,0.24,11,automatic,nc,nc
+2023-02-10T13:21:06.850Z,38.8474998,-122.8181686,0.64,0.33,md,10,94,0.008215,0.01,nc,nc73844516,2023-02-10T14:35:12.222Z,"9km WNW of Cobb, CA",earthquake,0.3,0.78,0.24,11,automatic,nc,nc
 2023-02-10T13:20:49.959Z,59.7902,-153.5919,130.7,2.1,ml,,,,1.08,ak,ak0231w0w9ab,2023-02-10T13:22:46.387Z,"28 km E of Pedro Bay, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-10T13:20:00.830Z,35.7803333,-117.5791667,7.47,1.05,ml,17,80,0.03835,0.17,ci,ci40413072,2023-02-10T13:23:41.043Z,"16km W of Searles Valley, CA",earthquake,0.47,0.69,0.161,11,automatic,ci,ci
-2023-02-10T12:50:35.270Z,38.7891655,-122.7693329,2.1,0.73,md,6,102,0.01369,0.01,nc,nc73844511,2023-02-10T14:10:10.063Z,"2km NW of The Geysers, CA",earthquake,0.45,1.02,0.08,7,automatic,nc,nc
+2023-02-10T12:50:35.270Z,38.7891655,-122.7693329,2.1,0.73,md,6,102,0.01369,0.01,nc,nc73844511,2023-02-10T14:42:16.269Z,"2km NW of The Geysers, CA",earthquake,0.45,1.02,0.08,7,automatic,nc,nc
 2023-02-10T12:47:19.465Z,63.6454,-146.6143,37.3,1.5,ml,,,,0.99,ak,ak0231w0gjnu,2023-02-10T12:49:10.863Z,"60 km WSW of Fort Greely, Alaska",earthquake,,2,,,automatic,ak,ak
 2023-02-10T12:44:00.761Z,58.0993,-154.5009,18.8,1.4,ml,,,,1.52,ak,ak0231w0fv1l,2023-02-10T12:47:14.350Z,"59 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-02-10T12:35:44.890Z,40.9768333,-123.6168365,28.09,3,ml,23,57,0.1345,0.11,nc,nc73844506,2023-02-10T14:16:14.113Z,"4km NNE of Willow Creek, CA",earthquake,0.52,1.12,0.228,10,automatic,nc,nc
@@ -207,7 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-09T15:06:38.870Z,38.8313332,-122.8183365,1.81,0.59,md,8,100,0.01022,0.05,nc,nc73844016,2023-02-09T15:38:13.490Z,"8km NW of The Geysers, CA",earthquake,0.37,0.96,0.18,8,automatic,nc,nc
 2023-02-09T14:57:49.452Z,62.5751,-151.185,79.6,1.7,ml,,,,0.48,ak,ak0231ue69up,2023-02-09T15:00:14.054Z,"23 km WNW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-09T14:55:24.320Z,61.0898,-149.7286,34.5,1.7,ml,,,,0.84,ak,ak0231ue5shc,2023-02-09T14:57:38.016Z,"17 km SSE of Anchorage, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-09T14:45:46.162Z,-21.8225,-68.6735,129.702,4.5,mb,23,46,0.529,1.01,us,us6000jmqx,2023-02-09T15:45:55.040Z,"74 km NNE of Calama, Chile",earthquake,7,4.983,0.204,7,reviewed,us,us
-2023-02-09T14:40:09.430Z,44.6856667,-110.4496667,6.05,0.91,md,17,83,0.05179,0.15,uu,uu60530721,2023-02-09T15:01:07.450Z,"37 km SSE of Mammoth, Wyoming",earthquake,0.48,0.67,0.198,13,reviewed,uu,uu
-2023-02-09T14:39:55.840Z,19.0338325500488,-155.412506103516,33.9199981689453,2.1500001,md,27,214,,0.129999995,hv,hv73322002,2023-02-09T15:38:31.040Z,"Island of Hawaii, Hawaii",earthquake,0.94,1.48000002,1.34000003,12,automatic,hv,hv
-2023-02-09T14:38:04.832Z,-4.2356,129.4996,133.54,4.6,mb,32,112,0.494,0.47,us,us6000jmqu,2023-02-09T14:53:15.040Z,"118 km SSE of Amahai, Indonesia",earthquake,9.46,6.165,0.114,23,reviewed,us,us
