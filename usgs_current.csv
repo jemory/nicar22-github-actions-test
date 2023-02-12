@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-12T20:31:01.330Z,19.2601661682129,-155.378494262695,30.6299991607666,1.80999994,md,25,204,,0.129999995,hv,hv73323402,2023-02-12T20:34:05.070Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.53,0.560000002,0.430000007,9,automatic,hv,hv
+2023-02-12T20:26:42.147Z,60.7042,-150.6346,56.3,1.9,ml,,,,0.73,ak,ak0231zg697a,2023-02-12T20:28:37.509Z,"19 km NNE of Sterling, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-02-12T20:26:17.870Z,33.2311667,-116.5686667,6.71,0.7,ml,11,156,0.1517,0.27,ci,ci40413936,2023-02-12T20:29:48.427Z,"8km SE of Warner Springs, CA",earthquake,1.35,31.61,0.324,5,automatic,ci,ci
 2023-02-12T20:12:16.890Z,40.5974998,-123.8388367,23.15,2.66,md,28,95,0.1268,0.11,nc,nc73845416,2023-02-12T20:18:10.174Z,"22km ENE of Hydesville, CA",earthquake,0.37,0.78,0.12,22,automatic,nc,nc
 2023-02-12T20:03:18.060Z,32.5713333,-115.6798333,7.44,1.79,ml,14,167,0.08713,0.16,ci,ci40413928,2023-02-12T20:06:47.492Z,"9km W of Progreso, B.C., MX",earthquake,0.46,0.82,0.152,26,automatic,ci,ci
 2023-02-12T19:45:35.283Z,58.1696,-155.3892,0,0.9,ml,,,,0.26,ak,ak0231zfovo8,2023-02-12T19:47:01.514Z,"86 km NW of Karluk, Alaska",earthquake,,18,,,automatic,ak,ak
@@ -101,7 +104,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-12T08:41:36.090Z,38.8348351,-122.8174973,1.79,0.71,md,8,120,0.01454,0.01,nc,nc73845236,2023-02-12T10:36:14.513Z,"8km W of Cobb, CA",earthquake,0.42,1.07,0.28,11,automatic,nc,nc
 2023-02-12T08:36:07.680Z,33.2928333,-116.7941667,7.78,0.67,ml,17,88,0.06399,0.18,ci,ci40413744,2023-02-12T08:39:44.154Z,"6km NNW of Lake Henshaw, CA",earthquake,0.4,1.17,0.105,14,automatic,ci,ci
 2023-02-12T08:21:01.432Z,41.8789,42.251,10,4,mb,12,130,1.14,0.58,us,us6000jney,2023-02-12T08:52:56.371Z,"20 km ESE of Ozurgeti, Georgia",earthquake,5.47,1.966,0.212,6,reviewed,us,us
-2023-02-12T08:07:01.419Z,41.8764,42.1314,10,4.2,mb,24,84,1.136,0.61,us,us6000jnex,2023-02-12T14:04:07.342Z,"11 km ESE of Ozurgeti, Georgia",earthquake,5.68,1.218,0.141,14,reviewed,us,us
+2023-02-12T08:07:01.419Z,41.8764,42.1314,10,4.2,mb,24,84,1.136,0.61,us,us6000jnex,2023-02-12T20:30:08.736Z,"11 km ESE of Ozurgeti, Georgia",earthquake,5.68,1.218,0.141,14,reviewed,us,us
 2023-02-12T08:02:12.654Z,58.1713,-155.2799,0,1,ml,,,,0.85,ak,ak0231z8vufx,2023-02-12T08:05:15.910Z,"83 km NW of Karluk, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-02-12T07:59:23.240Z,38.7941666,-122.7463303,2.8,0.89,md,8,151,0.01229,0.01,nc,nc73845231,2023-02-12T10:08:13.333Z,"2km NNE of The Geysers, CA",earthquake,0.59,1.32,0.16,8,automatic,nc,nc
 2023-02-12T07:43:29.310Z,35.6778333,-117.5473333,10.31,1.07,ml,14,90,0.1435,0.17,ci,ci40413736,2023-02-12T07:47:03.630Z,"13km ENE of Ridgecrest, CA",earthquake,0.42,1.19,0.074,11,automatic,ci,ci
@@ -196,5 +199,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-11T20:50:31.815Z,58.3219,-157.018,8,1.9,ml,,,,0.3,ak,ak0231xss13h,2023-02-11T20:52:23.810Z,"24 km ENE of Egegik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-11T20:39:15.745Z,58.3276,-157.0596,7.5,2.8,ml,,,,0.43,ak,ak0231xspmza,2023-02-11T22:17:53.040Z,"22 km NE of Egegik, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-11T20:39:05.278Z,37.8159,37.9186,10,4.2,mb,33,83,0.855,0.92,us,us6000jnc0,2023-02-11T22:14:05.040Z,"2 km N of Tut, Turkey",earthquake,4.8,1.918,0.122,19,reviewed,us,us
-2023-02-11T20:28:59.320Z,33.8838333,-116.7221667,17.82,1.35,ml,39,44,0.08017,0.24,ci,ci40413584,2023-02-11T20:32:34.432Z,"7km ESE of Cabazon, CA",earthquake,0.29,0.66,0.13,28,automatic,ci,ci
-2023-02-11T20:27:18.949Z,32.75115967,-100.6529869,8.925984701,3.5,ml,21,70,0.07756297623,0.2,tx,tx2023cymd,2023-02-12T01:41:32.655Z,"16 km NE of Hermleigh, Texas",earthquake,0.6606063484,1.090392179,0.1,11,reviewed,tx,tx
