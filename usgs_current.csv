@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-14T22:54:13.420Z,44.7835,-110.8123333,6.43,0.66,md,14,183,0.0276,0.21,uu,uu60531221,2023-02-14T23:04:06.180Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.61,1,0.214,7,reviewed,uu,uu
+2023-02-14T22:51:13.390Z,44.7908333,-110.8128333,6.41,0.79,md,14,185,0.02694,0.15,uu,uu60531211,2023-02-14T23:00:57.940Z,"22 km SSW of Mammoth, Wyoming",earthquake,0.57,0.91,0.189,6,reviewed,uu,uu
 2023-02-14T22:35:35.740Z,19.1793327331543,-155.386001586914,31.0200004577637,1.88,md,31,168,,0.140000001,hv,hv73324627,2023-02-14T22:38:35.290Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.82,1.09000003,0.620000005,3,automatic,hv,hv
-2023-02-14T22:22:29.280Z,38.8320007,-122.8014984,1.84,1.27,md,20,45,0.01081,0.02,nc,nc73846471,2023-02-14T22:41:12.281Z,"7km W of Cobb, CA",earthquake,0.21,0.49,0.23,22,automatic,nc,nc
+2023-02-14T22:22:29.280Z,38.8320007,-122.8014984,1.84,1.27,md,20,45,0.01081,0.02,nc,nc73846471,2023-02-14T23:04:15.435Z,"7km W of Cobb, CA",earthquake,0.21,0.49,0.23,22,automatic,nc,nc
 2023-02-14T22:22:03.069Z,-19.8619,-175.0205,159.87,5.3,mww,83,90,0.632,1.46,us,us6000jnz6,2023-02-14T22:40:32.040Z,"69 km W of Pangai, Tonga",earthquake,5.91,5.352,0.098,10,reviewed,us,us
 2023-02-14T22:18:17.560Z,38.8376656,-122.8078308,1.9,0.71,md,7,113,0.01368,0.01,nc,nc73846461,2023-02-14T22:44:12.298Z,"8km WNW of Cobb, CA",earthquake,0.62,1.25,0.08,8,automatic,nc,nc
 2023-02-14T22:08:53.924Z,65.9735,-149.0642,0,1.8,ml,,,,0.66,ak,ak02322sbyr2,2023-02-14T22:11:11.578Z,"3 km SSE of Stevens Village, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T17:35:04.800Z,38.8330002,-122.8181686,1.74,0.21,md,9,69,0.01149,0.01,nc,nc73846346,2023-02-14T18:05:14.640Z,"8km NW of The Geysers, CA",earthquake,0.35,1.04,0.1,10,automatic,nc,nc
 2023-02-14T17:23:01.700Z,38.8121681,-122.7275009,2.28,0.94,md,5,198,0.04915,0.01,nc,nc73846341,2023-02-14T17:42:14.502Z,"1km SSW of Cobb, CA",earthquake,1.45,2.84,0.54,4,automatic,nc,nc
 2023-02-14T17:20:21.500Z,35.6843333,-118.1271667,9.35,1.65,ml,27,47,0.09453,0.12,ci,ci40414640,2023-02-14T19:29:19.628Z,"28km ESE of Kernville, CA",earthquake,0.18,0.4,0.246,12,reviewed,ci,ci
-2023-02-14T17:14:10.830Z,19.3964996337891,-155.237167358398,1.17999994754791,2.19,ml,25,98,,0.300000012,hv,hv73324452,2023-02-14T17:21:04.650Z,"5 km S of Volcano, Hawaii",earthquake,0.35,0.300000012,0.64,9,automatic,hv,hv
+2023-02-14T17:14:11.010Z,19.3903333333333,-155.245,1.53,2.27,ml,32,68,,0.12,hv,hv73324452,2023-02-14T23:00:55.600Z,"5 km SSW of Volcano, Hawaii",earthquake,0.17,0.12,0.126851088139907,5,reviewed,hv,hv
 2023-02-14T17:06:13.040Z,33.2395,-116.6555,11.63,0.86,ml,27,81,0.04083,0.15,ci,ci40414632,2023-02-14T19:23:39.034Z,"5km SSW of Warner Springs, CA",earthquake,0.22,0.54,0.104,8,reviewed,ci,ci
 2023-02-14T17:00:27.777Z,7.817,122.0437,10,4.6,mb,68,67,3.584,0.66,us,us6000jny0,2023-02-14T18:58:10.040Z,"15 km NW of Siocon, Philippines",earthquake,9.36,1.892,0.07,62,reviewed,us,us
 2023-02-14T16:53:31.170Z,44.7955,-110.8003333,6.5,0.68,md,8,250,0.03643,0.1,uu,uu60531176,2023-02-14T17:32:53.670Z,"21 km SSW of Mammoth, Wyoming",earthquake,1.43,0.96,0.418,6,reviewed,uu,uu
@@ -165,4 +167,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T00:10:45.750Z,38.7916679,-122.7676697,1.24,0.93,md,5,141,0.01089,0,nc,nc73845941,2023-02-14T02:00:11.846Z,"2km NNW of The Geysers, CA",earthquake,1.85,1.17,0.19,5,automatic,nc,nc
 2023-02-13T23:25:44.746Z,18.9627,-68.6084,10,4.2,ml,10,179,0.495,0.47,us,us6000jnnp,2023-02-14T16:30:30.899Z,"35 km N of Otra Banda, Dominican Republic",earthquake,2.73,1.974,0.07,27,reviewed,us,us
 2023-02-13T23:23:46.960Z,47.829,-122.9335,23.84,1.01,ml,13,238,0.02214,0.29,uw,uw61906511,2023-02-14T05:44:03.100Z,"4 km W of Quilcene, Washington",earthquake,1.49,0.92,0.08972907311902234,2,reviewed,uw,uw
-2023-02-13T22:55:04.032Z,-24.7948,-69.6075,77.715,4,mb,22,70,0.367,0.89,us,us6000jnni,2023-02-13T23:11:36.040Z,"111 km NE of Taltal, Chile",earthquake,5.44,5.833,0.26,5,reviewed,us,us
