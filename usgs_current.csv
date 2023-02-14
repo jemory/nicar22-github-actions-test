@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-14T16:42:31.760Z,19.1313323974609,-155.363662719727,26.5499992370605,3.24,ml,43,187,,0.140000001,hv,hv73324412,2023-02-14T16:53:55.480Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.56,0.959999979,1.77,24,automatic,hv,hv
-2023-02-14T16:35:10.260Z,38.8358345,-122.7906647,2.21,0.76,md,6,134,0.002583,0.01,nc,nc73846316,2023-02-14T16:49:10.210Z,"6km WNW of Cobb, CA",earthquake,1.19,1.88,0.14,8,automatic,nc,nc
+2023-02-14T17:06:13.100Z,33.2353333,-116.6431667,11.74,0.96,ml,23,86,0.03625,0.21,ci,ci40414632,2023-02-14T17:09:48.625Z,"5km S of Warner Springs, CA",earthquake,0.41,0.79,0.196,21,automatic,ci,ci
+2023-02-14T16:42:31.760Z,19.1313323974609,-155.363662719727,26.5499992370605,3.24,ml,43,187,,0.140000001,hv,hv73324412,2023-02-14T17:06:26.580Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.56,0.959999979,1.77,24,automatic,hv,hv
+2023-02-14T16:35:10.260Z,38.8358345,-122.7906647,2.21,0.76,md,6,134,0.002583,0.01,nc,nc73846316,2023-02-14T16:58:13.268Z,"6km WNW of Cobb, CA",earthquake,1.19,1.88,0.14,8,automatic,nc,nc
 2023-02-14T16:33:40.378Z,-20.3769,-178.2784,553.33,4.9,mb,45,74,2.983,0.78,us,us6000jnxq,2023-02-14T16:55:54.040Z,"Fiji region",earthquake,13.13,7.91,0.094,36,reviewed,us,us
 2023-02-14T16:29:13.170Z,38.8381653,-122.8243332,1.8,1.54,md,30,65,0.008721,0.05,nc,nc73846311,2023-02-14T16:46:12.195Z,"9km WNW of Cobb, CA",earthquake,0.17,0.33,0.15,29,automatic,nc,nc
 2023-02-14T15:58:17.991Z,36.6354,-116.5977,0,1.8,ml,28,54.71,0.104,0.2061,nn,nn00856058,2023-02-14T15:59:10.979Z,"30 km NE of Furnace Creek, California",earthquake,,7.6,0.59,19,automatic,nn,nn
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T13:44:03.163Z,35.3775,35.3986,10,4.4,mb,38,171,1.744,0.87,us,us6000jnr1,2023-02-14T15:25:21.040Z,"39 km WSW of Latakia, Syria",earthquake,7.65,1.918,0.138,15,reviewed,us,us
 2023-02-14T13:34:34.710Z,60.0744,-140.4921,0,2.5,ml,,,,0.87,ak,ak02322n4m3z,2023-02-14T15:14:45.040Z,"72 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-14T13:30:40.820Z,18.214,-67.067,77.6,2.69,md,11,103,0.2104,0.25,pr,pr71396293,2023-02-14T13:52:23.980Z,"7 km E of Mayagüez, Puerto Rico",earthquake,0.93,1.05,0.138855426835091,6,reviewed,pr,pr
-2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-14T16:51:17.958Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
+2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-14T17:06:36.568Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
 2023-02-14T12:27:58.619Z,62.168,-150.7321,49.6,1.6,ml,,,,0.52,ak,ak02322mhqc5,2023-02-14T12:30:01.912Z,"30 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-14T12:27:21.390Z,38.828167,-122.7901688,1.03,1.13,md,18,111,0.01023,0.2,nc,nc73846271,2023-02-14T14:44:13.514Z,"6km W of Cobb, CA",earthquake,0.73,1.05,0.11,18,automatic,nc,nc
 2023-02-14T12:25:17.240Z,41.4996667,-112.1781667,7,1.13,md,14,71,0.1057,0.07,uu,uu60531126,2023-02-14T14:59:09.430Z,"8 km SW of Corinne, Utah",earthquake,0.36,1.59,0.148,9,reviewed,uu,uu
@@ -163,5 +164,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-13T17:34:55.345Z,58.225,-155.1205,1.1,1.3,ml,,,,0.82,ak,ak023211z1mm,2023-02-14T02:27:54.630Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
 2023-02-13T17:27:28.280Z,38.8236656,-122.8516693,1.43,1.22,md,18,126,0.005615,0.05,nc,nc73845816,2023-02-13T20:25:14.822Z,"10km WNW of The Geysers, CA",earthquake,0.25,0.44,0.28,19,automatic,nc,nc
 2023-02-13T17:25:21.280Z,38.7908325,-122.7258301,1.75,1.09,md,12,96,0.0114,0.01,nc,nc73845811,2023-02-13T19:59:19.541Z,"3km ENE of The Geysers, CA",earthquake,0.27,0.66,0.16,13,automatic,nc,nc
-2023-02-13T17:03:42.010Z,61.7236,-146.3517,33,1.7,ml,,,,1.04,ak,ak023211sdeh,2023-02-13T17:05:56.167Z,"37 km SE of Nelchina, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-02-13T16:59:45.410Z,20.1935,-155.816333333333,-2.55,2.41,md,37,295,,0.21,hv,hv73323822,2023-02-13T23:57:56.415Z,"4 km SSW of Kapaau, Hawaii",earthquake,1.85,0.45,0.157578141207041,12,reviewed,hv,hv
