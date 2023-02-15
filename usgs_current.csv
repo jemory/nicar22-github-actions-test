@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-15T06:56:33.610Z,38.8255005,-122.8511658,2.21,1.01,md,22,87,0.004903,0.03,nc,nc73846636,2023-02-15T06:58:08.341Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.42,0.09,22,automatic,nc,nc
+2023-02-15T06:54:02.370Z,60.2184,-152.605,99.8,1.8,ml,,,,0.73,ak,ak023246m571,2023-02-15T06:55:58.942Z,"55 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-15T06:44:47.759Z,63.31,-144.9302,5.4,1.5,ml,,,,0.26,ak,ak023246k3jb,2023-02-15T06:47:25.246Z,"40 km SSW of Dry Creek, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-15T06:42:33.868Z,61.5761,-149.9271,32.6,1.5,ml,,,,0.37,ak,ak023246jn16,2023-02-15T06:44:30.915Z,"6 km NNE of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-15T06:41:52.810Z,38.8291664,-122.793335,1.36,0.24,md,8,100,0.00952,0.01,nc,nc73846631,2023-02-15T06:43:28.008Z,"6km W of Cobb, CA",earthquake,0.41,1.04,0.1,9,automatic,nc,nc
-2023-02-15T06:41:29.210Z,38.850666,-122.8201675,2.65,0.53,md,7,137,0.004699,0.02,nc,nc73846626,2023-02-15T06:43:02.988Z,"9km WNW of Cobb, CA",earthquake,1.22,2.33,0.31,9,automatic,nc,nc
+2023-02-15T06:41:29.210Z,38.850666,-122.8201675,2.65,0.53,md,7,137,0.004699,0.02,nc,nc73846626,2023-02-15T07:00:10.377Z,"9km WNW of Cobb, CA",earthquake,1.22,2.33,0.31,9,automatic,nc,nc
+2023-02-15T06:38:09.034Z,-40.5465,174.5709,74.32,5.7,mww,81,40,0.768,1.15,us,us6000jp1g,2023-02-15T06:59:43.697Z,"Cook Strait, New Zealand",earthquake,3.68,4.922,0.065,23,reviewed,us,us
 2023-02-15T06:00:02.220Z,38.8160019,-122.8256683,2.06,1.08,md,15,55,0.007633,0.02,nc,nc73846611,2023-02-15T06:17:23.114Z,"7km NW of The Geysers, CA",earthquake,0.26,0.7,0.32,16,automatic,nc,nc
 2023-02-15T05:18:33.340Z,38.8128319,-122.8168335,2.81,1.08,md,21,52,0.01043,0.02,nc,nc73846606,2023-02-15T05:53:18.958Z,"7km NW of The Geysers, CA",earthquake,0.23,0.61,0.13,21,automatic,nc,nc
 2023-02-15T05:03:31.141Z,60.0711,-151.9513,79.9,2.8,ml,,,,0.38,ak,ak023245puai,2023-02-15T05:44:27.040Z,"15 km W of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -136,7 +139,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-14T13:44:03.163Z,35.3775,35.3986,10,4.4,mb,38,171,1.744,0.87,us,us6000jnr1,2023-02-14T15:25:21.040Z,"39 km WSW of Latakia, Syria",earthquake,7.65,1.918,0.138,15,reviewed,us,us
 2023-02-14T13:34:34.710Z,60.0744,-140.4921,0,2.5,ml,,,,0.87,ak,ak02322n4m3z,2023-02-14T15:14:45.040Z,"72 km NW of Yakutat, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-14T13:30:40.820Z,18.214,-67.067,77.6,2.69,md,11,103,0.2104,0.25,pr,pr71396293,2023-02-14T13:52:23.980Z,"7 km E of Mayagüez, Puerto Rico",earthquake,0.93,1.05,0.138855426835091,6,reviewed,pr,pr
-2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-15T05:43:41.223Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
+2023-02-14T13:16:51.072Z,45.1126,23.1781,10,5.6,mww,132,28,1.197,0.4,us,us6000jnqz,2023-02-15T06:55:54.009Z,"2 km NW of Leleşti, Romania",earthquake,4.85,1.794,0.032,95,reviewed,us,us
 2023-02-14T12:27:58.619Z,62.168,-150.7321,49.6,1.6,ml,,,,0.52,ak,ak02322mhqc5,2023-02-14T12:30:01.912Z,"30 km WSW of Trapper Creek, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-14T12:27:21.390Z,38.828167,-122.7901688,1.03,1.13,md,18,111,0.01023,0.2,nc,nc73846271,2023-02-14T14:44:13.514Z,"6km W of Cobb, CA",earthquake,0.73,1.05,0.11,18,automatic,nc,nc
 2023-02-14T12:25:17.240Z,41.4996667,-112.1781667,7,1.13,md,14,71,0.1057,0.07,uu,uu60531126,2023-02-14T14:59:09.430Z,"8 km SW of Corinne, Utah",earthquake,0.36,1.59,0.148,9,reviewed,uu,uu
