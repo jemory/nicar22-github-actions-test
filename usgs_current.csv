@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T17:13:53.390Z,38.833168,-122.8151703,1.69,1.03,md,21,54,0.01054,0.02,nc,nc73849016,2023-02-20T17:15:30.561Z,"8km NW of The Geysers, CA",earthquake,0.18,0.52,0.26,22,automatic,nc,nc
+2023-02-20T17:13:53.390Z,38.833168,-122.8151703,1.69,1.03,md,21,54,0.01054,0.02,nc,nc73849016,2023-02-20T17:26:10.556Z,"8km NW of The Geysers, CA",earthquake,0.18,0.52,0.26,22,automatic,nc,nc
 2023-02-20T17:09:46.950Z,33.3818333,-116.8728333,3.28,1.49,ml,51,26,0.1332,0.26,ci,ci40416952,2023-02-20T17:20:20.560Z,"3km NNW of Palomar Observatory, CA",earthquake,0.25,1.06,0.13,27,automatic,ci,ci
-2023-02-20T17:04:28.821Z,36.1269,36.0062,10,6.4,mww,107,27,1.423,1.37,us,us6000jqcn,2023-02-20T17:18:36.321Z,"3 km WSW of Uzunbağ, Turkey",earthquake,5.45,1.841,0.036,74,reviewed,us,us
+2023-02-20T17:04:28.647Z,36.1207,36.0044,10,6.3,mww,136,26,1.428,1.23,us,us6000jqcn,2023-02-20T17:35:27.231Z,"3 km SW of Uzunbağ, Turkey",earthquake,3.13,1.747,0.031,97,reviewed,us,us
 2023-02-20T17:00:20.090Z,19.1948337554932,-155.386672973633,29.0400009155273,2.43,ml,39,163,,0.129999995,hv,hv73328042,2023-02-20T17:05:51.740Z,"9 km E of Pāhala, Hawaii",earthquake,0.49,0.889999986,0.15,10,automatic,hv,hv
 2023-02-20T16:50:27.907Z,60.2627,-152.8982,138.5,2.4,ml,,,,0.66,ak,ak0232cm8ese,2023-02-20T16:54:03.431Z,"72 km WNW of Ninilchik, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-20T16:40:47.930Z,19.2571659088135,-155.397003173828,32.2900009155273,2.35,ml,39,140,,0.119999997,hv,hv73328032,2023-02-20T16:53:25.040Z,"10 km NE of Pāhala, Hawaii",earthquake,0.6,0.670000017,3.61,6,automatic,hv,hv
@@ -15,7 +15,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T15:50:14.150Z,33.2668333,-116.3061667,9.65,1.01,ml,30,55,0.08591,0.18,ci,ci40416912,2023-02-20T15:53:42.383Z,"6km E of Borrego Springs, CA",earthquake,0.3,0.72,0.183,23,automatic,ci,ci
 2023-02-20T15:39:40.533Z,60.3911,-152.6681,87.5,1.7,ml,,,,0.45,ak,ak0232clknb9,2023-02-20T15:41:42.957Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-02-20T15:36:32.183Z,61.9231,-149.4884,39.2,1.6,ml,,,,0.45,ak,ak0232cljziq,2023-02-20T15:38:04.882Z,"23 km NW of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-02-20T15:17:05.170Z,38.7563324,-122.7265015,1.05,1.62,md,21,113,0.005407,0.04,nc,nc73848996,2023-02-20T17:05:13.450Z,"4km SE of The Geysers, CA",earthquake,0.22,0.28,0.18,21,automatic,nc,nc
+2023-02-20T15:17:05.170Z,38.7563324,-122.7265015,1.05,1.62,md,21,113,0.005407,0.04,nc,nc73848996,2023-02-20T17:36:14.605Z,"4km SE of The Geysers, CA",earthquake,0.22,0.28,0.18,21,automatic,nc,nc
 2023-02-20T15:07:01.992Z,61.5276,-140.7303,12,2.1,ml,,,,0.63,ak,ak0232cldpfo,2023-02-20T17:21:27.625Z,"Southern Yukon Territory, Canada",earthquake,,0.1,,,reviewed,ak,ak
 2023-02-20T15:01:41.005Z,57.0044,-153.9982,0,2.8,ml,,,,0.47,ak,ak0232clci50,2023-02-20T16:32:26.040Z,"12 km ENE of Akhiok, Alaska",earthquake,,2.1,,,automatic,ak,ak
 2023-02-20T14:53:17.300Z,36.0048332,-120.5786667,8.18,0.5,md,12,167,0.03181,0.04,nc,nc73848991,2023-02-20T15:11:11.746Z,"18km NW of Parkfield, CA",earthquake,0.74,0.51,0.12,4,automatic,nc,nc
@@ -181,7 +181,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T22:07:18.490Z,33.8946667,-116.8801667,16.14,0.7,ml,16,84,0.09197,0.16,ci,ci40416528,2023-02-19T22:10:47.697Z,"4km S of Banning, CA",earthquake,0.38,0.82,0.086,13,automatic,ci,ci
 2023-02-19T21:58:29.140Z,33.3333333,-117.2185,26.17,0.93,ml,14,80,0.08957,0.26,ci,ci40416520,2023-02-19T22:02:00.654Z,"6km SSE of Fallbrook, CA",earthquake,1.1,1.94,0.233,14,automatic,ci,ci
 2023-02-19T21:47:02.840Z,38.822834,-122.8516693,2.13,0.42,md,8,134,0.02018,0.01,nc,nc73848711,2023-02-20T00:37:16.443Z,"10km WNW of The Geysers, CA",earthquake,0.45,1.14,0.23,8,automatic,nc,nc
-2023-02-19T21:30:30.207Z,37.3597,36.8864,10,3.9,mwr,34,105,0.146,0.68,us,us6000jq69,2023-02-20T01:32:23.368Z,"25 km NNE of Nurdağı, Turkey",earthquake,3.8,1.86,0.058,29,reviewed,us,us
+2023-02-19T21:30:30.207Z,37.3597,36.8864,10,3.9,mwr,34,105,0.146,0.68,us,us6000jq69,2023-02-20T17:25:00.822Z,"25 km NNE of Nurdağı, Turkey",earthquake,3.8,1.86,0.058,29,reviewed,us,us
 2023-02-19T21:30:17.786Z,63.546,-150.8442,0,1.4,ml,,,,0.48,ak,ak0232b1jx8y,2023-02-19T21:31:57.549Z,"43 km E of Denali National Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-19T21:28:19.169Z,53.1914,160.6941,35,4.3,mb,33,140,1.244,0.87,us,us6000jq6b,2023-02-20T01:20:49.040Z,"139 km E of Petropavlovsk-Kamchatsky, Russia",earthquake,10.48,1.954,0.111,23,reviewed,us,us
 2023-02-19T21:03:15.040Z,37.5125,-118.874,5.39,0.99,md,13,119,0.08522,0.04,nc,nc73848696,2023-02-20T00:14:11.287Z,"17km SE of Mammoth Lakes, CA",earthquake,0.44,1.37,0.099,11,reviewed,nc,nc
@@ -212,6 +212,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T17:57:11.658Z,56.5456,-149.5057,10,2.6,ml,12,282,2.085,0.86,us,us6000jq62,2023-02-20T17:01:09.040Z,"205 km SE of Chiniak, Alaska",earthquake,10.22,2.025,0.052,48,reviewed,us,us
 2023-02-19T17:42:35.430Z,38.8218346,-122.7656631,2.05,1.52,md,22,116,0.009241,0.03,nc,nc73848626,2023-02-19T20:44:16.097Z,"4km W of Cobb, CA",earthquake,0.27,0.44,0.12,23,automatic,nc,nc
 2023-02-19T17:37:46.260Z,38.788166,-122.7663345,2.24,0.75,md,11,80,0.01347,0.02,nc,nc73848621,2023-02-19T20:18:13.960Z,"2km NW of The Geysers, CA",earthquake,0.35,0.71,0.24,11,automatic,nc,nc
-2023-02-19T17:28:21.220Z,38.8266678,-122.8519974,1.67,1.08,md,21,61,0.003908,0.02,nc,nc73848616,2023-02-19T19:40:09.725Z,"10km WNW of The Geysers, CA",earthquake,0.2,0.39,0.15,21,automatic,nc,nc
-2023-02-19T17:27:50.410Z,61.6228,-150.5016,56.6,1.5,ml,,,,0.46,ak,ak0232az5m75,2023-02-19T17:30:01.988Z,"8 km N of Susitna, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-02-19T17:26:54.410Z,38.8338318,-122.8040009,1.93,1.34,md,20,53,0.01145,0.01,nc,nc73848611,2023-02-19T19:52:15.799Z,"7km W of Cobb, CA",earthquake,0.2,0.47,0.12,23,automatic,nc,nc
