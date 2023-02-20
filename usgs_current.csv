@@ -1,12 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T08:18:56.280Z,36.9393349,-121.670166,7.53,1.14,md,7,125,0.01073,0.04,nc,nc73848851,2023-02-20T08:20:34.317Z,"6km ESE of Interlaken, CA",earthquake,0.48,0.9,0.21,8,automatic,nc,nc
+2023-02-20T08:41:53.147Z,63.2565,-150.4846,111,1.5,ml,,,,0.36,ak,ak0232chf2he,2023-02-20T08:44:01.665Z,"69 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-02-20T08:27:24.320Z,38.831665,-122.814003,2.04,1.54,md,27,43,0.00881,0.01,nc,nc73848856,2023-02-20T08:38:11.378Z,"8km NW of The Geysers, CA",earthquake,0.19,0.41,0.2,30,automatic,nc,nc
+2023-02-20T08:18:56.280Z,36.9393349,-121.670166,7.53,1.14,md,7,125,0.01073,0.04,nc,nc73848851,2023-02-20T08:29:11.457Z,"6km ESE of Interlaken, CA",earthquake,0.48,0.9,0.21,8,automatic,nc,nc
 2023-02-20T07:33:28.160Z,19.1685009002686,-155.481338500977,33.189998626709,1.94000006,md,33,159,,0.100000001,hv,hv73327747,2023-02-20T07:36:40.130Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.829999983,0.980000019,12,automatic,hv,hv
 2023-02-20T07:33:01.033Z,63.2736,-151.0691,1.3,1.8,ml,,,,0.42,ak,ak0232cgrt4n,2023-02-20T07:35:26.226Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-20T07:24:41.972Z,61.7528,-147.3702,33,1.7,ml,,,,0.74,ak,ak0232cgpyud,2023-02-20T07:26:20.795Z,"16 km ESE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-20T07:13:47.280Z,19.3274993896484,-155.130493164062,6.44999980926514,2.72,ml,37,109,,0.119999997,hv,hv73327742,2023-02-20T07:19:18.980Z,"15 km S of Fern Forest, Hawaii",earthquake,0.42,0.469999999,2.01,22,automatic,hv,hv
-2023-02-20T07:05:41.880Z,38.7963333,-122.7665024,1.11,1.27,md,20,69,0.00682,0.02,nc,nc73848846,2023-02-20T07:19:10.945Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.38,0.17,19,automatic,nc,nc
+2023-02-20T07:05:41.880Z,38.7963333,-122.7665024,1.11,1.27,md,20,69,0.00682,0.02,nc,nc73848846,2023-02-20T08:29:11.330Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.38,0.17,19,automatic,nc,nc
 2023-02-20T07:02:15.256Z,64.7314,-147.9516,9.6,1.2,ml,,,,1.1,ak,ak0232cgl711,2023-02-20T07:04:19.236Z,"11 km SW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-20T06:59:45.150Z,36.9365005,-121.6673355,7.95,1.45,md,14,72,0.007105,0.08,nc,nc73848841,2023-02-20T08:04:11.187Z,"6km NNW of Aromas, CA",earthquake,0.36,0.62,0.24,12,automatic,nc,nc
+2023-02-20T06:59:45.150Z,36.9365005,-121.6673355,7.95,1.45,md,14,72,0.007105,0.08,nc,nc73848841,2023-02-20T08:42:13.401Z,"6km NNW of Aromas, CA",earthquake,0.36,0.62,0.24,12,automatic,nc,nc
 2023-02-20T06:56:55.146Z,63.358,-149.6803,105.6,1.8,ml,,,,0.29,ak,ak0232cgbf62,2023-02-20T06:58:42.524Z,"36 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T06:54:59.630Z,35.8813333,-117.694,2.23,0.86,ml,15,75,0.09251,0.17,ci,ci40416768,2023-02-20T06:58:30.858Z,"20km ESE of Little Lake, CA",earthquake,0.28,0.47,0.102,9,automatic,ci,ci
 2023-02-20T06:30:27.760Z,18.0858333333333,-66.9715,22.96,2.7,md,14,70,0.05668,0.1,pr,pr71396823,2023-02-20T06:48:01.730Z,"1 km NW of Sabana Grande, Puerto Rico",earthquake,0.34,0.62,0.0893954203720111,5,reviewed,pr,pr
@@ -206,5 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T09:32:24.840Z,38.8424988,-122.8796692,2.49,0.2,md,8,97,0.005192,0.01,nc,nc73848516,2023-02-19T10:43:12.412Z,"13km ENE of Cloverdale, CA",earthquake,0.47,0.7,0.09,8,automatic,nc,nc
 2023-02-19T08:55:35.320Z,33.497,-116.7831667,4.35,0.61,ml,21,69,0.021,0.2,ci,ci40416280,2023-02-19T08:59:09.046Z,"10km NE of Aguanga, CA",earthquake,0.34,0.52,0.124,15,automatic,ci,ci
 2023-02-19T08:47:15.323Z,63.3662,-149.7826,84.4,1.4,ml,,,,0.5,ak,ak0232atwxd8,2023-02-19T08:50:11.220Z,"41 km W of Cantwell, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-19T08:42:53.260Z,33.4848333,-116.4376667,11.06,0.77,ml,23,113,0.03974,0.22,ci,ci40416272,2023-02-19T08:46:27.197Z,"23km SSW of La Quinta, CA",earthquake,0.43,0.8,0.147,21,automatic,ci,ci
-2023-02-19T08:32:52.662Z,61.5223,-149.9207,32.1,1.5,ml,,,,0.47,ak,ak0232attsia,2023-02-19T08:34:03.270Z,"1 km E of Big Lake, Alaska",earthquake,,0.2,,,automatic,ak,ak
