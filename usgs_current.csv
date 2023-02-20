@@ -1,6 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-02-20T09:29:40.410Z,38.8271675,-122.8544998,1.99,0.62,md,15,88,0.001892,0.03,nc,nc73848896,2023-02-20T09:31:13.678Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.41,16,automatic,nc,nc
-2023-02-20T09:28:32.600Z,38.8221664,-122.8048325,3.03,0.75,md,14,65,0.004274,0.01,nc,nc73848891,2023-02-20T09:30:08.903Z,"6km NW of The Geysers, CA",earthquake,0.32,0.76,0.19,15,automatic,nc,nc
+2023-02-20T09:42:35.240Z,32.9165,-115.5318333,5.01,1.3,ml,15,108,0.02854,0.27,ci,ci40416792,2023-02-20T09:46:10.210Z,"7km S of Brawley, CA",earthquake,0.7,0.86,0.231,19,automatic,ci,ci
+2023-02-20T09:40:50.810Z,33.4665,-116.5598333,8.17,0.4,ml,11,123,0.04522,0.12,ci,ci40416784,2023-02-20T09:44:23.319Z,"14km SE of Anza, CA",earthquake,0.32,0.6,0.123,8,automatic,ci,ci
+2023-02-20T09:40:16.462Z,61.3552,-147.3324,33.3,1.2,ml,,,,0.27,ak,ak0232ci07ji,2023-02-20T09:42:55.142Z,"53 km SSE of Glacier View, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-02-20T09:36:58.596Z,63.5537,-157.838,10.9,2.9,ml,,,,0.58,ak,ak0232chzfxd,2023-02-20T09:40:45.289Z,"96 km SSE of Kaltag, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-20T09:29:40.410Z,38.8271675,-122.8544998,1.99,0.62,md,15,88,0.001892,0.03,nc,nc73848896,2023-02-20T09:42:02.758Z,"10km WNW of The Geysers, CA",earthquake,0.26,0.49,0.41,16,automatic,nc,nc
+2023-02-20T09:28:32.600Z,38.8221664,-122.8048325,3.03,0.75,md,14,65,0.004274,0.01,nc,nc73848891,2023-02-20T09:39:10.736Z,"6km NW of The Geysers, CA",earthquake,0.32,0.76,0.19,15,automatic,nc,nc
 2023-02-20T09:17:24.280Z,38.8351669,-122.8073349,2.21,0.43,md,10,104,0.01195,0.01,nc,nc73848886,2023-02-20T09:33:10.696Z,"7km WNW of Cobb, CA",earthquake,0.4,1.03,0.24,11,automatic,nc,nc
 2023-02-20T09:15:40.750Z,38.8348351,-122.8093338,2.44,0.76,md,11,72,0.01144,0.01,nc,nc73848881,2023-02-20T09:27:11.660Z,"8km W of Cobb, CA",earthquake,0.41,1,0.13,14,automatic,nc,nc
 2023-02-20T09:11:18.820Z,38.8351669,-122.8089981,2.25,0.7,md,10,86,0.01178,0.01,nc,nc73848876,2023-02-20T09:22:11.628Z,"8km W of Cobb, CA",earthquake,0.4,1.08,0.55,11,automatic,nc,nc
@@ -10,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T08:45:23.470Z,19.1648330688477,-155.480834960938,35.310001373291,2.11999989,md,37,107,,0.109999999,hv,hv73327782,2023-02-20T08:48:34.960Z,"4 km S of Pāhala, Hawaii",earthquake,0.54,0.819999993,1.96000004,14,automatic,hv,hv
 2023-02-20T08:41:53.147Z,63.2565,-150.4846,111,1.5,ml,,,,0.36,ak,ak0232chf2he,2023-02-20T08:51:11.103Z,"69 km ESE of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-20T08:27:24.320Z,38.831665,-122.814003,2.04,1.54,md,27,43,0.00881,0.01,nc,nc73848856,2023-02-20T09:22:11.754Z,"8km NW of The Geysers, CA",earthquake,0.19,0.41,0.2,30,automatic,nc,nc
-2023-02-20T08:18:56.280Z,36.9393349,-121.670166,7.53,1.14,md,7,125,0.01073,0.04,nc,nc73848851,2023-02-20T08:56:10.725Z,"6km ESE of Interlaken, CA",earthquake,0.48,0.9,0.21,8,automatic,nc,nc
+2023-02-20T08:18:56.280Z,36.9393349,-121.670166,7.53,1.14,md,7,125,0.01073,0.04,nc,nc73848851,2023-02-20T09:40:14.744Z,"6km ESE of Interlaken, CA",earthquake,0.48,0.9,0.21,8,automatic,nc,nc
 2023-02-20T07:33:28.160Z,19.1685009002686,-155.481338500977,33.189998626709,1.94000006,md,33,159,,0.100000001,hv,hv73327747,2023-02-20T07:36:40.130Z,"3 km S of Pāhala, Hawaii",earthquake,0.64,0.829999983,0.980000019,12,automatic,hv,hv
 2023-02-20T07:33:01.033Z,63.2736,-151.0691,1.3,1.8,ml,,,,0.42,ak,ak0232cgrt4n,2023-02-20T07:35:26.226Z,"44 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-20T07:24:41.972Z,61.7528,-147.3702,33,1.7,ml,,,,0.74,ak,ak0232cgpyud,2023-02-20T07:26:20.795Z,"16 km ESE of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -212,4 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T10:05:47.319Z,37.5878,-117.9092,3.7,1.5,ml,12,175.46,0.412,0.3522,nn,nn00856235,2023-02-19T10:07:14.490Z,"16 km ESE of Dyer, Nevada",earthquake,,1.6,0.89,7,automatic,nn,nn
 2023-02-19T10:05:29.840Z,-15.4427,-71.5287,142.092,4.5,mb,48,112,2.902,0.63,us,us6000jq2z,2023-02-19T10:23:29.040Z,"8 km NNW of Ccolo, Peru",earthquake,9.2,8.156,0.061,78,reviewed,us,us
 2023-02-19T10:03:33.580Z,17.9198333333333,-66.8466666666667,11.54,3.08,md,34,189,0.06308,0.2,pr,pr71396718,2023-02-19T10:54:31.090Z,"7 km SE of Maria Antonia, Puerto Rico",earthquake,0.49,0.35,0.199923328460038,15,reviewed,pr,pr
-2023-02-19T09:36:03.470Z,19.2565002441406,-155.398666381836,29.6700000762939,2.13,ml,39,140,,0.150000006,hv,hv73327342,2023-02-19T09:41:34.330Z,"10 km NE of Pāhala, Hawaii",earthquake,0.66,0.75,0.14,4,automatic,hv,hv
