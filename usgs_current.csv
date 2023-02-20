@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-20T07:13:47.280Z,19.3274993896484,-155.130493164062,6.44999980926514,2.72,ml,37,109,,0.119999997,hv,hv73327742,2023-02-20T07:19:18.980Z,"15 km S of Fern Forest, Hawaii",earthquake,0.42,0.469999999,2.01,22,automatic,hv,hv
+2023-02-20T07:05:41.880Z,38.7963333,-122.7665024,1.11,1.27,md,20,69,0.00682,0.02,nc,nc73848846,2023-02-20T07:19:10.945Z,"2km NNW of The Geysers, CA",earthquake,0.22,0.38,0.17,19,automatic,nc,nc
 2023-02-20T07:02:15.256Z,64.7314,-147.9516,9.6,1.2,ml,,,,1.1,ak,ak0232cgl711,2023-02-20T07:04:19.236Z,"11 km SW of South Van Horn, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-20T06:59:45.150Z,36.9365005,-121.6673355,7.95,1.45,md,14,72,0.007105,0.08,nc,nc73848841,2023-02-20T07:01:19.497Z,"6km NNW of Aromas, CA",earthquake,0.36,0.62,0.24,12,automatic,nc,nc
+2023-02-20T06:59:45.150Z,36.9365005,-121.6673355,7.95,1.45,md,14,72,0.007105,0.08,nc,nc73848841,2023-02-20T07:12:12.089Z,"6km NNW of Aromas, CA",earthquake,0.36,0.62,0.24,12,automatic,nc,nc
 2023-02-20T06:56:55.146Z,63.358,-149.6803,105.6,1.8,ml,,,,0.29,ak,ak0232cgbf62,2023-02-20T06:58:42.524Z,"36 km W of Cantwell, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-02-20T06:54:59.630Z,35.8813333,-117.694,2.23,0.86,ml,15,75,0.09251,0.17,ci,ci40416768,2023-02-20T06:58:30.858Z,"20km ESE of Little Lake, CA",earthquake,0.28,0.47,0.102,9,automatic,ci,ci
 2023-02-20T06:30:27.760Z,18.0858333333333,-66.9715,22.96,2.7,md,14,70,0.05668,0.1,pr,pr71396823,2023-02-20T06:48:01.730Z,"1 km NW of Sabana Grande, Puerto Rico",earthquake,0.34,0.62,0.0893954203720111,5,reviewed,pr,pr
@@ -16,7 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T05:10:16.570Z,33.499,-116.4955,11.18,0.66,ml,23,93,0.06319,0.19,ci,ci40416728,2023-02-20T05:13:46.664Z,"18km ESE of Anza, CA",earthquake,0.31,0.61,0.173,19,automatic,ci,ci
 2023-02-20T05:02:30.660Z,33.1656667,-115.648,2.52,1.49,ml,23,47,0.02754,0.2,ci,ci40416720,2023-02-20T05:06:13.613Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.56,0.226,27,automatic,ci,ci
 2023-02-20T05:01:53.770Z,33.1736667,-115.648,2.12,1.2,ml,15,78,0.02332,0.1,ci,ci40416712,2023-02-20T05:05:37.935Z,"14km WNW of Calipatria, CA",earthquake,0.24,0.37,0.248,19,automatic,ci,ci
-2023-02-20T04:57:45.130Z,38.8216667,-122.7866669,1.75,1.53,md,29,33,0.009608,0.02,nc,nc73848826,2023-02-20T06:44:10.741Z,"6km W of Cobb, CA",earthquake,0.16,0.31,0.15,31,automatic,nc,nc
+2023-02-20T04:57:45.130Z,38.8216667,-122.7866669,1.75,1.53,md,29,33,0.009608,0.02,nc,nc73848826,2023-02-20T07:17:16.938Z,"6km W of Cobb, CA",earthquake,0.16,0.31,0.15,31,automatic,nc,nc
 2023-02-20T04:45:29.480Z,19.1499996185303,-155.391326904297,30.1100006103516,1.71000004,md,32,223,,0.100000001,hv,hv73327682,2023-02-20T04:48:35.070Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.74,1.11000001,0.850000024,3,automatic,hv,hv
 2023-02-20T04:40:50.420Z,33.9183333,-116.9076667,10.22,0.67,ml,16,72,0.1248,0.18,ci,ci40416704,2023-02-20T04:44:23.196Z,"3km WSW of Banning, CA",earthquake,0.35,1,0.283,16,automatic,ci,ci
 2023-02-20T04:38:37.520Z,34.0286667,-116.7238333,19.59,0.98,ml,26,71,0.06378,0.25,ci,ci40416696,2023-02-20T04:42:04.971Z,"13km W of Morongo Valley, CA",earthquake,0.39,0.97,0.133,27,automatic,ci,ci
@@ -214,7 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T07:30:32.045Z,59.9402,-152.1683,55.5,1.8,ml,,,,0.46,ak,ak0232at7vvo,2023-02-19T14:42:20.919Z,"24 km W of Happy Valley, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-02-19T07:27:54.140Z,36.7343,-116.2672,1.9,-0.1,ml,10,138.07,0.044,0.2627,nn,nn00856231,2023-02-19T07:28:23.355Z,"47 km ESE of Beatty, Nevada",earthquake,,4.3,1.45,5,automatic,nn,nn
 2023-02-19T07:27:04.901Z,53.2183,-165.452,15.5,2.5,ml,,,,0.25,ak,ak0232at72js,2023-02-19T10:39:38.628Z,"102 km SE of Unalaska, Alaska",earthquake,,0.4,,,reviewed,ak,ak
-2023-02-19T07:21:55.344Z,36.5116,70.2282,219.09,4.2,mb,22,102,2.191,0.46,us,us6000jq2f,2023-02-19T08:49:22.040Z,"Hindu Kush region, Afghanistan",earthquake,7.95,12.991,0.263,4,reviewed,us,us
-2023-02-19T07:21:44.260Z,19.2245006561279,-155.380996704102,30.8500003814697,1.82000005,md,39,186,,0.119999997,hv,hv73327297,2023-02-19T07:24:50.080Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.769999981,0.419999987,9,automatic,hv,hv
-2023-02-19T07:11:39.433Z,47.3393,152.1759,130.756,4.6,mb,123,115,6.434,0.83,us,us6000jq2b,2023-02-19T08:06:23.040Z,"Kuril Islands",earthquake,10.35,7.064,0.04,211,reviewed,us,us
-2023-02-19T07:09:21.070Z,32.0851667,-116.311,0.07,1.79,ml,11,204,0.3185,0.09,ci,ci40416248,2023-02-19T07:13:01.502Z,"38km NE of Ensenada, B.C., MX",earthquake,0.67,31.61,0.164,18,automatic,ci,ci
