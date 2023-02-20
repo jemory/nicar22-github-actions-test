@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-20T06:30:27.760Z,18.0858333333333,-66.9715,22.96,2.7,md,14,70,0.05668,0.1,pr,pr71396823,2023-02-20T06:48:01.730Z,"1 km NW of Sabana Grande, Puerto Rico",earthquake,0.34,0.62,0.0893954203720111,5,reviewed,pr,pr
 2023-02-20T06:30:03.940Z,32.915,-116.2386667,10.37,0.65,ml,16,98,0.1553,0.16,ci,ci40416760,2023-02-20T06:33:35.141Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.35,1.25,0.122,7,automatic,ci,ci
 2023-02-20T06:26:54.024Z,61.3572,-150.9999,35.3,1.7,ml,,,,0.65,ak,ak0232cg4zlm,2023-02-20T06:29:01.952Z,"24 km N of Beluga, Alaska",earthquake,,7.2,,,automatic,ak,ak
 2023-02-20T06:22:35.730Z,32.9676667,-116.6983333,4.79,1.65,ml,42,38,0.1004,0.24,ci,ci40416744,2023-02-20T06:33:33.940Z,"9km ESE of San Diego Country Estates, CA",earthquake,0.25,0.89,0.161,25,automatic,ci,ci
@@ -11,11 +12,11 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T05:10:16.570Z,33.499,-116.4955,11.18,0.66,ml,23,93,0.06319,0.19,ci,ci40416728,2023-02-20T05:13:46.664Z,"18km ESE of Anza, CA",earthquake,0.31,0.61,0.173,19,automatic,ci,ci
 2023-02-20T05:02:30.660Z,33.1656667,-115.648,2.52,1.49,ml,23,47,0.02754,0.2,ci,ci40416720,2023-02-20T05:06:13.613Z,"13km WNW of Calipatria, CA",earthquake,0.37,0.56,0.226,27,automatic,ci,ci
 2023-02-20T05:01:53.770Z,33.1736667,-115.648,2.12,1.2,ml,15,78,0.02332,0.1,ci,ci40416712,2023-02-20T05:05:37.935Z,"14km WNW of Calipatria, CA",earthquake,0.24,0.37,0.248,19,automatic,ci,ci
-2023-02-20T04:57:45.130Z,38.8216667,-122.7866669,1.75,1.53,md,29,33,0.009608,0.02,nc,nc73848826,2023-02-20T05:09:11.092Z,"6km W of Cobb, CA",earthquake,0.16,0.31,0.15,31,automatic,nc,nc
+2023-02-20T04:57:45.130Z,38.8216667,-122.7866669,1.75,1.53,md,29,33,0.009608,0.02,nc,nc73848826,2023-02-20T06:44:10.741Z,"6km W of Cobb, CA",earthquake,0.16,0.31,0.15,31,automatic,nc,nc
 2023-02-20T04:45:29.480Z,19.1499996185303,-155.391326904297,30.1100006103516,1.71000004,md,32,223,,0.100000001,hv,hv73327682,2023-02-20T04:48:35.070Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.74,1.11000001,0.850000024,3,automatic,hv,hv
 2023-02-20T04:40:50.420Z,33.9183333,-116.9076667,10.22,0.67,ml,16,72,0.1248,0.18,ci,ci40416704,2023-02-20T04:44:23.196Z,"3km WSW of Banning, CA",earthquake,0.35,1,0.283,16,automatic,ci,ci
 2023-02-20T04:38:37.520Z,34.0286667,-116.7238333,19.59,0.98,ml,26,71,0.06378,0.25,ci,ci40416696,2023-02-20T04:42:04.971Z,"13km W of Morongo Valley, CA",earthquake,0.39,0.97,0.133,27,automatic,ci,ci
-2023-02-20T04:37:25.770Z,38.7949982,-122.7481689,2.22,1.08,md,14,149,0.01063,0.02,nc,nc73848821,2023-02-20T06:17:11.563Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.69,0.18,14,automatic,nc,nc
+2023-02-20T04:37:25.770Z,38.7949982,-122.7481689,2.22,1.08,md,14,149,0.01063,0.02,nc,nc73848821,2023-02-20T06:51:13.776Z,"2km NNE of The Geysers, CA",earthquake,0.35,0.69,0.18,14,automatic,nc,nc
 2023-02-20T04:27:33.300Z,31.7785,-115.5696667,17.82,2.61,ml,6,323,0.8784,0.29,ci,ci40416680,2023-02-20T04:31:14.212Z,"63km SW of Alberto Oviedo Mota, B.C., MX",earthquake,10.13,31.61,0.087,8,automatic,ci,ci
 2023-02-20T04:25:36.900Z,60.4419,-151.7467,72.1,1.5,ml,,,,0.54,ak,ak0232cexvcq,2023-02-20T04:27:50.881Z,"25 km W of Kalifornsky, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-02-20T04:12:54.234Z,59.4906,-152.7897,62.2,1.7,ml,,,,0.7,ak,ak0232cev4dr,2023-02-20T04:15:48.568Z,"51 km WNW of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -216,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-19T07:04:23.762Z,31.61227547,-103.9977306,7.712609863,1.7,ml,16,58,0.01867392008,0.1,tx,tx2023dmbp,2023-02-19T17:45:22.257Z,"38 km NNW of Toyah, Texas",earthquake,0.4069173391,0.4176117361,0.2,13,reviewed,tx,tx
 2023-02-19T06:55:40.260Z,17.9461666666667,-66.8423333333333,10.71,2.54,md,15,176,0.0454,0.19,pr,pr71396688,2023-02-19T07:20:25.660Z,"Puerto Rico region",earthquake,0.52,0.57,0.469607576383692,10,reviewed,pr,pr
 2023-02-19T06:52:29.242Z,62.1613,-149.608,46.6,1.4,ml,,,,0.67,ak,ak0232asr5t8,2023-02-19T06:54:25.038Z,"12 km E of Susitna North, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-19T06:49:26.930Z,19.2164993286133,-155.385162353516,30.8600006103516,1.91999996,md,31,155,,0.109999999,hv,hv73327277,2023-02-19T06:52:35.670Z,"9 km E of Pāhala, Hawaii",earthquake,0.56,0.680000007,1.94000006,4,automatic,hv,hv
