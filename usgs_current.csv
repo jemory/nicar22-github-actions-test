@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-21T19:21:37.002Z,63.6212,-150.7692,4.3,2.8,ml,,,,0.94,ak,ak0232ebdv2c,2023-02-21T19:23:59.761Z,"48 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-02-21T19:20:30.688Z,63.5703,-150.7672,12.1,1.4,ml,,,,0.84,ak,ak0232ebdmv0,2023-02-21T19:22:31.533Z,"47 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-21T18:58:08.060Z,59.3631,-153.4764,102.6,1.7,ml,,,,0.3,ak,ak0232eb0apy,2023-02-21T18:59:48.976Z,"59 km SE of Pedro Bay, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-21T18:55:06.980Z,38.7956657,-122.8083344,3.26,0.93,md,17,85,0.008405,0.02,nc,nc73849446,2023-02-21T18:56:39.229Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.61,0.15,19,automatic,nc,nc
+2023-02-21T18:55:06.980Z,38.7956657,-122.8083344,3.26,0.93,md,17,85,0.008405,0.02,nc,nc73849446,2023-02-21T19:09:11.765Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.61,0.15,19,automatic,nc,nc
 2023-02-21T18:37:42.506Z,60.1175,-140.4282,0,2,ml,,,,0.61,ak,ak0232eavvca,2023-02-21T18:41:02.129Z,"74 km NNW of Yakutat, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-21T18:20:53.288Z,64.5945,-151.356,1.6,1.6,ml,,,,0.85,ak,ak0232eas900,2023-02-21T18:22:50.004Z,"56 km SW of Manley Hot Springs, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-21T18:19:34.050Z,17.9403333333333,-66.8395,11.69,2.03,md,6,214,0.05123,0.07,pr,pr71396978,2023-02-21T18:29:20.200Z,"6 km SSW of Indios, Puerto Rico",earthquake,0.54,0.61,0.0840555298921526,4,reviewed,pr,pr
@@ -191,7 +193,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-20T19:33:38.910Z,17.9535,-66.9493333333333,10.68,2.3,md,5,208,0.07006,0.08,pr,pr71396938,2023-02-20T19:50:39.100Z,"4 km WSW of Guánica, Puerto Rico",earthquake,0.68,0.68,0.0680482081398937,4,reviewed,pr,pr
 2023-02-20T19:31:09.930Z,38.7906685,-122.7841644,3.75,0.73,md,7,134,0.003859,0.01,nc,nc73849066,2023-02-20T19:49:10.407Z,"3km WNW of The Geysers, CA",earthquake,1.2,1.72,0.15,9,automatic,nc,nc
 2023-02-20T19:29:59.200Z,38.7905006,-122.7809982,3.52,0.75,md,14,116,0.006033,0.04,nc,nc73849061,2023-02-20T21:59:18.219Z,"3km NW of The Geysers, CA",earthquake,0.4,0.8,0.11,13,automatic,nc,nc
-2023-02-20T19:19:22.838Z,4.5817,-82.8567,10,4.9,mb,67,149,3.832,1.11,us,us6000jqds,2023-02-20T21:28:51.040Z,"south of Panama",earthquake,8.21,1.904,0.038,218,reviewed,us,us
-2023-02-20T19:18:43.587Z,61.1062,-152.1645,96.5,1.7,ml,,,,0.62,ak,ak0232cntvzl,2023-02-20T19:33:09.673Z,"55 km W of Tyonek, Alaska",earthquake,,0.3,,,reviewed,ak,ak
-2023-02-20T19:11:33.850Z,34.0208333,-116.9321667,5.34,0.81,ml,13,83,0.0726,0.14,ci,ci40416992,2023-02-20T19:15:02.381Z,"10km E of Yucaipa, CA",earthquake,0.34,1.27,0.181,19,automatic,ci,ci
-2023-02-20T19:09:21.462Z,36.2966,36.1291,10,4.1,mb,31,194,1.232,0.91,us,us6000jqdp,2023-02-21T12:46:56.718Z,"Turkey-Syria border region",earthquake,7.06,1.99,0.197,7,reviewed,us,us
