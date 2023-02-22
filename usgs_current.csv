@@ -31,7 +31,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T19:47:55.130Z,38.8188324,-122.7883301,1.53,0.71,md,8,81,0.008163,0.01,nc,nc73850256,2023-02-22T20:27:16.934Z,"5km NNW of The Geysers, CA",earthquake,0.52,1.18,0.55,8,automatic,nc,nc
 2023-02-22T19:46:04.094Z,62.1338,-151.3598,96.8,1.7,ml,,,,0.33,ak,ak0232fz2hx5,2023-02-22T19:48:40.617Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-22T19:39:41.150Z,63.4629,-147.5435,0,1.5,ml,,,,0.84,ak,ak0232fz12rn,2023-02-22T19:41:55.374Z,"70 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-22T19:24:15.870Z,38.8236656,-122.8103333,1.21,1.29,md,19,38,0.0003377,0.01,nc,nc73850246,2023-02-22T22:44:09.699Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.26,20,automatic,nc,nc
+2023-02-22T19:24:15.870Z,38.8236656,-122.8103333,1.21,1.29,md,19,38,0.0003377,0.01,nc,nc73850246,2023-02-22T22:57:17.779Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.26,20,automatic,nc,nc
 2023-02-22T19:24:10.110Z,38.8238335,-122.8105011,1.21,1.73,md,17,42,0.0005505,0.02,nc,nc73850241,2023-02-22T22:29:19.617Z,"7km NW of The Geysers, CA",earthquake,0.21,0.49,0.21,18,automatic,nc,nc
 2023-02-22T19:23:12.735Z,63.0137,-150.5945,98.9,1.4,ml,,,,0.78,ak,ak0232fyxl49,2023-02-22T19:25:50.278Z,"58 km N of Petersville, Alaska",earthquake,,2.4,,,automatic,ak,ak
 2023-02-22T19:18:34.800Z,38.8201675,-122.791832,1.35,0.91,md,14,69,0.01111,0.01,nc,nc73850236,2023-02-22T19:35:18.606Z,"6km NNW of The Geysers, CA",earthquake,0.27,0.64,0.21,15,automatic,nc,nc
@@ -225,7 +225,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T01:27:03.350Z,60.6026,-141.4326,15.5,1.8,ml,,,,0.61,ak,ak0232fo8mdb,2023-02-22T01:29:20.581Z,"122 km SE of McCarthy, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-22T01:23:39.700Z,38.8101654,-122.8249969,1.67,1.07,md,16,62,0.003514,0.02,nc,nc73849761,2023-02-22T01:35:12.070Z,"7km WNW of The Geysers, CA",earthquake,0.22,0.48,0.12,17,automatic,nc,nc
 2023-02-22T01:17:51.210Z,57.9138,-157.1779,93.4,2.9,ml,,,,0.67,ak,ak0232fo6kwh,2023-02-22T01:20:54.388Z,"35 km SSE of Egegik, Alaska",earthquake,,1.5,,,automatic,ak,ak
-2023-02-22T01:11:08.002Z,27.7459,55.2799,10,5.1,mb,141,48,2.91,0.79,us,us6000jqp6,2023-02-22T01:22:21.040Z,"113 km E of Gerāsh, Iran",earthquake,7.63,1.889,0.056,103,reviewed,us,us
+2023-02-22T01:11:07.329Z,27.7693,55.2722,10,5,mww,230,29,2.934,0.63,us,us6000jqp6,2023-02-22T23:05:10.040Z,"112 km E of Gerāsh, Iran",earthquake,7.14,1.782,0.098,10,reviewed,us,us
 2023-02-22T01:01:29.240Z,38.8363342,-122.7996674,2,1.06,md,17,64,0.00757,0.02,nc,nc73849751,2023-02-22T01:16:10.775Z,"7km WNW of Cobb, CA",earthquake,0.24,0.6,0.16,18,automatic,nc,nc
 2023-02-22T00:57:17.430Z,38.7888336,-122.7689972,1.8,0.89,md,9,150,0.01383,0.01,nc,nc73849746,2023-02-22T01:10:10.743Z,"2km NW of The Geysers, CA",earthquake,0.47,0.81,0.2,9,automatic,nc,nc
 2023-02-22T00:55:27.890Z,27.1078,143.413,10,4.9,mb,67,128,6.75,0.8,us,us6000jqp4,2023-02-22T01:12:09.040Z,"Bonin Islands, Japan region",earthquake,11.46,1.886,0.064,76,reviewed,us,us
@@ -247,6 +247,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T23:20:28.060Z,19.1459999084473,-155.372161865234,26.8999996185303,1.84000003,md,39,182,,0.129999995,hv,hv73328702,2023-02-21T23:23:45.780Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.71,1.19000006,1.29999995,17,automatic,hv,hv
 2023-02-21T23:11:46.940Z,56.9226666666667,-158.014166666667,-3.13,1.91,ml,4,286,,0.18,av,av91089658,2023-02-22T04:06:28.470Z,"37 km E of Port Heiden, Alaska",earthquake,1,2.88,0.289583267757236,4,reviewed,av,av
 2023-02-21T23:11:14.690Z,38.8310013,-122.8095016,1.99,1.21,md,21,45,0.007608,0.02,nc,nc73849691,2023-02-22T02:01:10.036Z,"8km NW of The Geysers, CA",earthquake,0.21,0.5,0.15,22,automatic,nc,nc
-2023-02-21T23:01:16.680Z,33.7038333,-116.755,16.12,1.1,ml,37,57,0.03482,0.13,ci,ci40417648,2023-02-22T00:30:25.588Z,"5km SW of Idyllwild, CA",earthquake,0.22,0.3,0.167,22,reviewed,ci,ci
-2023-02-21T22:56:55.931Z,60.1406,-151.1449,52.1,1.8,ml,,,,0.69,ak,ak0232eddp3b,2023-02-21T22:58:38.038Z,"17 km SE of Clam Gulch, Alaska",earthquake,,1.7,,,automatic,ak,ak
-2023-02-21T22:55:28.610Z,19.1606674194336,-155.373336791992,29.1100006103516,2.31999993,md,40,177,,0.140000001,hv,hv73328697,2023-02-21T22:58:32.470Z,"12 km ESE of Pāhala, Hawaii",earthquake,0.67,1.33000004,1.78999996,30,automatic,hv,hv
