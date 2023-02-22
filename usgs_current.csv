@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-22T13:40:07.540Z,38.7623329,-122.7258301,1.94,1.1,md,11,96,0.001058,0.02,nc,nc73850086,2023-02-22T13:41:43.631Z,"3km ESE of The Geysers, CA",earthquake,0.38,0.35,0.25,12,automatic,nc,nc
 2023-02-22T13:31:37.501Z,57.8035,-156.3255,123.3,1.7,ml,,,,0.42,ak,ak0232fver4m,2023-02-22T13:33:59.756Z,"71 km ENE of Ugashik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-02-22T13:30:05.660Z,36.9031677,-121.2938309,7.54,1.69,md,16,83,0.1589,0.05,nc,nc73850081,2023-02-22T13:31:42.906Z,"11km NE of Hollister, CA",earthquake,0.25,1.34,0.21,11,automatic,nc,nc
+2023-02-22T13:30:05.660Z,36.9031677,-121.2938309,7.54,1.69,md,16,83,0.1589,0.05,nc,nc73850081,2023-02-22T13:45:14.502Z,"11km NE of Hollister, CA",earthquake,0.25,1.34,0.21,11,automatic,nc,nc
 2023-02-22T13:12:34.070Z,33.597,-116.8091667,6.06,0.97,ml,24,57,0.03776,0.13,ci,ci40417760,2023-02-22T13:16:05.482Z,"13km WNW of Anza, CA",earthquake,0.21,0.4,0.302,14,automatic,ci,ci
 2023-02-22T13:12:26.230Z,18.7986666666667,-65.0575,17.13,3.09,md,8,259,0.4541,0.21,pr,pr71397073,2023-02-22T13:35:31.700Z,"52 km NNW of Charlotte Amalie, U.S. Virgin Islands",earthquake,1.15,1.64,0.0374247857082639,4,reviewed,pr,pr
 2023-02-22T13:09:56.337Z,63.2564,-149.8543,101.1,1.6,ml,,,,0.2,ak,ak0232fva2tt,2023-02-22T13:11:47.341Z,"47 km WSW of Cantwell, Alaska",earthquake,,1.2,,,automatic,ak,ak
@@ -73,6 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T05:33:03.097Z,61.954,-149.7788,19.2,1.1,ml,,,,0.14,ak,ak0232fqnn2d,2023-02-22T05:34:20.132Z,"23 km S of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-22T05:30:55.350Z,38.8359985,-122.800499,2.39,1.12,md,10,104,0.008288,0.01,nc,nc73849916,2023-02-22T09:25:11.712Z,"7km WNW of Cobb, CA",earthquake,0.51,0.85,0.35,11,automatic,nc,nc
 2023-02-22T05:29:51.830Z,38.7806664,-122.7223358,1.93,1.53,md,17,76,0.01154,0.02,nc,nc73849911,2023-02-22T08:58:10.545Z,"3km WNW of Anderson Springs, CA",earthquake,0.24,0.49,0.18,18,automatic,nc,nc
+2023-02-22T05:27:01.110Z,36.5471666666667,-89.6915,10.73,1.65,md,18,57,0.02494,0.08,nm,nm60500448,2023-02-22T13:40:14.630Z,"7 km S of Catron, Missouri",earthquake,0.18,0.51,0.0836937742372577,10,reviewed,nm,nm
 2023-02-22T05:12:57.850Z,38.8353348,-122.7839966,1.89,1.9,md,32,65,0.005831,0.06,nc,nc73849901,2023-02-22T08:30:10.404Z,"6km WNW of Cobb, CA",earthquake,0.21,0.32,0.19,33,automatic,nc,nc
 2023-02-22T05:09:40.020Z,33.4668333,-116.562,8.92,1.01,ml,21,80,0.0436,0.22,ci,ci40417704,2023-02-22T05:13:09.441Z,"14km SE of Anza, CA",earthquake,0.36,0.66,0.162,20,automatic,ci,ci
 2023-02-22T04:57:00.980Z,38.8325005,-122.8083344,2.21,1.14,md,19,46,0.009193,0.01,nc,nc73849891,2023-02-22T08:04:10.268Z,"8km W of Cobb, CA",earthquake,0.23,0.63,0.12,20,automatic,nc,nc
@@ -184,4 +186,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-21T14:08:37.260Z,33.531,-116.7308333,4.54,0.94,ml,39,31,0.03473,0.13,ci,ci40417488,2023-02-21T17:52:48.626Z,"6km WSW of Anza, CA",earthquake,0.13,0.25,0.129,21,reviewed,ci,ci
 2023-02-21T14:08:29.600Z,33.533,-116.73,4.35,0.89,ml,37,31,0.03288,0.11,ci,ci40417480,2023-02-21T23:08:45.570Z,"6km WSW of Anza, CA",earthquake,0.12,0.25,0.1,20,reviewed,ci,ci
 2023-02-21T13:56:16.110Z,38.8103333,-122.7703323,1.62,0.76,md,8,138,0.0086,0.01,nc,nc73849351,2023-02-21T15:46:15.518Z,"4km NNW of The Geysers, CA",earthquake,0.55,0.9,0.16,10,automatic,nc,nc
-2023-02-21T13:44:25.930Z,33.9975,-116.7891667,17.31,1.04,ml,39,70,0.04061,0.14,ci,ci40417472,2023-02-21T22:50:04.165Z,"9km N of Cabazon, CA",earthquake,0.2,0.46,0.13,27,reviewed,ci,ci
