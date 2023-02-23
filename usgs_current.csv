@@ -1,14 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-23T13:41:01.783Z,58.7981,-154.4732,122.6,2.5,ml,,,,0.47,ak,ak0232hj062v,2023-02-23T13:42:58.177Z,"73 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-23T13:30:25.710Z,33.7973333,-118.4023333,13.49,1.63,ml,16,118,0.05375,0.38,ci,ci40418056,2023-02-23T13:46:45.815Z,"1km WSW of Palos Verdes Estates, CA",earthquake,1.18,1.61,0.189,33,automatic,ci,ci
-2023-02-23T13:18:05.420Z,33.8161667,-118.3671667,7.04,1.93,ml,38,93,0.06042,0.27,ci,ci40418048,2023-02-23T13:48:21.967Z,"3km NE of Palos Verdes Estates, CA",earthquake,0.39,0.9,0.197,25,automatic,ci,ci
+2023-02-23T13:18:05.420Z,33.8161667,-118.3671667,7.04,1.93,ml,38,93,0.06042,0.27,ci,ci40418048,2023-02-23T13:54:03.358Z,"3km NE of Palos Verdes Estates, CA",earthquake,0.39,0.9,0.197,25,automatic,ci,ci
 2023-02-23T13:16:39.446Z,63.3061,-145.4859,14.8,0.9,ml,,,,0.58,ak,ak0232hiuw14,2023-02-23T13:22:05.247Z,"24 km NNE of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-23T13:01:20.909Z,-24.0471,-66.8984,214.011,5.3,mww,53,44,1.603,0.77,us,us6000jr0f,2023-02-23T13:15:39.040Z,"61 km WNW of San Antonio de los Cobres, Argentina",earthquake,8.35,8.195,0.051,37,reviewed,us,us
 2023-02-23T12:40:23.830Z,33.8793333,-116.8516667,11.83,1.18,ml,37,30,0.06421,0.22,ci,ci40418040,2023-02-23T12:43:54.875Z,"6km SSE of Banning, CA",earthquake,0.25,0.76,0.164,27,automatic,ci,ci
 2023-02-23T12:35:43.310Z,38.8110008,-122.8213348,-0.64,0.74,md,9,146,0.0157,0.26,nc,nc73850651,2023-02-23T13:20:16.052Z,"7km WNW of The Geysers, CA",earthquake,1.56,10.39,0.05,9,automatic,nc,nc
 2023-02-23T12:28:24.183Z,60.1183,-152.7455,87.9,1.9,ml,,,,0.46,ak,ak0232hibzua,2023-02-23T12:30:38.491Z,"59 km WNW of Happy Valley, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-23T12:18:20.980Z,38.840332,-122.8225021,1.93,1.09,md,19,85,0.01029,0.02,nc,nc73850641,2023-02-23T12:59:19.926Z,"9km WNW of Cobb, CA",earthquake,0.22,0.44,0.3,19,automatic,nc,nc
-2023-02-23T12:15:39.950Z,19.1555004119873,-155.475173950195,29.0499992370605,1.73000002,md,24,211,,0.100000001,hv,hv73329302,2023-02-23T12:18:41.510Z,"Island of Hawaii, Hawaii",earthquake,0.95,1.33000004,1.73000002,4,automatic,hv,hv
+2023-02-23T12:15:39.950Z,19.1555004119873,-155.475173950195,29.0499992370605,1.73000002,md,24,211,,0.100000001,hv,hv73329302,2023-02-23T12:18:41.510Z,"5 km S of Pāhala, Hawaii",earthquake,0.95,1.33000004,1.73000002,4,automatic,hv,hv
 2023-02-23T12:14:21.630Z,38.7536659,-122.7285004,0.87,1.28,md,9,114,0.008411,0.04,nc,nc73850636,2023-02-23T12:49:14.860Z,"4km SE of The Geysers, CA",earthquake,0.32,0.47,0.23,8,automatic,nc,nc
 2023-02-23T12:00:38.250Z,38.7821655,-122.7519989,-0.46,0.83,md,4,165,0.01199,0.02,nc,nc73850621,2023-02-23T13:41:11.191Z,"1km NE of The Geysers, CA",earthquake,1.27,6.5,0.27,7,automatic,nc,nc
 2023-02-23T11:53:49.031Z,63.1008,-151.4837,2.9,1.4,ml,,,,0.38,ak,ak0232hhvz1z,2023-02-23T11:55:35.221Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -190,6 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T14:31:07.650Z,38.8361664,-122.8079987,2.17,0.8,md,11,71,0.01286,0.01,nc,nc73850106,2023-02-22T16:46:10.577Z,"8km WNW of Cobb, CA",earthquake,0.35,0.97,0.23,11,automatic,nc,nc
 2023-02-22T14:27:25.969Z,36.81833333,-97.6955,7,2.09,ml,62,57,0.2042599172,0.29,ok,ok2023dscu,2023-02-22T17:06:10.536Z,"3 km ENE of Medford, Oklahoma",earthquake,,0.9,0.24,5,reviewed,ok,ok
 2023-02-22T14:11:28.720Z,19.9041666666667,-155.158333333333,43.59,3.24,ml,45,256,,0.12,hv,hv73328927,2023-02-23T08:07:59.549Z,"5 km NW of Honomu, Hawaii",earthquake,0.59,0.95,0.127770204315516,25,reviewed,hv,hv
-2023-02-22T14:00:12.575Z,58.1769,-155.3866,0,0.5,ml,,,,0.69,ak,ak0232fvthm1,2023-02-22T14:01:45.928Z,"87 km NW of Karluk, Alaska",earthquake,,3.7,,,automatic,ak,ak
-2023-02-22T13:59:45.333Z,58.1863,-155.3286,0.5,0.5,ml,,,,0.24,ak,ak0232fvkrso,2023-02-22T14:07:26.902Z,"Alaska Peninsula",earthquake,,1.3,,,automatic,ak,ak
-2023-02-22T13:55:09.400Z,61.1108,-146.749,45.1,1.6,ml,,,,1.07,ak,ak0232fvju58,2023-02-22T13:57:04.258Z,"21 km W of Valdez, Alaska",earthquake,,3.7,,,automatic,ak,ak
