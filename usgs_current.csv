@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-23T10:15:30.490Z,32.9158333,-116.2426667,8.13,0.98,ml,17,83,0.06404,0.16,ci,ci40417992,2023-02-23T10:19:16.823Z,"27km SSW of Ocotillo Wells, CA",earthquake,0.34,0.73,0.059,6,automatic,ci,ci
 2023-02-23T09:55:54.780Z,19.2266674041748,-155.418670654297,32.1399993896484,2.06999993,md,27,149,,0.109999999,hv,hv73329257,2023-02-23T09:59:11.320Z,"6 km ENE of Pāhala, Hawaii",earthquake,1.06,0.910000026,0.639999986,8,automatic,hv,hv
 2023-02-23T09:34:50.260Z,19.1591663360596,-155.486328125,31.0499992370605,2.3499999,md,34,125,,0.129999995,hv,hv73329252,2023-02-23T09:38:10.800Z,"Hawaii region, Hawaii",earthquake,0.64,0.939999998,1.52999997,19,automatic,hv,hv
 2023-02-23T09:31:16.930Z,38.833168,-122.8000031,1.5,0.5,md,8,75,0.01253,0.01,nc,nc73850591,2023-02-23T09:47:19.735Z,"7km W of Cobb, CA",earthquake,0.33,1.4,0.29,10,automatic,nc,nc
@@ -86,7 +87,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T22:19:06.500Z,38.8308334,-122.7910004,1.75,0.96,md,12,55,0.01638,0.02,nc,nc73850361,2023-02-22T22:40:14.681Z,"6km W of Cobb, CA",earthquake,0.28,0.98,0.3,14,automatic,nc,nc
 2023-02-22T22:08:20.941Z,58.0952,-155.3304,81.1,0.7,ml,,,,1.36,ak,ak0232g0mpkt,2023-02-22T22:17:17.795Z,"78 km NW of Karluk, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-22T22:05:53.566Z,10.1791,125.0633,10,4.6,mb,44,120,3.131,0.46,us,us6000jqwn,2023-02-23T04:25:16.518Z,"6 km WNW of Liloan, Philippines",earthquake,10.85,1.887,0.077,51,reviewed,us,us
-2023-02-22T22:04:29.140Z,38.707,-123.533,0.62,1.74,md,12,265,0.06406,0.06,nc,nc73850356,2023-02-23T08:23:18.233Z,"7km W of Sea Ranch, CA",earthquake,1.12,1.58,0.084,11,reviewed,nc,nc
+2023-02-22T22:04:29.140Z,38.707,-123.533,0.62,1.74,md,12,265,0.06406,0.06,nc,nc73850356,2023-02-23T10:03:10.843Z,"7km W of Sea Ranch, CA",earthquake,1.12,1.58,0.084,11,reviewed,nc,nc
 2023-02-22T21:53:29.789Z,60.7651,-149.0395,16.4,1.4,ml,,,,0.39,ak,ak0232g0ax4i,2023-02-22T21:55:34.287Z,"19 km W of Whittier, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T21:41:54.490Z,63.5631,-150.8303,11.7,1.2,ml,,,,0.69,ak,ak0232g08eft,2023-02-22T21:43:57.049Z,"44 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-22T21:39:43.663Z,59.1843,-151.5174,2,2.5,ml,,,,1.08,ak,ak0232g07y66,2023-02-22T21:42:36.481Z,"25 km SE of Port Graham, Alaska",earthquake,,3.8,,,automatic,ak,ak
@@ -113,7 +114,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-22T20:01:57.120Z,38.8209991,-122.8539963,2.64,3.22,ml,52,49,0.006912,0.05,nc,nc73850276,2023-02-23T03:23:48.835Z,"10km WNW of The Geysers, CA",earthquake,0.15,0.24,0.445,10,automatic,nc,nc
 2023-02-22T19:57:25.490Z,47.568666666666665,-117.519,-0.71,1.56,md,4,151,0.2282,0.12,uw,uw61899307,2023-02-22T20:34:35.810Z,"5 km E of Four Lakes, Washington",explosion,1.03,31.61,0.38328948682855324,4,reviewed,uw,uw
 2023-02-22T19:47:55.130Z,38.8188324,-122.7883301,1.53,0.71,md,8,81,0.008163,0.01,nc,nc73850256,2023-02-22T20:27:16.934Z,"5km NNW of The Geysers, CA",earthquake,0.52,1.18,0.55,8,automatic,nc,nc
-2023-02-22T19:46:04.094Z,62.1338,-151.3598,96.8,1.7,ml,,,,0.33,ak,ak0232fz2hx5,2023-02-22T19:48:40.617Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
+2023-02-22T19:46:04.094Z,62.1338,-151.3598,96.8,1.7,ml,,,,0.33,ak,ak0232fz2hx5,2023-02-22T19:48:40.617Z,"16 km N of Skwentna, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-22T19:39:41.150Z,63.4629,-147.5435,0,1.5,ml,,,,0.84,ak,ak0232fz12rn,2023-02-22T19:41:55.374Z,"70 km E of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-22T19:24:15.870Z,38.8236656,-122.8103333,1.21,1.29,md,19,38,0.0003377,0.01,nc,nc73850246,2023-02-22T22:57:17.779Z,"7km NW of The Geysers, CA",earthquake,0.2,0.52,0.26,20,automatic,nc,nc
 2023-02-22T19:24:10.110Z,38.8238335,-122.8105011,1.21,1.73,md,17,42,0.0005505,0.02,nc,nc73850241,2023-02-22T22:29:19.617Z,"7km NW of The Geysers, CA",earthquake,0.21,0.49,0.21,18,automatic,nc,nc
