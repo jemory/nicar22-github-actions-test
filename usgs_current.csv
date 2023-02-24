@@ -6,7 +6,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-24T09:10:04.850Z,39.2328339,-123.1786652,3.2,1.8,md,12,127,0.09888,0.11,nc,nc73851041,2023-02-24T09:29:18.341Z,"4km SSE of Redwood Valley, CA",earthquake,0.35,3.67,0.11,8,automatic,nc,nc
 2023-02-24T08:47:50.260Z,19.2678337097168,-155.029006958008,45.6100006103516,1.94000006,md,40,226,,0.129999995,hv,hv73329857,2023-02-24T08:51:04.990Z,"Hawaii region, Hawaii",earthquake,1,0.730000019,1.70000005,10,automatic,hv,hv
 2023-02-24T08:47:27.825Z,58.1678,-155.2455,0,1.6,ml,,,,0.47,ak,ak0232j3lot1,2023-02-24T08:49:30.737Z,"81 km NW of Karluk, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-02-24T08:42:14.586Z,51.7714,178.2263,114.824,4.2,mb,51,172,0.283,0.71,us,us6000jr84,2023-02-24T09:01:23.040Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,13.1,9.257,0.066,64,reviewed,us,us
+2023-02-24T08:42:14.586Z,51.7714,178.2263,114.824,4.2,mb,51,172,0.283,0.71,us,us6000jr84,2023-02-24T09:42:26.495Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,13.1,9.257,0.066,64,reviewed,us,us
 2023-02-24T08:38:35.180Z,38.8231659,-122.7813339,5.98,0.74,md,7,150,0.01152,0.05,nc,nc73851026,2023-02-24T08:56:15.131Z,"5km W of Cobb, CA",earthquake,1.06,1.58,0.17,7,automatic,nc,nc
 2023-02-24T08:26:05.860Z,19.1854991912842,-155.382995605469,32.189998626709,2.26,ml,42,166,,0.129999995,hv,hv73329837,2023-02-24T09:11:30.040Z,"10 km E of Pāhala, Hawaii",earthquake,0.66,0.75999999,3.09,8,automatic,hv,hv
 2023-02-24T08:16:38.650Z,19.2433338165283,-155.385665893555,33.6399993896484,2,md,38,140,,0.119999997,hv,hv73329832,2023-02-24T08:19:53.720Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.73,0.889999986,1.83000004,6,automatic,hv,hv
@@ -124,7 +124,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T18:35:21.810Z,38.8348351,-122.8103333,2.17,0.7,md,8,103,0.01143,0,nc,nc73850701,2023-02-23T20:04:11.468Z,"8km W of Cobb, CA",earthquake,0.54,1.78,0.11,8,automatic,nc,nc
 2023-02-23T18:34:31.050Z,19.2145004272461,-155.375839233398,28.5699996948242,2.0999999,md,40,162,,0.119999997,hv,hv73329482,2023-02-23T18:38:46.250Z,"10 km E of Pāhala, Hawaii",earthquake,0.75,0.970000029,0.910000026,20,automatic,hv,hv
 2023-02-23T18:31:54.079Z,62.0562,-149.6871,16.7,1.4,ml,,,,1.79,ak,ak0232hlxaxb,2023-02-23T18:34:11.146Z,"14 km SE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-23T18:31:19.194Z,64.7877,-147.5423,0,1.3,ml,,,,0.79,ak,ak0232hlx88f,2023-02-23T18:32:57.903Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-02-23T18:31:19.194Z,64.7877,-147.5423,0,1.3,ml,,,,0.79,ak,ak0232hlx88f,2023-02-23T18:32:57.903Z,"1 km SSW of Badger, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-23T17:57:14.986Z,64.6244,-146.9897,14.8,0.9,ml,,,,0.52,ak,ak0232hlhcx6,2023-02-23T17:59:32.127Z,"5 km SE of Eielson Air Force Base, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-23T17:46:13.496Z,61.9966,-150.7791,65.9,1.4,ml,,,,0.21,ak,ak0232hlezxh,2023-02-23T17:48:33.250Z,"32 km E of Skwentna, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-23T17:43:15.572Z,38.1419,-117.9837,8.8,1.9,ml,9,117.25,0.019,0.1562,nn,nn00856331,2023-02-24T02:04:21.123Z,"29 km SSE of Mina, Nevada",earthquake,,1.2,0.28,5,reviewed,nn,nn
@@ -180,4 +180,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-23T10:23:25.360Z,38.8125,-122.8291702,1.58,0.75,md,11,61,0.003627,0.02,nc,nc73850601,2023-02-23T12:46:15.844Z,"7km WNW of The Geysers, CA",earthquake,0.27,0.52,0.11,11,automatic,nc,nc
 2023-02-23T10:15:30.480Z,32.9108333,-116.2456667,7.57,0.98,ml,24,96,0.06527,0.15,ci,ci40417992,2023-02-23T18:09:20.896Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.23,0.59,0.06,6,reviewed,ci,ci
 2023-02-23T09:55:54.780Z,19.2266674041748,-155.418670654297,32.1399993896484,2.06999993,md,27,149,,0.109999999,hv,hv73329257,2023-02-23T09:59:11.320Z,"6 km ENE of Pāhala, Hawaii",earthquake,1.06,0.910000026,0.639999986,8,automatic,hv,hv
-2023-02-23T09:34:50.260Z,19.1591663360596,-155.486328125,31.0499992370605,2.3499999,md,34,125,,0.129999995,hv,hv73329252,2023-02-23T09:38:10.800Z,"4 km S of Pāhala, Hawaii",earthquake,0.64,0.939999998,1.52999997,19,automatic,hv,hv
