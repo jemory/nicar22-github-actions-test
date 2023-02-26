@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T18:38:12.768Z,63.877,-150.3147,11.8,1,ml,,,,0.6,ak,ak0232mkkr7a,2023-02-26T18:41:33.486Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T18:18:26.754Z,61.8632,-150.9266,72.7,2.6,ml,,,,0.41,ak,ak0232mkghzs,2023-02-26T18:19:43.368Z,"28 km ESE of Skwentna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T18:16:26.641Z,64.2814,-151.1963,2.3,1.7,ml,,,,0.84,ak,ak0232mkg2js,2023-02-26T18:18:34.293Z,"70 km NE of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-26T18:07:13.010Z,38.8166656,-122.8253326,1.94,0.81,md,13,59,0.008346,0.01,nc,nc73852061,2023-02-26T18:25:12.118Z,"7km NW of The Geysers, CA",earthquake,0.3,0.71,0.3,16,automatic,nc,nc
@@ -15,8 +16,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T16:41:15.756Z,-8.6103,123.3485,189.493,5.1,mb,31,77,1.099,0.94,us,us6000jrrq,2023-02-26T16:56:17.040Z,"Flores region, Indonesia",earthquake,8.94,7.301,0.089,41,reviewed,us,us
 2023-02-26T16:30:03.320Z,15.1322,-104.4353,15.814,4.4,mb,29,263,5.434,1.12,us,us6000jrrn,2023-02-26T17:28:53.040Z,"off the coast of Michoacan, Mexico",earthquake,14.48,7.791,0.056,93,reviewed,us,us
 2023-02-26T16:26:27.890Z,38.8048325,-122.7826691,0.73,0.83,md,8,98,0.008556,0.01,nc,nc73852021,2023-02-26T17:13:12.693Z,"4km NW of The Geysers, CA",earthquake,0.35,0.62,0.21,7,automatic,nc,nc
-2023-02-26T16:18:40.200Z,38.8455009,-122.8386688,1.23,1.17,md,11,153,0.007336,0.03,nc,nc73852016,2023-02-26T17:01:12.616Z,"10km WNW of Cobb, CA",earthquake,0.3,0.67,0.08,12,automatic,nc,nc
-2023-02-26T16:12:16.540Z,38.7701683,-122.7279968,0.98,0.79,md,12,65,0.008907,0.03,nc,nc73852011,2023-02-26T18:21:11.095Z,"3km ESE of The Geysers, CA",earthquake,0.26,0.41,0.16,11,automatic,nc,nc
+2023-02-26T16:18:40.200Z,38.8455009,-122.8386688,1.23,1.17,md,11,153,0.007336,0.03,nc,nc73852016,2023-02-26T18:46:11.393Z,"10km WNW of Cobb, CA",earthquake,0.3,0.67,0.08,12,automatic,nc,nc
+2023-02-26T16:12:16.540Z,38.7701683,-122.7279968,0.98,0.79,md,12,65,0.008907,0.03,nc,nc73852011,2023-02-26T18:42:13.219Z,"3km ESE of The Geysers, CA",earthquake,0.26,0.41,0.16,11,automatic,nc,nc
 2023-02-26T15:54:54.810Z,38.7736664,-122.7393341,-0.83,0.77,md,6,95,0.009772,0.06,nc,nc73852001,2023-02-26T18:16:12.066Z,"2km ESE of The Geysers, CA",earthquake,0.42,1.44,0.34,7,automatic,nc,nc
 2023-02-26T15:54:06.348Z,60.1615,-152.9913,129.8,2.4,ml,,,,0.39,ak,ak0232mivvd0,2023-02-26T17:20:33.040Z,"73 km E of Port Alsworth, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-02-26T15:50:39.720Z,38.8016663,-122.8099976,4.9,0.75,md,6,103,0.01309,0.01,nc,nc73851996,2023-02-26T17:47:16.053Z,"5km WNW of The Geysers, CA",earthquake,0.85,1.28,0.1,8,automatic,nc,nc
@@ -125,6 +126,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T00:31:00.919Z,17.8322,-66.9453,11.198,3.2,ml,14,226,0.166,0.33,us,us6000jrmm,2023-02-26T00:45:27.040Z,"Puerto Rico region",earthquake,2.71,3.369,0.074,24,reviewed,us,us
 2023-02-26T00:25:00.492Z,57.1803,-156.0691,11.6,2.2,ml,,,,0.57,ak,ak0232m9s535,2023-02-26T00:27:50.366Z,"88 km ESE of Ugashik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-02-26T00:08:00.110Z,17.9593,-66.8985,7,3.49,md,17,174,0.0249,0.22,pr,pr2023057000,2023-02-26T00:58:33.449Z,"Puerto Rico",earthquake,0.61,0.33,0.21,8,reviewed,pr,pr
+2023-02-26T00:04:09.930Z,46.79483333333334,-121.92116666666666,3.93,0.22,ml,21,150,0.02539,0.1,uw,uw61899872,2023-02-26T18:45:49.480Z,"9 km ENE of Ashford, Washington",earthquake,0.32,0.42,0.09239300857291174,12,reviewed,uw,uw
 2023-02-25T23:43:45.300Z,-21.4772,-66.8922,231.681,4.2,mb,31,145,1.891,0.62,us,us6000jrmg,2023-02-26T00:19:56.040Z,"91 km SW of Atocha, Bolivia",earthquake,7.6,9.903,0.236,5,reviewed,us,us
 2023-02-25T23:42:00.840Z,38.8139992,-122.795166,2.31,1.04,md,18,59,0.006023,0.02,nc,nc73851801,2023-02-26T01:07:14.871Z,"5km NW of The Geysers, CA",earthquake,0.22,0.48,0.19,19,automatic,nc,nc
 2023-02-25T23:32:47.291Z,-0.0602,124.6411,11.109,4.9,mb,57,47,2.108,0.84,us,us6000jrmf,2023-02-26T00:02:25.040Z,"Molucca Sea",earthquake,5.59,4.565,0.066,73,reviewed,us,us
