@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-26T04:58:35.560Z,33.299,-116.7545,8.27,0.88,ml,23,66,0.06295,0.17,ci,ci40418752,2023-02-26T05:02:06.840Z,"6km N of Lake Henshaw, CA",earthquake,0.27,0.87,0.167,15,automatic,ci,ci
 2023-02-26T04:48:37.640Z,34.4648333,-117.9511667,8.65,0.97,ml,22,42,0.01624,0.22,ci,ci40418744,2023-02-26T04:52:16.248Z,"6km SW of Pearblossom, CA",earthquake,0.37,0.65,0.261,20,automatic,ci,ci
 2023-02-26T04:34:37.180Z,38.8233337,-122.7955017,0.9,0.46,md,8,91,0.01138,0.01,nc,nc73851841,2023-02-26T04:52:14.194Z,"6km NNW of The Geysers, CA",earthquake,0.39,0.86,0.32,8,automatic,nc,nc
 2023-02-26T03:53:02.135Z,5.5632,126.4766,10,4.8,mb,22,121,1.742,0.7,us,us6000jrn6,2023-02-26T04:11:03.040Z,"94 km SSE of Pondaguitan, Philippines",earthquake,6.45,1.885,0.139,19,reviewed,us,us
@@ -158,6 +159,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-25T05:19:53.549Z,58.2383,-155.1816,0,2.2,ml,,,,0.38,ak,ak0232kp6sgl,2023-02-25T05:28:30.841Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-25T05:19:34.590Z,38.8359985,-122.7913361,1.51,0.69,md,9,69,0.002529,0.01,nc,nc73851426,2023-02-25T05:58:12.736Z,"6km WNW of Cobb, CA",earthquake,0.41,0.98,0.42,9,automatic,nc,nc
 2023-02-25T05:10:03.887Z,61.1296,-146.6423,42.3,1.7,ml,,,,1.16,ak,ak0232kp4r50,2023-02-25T05:13:01.779Z,"15 km W of Valdez, Alaska",earthquake,,4.7,,,automatic,ak,ak
-2023-02-25T05:00:01.650Z,-47.2672,-13.3416,10,5.1,mb,22,99,24.975,0.46,us,us6000jrh4,2023-02-25T05:16:18.040Z,"southern Mid-Atlantic Ridge",earthquake,7.19,1.937,0.11,27,reviewed,us,us
-2023-02-25T04:59:34.790Z,38.8323326,-122.8795013,1.57,1.49,md,25,65,0.006642,0.03,nc,nc73851411,2023-02-25T08:05:14.485Z,"12km ENE of Cloverdale, CA",earthquake,0.19,0.3,0.13,27,automatic,nc,nc
-2023-02-25T04:55:46.961Z,62.5686,-148.9846,46.5,1.6,ml,,,,0.84,ak,ak0232kot22w,2023-02-25T04:57:48.209Z,"59 km ENE of Chase, Alaska",earthquake,,0.7,,,automatic,ak,ak
