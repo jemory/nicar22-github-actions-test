@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-02-27T07:43:40.180Z,35.6305,-117.4446667,10.71,1.32,ml,9,181,0.1239,0.17,ci,ci40419120,2023-02-27T07:47:13.592Z,"16km SSW of Searles Valley, CA",earthquake,0.7,1.22,0.09,13,automatic,ci,ci
 2023-02-27T07:36:09.490Z,38.8356667,-122.8174973,1.55,0.71,md,10,78,0.01356,0.01,nc,nc73852311,2023-02-27T07:50:10.970Z,"8km W of Cobb, CA",earthquake,0.33,1.25,0.21,11,automatic,nc,nc
-2023-02-27T07:29:08.460Z,38.8349991,-122.8156662,1.88,0.54,md,7,81,0.01238,0.01,nc,nc73852306,2023-02-27T07:44:10.915Z,"8km W of Cobb, CA",earthquake,0.42,2.28,0.48,9,automatic,nc,nc
+2023-02-27T07:29:08.460Z,38.8349991,-122.8156662,1.88,0.54,md,7,81,0.01238,0.01,nc,nc73852306,2023-02-27T07:57:14.114Z,"8km W of Cobb, CA",earthquake,0.42,2.28,0.48,9,automatic,nc,nc
 2023-02-27T07:28:06.273Z,67.4364,-147.3246,0,2.5,ml,,,,1,ak,ak0232o1i6er,2023-02-27T07:33:49.397Z,"61 km NW of Venetie, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2023-02-27T07:28:01.420Z,35.8688333,-117.6943333,10.09,1.28,ml,12,150,0.08309,0.16,ci,ci40419112,2023-02-27T07:31:50.772Z,"21km ESE of Little Lake, CA",earthquake,0.79,0.87,0.085,12,automatic,ci,ci
 2023-02-27T07:15:48.110Z,38.8274994,-122.8103333,1.33,0.98,md,14,51,0.004103,0.02,nc,nc73852301,2023-02-27T07:49:14.943Z,"7km NW of The Geysers, CA",earthquake,0.24,0.66,0.29,15,automatic,nc,nc
@@ -54,7 +54,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T01:06:47.503Z,63.5574,-147.7374,6.3,1.7,ml,,,,0.55,ak,ak0232nxsy7i,2023-02-27T01:08:25.507Z,"61 km ESE of Denali Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-27T00:44:40.596Z,63.0796,-151.4906,4,1.5,ml,,,,0.75,ak,ak0232nxfna3,2023-02-27T00:50:28.526Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-27T00:40:03.604Z,62.1881,-148.282,27.8,1.8,ml,,,,0.55,ak,ak0232nxepk8,2023-02-27T00:42:05.380Z,"44 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-26T23:58:04.181Z,41.8262,79.8518,10,5.1,mb,73,83,1.272,0.55,us,us6000jrt9,2023-02-27T04:16:54.819Z,"Kyrgyzstan-Xinjiang border region",earthquake,5.61,1.338,0.06,91,reviewed,us,us
+2023-02-26T23:58:04.181Z,41.8262,79.8518,10,5.1,mb,73,83,1.272,0.55,us,us6000jrt9,2023-02-27T04:16:54.819Z,"79 km NNW of Aksu, China",earthquake,5.61,1.338,0.06,91,reviewed,us,us
 2023-02-26T23:55:14.220Z,38.7714996,-122.7225037,0.52,0.85,md,7,93,0.01006,0.02,nc,nc73852181,2023-02-27T02:04:16.923Z,"3km W of Anderson Springs, CA",earthquake,0.44,0.61,0.33,6,automatic,nc,nc
 2023-02-26T23:41:08.630Z,38.8133316,-122.8160019,2.79,0.69,md,13,72,0.01106,0.02,nc,nc73852171,2023-02-27T01:13:14.618Z,"6km NW of The Geysers, CA",earthquake,0.33,0.71,0.4,16,automatic,nc,nc
 2023-02-26T23:34:23.130Z,33.494,-116.7825,4.22,0.68,ml,19,47,0.02362,0.16,ci,ci40419032,2023-02-26T23:37:54.028Z,"10km NE of Aguanga, CA",earthquake,0.31,0.47,0.131,14,automatic,ci,ci
@@ -194,4 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-26T08:44:53.552Z,59.8641,-152.8724,98.2,1.6,ml,,,,0.54,ak,ak0232mensmj,2023-02-26T08:57:19.960Z,"59 km W of Anchor Point, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-26T08:20:50.751Z,61.5859,-146.5414,28,1.3,ml,,,,0.62,ak,ak0232mein2r,2023-02-26T10:08:15.719Z,"46 km SSE of Nelchina, Alaska",earthquake,,2.6,,,reviewed,ak,ak
 2023-02-26T08:13:09.210Z,40.3901672,-124.8635025,6.86,2.85,md,19,260,0.4105,0.4,nc,nc73851906,2023-02-26T18:11:48.825Z,"50km W of Petrolia, CA",earthquake,6.14,9.17,0.14,5,automatic,nc,nc
-2023-02-26T07:52:05.400Z,38.8328323,-122.8208313,2.2,0.77,md,8,136,0.01263,0.01,nc,nc73851901,2023-02-26T10:14:16.134Z,"8km NW of The Geysers, CA",earthquake,0.53,1.22,0.37,9,automatic,nc,nc
