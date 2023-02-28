@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-28T18:47:54.600Z,33.0148333,-116.3478333,10.54,1.26,ml,32,88,0.06802,0.23,ci,ci40419576,2023-02-28T18:51:26.121Z,"25km SW of Ocotillo Wells, CA",earthquake,0.36,0.68,0.198,26,automatic,ci,ci
+2023-02-28T18:46:00.170Z,33.9555,-116.789,10.06,1.16,ml,23,71,0.08097,0.27,ci,ci40419568,2023-02-28T18:49:33.342Z,"4km N of Cabazon, CA",earthquake,0.48,1.29,0.218,28,automatic,ci,ci
 2023-02-28T18:34:00.180Z,19.2576675415039,-155.394836425781,30.6700000762939,2.11999989,md,27,130,,0.159999996,hv,hv73331882,2023-02-28T18:36:59.950Z,"10 km NE of Pāhala, Hawaii",earthquake,0.87,0.970000029,1.35000002,12,automatic,hv,hv
 2023-02-28T18:17:09.140Z,36.0256667,-117.8001667,5.32,1.11,ml,10,98,0.1019,0.13,ci,ci40419552,2023-02-28T18:20:52.888Z,"14km E of Coso Junction, CA",earthquake,0.46,2.6,0.138,12,automatic,ci,ci
-2023-02-28T18:17:08.940Z,38.7496681,-122.7109985,1.01,0.88,md,7,130,0.0161,0.02,nc,nc73852996,2023-02-28T18:32:11.342Z,"3km SSW of Anderson Springs, CA",earthquake,0.54,0.56,0.17,5,automatic,nc,nc
+2023-02-28T18:17:08.940Z,38.7496681,-122.7109985,1.01,0.88,md,7,130,0.0161,0.02,nc,nc73852996,2023-02-28T18:51:16.456Z,"3km SSW of Anderson Springs, CA",earthquake,0.54,0.56,0.17,5,automatic,nc,nc
 2023-02-28T17:34:39.610Z,19.3379993438721,-155.175827026367,3.91000008583069,2.04,ml,36,81,,0.180000007,hv,hv73331862,2023-02-28T17:40:10.540Z,"13 km SSE of Volcano, Hawaii",earthquake,0.43,2.32999992,0.3,5,automatic,hv,hv
 2023-02-28T17:22:38.490Z,39.388,-112.0971667,0.97,1.54,md,9,86,0.05844,0.15,uu,uu60532281,2023-02-28T18:05:49.110Z,"Utah",earthquake,0.46,3.93,0.372,5,reviewed,uu,uu
 2023-02-28T17:12:36.310Z,17.9973333333333,-66.8448333333333,12.06,1.87,md,3,324,0.03955,0.05,pr,pr71397753,2023-02-28T17:57:18.930Z,"2 km W of Indios, Puerto Rico",earthquake,3.45,0.97,0.240309978516549,3,reviewed,pr,pr
@@ -18,6 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T15:53:44.570Z,33.1906667,-115.5998333,1.29,1.26,ml,10,103,0.01868,0.19,ci,ci40419520,2023-02-28T17:32:28.965Z,"9km SW of Niland, CA",earthquake,0.79,1.04,0.218,6,reviewed,ci,ci
 2023-02-28T15:53:28.500Z,33.1726667,-115.666,1.62,1.33,ml,5,240,0.03789,0.17,ci,ci37506364,2023-02-28T17:40:49.415Z,"15km WNW of Calipatria, CA",earthquake,2.21,2.41,0.08,2,reviewed,ci,ci
 2023-02-28T15:48:02.842Z,35.6762,140.7823,43.894,4.5,mwr,27,139,2.261,0.65,us,us7000jg9d,2023-02-28T16:49:02.040Z,"7 km SW of Hasaki, Japan",earthquake,6.74,5.915,0.089,12,reviewed,us,us
+2023-02-28T15:36:42.420Z,47.1485,-121.91083333333333,1.87,0.72,ml,20,127,0.06633,0.15,uw,uw61900207,2023-02-28T18:55:00.230Z,"Washington",earthquake,0.59,2.18,0.1777622568673226,7,reviewed,uw,uw
 2023-02-28T15:28:42.190Z,63.4987,-152.0018,39.2,2.1,ml,,,,0.9,ak,ak0232ptt2ij,2023-02-28T15:30:49.222Z,"14 km WSW of Denali National Park, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-02-28T15:20:47.147Z,31.66011899,-104.5503272,7.288427734,2,ml,24,79,0.04309702152,0.3,tx,tx2023eddo,2023-02-28T18:01:52.679Z,"59 km SSW of Whites City, New Mexico",earthquake,1.449294622,0.8046439565,0.1,10,reviewed,tx,tx
 2023-02-28T15:20:29.320Z,18.0351666666667,-66.9028333333333,9.31,2.51,md,9,86,0.06386,0.19,pr,pr71397733,2023-02-28T15:32:24.300Z,"0 km SSE of Lluveras, Puerto Rico",earthquake,0.49,1.47,0.121801526062284,8,reviewed,pr,pr
@@ -140,6 +143,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-28T01:20:25.460Z,33.9613333,-116.7781667,13.63,0.96,ml,24,72,0.07763,0.23,ci,ci40419400,2023-02-28T01:27:20.819Z,"5km N of Cabazon, CA",earthquake,0.37,0.9,0.255,22,automatic,ci,ci
 2023-02-28T00:48:06.156Z,58.1059,-155.4332,11,0.4,ml,,,,0.75,ak,ak0232pkzrzb,2023-02-28T00:50:03.113Z,"83 km NW of Karluk, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-02-28T00:45:42.580Z,38.821167,-122.8526688,2.26,0.27,md,11,108,0.007166,0.02,nc,nc73852626,2023-02-28T01:19:16.136Z,"10km WNW of The Geysers, CA",earthquake,0.36,0.98,0.15,10,automatic,nc,nc
+2023-02-28T00:35:28.747Z,31.60558712,-103.9701308,9.062280273,2.069810608,mlv,22,60,0.04305177457,0.2,tx,tx2023ecai,2023-02-28T18:46:33.099Z,"36 km NNW of Toyah, Texas",earthquake,0.5849810006,0.6999702748999999,0.1908076151,13,reviewed,tx,tx
 2023-02-28T00:35:28.668Z,31.60684713,-103.9713467,9.537878418,2.2,ml,29,58,0.004412218608,0.1,tx,tx2023ecaj,2023-02-28T18:02:05.687Z,"36 km NNW of Toyah, Texas",earthquake,0.5296703523,0.4469359846,0.1,15,reviewed,tx,tx
 2023-02-28T00:33:30.974Z,64.0411,-148.7979,0,1.8,ml,,,,1.19,ak,ak0232pkwm5l,2023-02-28T00:35:21.499Z,"15 km E of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-02-28T00:25:55.892Z,27.9303,139.5216,498.668,4,mb,45,136,5.174,0.41,us,us7000jg51,2023-02-28T00:58:02.040Z,"Bonin Islands, Japan region",earthquake,12,10.13,0.102,26,reviewed,us,us
@@ -191,7 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-27T19:13:32.330Z,38.7598343,-122.7265015,2.07,2.27,md,46,49,0.03255,0.09,nc,nc73852536,2023-02-27T23:40:15.541Z,"3km SE of The Geysers, CA",earthquake,0.23,0.63,0.15,47,automatic,nc,nc
 2023-02-27T19:11:25.370Z,35.4556667,-118.353,3.83,1.51,ml,27,40,0.1731,0.14,ci,ci40419304,2023-02-28T14:39:04.580Z,"19km SE of Bodfish, CA",earthquake,0.21,0.73,0.211,22,reviewed,ci,ci
 2023-02-27T18:56:09.265Z,38.5655,142.079,48.169,4.6,mb,54,142,2.355,0.72,us,us7000jg2q,2023-02-27T19:44:03.040Z,"near the east coast of Honshu, Japan",earthquake,9.13,7.534,0.072,58,reviewed,us,us
-2023-02-27T18:55:48.194Z,60.1057,-141.2367,8.8,2.6,ml,,,,1.14,ak,ak0232o87tmr,2023-02-27T19:37:02.040Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-02-27T18:54:38.360Z,60.0474,-141.1933,0.8,2.3,ml,,,,0.4,ak,ak0232o87l5o,2023-02-27T18:56:41.365Z,"99 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-02-27T18:46:06.627Z,12.6515,-87.9497,77.254,5.3,mb,61,134,0.908,1.02,us,us7000jg2l,2023-02-28T16:16:48.276Z,"near the coast of Nicaragua",earthquake,5.04,6.323,0.022,672,reviewed,us,us
-2023-02-27T18:45:46.630Z,19.1860008239746,-155.488327026367,34.8400001525879,1.87,md,25,157,,0.119999997,hv,hv73331497,2023-02-27T18:49:01.140Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.92,1.23000002,1.84000003,6,automatic,hv,hv
