@@ -25,7 +25,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T16:33:32.795Z,36.752,-116.2058,3.4,0.9,ml,32,30.71,0.013,0.1363,nn,nn00856510,2023-03-02T17:23:15.285Z,"51 km WNW of Indian Springs, Nevada",earthquake,,0.7,0.87,17,reviewed,nn,nn
 2023-03-02T16:20:51.200Z,38.8061676,-122.7714996,1.24,0.72,md,13,105,0.01008,0.03,nc,nc73854451,2023-03-02T16:44:13.643Z,"4km NNW of The Geysers, CA",earthquake,0.28,0.49,0.17,15,automatic,nc,nc
 2023-03-02T16:18:58.140Z,40.8696667,-111.6151667,11.85,1.15,ml,19,80,0.1362,0.14,uu,uu60532491,2023-03-02T16:36:35.780Z,"13 km N of Summit Park, Utah",earthquake,0.34,0.81,0.118,2,reviewed,uu,uu
-2023-03-02T16:11:17.594Z,61.5732,-147.1868,20,2,ml,,,,0.69,ak,ak0232t5di1b,2023-03-02T16:13:16.787Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-02T16:11:17.594Z,61.5732,-147.1868,20,2,ml,,,,0.69,ak,ak0232t5di1b,2023-03-02T16:13:16.787Z,"35 km SE of Glacier View, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-02T16:01:03.430Z,38.8083344,-122.7718353,1.61,0.75,md,7,125,0.008484,0.01,nc,nc73854436,2023-03-02T18:33:15.355Z,"4km NNW of The Geysers, CA",earthquake,0.46,1.16,0.04,10,automatic,nc,nc
 2023-03-02T15:40:22.185Z,61.8454,-150.8077,12.5,1.9,ml,,,,0.36,ak,ak0232t4yaju,2023-03-02T15:42:37.594Z,"34 km ESE of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-02T15:35:51.530Z,19.1660003662109,-155.459671020508,32.2999992370605,2,md,26,131,,0.119999997,hv,hv73332497,2023-03-02T15:39:03.950Z,"4 km SSE of Pāhala, Hawaii",earthquake,0.86,1.51999998,1.03999996,12,automatic,hv,hv
@@ -59,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T11:12:16.980Z,38.8064995,-122.7721634,0.97,0.75,md,7,167,0.009481,0.01,nc,nc73854351,2023-03-02T13:32:14.578Z,"4km NNW of The Geysers, CA",earthquake,0.51,1.03,0.19,8,automatic,nc,nc
 2023-03-02T10:58:32.067Z,60.1925,-153.1335,109.7,2.3,ml,,,,0.26,ak,ak0232t2306e,2023-03-02T11:00:31.611Z,"65 km E of Port Alsworth, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-03-02T10:56:23.730Z,34.093,-118.3736667,7.64,1.08,ml,11,118,0.06589,0.14,ci,ci40420096,2023-03-02T14:38:14.925Z,"1km WNW of West Hollywood, CA",earthquake,0.38,0.63,0.114,21,reviewed,ci,ci
-2023-03-02T10:56:20.160Z,39.4121666,-122.9083328,0.29,1.66,md,7,192,0.1745,0.04,nc,nc73854346,2023-03-02T13:05:17.423Z,"4km E of Lake Pillsbury, CA",earthquake,0.66,8.66,0.08,3,automatic,nc,nc
+2023-03-02T10:56:20.110Z,39.4018333,-122.9098333,-0.79,1.86,md,25,92,0.1714,0.1,nc,nc73854346,2023-03-02T20:46:51.115Z,"4km E of Lake Pillsbury, CA",earthquake,0.26,1.01,0.15,26,reviewed,nc,nc
 2023-03-02T10:46:27.630Z,35.8761667,-117.753,9.02,1.13,ml,16,101,0.06815,0.12,ci,ci40420088,2023-03-02T16:49:03.848Z,"15km ESE of Little Lake, CA",earthquake,0.27,0.58,0.112,9,reviewed,ci,ci
 2023-03-02T10:24:28.140Z,61.748,-150.7082,40.3,1.9,ml,,,,0.75,ak,ak0232t1vpj2,2023-03-02T10:26:13.280Z,"25 km NNW of Susitna, Alaska",earthquake,,2.6,,,automatic,ak,ak
 2023-03-02T10:12:07.927Z,61.3857,-149.9625,42.1,1.9,ml,,,,0.82,ak,ak0232t1t3dk,2023-03-02T19:30:10.989Z,"3 km NNE of Point MacKenzie, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -68,10 +68,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T09:56:40.758Z,61.1737,-147.308,3,1.8,ml,,,,0.34,ak,ak0232t1h5t7,2023-03-02T10:14:19.870Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-02T09:51:39.056Z,13.6991,120.7072,130.569,4.5,mb,41,117,17.717,0.65,us,us7000jgsn,2023-03-02T11:46:24.040Z,"Mindoro, Philippines",earthquake,13.11,7.768,0.083,43,reviewed,us,us
 2023-03-02T09:42:58.827Z,63.4398,-151.5108,0,2,ml,,,,1.18,ak,ak0232t1e76i,2023-03-02T09:45:23.992Z,"15 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-03-02T09:37:17.870Z,56.8771666666667,-158.176666666667,3.3,0.79,ml,4,203,,0.11,av,av91779336,2023-03-02T20:46:49.680Z,"28 km ESE of Port Heiden, Alaska",earthquake,0.88,0.63,0.0962598545571967,3,reviewed,av,av
 2023-03-02T09:35:09.840Z,33.4945,-116.7831667,4.75,0.66,ml,22,38,0.02289,0.15,ci,ci40420080,2023-03-02T16:45:41.930Z,"10km NE of Aguanga, CA",earthquake,0.21,0.39,0.125,5,reviewed,ci,ci
 2023-03-02T09:33:36.860Z,38.7816658,-122.6996689,11.9,0.96,md,6,229,0.029,0.01,nc,nc73854316,2023-03-02T11:16:13.793Z,"1km NW of Anderson Springs, CA",earthquake,1.79,0.83,0.45,5,automatic,nc,nc
 2023-03-02T09:09:37.904Z,37.2336,-104.5005,7.413,2.8,ml,15,71,0.119,0.78,us,us7000jgsg,2023-03-02T18:00:16.117Z,"Colorado",earthquake,1.95,6.121,0.066,30,reviewed,us,us
 2023-03-02T09:06:51.260Z,61.8178,-149.6923,35.3,1.7,ml,,,,0.5,ak,ak0232t16gti,2023-03-02T09:08:55.204Z,"19 km ENE of Willow, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-03-02T09:05:59.680Z,58.2428333333333,-155.0795,3.06,-0.07,ml,6,137,,0.08,av,av91779321,2023-03-02T20:43:01.580Z,"83 km NNW of Karluk, Alaska",earthquake,0.35,1.19,0.229612404307557,6,reviewed,av,av
 2023-03-02T08:56:45.489Z,1.0635,120.2021,36.013,4.5,mb,26,106,0.581,0.55,us,us7000jgse,2023-03-02T09:18:02.040Z,"Minahasa, Sulawesi, Indonesia",earthquake,7.55,3.957,0.131,25,reviewed,us,us
 2023-03-02T08:51:51.123Z,33.2858,139.481,8.581,4.4,mb,26,138,0.327,0.39,us,us7000jgsf,2023-03-02T09:28:39.040Z,"162 km SSE of Shimoda, Japan",earthquake,2.14,6.251,0.143,14,reviewed,us,us
 2023-03-02T08:34:38.650Z,56.918,-158.006833333333,-2.1,2.3,ml,5,288,,0.13,av,av91091303,2023-03-02T20:29:01.540Z,"37 km E of Port Heiden, Alaska",earthquake,0.78,3.54,0.237752195089012,5,reviewed,av,av
@@ -170,4 +172,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T21:17:31.750Z,38.8258324,-122.8144989,2.14,0.71,md,11,69,0.004227,0.01,nc,nc73854121,2023-03-01T21:36:12.853Z,"7km NW of The Geysers, CA",earthquake,0.37,0.93,0.13,11,automatic,nc,nc
 2023-03-01T20:55:53.340Z,38.8310013,-122.8096695,2.04,0.94,md,22,43,0.007602,0.01,nc,nc73854116,2023-03-01T21:25:12.786Z,"8km NW of The Geysers, CA",earthquake,0.21,0.5,0.18,22,automatic,nc,nc
 2023-03-01T20:55:40.190Z,38.8323326,-122.8095016,2.02,0.71,md,15,47,0.008936,0.01,nc,nc73854111,2023-03-01T21:13:14.828Z,"8km W of Cobb, CA",earthquake,0.26,0.76,0.45,15,automatic,nc,nc
-2023-03-01T20:40:13.820Z,36.536,-98.96233333,7.09,1.29,ml,23,79,0.0449911712,0.09,ok,ok2023efjp,2023-03-02T16:50:43.201Z,"8 km SW of Waynoka, Oklahoma",earthquake,,0.2,0.27,4,reviewed,ok,ok
