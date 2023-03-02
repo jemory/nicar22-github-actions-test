@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-03-02T17:09:19.610Z,19.1643333435059,-155.484161376953,36.7000007629395,2.13000011,md,21,254,,0.159999996,hv,hv73332502,2023-03-02T17:12:44.370Z,"4 km S of Pāhala, Hawaii",earthquake,1.65,2.78999996,2.13000011,4,automatic,hv,hv
 2023-03-02T16:52:32.550Z,33.4218333,-116.6005,12.08,1.02,ml,32,40,0.07349,0.16,ci,ci40420136,2023-03-02T17:37:02.358Z,"16km N of Warner Springs, CA",earthquake,0.2,0.55,0.186,14,reviewed,ci,ci
+2023-03-02T16:42:58.082Z,-24.2573,-179.9222,514.89,4.7,mb,22,104,5.296,0.87,us,us7000jguv,2023-03-02T17:49:43.040Z,"south of the Fiji Islands",earthquake,11.83,11.056,0.106,29,reviewed,us,us
 2023-03-02T16:41:29.036Z,21.5821,143.0457,286.607,4.9,mb,160,70,8.137,0.87,us,us7000jguu,2023-03-02T17:02:03.040Z,"Mariana Islands region",earthquake,9.06,4.502,0.03,364,reviewed,us,us
 2023-03-02T16:40:46.202Z,38.6564,-118.7551,0,1.8,ml,14,90.48,0.45,0.1858,nn,nn00856512,2023-03-02T17:32:37.299Z,"0 km N of Walker Lake, Nevada",earthquake,,0,0.24,8,reviewed,nn,nn
 2023-03-02T16:36:49.190Z,59.6199,-153.8157,183,2.5,ml,,,,0.46,ak,ak0232t5ixdj,2023-03-02T16:42:00.514Z,"24 km SE of Pedro Bay, Alaska",earthquake,,1.3,,,automatic,ak,ak
@@ -153,7 +154,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-01T18:33:16.230Z,38.7708321,-122.7371674,1.29,1.74,md,12,72,0.01239,0.02,nc,nc73854071,2023-03-01T22:35:15.206Z,"2km ESE of The Geysers, CA",earthquake,0.24,0.35,0.28,11,automatic,nc,nc
 2023-03-01T18:26:34.710Z,33.033,-115.5475,7.44,1.49,ml,15,76,0.02938,0.2,ci,ci40419888,2023-03-01T19:54:01.051Z,"6km NNW of Brawley, CA",earthquake,0.44,0.61,0.168,11,reviewed,ci,ci
 2023-03-01T17:59:19.870Z,17.816,-66.9438333333333,8.27,1.81,md,3,300,0.1697,0.05,pr,pr71397928,2023-03-01T18:11:33.110Z,"17 km SSW of Guánica, Puerto Rico",earthquake,0.86,9.02,0.151721092113482,3,reviewed,pr,pr
-2023-03-01T17:49:41.784Z,62.7553,-151.0653,94.5,1.8,ml,,,,0.3,ak,ak0232rins82,2023-03-01T17:51:27.342Z,"32 km NNW of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-01T17:48:28.250Z,39.3767,-119.0411,8.5,1.6,ml,11,106.25,0.52,0.1504,nn,nn00856486,2023-03-02T01:04:09.623Z,"16 km ESE of Silver Springs, Nevada",earthquake,,5,0.35,8,reviewed,nn,nn
-2023-03-01T17:48:20.480Z,38.6566658,-122.658165,8.24,1.97,md,8,179,0.2029,0.32,nc,nc73854056,2023-03-01T18:41:18.758Z,"11km NW of Calistoga, CA",earthquake,5.32,9.05,0.14,4,automatic,nc,nc
-2023-03-01T17:48:15.900Z,38.7900009,-122.7611694,1.48,2.2,md,22,71,0.01067,0.03,nc,nc73854051,2023-03-01T22:10:13.053Z,"2km NNW of The Geysers, CA",earthquake,0.21,0.38,0.14,23,automatic,nc,nc
