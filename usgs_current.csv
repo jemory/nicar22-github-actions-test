@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-03T14:29:29.173Z,19.17,-66.6062,33.35,3.3,ml,16,209,0.693,0.32,us,us7000jh2d,2023-03-03T14:35:10.040Z,"78 km N of Arecibo, Puerto Rico",earthquake,7.1,17.6,0.064,32,reviewed,us,us
+2023-03-03T14:25:27.923Z,62.028,-150.4068,17.2,1.8,ml,,,,0.43,ak,ak0232urt054,2023-03-03T14:27:34.207Z,"32 km WSW of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-03T14:10:09.179Z,59.9846,-152.939,121.7,2.1,ml,,,,0.75,ak,ak0232urpqyg,2023-03-03T14:23:00.173Z,"66 km WNW of Anchor Point, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-03T13:49:01.000Z,38.8429985,-122.8144989,1.53,1.76,md,32,45,0.01354,0.03,nc,nc73854986,2023-03-03T14:04:09.950Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.16,34,automatic,nc,nc
+2023-03-03T13:49:01.000Z,38.8429985,-122.8144989,1.53,1.76,md,32,45,0.01354,0.03,nc,nc73854986,2023-03-03T14:31:16.100Z,"8km WNW of Cobb, CA",earthquake,0.16,0.29,0.16,34,automatic,nc,nc
 2023-03-03T13:48:48.530Z,19.1621666666667,-66.485,23.39,3.33,md,16,255,0.6827,0.26,pr,pr71398048,2023-03-03T14:22:39.520Z,"77 km N of Tierras Nuevas Poniente, Puerto Rico",earthquake,1.11,17.77,0.0927441772038042,12,reviewed,pr,pr
 2023-03-03T13:37:24.960Z,38.7994995,-122.7699966,-0.02,0.89,md,14,77,0.008114,0.05,nc,nc73854981,2023-03-03T14:19:15.035Z,"3km NNW of The Geysers, CA",earthquake,0.23,0.49,0.19,16,automatic,nc,nc
 2023-03-03T13:36:05.450Z,38.8110008,-122.7724991,0.85,0.78,md,9,81,0.006781,0.02,nc,nc73854976,2023-03-03T14:07:13.971Z,"4km NNW of The Geysers, CA",earthquake,0.33,0.74,0.23,10,automatic,nc,nc
@@ -69,7 +71,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-03T04:37:47.223Z,-18.2772,-174.7146,203.017,4.6,mb,19,85,0.772,0.39,us,us7000jgza,2023-03-03T04:55:44.040Z,"87 km WNW of Neiafu, Tonga",earthquake,10.63,4.329,0.146,14,reviewed,us,us
 2023-03-03T04:26:21.700Z,17.9421666666667,-66.8286666666667,12.09,2.19,md,12,214,0.05821,0.07,pr,pr71398008,2023-03-03T04:42:16.490Z,"5 km S of Indios, Puerto Rico",earthquake,0.67,0.32,0.11928608118864,5,reviewed,pr,pr
 2023-03-03T04:24:05.588Z,60.2028,-152.3028,88.4,2.2,ml,,,,0.48,ak,ak0232uluele,2023-03-03T04:37:36.040Z,"39 km WNW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-03T04:16:23.000Z,33.0433333,-116.732,0.4,0.76,ml,12,68,0.1627,0.31,ci,ci40420296,2023-03-03T04:19:56.597Z,"6km NE of San Diego Country Estates, CA",earthquake,0.72,31.61,0.184,7,automatic,ci,ci
 2023-03-03T04:00:32.725Z,61.4484,-146.8554,27.9,1.7,ml,,,,0.59,ak,ak0232ulpbk8,2023-03-03T04:02:48.104Z,"44 km NW of Valdez, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-03T03:54:09.550Z,38.8338318,-122.8161697,1.82,1.05,md,18,76,0.01146,0.03,nc,nc73854801,2023-03-03T04:12:14.249Z,"8km NW of The Geysers, CA",earthquake,0.23,0.5,0.17,20,automatic,nc,nc
 2023-03-03T03:29:39.338Z,65.3304,-148.8934,0,1.7,ml,,,,0.64,ak,ak0232ula48d,2023-03-03T03:31:38.550Z,"27 km SW of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -209,4 +210,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-02T14:55:41.290Z,32.902,-116.2688333,12.84,0.76,ml,19,91,0.05996,0.16,ci,ci40420112,2023-03-02T17:14:19.016Z,"26km ENE of Pine Valley, CA",earthquake,0.28,0.73,0.084,8,reviewed,ci,ci
 2023-03-02T14:42:32.860Z,35.925,-120.4713333,4.28,1.26,md,28,57,0.01886,0.06,nc,nc73854396,2023-03-03T02:02:14.367Z,"5km NW of Parkfield, CA",earthquake,0.28,0.32,0.203,14,reviewed,nc,nc
 2023-03-02T14:40:55.067Z,60.3477,-141.3092,4.6,2.3,ml,,,,0.8,ak,ak0232t4cxhe,2023-03-02T14:43:02.399Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-02T14:32:22.070Z,9.0431,122.5829,49.905,4.8,mb,55,50,3.556,0.77,us,us7000jgt9,2023-03-02T22:44:09.727Z,"38 km WSW of Bonawon, Philippines",earthquake,9.83,7.667,0.079,50,reviewed,us,us
