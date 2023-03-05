@@ -39,6 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T01:43:10.820Z,19.1544990539551,-155.468826293945,28.0599994659424,1.80999994,md,29,161,,0.119999997,hv,hv73333497,2023-03-05T01:46:26.660Z,"5 km S of Pāhala, Hawaii",earthquake,0.76,1.52999997,0.899999976,3,automatic,hv,hv
 2023-03-05T01:36:13.190Z,35.7053333,-117.5285,0.52,1.29,ml,16,150,0.1236,0.19,ci,ci40421008,2023-03-05T01:39:49.593Z,"13km WSW of Searles Valley, CA",earthquake,0.47,0.71,0.166,13,automatic,ci,ci
 2023-03-05T01:26:27.131Z,36.7523,71.3394,180.599,4.1,mb,35,74,2.653,0.72,us,us7000jheb,2023-03-05T01:46:01.040Z,"18 km WNW of Ashkāsham, Afghanistan",earthquake,8.28,10.002,0.14,14,reviewed,us,us
+2023-03-05T01:18:23.100Z,44.757,-117.31966666666666,6.81,2.16,ml,7,84,0.09599,0.27,uw,uw61900637,2023-03-05T06:57:14.280Z,"12 km W of Richland, Oregon",earthquake,0.75,0.91,0.19915724737598484,5,reviewed,uw,uw
 2023-03-05T01:06:10.281Z,-22.063,-70.3409,56.983,4.1,mb,15,154,0.545,0.55,us,us7000jhe6,2023-03-05T01:27:56.040Z,"15 km WNW of Tocopilla, Chile",earthquake,4.06,9.07,0.262,4,reviewed,us,us
 2023-03-05T01:00:54.290Z,17.9888333333333,-65.3855,13.96,2.82,md,4,231,0.1922,0.06,pr,pr71398323,2023-03-05T01:50:47.360Z,"15 km SE of Esperanza, Puerto Rico",earthquake,0.82,1.76,0.120837697198078,2,reviewed,pr,pr
 2023-03-05T01:00:40.560Z,17.9826666666667,-67.0053333333333,10.42,2.47,md,5,158,0.03929,0.07,pr,pr71398313,2023-03-05T01:19:05.720Z,"Puerto Rico region",earthquake,0.66,0.99,0.12424188493593,3,reviewed,pr,pr
@@ -94,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T17:30:55.030Z,37.4703331,-121.7756653,6.81,1.36,md,8,125,0.05111,0.02,nc,nc73855401,2023-03-04T18:50:11.158Z,"12km NNE of Alum Rock, CA",earthquake,0.42,0.77,0.31,2,automatic,nc,nc
 2023-03-04T17:16:17.170Z,40.5826683,-124.0703354,10.73,2.31,md,6,191,0.1847,0.01,nc,nc73855396,2023-03-04T17:58:09.869Z,"4km NNE of Hydesville, CA",earthquake,1.31,3.15,,1,automatic,nc,nc
 2023-03-04T17:05:28.855Z,-2.6274,121.9595,38.948,4.6,mb,68,41,1.772,0.51,us,us7000jhcf,2023-03-04T18:16:17.040Z,"161 km NNW of Kendari, Indonesia",earthquake,6.46,6.379,0.08,55,reviewed,us,us
-2023-03-04T16:59:24.358Z,57.8361,-156.2626,132.1,1.9,ml,,,,0.14,ak,ak0232wgqhwz,2023-03-04T17:00:52.660Z,"76 km ENE of Ugashik, Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-03-04T16:59:24.358Z,57.8361,-156.2626,132.1,1.9,ml,,,,0.14,ak,ak0232wgqhwz,2023-03-04T17:00:52.660Z,"Alaska Peninsula",earthquake,,1.1,,,automatic,ak,ak
 2023-03-04T16:54:44.760Z,51.8853333333333,-178.16,17.68,1.88,ml,6,137,,0.15,av,av91782451,2023-03-04T18:57:23.810Z,"105 km W of Adak, Alaska",earthquake,1.2,1.04,0.227298008884649,7,reviewed,av,av
 2023-03-04T16:28:43.850Z,48.5285,-123.44783333333334,23.18,1.37,ml,12,68,0.1211,0.33,uw,uw61900597,2023-03-05T05:45:54.970Z,"7 km N of Six Mile, Canada",earthquake,0.82,1.48,0.04087539270729734,5,reviewed,uw,uw
 2023-03-04T16:22:43.710Z,18.6715,-65.1575,56.15,3.14,md,19,233,0.3703,0.28,pr,pr71398278,2023-03-04T16:44:03.345Z,"43 km NNE of Culebra, Puerto Rico",earthquake,1.59,1.76,0.131427445361123,12,reviewed,pr,pr
@@ -165,5 +166,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-04T07:18:39.990Z,38.7993317,-122.80233,0.06,1.5,md,27,46,0.01022,0.04,nc,nc73855256,2023-03-04T09:57:13.026Z,"5km WNW of The Geysers, CA",earthquake,0.15,0.36,0.29,28,automatic,nc,nc
 2023-03-04T07:14:41.580Z,61.9181,-149.4,100.5,1.7,ml,,,,0.97,ak,ak0232wb3ykf,2023-03-04T07:26:41.405Z,"21 km NNW of Fishhook, Alaska",earthquake,,2.7,,,automatic,ak,ak
 2023-03-04T07:09:20.060Z,33.4865,-116.782,2.85,1.78,ml,72,37,0.03001,0.21,ci,ci40420760,2023-03-04T07:20:34.690Z,"9km ENE of Aguanga, CA",earthquake,0.18,0.62,0.138,26,automatic,ci,ci
-2023-03-04T07:03:12.290Z,38.7851677,-122.7333298,0.84,0.65,md,8,85,0.00328,0.1,nc,nc73855246,2023-03-04T09:15:15.784Z,"2km ENE of The Geysers, CA",earthquake,0.39,0.89,0.38,7,automatic,nc,nc
-2023-03-04T06:56:38.360Z,19.2743339538574,-155.405166625977,30.3999996185303,2.11999989,md,39,118,,0.129999995,hv,hv73333122,2023-03-04T07:01:18.904Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.540000021,0.680000007,17,automatic,hv,hv
