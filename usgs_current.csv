@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-06T08:46:21.738Z,58.2592,-154.9497,0,0.6,ml,,,,0.36,ak,ak0232zmyxk4,2023-03-06T08:49:54.221Z,"82 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
+2023-03-06T08:37:56.180Z,38.8348351,-122.8141632,1.42,0.61,md,8,84,0.01186,0.01,nc,nc73856031,2023-03-06T08:39:29.470Z,"8km W of Cobb, CA",earthquake,0.37,0.96,0.33,10,automatic,nc,nc
+2023-03-06T08:35:59.580Z,36.8793335,-121.6213303,7.62,2.45,md,55,73,0.02409,0.15,nc,nc73856026,2023-03-06T08:45:22.161Z,"2km ESE of Aromas, CA",earthquake,0.27,0.48,0.11,59,automatic,nc,nc
 2023-03-06T08:25:38.380Z,34.045,-118.937,10.74,1.36,ml,13,220,0.1154,0.26,ci,ci40421424,2023-03-06T08:29:10.287Z,"12km WNW of Malibu, CA",earthquake,1.14,1.55,0.123,27,automatic,ci,ci
 2023-03-06T08:21:54.979Z,59.6442,-152.9454,95.8,1.6,ml,,,,0.2,ak,ak0232zmtn7t,2023-03-06T08:23:42.998Z,"Southern Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-06T08:19:55.065Z,60.0886,-153.1205,124.7,1.8,ml,,,,0.59,ak,ak0232zmt7si,2023-03-06T08:22:49.954Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -86,7 +89,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T20:49:46.684Z,36.8151,36.1812,10,4.8,mwr,113,69,0.775,0.86,us,us7000jhi7,2023-03-06T06:30:03.774Z,"5 km WSW of Dörtyol, Turkey",earthquake,5.15,1.835,0.066,22,reviewed,us,us
 2023-03-05T20:48:35.010Z,33.7733333,-116.9366667,12.4,1.12,ml,28,66,0.08457,0.23,ci,ci40421312,2023-03-05T20:52:08.427Z,"2km ESE of San Jacinto, CA",earthquake,0.32,0.77,0.178,28,automatic,ci,ci
 2023-03-05T20:47:10.970Z,38.8375015,-122.7841644,1.37,0.5,md,10,79,0.00491,0.01,nc,nc73855801,2023-03-05T21:21:15.913Z,"6km WNW of Cobb, CA",earthquake,0.43,0.99,0.3,10,automatic,nc,nc
-2023-03-05T20:43:02.700Z,7.5294,126.1717,10,5.4,mww,136,33,0.744,0.66,us,us7000jhi6,2023-03-06T01:42:03.570Z,"Mindanao, Philippines",earthquake,2.2,1.779,0.069,20,reviewed,us,us
+2023-03-05T20:43:02.700Z,7.5294,126.1717,10,5.4,mww,136,33,0.744,0.66,us,us7000jhi6,2023-03-06T08:35:59.382Z,"Mindanao, Philippines",earthquake,2.2,1.779,0.069,20,reviewed,us,us
 2023-03-05T20:39:33.580Z,35.8645,-117.6818333,8.68,1.65,ml,18,83,0.08403,0.18,ci,ci40421304,2023-03-05T20:43:25.224Z,"22km ESE of Little Lake, CA",earthquake,0.32,0.95,0.206,18,automatic,ci,ci
 2023-03-05T20:37:28.700Z,38.8223343,-122.80867,6.79,0.58,md,6,122,0.001525,0.04,nc,nc73855796,2023-03-05T21:10:14.840Z,"7km NW of The Geysers, CA",earthquake,1.45,6.69,0.4,8,automatic,nc,nc
 2023-03-05T20:27:51.075Z,60.0244,-153.1893,127.2,2.9,ml,,,,0.35,ak,ak0232y6grzj,2023-03-05T21:30:30.040Z,"57 km ENE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -192,8 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T09:33:57.670Z,38.4835014,-122.7600021,6.44,1.86,md,17,71,0.1073,0.09,nc,nc73855626,2023-03-05T11:42:14.371Z,"3km SSW of Larkfield-Wikiup, CA",earthquake,0.29,0.95,0.14,16,automatic,nc,nc
 2023-03-05T09:28:45.210Z,33.7015,-116.7551667,14.39,1.44,ml,49,28,0.03551,0.19,ci,ci40421120,2023-03-05T15:03:02.380Z,"5km SW of Idyllwild, CA",earthquake,0.2,0.33,0.191,27,reviewed,ci,ci
 2023-03-05T09:04:14.690Z,51.86,-178.1395,9.26,0.54,ml,4,245,,0.08,av,av91784211,2023-03-05T23:19:58.940Z,"103 km W of Adak, Alaska",earthquake,1.02,0.68,0.204320536742177,4,reviewed,av,av
-2023-03-05T08:43:47.230Z,32.4383333,-115.2348333,2.17,1.95,ml,12,96,0.06224,0.36,ci,ci40421112,2023-03-05T08:47:29.492Z,"10km NNW of Delta, B.C., MX",earthquake,0.77,1.49,0.259,18,automatic,ci,ci
-2023-03-05T08:40:42.453Z,62.9831,-148.8622,9.5,1.4,ml,,,,0.17,ak,ak0232xzecd1,2023-03-05T08:42:04.342Z,"45 km S of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-05T08:38:30.830Z,33.7605,-116.9386667,13.89,1.22,ml,33,40,0.05327,0.22,ci,ci40421104,2023-03-05T08:42:24.558Z,"3km SE of San Jacinto, CA",earthquake,0.29,0.55,0.161,28,automatic,ci,ci
-2023-03-05T08:36:51.410Z,33.7668333,-116.9461667,15.5,1.02,ml,29,53,0.04488,0.29,ci,ci40421096,2023-03-05T08:40:23.433Z,"2km SSE of San Jacinto, CA",earthquake,0.44,0.78,0.146,27,automatic,ci,ci
-2023-03-05T08:36:09.420Z,38.8413315,-122.8424988,2.31,0.66,md,9,138,0.006122,0.06,nc,nc73855606,2023-03-05T10:49:13.035Z,"10km NW of The Geysers, CA",earthquake,0.6,0.63,0.28,8,automatic,nc,nc
