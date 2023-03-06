@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-06T23:16:38.880Z,35.7874985,-121.4328308,-0.1,1.78,md,19,204,0.2502,0.33,nc,nc73856246,2023-03-06T23:18:12.426Z,"27km NW of San Simeon, CA",earthquake,1.35,10.11,0.06,8,automatic,nc,nc
+2023-03-06T23:16:38.880Z,35.7874985,-121.4328308,-0.1,1.78,md,19,204,0.2502,0.33,nc,nc73856246,2023-03-06T23:33:13.445Z,"27km NW of San Simeon, CA",earthquake,1.35,10.11,0.06,8,automatic,nc,nc
 2023-03-06T23:06:09.167Z,34.52496338,-97.65641785,2.992956877,2.04,ml,14,55.35821533,0.1639744192,0.9235523169,ok,ok2023eorx,2023-03-06T23:09:38.576Z,"Oklahoma",earthquake,3.086538419,1.94625502,,9,automatic,ok,ok
 2023-03-06T22:49:31.232Z,62.8992,-148.8167,17.5,1.7,ml,,,,0.88,ak,ak0232zvbnwj,2023-03-06T22:51:19.519Z,"55 km S of Cantwell, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-06T22:45:51.610Z,33.528,-116.7271667,4.85,0.66,ml,22,50,0.03825,0.09,ci,ci40421576,2023-03-06T22:49:23.170Z,"6km WSW of Anza, CA",earthquake,0.18,0.37,0.089,16,automatic,ci,ci
@@ -95,7 +95,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T09:27:07.060Z,33.399,-116.3865,2.4,1.07,ml,37,35,0.1283,0.23,ci,ci40421440,2023-03-06T09:30:43.937Z,"16km N of Borrego Springs, CA",earthquake,0.29,1.14,0.16,27,automatic,ci,ci
 2023-03-06T09:25:49.518Z,-60.9286,-33.4164,10,5,mb,33,66,6.864,0.64,us,us7000jhln,2023-03-06T09:46:33.040Z,"Scotia Sea",earthquake,10.42,1.864,0.107,28,reviewed,us,us
 2023-03-06T09:25:38.486Z,12.0645,-87.9523,42.429,4.9,mb,67,153,1.3,1.04,us,us7000jhlk,2023-03-06T09:40:31.040Z,"near the coast of Nicaragua",earthquake,5.79,9.359,0.03,354,reviewed,us,us
-2023-03-06T09:25:35.260Z,37.732,-118.7826667,5.23,1.63,md,17,113,0.05919,0.06,nc,nc73856051,2023-03-06T21:25:12.652Z,"20km ENE of Mammoth Lakes, CA",earthquake,0.36,0.82,0.222,21,reviewed,nc,nc
+2023-03-06T09:25:35.260Z,37.732,-118.7826667,5.23,1.63,md,17,113,0.05919,0.06,nc,nc73856051,2023-03-06T23:27:11.535Z,"20km ENE of Mammoth Lakes, CA",earthquake,0.36,0.82,0.222,21,reviewed,nc,nc
 2023-03-06T09:20:53.920Z,19.1861667633057,-155.48616027832,34.0800018310547,1.96000004,md,34,77,,0.0900000036,hv,hv73334427,2023-03-06T09:24:06.540Z,"2 km SSW of Pāhala, Hawaii",earthquake,0.73,0.949999988,1.98000002,4,automatic,hv,hv
 2023-03-06T09:17:14.030Z,34.3236667,-118.5003333,7.27,1.41,ml,24,89,0.02096,0.28,ci,ci40421432,2023-03-06T09:20:53.552Z,"5km WNW of Sylmar, CA",earthquake,0.52,0.72,0.127,28,automatic,ci,ci
 2023-03-06T09:14:48.040Z,38.8223343,-122.8058319,2.96,0.77,md,12,84,0.003479,0.01,nc,nc73856046,2023-03-06T09:36:12.438Z,"7km NW of The Geysers, CA",earthquake,0.45,1.34,0.41,14,automatic,nc,nc
@@ -121,7 +121,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T07:26:38.540Z,17.8991666666667,-66.8795,14.93,2.64,md,9,234,0.07547,0.09,pr,pr71398523,2023-03-06T07:40:41.060Z,"Puerto Rico region",earthquake,0.63,0.52,0.0832933670647402,4,reviewed,pr,pr
 2023-03-06T07:22:39.190Z,38.8193321,-122.80867,3.09,0.99,md,19,45,0.004203,0.02,nc,nc73856001,2023-03-06T09:25:11.385Z,"6km NW of The Geysers, CA",earthquake,0.23,0.6,0.24,19,automatic,nc,nc
 2023-03-06T07:09:32.408Z,57.0234,-155.8636,34.4,2.1,ml,,,,1.47,ak,ak0232zm5la0,2023-03-06T07:12:20.520Z,"103 km W of Akhiok, Alaska",earthquake,,2.9,,,automatic,ak,ak
-2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"Kodiak Island region, Alaska",earthquake,,2.9,,,reviewed,ak,ak
+2023-03-06T06:45:13.184Z,58.2617,-152.1917,77.5,1.6,ml,,,,1.38,ak,ak0232zlrusy,2023-03-06T16:10:53.832Z,"41 km NNE of Ouzinkie, Alaska",earthquake,,2.9,,,reviewed,ak,ak
 2023-03-06T06:39:11.310Z,38.8288345,-122.800499,1.81,1.73,md,32,34,0.009243,0.02,nc,nc73855981,2023-03-06T08:32:12.047Z,"7km W of Cobb, CA",earthquake,0.17,0.29,0.17,32,automatic,nc,nc
 2023-03-06T06:38:56.000Z,38.8278351,-122.8014984,2.05,0.73,md,7,92,0.008033,0.01,nc,nc73855976,2023-03-06T08:06:13.888Z,"7km W of Cobb, CA",earthquake,0.48,1.14,0.25,8,automatic,nc,nc
 2023-03-06T06:19:54.830Z,39.2566667,-123.4728333,7.79,1.38,md,17,57,0.1234,0.08,nc,nc73855971,2023-03-06T21:25:11.652Z,"20km SSW of Willits, CA",earthquake,0.19,0.73,0.17,13,reviewed,nc,nc
@@ -176,5 +176,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T00:13:58.230Z,40.4324989,-123.7186661,25.82,1.57,md,8,154,0.07808,0.04,nc,nc73855856,2023-03-06T02:27:14.860Z,"34km ESE of Rio Dell, CA",earthquake,0.9,0.77,0.09,2,automatic,nc,nc
 2023-03-05T23:45:21.130Z,38.8135,-122.8251667,2,2.6,md,76,18,0.005587,0.05,nc,nc73855846,2023-03-06T22:48:10.176Z,"7km NW of The Geysers, CA",earthquake,0.09,0.15,0.161,84,reviewed,nc,nc
 2023-03-05T23:37:12.290Z,7.6252,91.7665,10,5.1,mb,49,124,5.672,0.74,us,us7000jhj3,2023-03-05T23:51:23.040Z,"Nicobar Islands, India region",earthquake,6.96,1.88,0.091,39,reviewed,us,us
-2023-03-05T23:27:34.899Z,61.9445,-152.1043,1.1,1.6,ml,,,,0.68,ak,ak0232y891jl,2023-03-05T23:31:19.633Z,"37 km W of Skwentna, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-03-05T23:23:59.360Z,38.8183327,-122.7988358,5.62,0.77,md,16,48,0.01013,0.04,nc,nc73855836,2023-03-06T00:48:13.210Z,"6km NW of The Geysers, CA",earthquake,0.44,0.71,0.27,16,automatic,nc,nc
