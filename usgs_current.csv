@@ -1,5 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-06T19:34:50.650Z,33.93,-116.788,18.64,1.2,ml,35,33,0.09648,0.23,ci,ci40421560,2023-03-06T19:38:29.637Z,"1km N of Cabazon, CA",earthquake,0.32,0.67,0.135,28,automatic,ci,ci
+2023-03-06T19:46:44.300Z,38.8216667,-122.7866669,1.79,1.3,md,25,78,0.009608,0.02,nc,nc73856196,2023-03-06T19:48:21.424Z,"6km W of Cobb, CA",earthquake,0.2,0.34,0.16,26,automatic,nc,nc
+2023-03-06T19:45:30.912Z,58.195,-155.2769,2.4,0.4,ml,,,,0.12,ak,ak0232ztii77,2023-03-06T19:46:34.308Z,"Alaska Peninsula",earthquake,,2.5,,,automatic,ak,ak
+2023-03-06T19:44:54.709Z,63.3585,-152.1665,21.6,2.3,ml,,,,0.99,ak,ak0232zticbi,2023-03-06T19:47:26.275Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-03-06T19:34:50.650Z,33.93,-116.788,18.64,1.2,ml,35,33,0.09648,0.23,ci,ci40421560,2023-03-06T19:45:58.360Z,"1km N of Cabazon, CA",earthquake,0.32,0.67,0.135,28,automatic,ci,ci
 2023-03-06T19:34:27.120Z,33.4948333,-116.782,4.49,0.57,ml,17,48,0.07967,0.18,ci,ci40421552,2023-03-06T19:38:10.726Z,"10km NE of Aguanga, CA",earthquake,0.33,0.81,0.095,13,automatic,ci,ci
 2023-03-06T18:55:26.698Z,58.3427,-150.947,6.3,2.4,ml,,,,0.56,ak,ak0232zsz7fh,2023-03-06T18:58:21.170Z,"102 km ENE of Ouzinkie, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-03-06T18:42:43.841Z,63.4049,-151.29,0,1.9,ml,,,,1,ak,ak0232zswgg0,2023-03-06T18:45:19.064Z,"26 km SE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -79,7 +82,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-06T08:52:00.923Z,62.0612,-148.2019,27.3,1.4,ml,,,,0.8,ak,ak0232zn0678,2023-03-06T08:53:45.856Z,"32 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-06T08:46:21.738Z,58.2592,-154.9497,0,0.6,ml,,,,0.36,ak,ak0232zmyxk4,2023-03-06T08:49:54.221Z,"82 km NNW of Karluk, Alaska",earthquake,,2.2,,,automatic,ak,ak
 2023-03-06T08:37:56.180Z,38.8348351,-122.8141632,1.42,0.61,md,8,84,0.01186,0.01,nc,nc73856031,2023-03-06T08:55:13.192Z,"8km W of Cobb, CA",earthquake,0.37,0.96,0.33,10,automatic,nc,nc
-2023-03-06T08:35:59.580Z,36.8793335,-121.6213303,7.62,2.45,md,55,73,0.02409,0.15,nc,nc73856026,2023-03-06T18:55:59.003Z,"2km ESE of Aromas, CA",earthquake,0.27,0.48,0.11,59,automatic,nc,nc
+2023-03-06T08:35:59.580Z,36.8793335,-121.6213303,7.62,2.45,md,55,73,0.02409,0.15,nc,nc73856026,2023-03-06T19:40:04.779Z,"2km ESE of Aromas, CA",earthquake,0.27,0.48,0.11,59,automatic,nc,nc
 2023-03-06T08:25:38.380Z,34.045,-118.937,10.74,1.36,ml,13,220,0.1154,0.26,ci,ci40421424,2023-03-06T08:29:10.287Z,"12km WNW of Malibu, CA",earthquake,1.14,1.55,0.123,27,automatic,ci,ci
 2023-03-06T08:21:54.979Z,59.6442,-152.9454,95.8,1.6,ml,,,,0.2,ak,ak0232zmtn7t,2023-03-06T08:23:42.998Z,"64 km WSW of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-06T08:19:55.065Z,60.0886,-153.1205,124.7,1.8,ml,,,,0.59,ak,ak0232zmt7si,2023-03-06T08:22:49.954Z,"64 km ENE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
@@ -184,4 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-05T19:49:56.040Z,44.5905,-111.1376667,8.48,1.55,ml,14,106,0.03045,0.18,uu,uu60532681,2023-03-06T14:39:34.780Z,"8 km SSW of West Yellowstone, Montana",earthquake,0.59,0.85,0.74,3,reviewed,uu,uu
 2023-03-05T19:49:29.900Z,38.833168,-122.8176651,1.7,1.35,md,23,57,0.01142,0.02,nc,nc73855776,2023-03-05T22:36:15.369Z,"8km NW of The Geysers, CA",earthquake,0.2,0.42,0.17,24,automatic,nc,nc
 2023-03-05T19:49:06.604Z,61.4605,-150.2059,36.5,1.5,ml,,,,0.75,ak,ak0232y5zyp0,2023-03-05T19:51:14.982Z,"15 km WSW of Big Lake, Alaska",earthquake,,8.2,,,automatic,ak,ak
-2023-03-05T19:45:46.979Z,36.6294,-115.9676,8.3,0.4,ml,14,235.77,0.1,0.0932,nn,nn00856595,2023-03-06T18:30:29.423Z,"27 km WNW of Indian Springs, Nevada",earthquake,,1.9,0.84,8,reviewed,nn,nn
