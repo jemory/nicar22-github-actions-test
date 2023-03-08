@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-08T05:08:53.485Z,59.1639,-151.9994,58.8,1.7,ml,,,,0.35,ak,ak02332w18ys,2023-03-08T05:11:00.655Z,"Kenai Peninsula, Alaska",earthquake,,2.8,,,automatic,ak,ak
+2023-03-08T05:07:09.330Z,35.6275,-117.4241667,5.7,0.89,ml,12,158,0.05132,0.18,ci,ci40422024,2023-03-08T05:10:39.956Z,"16km S of Searles Valley, CA",earthquake,0.88,1.11,0.183,7,automatic,ci,ci
 2023-03-08T04:54:52.790Z,62.5833,-148.2131,38.4,1.6,ml,,,,0.75,ak,ak02332vpo8v,2023-03-08T04:57:40.583Z,"88 km N of Chickaloon, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-08T04:21:49.124Z,61.324,-146.3492,26.1,1.5,ml,,,,0.87,ak,ak02332vilc0,2023-03-08T04:23:41.392Z,"21 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-08T04:07:32.850Z,34.0475,-116.3498333,6.31,2.74,ml,69,25,0.03977,0.15,ci,ci40422016,2023-03-08T04:34:08.789Z,"10km SSW of Joshua Tree, CA",earthquake,0.16,0.5,0.151,25,automatic,ci,ci
@@ -108,7 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T16:37:55.510Z,38.7955017,-122.7913361,-0.88,1.33,md,17,70,0.01164,0.05,nc,nc73856461,2023-03-07T18:21:10.085Z,"4km NW of The Geysers, CA",earthquake,0.18,0.62,0.26,18,automatic,nc,nc
 2023-03-07T16:27:19.530Z,36.5965,-121.2016667,8.11,0.58,md,9,143,0.028,0.06,nc,nc73856456,2023-03-07T23:36:30.651Z,"9km NW of Pinnacles, CA",earthquake,0.7,0.43,0.317,6,reviewed,nc,nc
 2023-03-07T16:15:52.689Z,59.3609,-152.9487,97.7,1.9,ml,,,,0.39,ak,ak02331f362s,2023-03-07T16:17:50.827Z,"58 km W of Nanwalek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-07T16:10:17.531Z,60.7458,-147.1198,21.1,1.8,ml,,,,0.43,ak,ak02331f20sf,2023-03-07T16:12:58.246Z,"27 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-07T16:10:17.531Z,60.7458,-147.1198,21.1,1.8,ml,,,,0.43,ak,ak02331f20sf,2023-03-07T16:12:58.246Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T16:08:08.890Z,38.8269997,-122.802002,1.72,1.03,md,22,34,0.01458,0.01,nc,nc73856446,2023-03-07T17:26:10.745Z,"7km NW of The Geysers, CA",earthquake,0.19,0.42,0.21,22,automatic,nc,nc
 2023-03-07T16:07:15.585Z,60.8376,-149.8394,33.1,1.6,ml,,,,0.61,ak,ak02331f1dhi,2023-03-07T16:09:12.489Z,"14 km SW of Hope, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-07T16:03:14.112Z,61.7575,-150.6651,45.4,2.8,ml,,,,0.18,ak,ak02331f0iib,2023-03-07T18:05:59.993Z,"25 km NNW of Susitna, Alaska",earthquake,,1.6,,,automatic,ak,ak
@@ -244,6 +246,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-07T05:36:33.290Z,19.171667098999,-155.477493286133,28.6599998474121,1.88,md,33,86,,0.140000001,hv,hv73334922,2023-03-07T05:39:44.050Z,"3 km S of Pāhala, Hawaii",earthquake,0.72,0.939999998,0.939999998,8,automatic,hv,hv
 2023-03-07T05:32:57.555Z,62.6547,-149.7286,59.9,1.8,ml,,,,0.56,ak,ak023318n1yz,2023-03-07T05:34:39.353Z,"29 km NE of Chase, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-03-07T05:31:33.843Z,57.7303,-154.0948,21,1.2,ml,,,,0.55,ak,ak023318mqt2,2023-03-07T18:50:29.886Z,"22 km NNW of Larsen Bay, Alaska",earthquake,,6.8,,,reviewed,ak,ak
-2023-03-07T05:22:47.629Z,65.488,-144.7746,0,1.7,ml,,,,0.75,ak,ak023318kw1n,2023-03-07T05:33:59.159Z,"9 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-03-07T05:15:23.210Z,38.7616653,-122.7419968,1.28,1.5,md,22,104,0.009145,0.05,nc,nc73856316,2023-03-07T07:11:19.143Z,"2km SE of The Geysers, CA",earthquake,0.26,0.41,0.19,24,automatic,nc,nc
-2023-03-07T05:12:35.273Z,62.8501,-151.1352,27.9,1.7,ml,,,,0.95,ak,ak023318ipxj,2023-03-07T05:14:29.764Z,"43 km NNW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
