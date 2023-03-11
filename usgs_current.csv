@@ -1,7 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-11T09:44:55.720Z,34.0495,-116.3516667,5.04,1.59,ml,47,61,0.03741,0.2,ci,ci40183223,2023-03-11T09:48:39.705Z,"10km SSW of Joshua Tree, CA",earthquake,0.25,0.56,0.113,27,automatic,ci,ci
+2023-03-11T09:42:24.420Z,19.3011665344238,-155.216995239258,6.21999979019165,2.45,ml,39,101,,0.159999996,hv,hv73336932,2023-03-11T09:47:55.830Z,"15 km S of Volcano, Hawaii",earthquake,0.38,0.629999995,0.34,15,automatic,hv,hv
+2023-03-11T09:42:24.300Z,38.8064995,-122.8228302,2.63,0.63,md,8,119,0.005495,0.02,nc,nc73855335,2023-03-11T09:44:03.703Z,"7km WNW of The Geysers, CA",earthquake,0.52,1.17,0.17,10,automatic,nc,nc
+2023-03-11T09:41:43.760Z,40.7461662,-122.2040024,3.05,2.29,md,8,130,0.1044,0.09,nc,nc73855330,2023-03-11T09:47:19.657Z,"12km NNE of Bella Vista, CA",earthquake,0.65,8.31,0.11,10,automatic,nc,nc
 2023-03-11T09:32:33.130Z,33.3196667,-116.894,13.81,1.97,ml,59,29,0.1333,0.23,ci,ci40183215,2023-03-11T09:36:16.634Z,"5km SW of Palomar Observatory, CA",earthquake,0.22,0.82,0.192,26,automatic,ci,ci
 2023-03-11T09:31:29.460Z,35.5131667,-117.4073333,11.83,1.33,ml,11,165,0.03684,0.13,ci,ci40183207,2023-03-11T09:34:59.411Z,"26km NE of Johannesburg, CA",earthquake,0.68,1.14,0.104,15,automatic,ci,ci
 2023-03-11T09:25:49.163Z,65.4968,-147.9979,8.4,1.2,ml,,,,0.34,ak,ak02337x4npg,2023-03-11T09:27:27.331Z,"25 km E of Livengood, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2023-03-11T09:18:36.850Z,37.9125,140.636,115.318,4,mb,26,80,2.372,0.34,us,us7000jj3s,2023-03-11T09:48:03.040Z,"7 km NNE of Yanagawamachi-saiwaichō, Japan",earthquake,8.97,7.861,0.144,14,reviewed,us,us
 2023-03-11T09:14:13.558Z,63.5107,-149.9284,7.6,1.3,ml,,,,0.51,ak,ak02337x282z,2023-03-11T09:16:06.664Z,"50 km WNW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-11T09:09:24.320Z,61.3461,-146.6335,17.8,1.8,ml,,,,0.95,ak,ak02337x16c0,2023-03-11T09:11:26.430Z,"28 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-11T08:49:52.069Z,-24.0847,-179.9607,498.911,4.8,mb,70,64,5.266,0.73,us,us7000jj3k,2023-03-11T09:05:29.040Z,"south of the Fiji Islands",earthquake,12.28,8.332,0.1,31,reviewed,us,us
@@ -343,8 +348,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-10T10:22:56.783Z,35.17547607,-101.7649489,4.377400716,1.6,ml,11,111,0.2521266596,0.3,tx,tx2023evau,2023-03-10T20:24:42.354Z,"7 km SE of Amarillo, Texas",earthquake,1.429385782,1.752248185,0.1,6,reviewed,tx,tx
 2023-03-10T09:54:04.330Z,34.7336667,-120.4083333,2.18,1.95,ml,22,91,0.05333,0.24,ci,ci40182767,2023-03-10T23:04:39.910Z,"6km ENE of Vandenberg Village, CA",earthquake,0.32,0.52,0.149,21,reviewed,ci,ci
 2023-03-10T09:53:54.550Z,38.7813339,-122.7556686,1.21,0.71,md,10,69,0.0132,0.03,nc,nc73854965,2023-03-10T10:48:13.764Z,"0km N of The Geysers, CA",earthquake,0.28,0.55,0.16,11,automatic,nc,nc
-2023-03-10T09:52:14.450Z,49.027,-119.7,0.61,1.09,ml,5,162,0.2997,0.09,uw,uw61910416,2023-03-11T05:30:53.310Z,"British Columbia, Canada",earthquake,0.6,10.21,0.0717465340394432,3,reviewed,uw,uw
-2023-03-10T09:50:13.400Z,58.2575,-155.1155,4.02,0.44,ml,14,88,,0.07,av,av91795571,2023-03-10T21:56:12.210Z,"86 km NNW of Karluk, Alaska",earthquake,0.26,0.4,0.130686461570982,14,reviewed,av,av
-2023-03-10T09:47:37.160Z,38.8181648,-122.8253326,1.9,0.81,md,9,86,0.009046,0.01,nc,nc73854960,2023-03-10T10:21:15.622Z,"8km NW of The Geysers, CA",earthquake,0.36,0.97,0.27,12,automatic,nc,nc
-2023-03-10T09:43:22.570Z,37.197,-104.7648,5.263,2.5,ml,15,66,0.076,0.23,us,us7000jis6,2023-03-10T16:52:22.020Z,"8 km N of Segundo, Colorado",earthquake,2.45,6.539,0.121,20,reviewed,us,us
-2023-03-10T09:43:14.422Z,58.2676,-155.0594,0,1.9,ml,,,,0.61,ak,ak023369p3f6,2023-03-10T09:44:56.754Z,"85 km NNW of Karluk, Alaska",earthquake,,0.3,,,automatic,ak,ak
