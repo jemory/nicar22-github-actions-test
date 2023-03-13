@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-13T04:52:27.220Z,38.8371658,-122.8389969,1.36,0.77,md,14,110,0.01437,0.02,nc,nc73856075,2023-03-13T04:54:03.803Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,17,automatic,nc,nc
-2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T04:52:29.749Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
+2023-03-13T05:06:21.970Z,31.803833,-115.9008331,12.82,3.01,ml,27,135,0.2043,0.26,ci,ci40184071,2023-03-13T05:08:32.900Z,"64km E of Maneadero, B.C., MX",earthquake,0.41,0.73,0.324,25,automatic,ci,ci
+2023-03-13T04:52:27.220Z,38.8371658,-122.8389969,1.36,0.77,md,14,110,0.01437,0.02,nc,nc73856075,2023-03-13T05:23:18.383Z,"10km NW of The Geysers, CA",earthquake,0.23,0.51,0.16,17,automatic,nc,nc
+2023-03-13T04:50:50.190Z,39.2013321,-123.189003,3.58,1.91,md,11,89,0.08721,0.06,nc,nc73856070,2023-03-13T05:10:16.304Z,"6km NNE of Ukiah, CA",earthquake,0.34,2.3,0.11,9,automatic,nc,nc
 2023-03-13T04:41:33.120Z,38.7481651,-122.7133331,1.17,1.1,md,8,131,0.01616,0.03,nc,nc73856065,2023-03-13T04:59:18.243Z,"4km SSW of Anderson Springs, CA",earthquake,0.4,0.5,0.15,11,automatic,nc,nc
 2023-03-13T04:26:21.030Z,17.9286666666667,-66.9451666666667,9.32,2.54,md,12,224,0.05553,0.16,pr,pr71399313,2023-03-13T04:35:56.330Z,"6 km SW of Guánica, Puerto Rico",earthquake,0.7,0.72,0.0629745892818878,4,reviewed,pr,pr
 2023-03-13T04:23:25.100Z,38.7786674,-122.730835,1.18,1.19,md,16,75,0.006482,0.03,nc,nc73856060,2023-03-13T04:46:16.173Z,"2km E of The Geysers, CA",earthquake,0.28,0.37,0.19,14,automatic,nc,nc
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T03:35:00.300Z,33.1855,-116.1296667,8.37,1.01,ml,29,59,0.04373,0.23,ci,ci40184063,2023-03-13T03:38:38.728Z,"5km N of Ocotillo Wells, CA",earthquake,0.34,0.95,0.183,20,automatic,ci,ci
 2023-03-13T03:35:00.120Z,33.172,-116.1211667,10.08,1.04,ml,13,159,0.04244,0.13,ci,ci40184055,2023-03-13T03:38:27.682Z,"3km NNE of Ocotillo Wells, CA",earthquake,0.78,0.95,0.172,20,automatic,ci,ci
 2023-03-13T03:32:14.170Z,34.8411667,-120.3655,1.22,1.39,ml,10,195,0.06369,0.18,ci,ci40184047,2023-03-13T03:35:51.398Z,"7km ESE of Orcutt, CA",earthquake,0.6,0.76,0.119,15,automatic,ci,ci
-2023-03-13T03:14:24.750Z,38.8390007,-122.80233,3.82,0.4,md,6,125,0.01672,0.01,nc,nc73856035,2023-03-13T04:38:11.247Z,"7km WNW of Cobb, CA",earthquake,0.77,2.48,0.27,7,automatic,nc,nc
+2023-03-13T03:14:24.750Z,38.8390007,-122.80233,3.82,0.4,md,6,125,0.01672,0.01,nc,nc73856035,2023-03-13T05:10:14.305Z,"7km WNW of Cobb, CA",earthquake,0.77,2.48,0.27,7,automatic,nc,nc
 2023-03-13T03:14:22.166Z,63.4744,-147.6825,0,1,ml,,,,0.74,ak,ak0233b4kc3s,2023-03-13T03:15:58.092Z,"63 km E of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-13T03:11:49.272Z,-3.8684,-76.6221,108.328,4.7,mb,81,104,2.744,0.67,us,us7000jjgg,2023-03-13T03:28:04.040Z,"48 km SSW of Alianza Cristiana, Peru",earthquake,9.09,7.128,0.034,269,reviewed,us,us
 2023-03-13T03:03:11.885Z,36.10428619,-97.82601929,3.951718569,1.65,ml,20,51.50762939,0.1093317866,0.5255454817,ok,ok2023ezyt,2023-03-13T03:05:49.809Z,"6 km E of Hennessey, Oklahoma",earthquake,2.791842885,2.433626643,,15,automatic,ok,ok
@@ -257,7 +258,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-12T05:37:13.530Z,33.9443333,-116.7951667,14.11,1.57,ml,56,36,0.03187,0.22,ci,ci40183535,2023-03-12T05:48:15.010Z,"3km NNW of Cabazon, CA",earthquake,0.24,0.49,0.158,29,automatic,ci,ci
 2023-03-12T05:31:24.090Z,38.8381653,-122.8079987,2.17,0.52,md,6,115,0.01379,0.01,nc,nc73855650,2023-03-12T07:19:10.401Z,"8km WNW of Cobb, CA",earthquake,0.6,2.71,0.24,6,automatic,nc,nc
 2023-03-12T05:29:13.763Z,58.3593,-155.028,0.1,0.5,ml,,,,0.85,ak,ak02339ib1ww,2023-03-12T05:31:41.075Z,"94 km NNW of Karluk, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-03-12T05:21:30.730Z,17.9835,-66.8228333333333,14.45,2.48,md,10,189,0.04696,0.08,pr,pr71399188,2023-03-12T05:37:40.650Z,"Puerto Rico region",earthquake,0.49,0.44,0.0845287394002217,5,reviewed,pr,pr
-2023-03-12T05:20:04.630Z,38.8051682,-122.7818298,1.1,0.24,md,8,121,0.008128,0.04,nc,nc73855645,2023-03-12T05:46:14.882Z,"4km NW of The Geysers, CA",earthquake,0.42,0.86,0.09,4,automatic,nc,nc
-2023-03-12T05:19:53.440Z,38.8074989,-122.7815018,0.88,0.75,md,10,90,0.005787,0.02,nc,nc73855640,2023-03-12T07:30:13.469Z,"4km NNW of The Geysers, CA",earthquake,0.36,0.72,0.03,10,automatic,nc,nc
-2023-03-12T05:07:08.260Z,38.7723351,-122.8753357,3.9,0.84,md,9,200,0.02282,0.03,nc,nc73855635,2023-03-12T07:03:14.301Z,"10km W of The Geysers, CA",earthquake,0.59,0.78,0.13,11,automatic,nc,nc
