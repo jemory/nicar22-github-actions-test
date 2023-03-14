@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-14T11:31:06.580Z,38.8031654,-122.7891693,1.21,0.86,md,6,93,0.00678,0.06,nc,nc73856690,2023-03-14T11:32:44.372Z,"4km NW of The Geysers, CA",earthquake,0.55,0.94,0.25,9,automatic,nc,nc
+2023-03-14T11:37:20.908Z,60.4017,-143.3696,24.2,1.6,ml,,,,0.11,ak,ak0233cx02t6,2023-03-14T11:38:39.700Z,"117 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-03-14T11:31:06.580Z,38.8031654,-122.7891693,1.21,0.86,md,6,93,0.00678,0.06,nc,nc73856690,2023-03-14T11:43:10.612Z,"4km NW of The Geysers, CA",earthquake,0.55,0.94,0.25,9,automatic,nc,nc
 2023-03-14T11:27:54.050Z,33.5161667,-116.5498333,12.47,0.72,ml,26,78,0.04412,0.18,ci,ci40184639,2023-03-14T11:31:35.889Z,"12km ESE of Anza, CA",earthquake,0.27,0.44,0.087,21,automatic,ci,ci
 2023-03-14T11:21:32.310Z,34.0291667,-117.2298333,18.12,0.98,ml,25,62,0.09435,0.21,ci,ci40184631,2023-03-14T11:25:11.418Z,"4km SE of Loma Linda, CA",earthquake,0.34,0.71,0.12,16,automatic,ci,ci
 2023-03-14T11:14:15.482Z,60.9515,-150.9041,14.7,2.7,ml,,,,0.51,ak,ak0233cwv4x8,2023-03-14T11:15:52.276Z,"12 km WNW of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -13,7 +14,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T10:22:27.014Z,37.56,-117.9295,4.4,2,ml,18,181.54,0.397,0.3839,nn,nn00856969,2023-03-14T10:24:18.294Z,"16 km SE of Dyer, Nevada",earthquake,,0.5,0.34,13,automatic,nn,nn
 2023-03-14T10:17:42.272Z,61.5077,-150.6053,55.2,1.4,ml,,,,0.28,ak,ak0233cwaej7,2023-03-14T10:19:19.791Z,"6 km SW of Susitna, Alaska",earthquake,,1.4,,,automatic,ak,ak
 2023-03-14T10:14:04.460Z,32.5803333,-115.2648333,18.79,1.89,ml,17,63,0.1602,0.24,ci,ci40184607,2023-03-14T10:17:42.429Z,"8km ENE of Puebla, B.C., MX",earthquake,0.49,1.25,0.183,17,automatic,ci,ci
-2023-03-14T10:13:19.500Z,37.5268326,-117.9813309,8.03,3.88,mw,35,116,0.381,0.29,nc,nc73856670,2023-03-14T11:31:12.040Z,"17km N of Deep Springs, CA",earthquake,0.73,2.1,,3,reviewed,nc,nc
+2023-03-14T10:13:19.500Z,37.5268326,-117.9813309,8.03,3.88,mw,35,116,0.381,0.29,nc,nc73856670,2023-03-14T11:33:08.121Z,"17km N of Deep Springs, CA",earthquake,0.73,2.1,,3,reviewed,nc,nc
 2023-03-14T10:02:26.710Z,33.5025,-116.5031667,11.41,0.39,ml,15,103,0.05958,0.17,ci,ci40184591,2023-03-14T10:06:08.669Z,"17km ESE of Anza, CA",earthquake,0.42,0.87,0.138,6,automatic,ci,ci
 2023-03-14T10:01:15.052Z,51.7449,159.5407,10,5,mb,98,125,1.392,0.68,us,us7000jjsn,2023-03-14T10:26:34.040Z,"153 km SSE of Vilyuchinsk, Russia",earthquake,8.69,1.872,0.051,123,reviewed,us,us
 2023-03-14T09:57:35.610Z,37.5221672,-117.9778366,0.63,2.81,md,12,165,0.3792,0.12,nc,nc73856665,2023-03-14T10:04:13.931Z,"17km N of Deep Springs, CA",earthquake,0.47,10.28,0.13,12,automatic,nc,nc
@@ -23,9 +24,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-14T09:47:03.750Z,37.5125008,-117.9603348,0.62,2.43,md,8,204,0.3811,0.04,nc,nc73856655,2023-03-14T09:53:11.861Z,"16km N of Deep Springs, CA",earthquake,0.81,6.95,0.09,6,automatic,nc,nc
 2023-03-14T09:43:59.414Z,37.5663,-117.9526,1.9,1.6,ml,15,183.96,0.413,0.3176,nn,nn00856954,2023-03-14T09:45:37.418Z,"15 km SE of Dyer, Nevada",earthquake,,2,0.89,9,automatic,nn,nn
 2023-03-14T09:40:57.996Z,37.5482,-117.9413,3.5,1.2,ml,11,184.61,0.393,0.1125,nn,nn00856952,2023-03-14T09:42:26.359Z,"17 km SE of Dyer, Nevada",earthquake,,1.4,0.76,8,automatic,nn,nn
-2023-03-14T09:35:29.530Z,37.5301666,-117.9796677,3.03,3.27,ml,24,116,0.3844,0.18,nc,nc73856635,2023-03-14T10:12:23.118Z,"18km N of Deep Springs, CA",earthquake,0.46,8.03,0.303,18,automatic,nc,nc
+2023-03-14T09:35:29.530Z,37.5301666,-117.9796677,3.03,3.27,ml,24,116,0.3844,0.18,nc,nc73856635,2023-03-14T11:43:10.480Z,"18km N of Deep Springs, CA",earthquake,0.46,8.03,0.303,18,automatic,nc,nc
 2023-03-14T09:34:19.672Z,37.5389,-117.9836,3.9,2.6,ml,21,136.19,0.407,0.2845,nn,nn00856946,2023-03-14T09:36:08.846Z,"16 km SSE of Dyer, Nevada",earthquake,,1,0.97,10,automatic,nn,nn
-2023-03-14T09:32:51.670Z,37.5233345,-117.9708328,2.34,2.66,ml,14,117,0.3837,0.12,nc,nc73856630,2023-03-14T11:26:10.397Z,"17km N of Deep Springs, CA",earthquake,0.34,9.63,0.163,8,automatic,nc,nc
+2023-03-14T09:32:51.670Z,37.5233345,-117.9708328,2.34,2.66,ml,14,117,0.3837,0.12,nc,nc73856630,2023-03-14T11:35:17.442Z,"17km N of Deep Springs, CA",earthquake,0.34,9.63,0.163,8,automatic,nc,nc
 2023-03-14T09:25:08.351Z,37.5273,-117.9742,6.3,3.3,ml,33,75.47,0.393,0.2997,nn,nn00856941,2023-03-14T09:42:19.564Z,"17 km SSE of Dyer, Nevada",earthquake,,0.5,0.37,21,automatic,nn,nn
 2023-03-14T09:24:08.666Z,37.3859,-117.7084,8,1.9,ml,17,176.51,0.161,0.2428,nn,nn00856940,2023-03-14T09:25:37.195Z,"41 km S of Silver Peak, Nevada",earthquake,,0.8,0.91,12,automatic,nn,nn
 2023-03-14T09:09:53.930Z,40.463665,-124.4020004,18,1.84,md,5,328,0.1677,0.01,nc,nc73856600,2023-03-14T10:41:36.270Z,"17km SW of Ferndale, CA",earthquake,3.95,0.81,0.01,3,automatic,nc,nc
@@ -227,7 +228,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T20:02:46.310Z,44.6393333,-111.0456667,9,0.87,ml,11,87,0.05171,0.14,uu,uu60533721,2023-03-13T20:19:32.020Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.5,0.93,0.066,2,reviewed,uu,uu
 2023-03-13T19:59:40.930Z,44.6413333,-111.0416667,8.69,2.23,ml,14,66,0.05518,0.18,uu,uu60533706,2023-03-13T20:17:24.040Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.49,0.95,0.308,5,reviewed,uu,uu
 2023-03-13T19:59:35.641Z,60.126,-151.8586,59.6,2.4,ml,,,,0.39,ak,ak0233becxwy,2023-03-13T20:01:04.213Z,"13 km NW of Ninilchik, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-03-13T19:58:59.100Z,44.6388333,-111.042,8.89,2.18,ml,19,50,0.05342,0.14,uu,uu60533711,2023-03-13T20:14:15.860Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.33,0.7,0.316,5,reviewed,uu,uu
+2023-03-13T19:58:59.100Z,44.6388333,-111.042,8.89,2.18,ml,19,50,0.05342,0.14,uu,uu60533711,2023-03-13T20:14:15.860Z,"Idaho-Montana border region",earthquake,0.33,0.7,0.316,5,reviewed,uu,uu
 2023-03-13T19:53:31.130Z,44.642,-111.0533333,7.81,1.09,md,10,94,0.04958,0.13,uu,uu60533701,2023-03-13T22:00:38.870Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.51,1.06,0.415,7,reviewed,uu,uu
 2023-03-13T19:50:53.440Z,44.6421667,-111.0536667,8.83,2.01,ml,12,80,0.04954,0.15,uu,uu60533696,2023-03-13T20:33:34.380Z,"4 km ESE of West Yellowstone, Montana",earthquake,0.61,1.37,0.392,4,reviewed,uu,uu
 2023-03-13T19:47:48.580Z,44.6323333,-111.0473333,9.15,2.52,ml,9,96,0.0465,0.19,uu,uu60032784,2023-03-13T20:17:26.480Z,"5 km SE of West Yellowstone, Montana",earthquake,0.9,1.72,0.287,4,reviewed,uu,uu
@@ -289,7 +290,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T17:09:58.740Z,38.8045006,-122.7956696,15.99,0.93,md,5,163,0.003474,0.05,nc,nc73856265,2023-03-13T17:52:16.096Z,"5km NW of The Geysers, CA",earthquake,3.45,8.77,0.08,4,automatic,nc,nc
 2023-03-13T17:09:00.290Z,51.8901666666667,-177.965666666667,3.78,1.1,ml,4,182,,0.05,av,av91803556,2023-03-13T21:15:38.450Z,"91 km W of Adak, Alaska",earthquake,0.37,0.49,0.111922589905038,4,reviewed,av,av
 2023-03-13T17:08:07.160Z,44.641,-111.047,8.72,0.89,ml,11,123,0.06473,0.14,uu,uu60533506,2023-03-13T18:20:51.850Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.52,1.18,0.118,2,reviewed,uu,uu
-2023-03-13T17:08:02.270Z,58.1903333333333,-155.326333333333,1.23,-0.04,ml,6,224,,0.07,av,av91803551,2023-03-13T21:09:29.450Z,"Alaska Peninsula",earthquake,0.4,0.49,0.18859440286625,6,reviewed,av,av
+2023-03-13T17:08:02.270Z,58.1903333333333,-155.326333333333,1.23,-0.04,ml,6,224,,0.07,av,av91803551,2023-03-13T21:09:29.450Z,"86 km NW of Karluk, Alaska",earthquake,0.4,0.49,0.18859440286625,6,reviewed,av,av
 2023-03-13T17:07:00.340Z,44.6391667,-111.0408333,9.01,1.77,ml,14,83,0.05428,0.17,uu,uu60533501,2023-03-13T18:18:46.010Z,"Idaho-Montana border region",earthquake,0.42,0.98,0.435,3,reviewed,uu,uu
 2023-03-13T17:03:28.680Z,44.6428333,-111.0433333,11.53,2.67,ml,22,53,0.05527,0.16,uu,uu60533496,2023-03-13T17:43:19.990Z,"5 km ESE of West Yellowstone, Montana",earthquake,0.49,0.51,0.131,6,reviewed,uu,uu
 2023-03-13T16:56:11.663Z,58.1132,-155.5291,25.8,1.3,ml,,,,1.3,ak,ak0233bcjy8e,2023-03-13T20:23:43.500Z,"87 km NW of Karluk, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -386,6 +387,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-13T12:00:41.470Z,56.1758,-149.4373,8.8,3.1,ml,,,,0.71,ak,ak0233b9u9vu,2023-03-13T18:31:23.583Z,"235 km SE of Chiniak, Alaska",earthquake,,20.5,,,reviewed,ak,ak
 2023-03-13T11:56:41.030Z,38.8255005,-122.8054962,1.52,0.78,md,8,103,0.004148,0.02,nc,nc73856180,2023-03-13T14:05:17.610Z,"7km NW of The Geysers, CA",earthquake,0.42,0.84,0.24,9,automatic,nc,nc
 2023-03-13T11:54:35.250Z,19.1270008087158,-155.360000610352,31.2000007629395,1.99000001,md,35,190,,0.129999995,hv,hv73338557,2023-03-13T11:57:47.500Z,"15 km SE of Pāhala, Hawaii",earthquake,0.73,0.980000019,1.61000001,10,automatic,hv,hv
-2023-03-13T11:43:26.520Z,37.5888333,-118.8476667,3.13,0.41,md,10,209,0.01479,0.02,nc,nc73856170,2023-03-13T18:51:40.746Z,"13km ESE of Mammoth Lakes, CA",earthquake,0.72,0.92,0.229,10,reviewed,nc,nc
-2023-03-13T11:42:53.330Z,17.998,-66.9745,39.18,2.98,md,23,143,0.07219,0.17,pr,pr71399408,2023-03-13T12:20:21.120Z,"Puerto Rico region",earthquake,0.46,0.67,0.21133138620758,13,reviewed,pr,pr
-2023-03-13T11:42:52.090Z,34.6435,-119.5136667,5.36,2.24,ml,55,33,0.1312,0.21,ci,ci40184127,2023-03-13T20:11:22.860Z,"25km NNE of Montecito, CA",earthquake,0.2,1.36,0.158,25,reviewed,ci,ci
