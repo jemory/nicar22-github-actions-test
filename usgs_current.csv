@@ -1,8 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-17T02:57:16.990Z,38.7890015,-122.7613297,2.08,0.74,md,14,63,0.01168,0.02,nc,nc73857980,2023-03-17T02:58:51.900Z,"1km NNW of The Geysers, CA",earthquake,0.29,0.61,0.16,14,automatic,nc,nc
+2023-03-17T02:45:09.751Z,61.4887,-146.6518,31.8,1.5,ml,,,,0.54,ak,ak0233hqawpr,2023-03-17T02:47:13.505Z,"43 km NNW of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-17T02:21:07.380Z,33.5326667,-116.6933333,1.04,0.7,ml,11,207,0.06986,0.34,ci,ci40185751,2023-03-17T02:24:45.680Z,"3km SW of Anza, CA",earthquake,1.76,1.05,0.155,8,automatic,ci,ci
 2023-03-17T02:03:26.005Z,60.2338,-152.4269,90.8,1.6,ml,,,,0.37,ak,ak0233hq1xw8,2023-03-17T02:06:04.139Z,"46 km WNW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-03-17T02:02:09.270Z,19.4248333333333,-155.883666666667,8.5,2.36,ml,35,159,,0.22,hv,hv73341827,2023-03-17T02:20:27.250Z,"4 km SSW of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.34,0.127720174946386,16,reviewed,hv,hv
-2023-03-17T02:00:56.680Z,38.8050003,-122.7958298,4.52,1.09,md,11,60,0.002992,0.07,nc,nc73857960,2023-03-17T02:22:11.609Z,"5km NW of The Geysers, CA",earthquake,0.59,1.66,0.13,13,automatic,nc,nc
+2023-03-17T02:02:09.270Z,19.4248333333333,-155.883666666667,8.5,2.36,ml,35,159,,0.22,hv,hv73341827,2023-03-17T02:54:57.781Z,"4 km SSW of Honaunau-Napoopoo, Hawaii",earthquake,0.51,0.34,0.127720174946386,16,reviewed,hv,hv
+2023-03-17T02:00:56.680Z,38.8050003,-122.7958298,4.52,1.09,md,11,60,0.002992,0.07,nc,nc73857960,2023-03-17T02:37:15.690Z,"5km NW of The Geysers, CA",earthquake,0.59,1.66,0.13,13,automatic,nc,nc
+2023-03-17T01:59:45.026Z,38.5468,73.1539,10,4.5,mb,21,197,1.406,0.57,us,us7000jkph,2023-03-17T02:54:23.040Z,"82 km WNW of Murghob, Tajikistan",earthquake,5.64,1.965,0.135,16,reviewed,us,us
+2023-03-17T01:56:48.640Z,58.1903333333333,-155.263833333333,2.69,-0.12,ml,8,139,,0.05,av,av91808606,2023-03-17T02:51:09.220Z,"84 km NW of Karluk, Alaska",earthquake,0.24,0.42,0.245649523082978,8,reviewed,av,av
 2023-03-17T01:51:40.640Z,38.8291664,-122.8075027,2.08,1.53,md,32,36,0.006103,0.03,nc,nc73857955,2023-03-17T02:25:14.626Z,"7km NW of The Geysers, CA",earthquake,0.17,0.3,0.15,31,automatic,nc,nc
 2023-03-17T01:41:13.926Z,38.0328,36.5559,5,4.3,mb,24,71,0.389,0.95,us,us7000jkp9,2023-03-17T02:03:17.040Z,"5 km ENE of Göksun, Turkey",earthquake,2.93,1.956,0.217,6,reviewed,us,us
 2023-03-17T01:39:11.650Z,19.4921666666667,-155.455833333333,6.77,2.02,ml,31,93,,0.1,hv,hv73341812,2023-03-17T02:12:44.600Z,"23 km WNW of Volcano, Hawaii",earthquake,0.31,0.79,0.268584447669793,7,reviewed,hv,hv
@@ -271,7 +275,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-16T03:06:53.910Z,51.8538333333333,-178.094666666667,3.49,1.24,ml,4,216,,0.15,av,av91807271,2023-03-16T03:39:48.120Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.64,0.58,0.16518550747124,4,reviewed,av,av
 2023-03-16T03:06:33.260Z,51.8648333333333,-178.046666666667,-1.8,0.96,ml,4,146,,0.16,av,av91094528,2023-03-16T03:42:12.950Z,"97 km W of Adak, Alaska",earthquake,0.48,1.52,0.284515289400348,4,reviewed,av,av
 2023-03-16T03:04:00.530Z,33.5288333,-116.7281667,5,0.19,ml,17,131,0.03726,0.08,ci,ci40185351,2023-03-16T13:57:52.245Z,"6km WSW of Anza, CA",earthquake,0.23,0.42,0.138,8,reviewed,ci,ci
-2023-03-16T02:58:28.918Z,51.8424,-178.0934,6.875,3,ml,17,111,0.036,0.41,us,us7000jkc3,2023-03-16T21:52:57.040Z,"100 km W of Adak, Alaska",earthquake,0.8,2.421,0.105,20,reviewed,us,us
-2023-03-16T02:50:06.038Z,51.8205,-178.0806,10.396,2.3,ml,13,119,0.031,0.69,us,us7000jkc5,2023-03-16T21:44:21.040Z,"99 km W of Adak, Alaska",earthquake,1.76,1.505,0.128,16,reviewed,us,us
-2023-03-16T02:46:03.158Z,61.127,-148.9609,21.4,1.8,ml,,,,0.47,ak,ak0233g2rrff,2023-03-16T02:48:04.967Z,"23 km NNE of Girdwood, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-03-16T02:44:21.525Z,61.6089,-150.5574,30.4,1.5,ml,,,,0.4,ak,ak0233g2rdew,2023-03-16T02:46:29.664Z,"7 km NNW of Susitna, Alaska",earthquake,,0.3,,,automatic,ak,ak
