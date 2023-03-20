@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-20T04:30:51.290Z,38.831665,-122.8078308,2.38,1.09,md,20,46,0.008442,0.02,nc,nc73859585,2023-03-20T04:32:27.000Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.13,21,automatic,nc,nc
+2023-03-20T04:30:51.290Z,38.831665,-122.8078308,2.38,1.09,md,20,46,0.008442,0.02,nc,nc73859585,2023-03-20T04:45:12.610Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.13,21,automatic,nc,nc
 2023-03-20T04:10:07.130Z,36.5053329,-121.0861664,5.81,2.01,md,21,77,0.08209,0.09,nc,nc73859575,2023-03-20T04:25:16.504Z,"6km ESE of Pinnacles, CA",earthquake,0.26,1.4,0.13,20,automatic,nc,nc
 2023-03-20T04:09:34.100Z,32.7461667,-115.4933333,15.02,1.59,ml,12,114,0.1092,0.21,ci,ci40187367,2023-03-20T04:13:16.340Z,"4km ENE of Heber, CA",earthquake,0.51,1.09,0.179,19,automatic,ci,ci
 2023-03-20T04:00:44.540Z,38.7890015,-122.7613297,1.8,0.28,md,8,100,0.01168,0.02,nc,nc73859570,2023-03-20T04:25:16.618Z,"1km NNW of The Geysers, CA",earthquake,0.45,1.2,0.02,7,automatic,nc,nc
@@ -20,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T02:27:11.320Z,38.8338318,-122.7860031,2.02,1.26,md,20,63,0.005691,0.02,nc,nc73859515,2023-03-20T04:07:11.401Z,"6km WNW of Cobb, CA",earthquake,0.24,0.4,0.19,20,automatic,nc,nc
 2023-03-20T02:25:57.710Z,46.826,-121.918,9.29,1.21,ml,28,97,0.02639,0.12,uw,uw61903482,2023-03-20T04:12:25.490Z,"11 km NE of Ashford, Washington",earthquake,0.26,0.33,0.14590712677745143,17,reviewed,uw,uw
 2023-03-20T02:24:20.590Z,33.512,-116.7383333,2.44,0.25,ml,13,173,0.05181,0.18,ci,ci40187311,2023-03-20T02:27:55.594Z,"8km SW of Anza, CA",earthquake,0.82,0.51,0.101,5,automatic,ci,ci
-2023-03-20T02:14:22.740Z,36.0478325,-120.616333,2.48,2.28,md,27,78,0.02654,0.1,nc,nc73859510,2023-03-20T03:39:11.239Z,"24km NW of Parkfield, CA",earthquake,0.29,0.7,0.14,18,automatic,nc,nc
+2023-03-20T02:14:22.740Z,36.0478325,-120.616333,2.48,2.28,md,27,78,0.02654,0.1,nc,nc73859510,2023-03-20T04:38:17.570Z,"24km NW of Parkfield, CA",earthquake,0.29,0.7,0.14,18,automatic,nc,nc
 2023-03-20T01:59:23.003Z,35.4406,140.8939,32.029,4.6,mwr,69,81,2.35,0.63,us,us7000jlcr,2023-03-20T02:15:05.040Z,"32 km S of Hasaki, Japan",earthquake,7.25,4.978,0.066,22,reviewed,us,us
 2023-03-20T01:58:56.690Z,19.2481670379639,-155.391006469727,31.1399993896484,1.88,ml,32,139,,0.129999995,hv,hv73344442,2023-03-20T02:04:27.270Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,0.829999983,0.14,3,automatic,hv,hv
 2023-03-20T01:49:20.869Z,27.2567,55.1082,10,4.1,mb,34,105,2.504,0.91,us,us7000jlcm,2023-03-20T02:24:08.040Z,"80 km NNE of Bandar-e Lengeh, Iran",earthquake,9.53,1.932,0.088,35,reviewed,us,us
@@ -225,8 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T05:00:17.100Z,38.8303337,-122.8168335,1.88,1.25,md,25,47,0.008711,0.02,nc,nc73859050,2023-03-19T06:28:15.967Z,"8km NW of The Geysers, CA",earthquake,0.2,0.34,0.2,25,automatic,nc,nc
 2023-03-19T04:59:55.670Z,33.2485,-115.8005,3.14,1.15,ml,22,48,0.1302,0.22,ci,ci40186815,2023-03-19T05:03:28.722Z,"13km SSW of Bombay Beach, CA",earthquake,0.44,0.9,0.174,23,automatic,ci,ci
 2023-03-19T04:58:56.477Z,37.2975,-117.6665,9.6,1.4,ml,13,168.74,0.067,0.2694,nn,nn00857213,2023-03-19T05:00:16.745Z,"California-Nevada border region",earthquake,,0.8,0.72,8,automatic,nn,nn
-2023-03-19T04:42:15.830Z,38.7823334,-122.742836,0.01,0.99,md,11,78,0.02133,0.01,nc,nc73859035,2023-03-19T06:03:14.834Z,"1km ENE of The Geysers, CA",earthquake,0.27,0.9,0.25,10,automatic,nc,nc
-2023-03-19T04:42:12.657Z,37.5072,-117.5905,14,0.6,ml,9,190.56,0.781,0.1256,nn,nn00857212,2023-03-19T04:43:26.231Z,"27 km S of Silver Peak, Nevada",earthquake,,1.1,1.05,6,automatic,nn,nn
-2023-03-19T04:35:19.490Z,33.7286667,-116.8383333,15.45,0.7,ml,23,105,0.08245,0.19,ci,ci40186799,2023-03-19T14:05:13.237Z,"6km ESE of Valle Vista, CA",earthquake,0.37,0.6,0.165,16,reviewed,ci,ci
-2023-03-19T04:34:16.719Z,37.306,-117.6585,8.5,-0.2,ml,8,169.72,0.074,0.2756,nn,nn00857211,2023-03-19T04:35:36.395Z,"Central California",earthquake,,1.6,0.94,5,automatic,nn,nn
-2023-03-19T04:33:15.026Z,62.1572,-150.7668,60.6,2,ml,,,,0.31,ak,ak0233l2hwq6,2023-03-19T04:35:22.775Z,"33 km WSW of Trapper Creek, Alaska",earthquake,,0.9,,,automatic,ak,ak
