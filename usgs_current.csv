@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-21T17:32:57.610Z,38.4318352,-122.7561646,1.64,2.37,md,5,187,0.3302,0.12,nc,nc73860295,2023-03-21T17:34:35.088Z,"3km WNW of Roseland, CA",earthquake,3.55,12.3,0.49,3,automatic,nc,nc
+2023-03-21T17:34:48.610Z,38.850666,-122.8181686,0.67,0.83,md,8,149,0.00568,0.06,nc,nc73860300,2023-03-21T17:36:25.335Z,"9km WNW of Cobb, CA",earthquake,0.54,1.35,0.17,9,automatic,nc,nc
+2023-03-21T17:32:57.610Z,38.4318352,-122.7561646,1.64,2.37,md,5,187,0.3302,0.12,nc,nc73860295,2023-03-21T17:42:13.126Z,"3km WNW of Roseland, CA",earthquake,3.55,12.3,0.49,3,automatic,nc,nc
 2023-03-21T17:32:50.110Z,19.204833984375,-155.368667602539,31.4500007629395,2.47000003,md,22,211,,0.119999997,hv,hv73345632,2023-03-21T17:35:47.830Z,"11 km E of Pāhala, Hawaii",earthquake,1.25,1.59000003,1.23000002,3,automatic,hv,hv
+2023-03-21T17:23:33.205Z,63.2146,158.4902,10,4.9,mb,72,133,5.203,0.97,us,us7000jlp7,2023-03-21T17:42:57.040Z,"149 km NNW of Evensk, Russia",earthquake,10.2,1.889,0.058,94,reviewed,us,us
 2023-03-21T17:20:13.390Z,38.4906667,-112.8393333,0.2,-0.26,md,12,99,0.01232,0.08,uu,uu60534706,2023-03-21T17:35:49.460Z,"18 km NE of Milford, Utah",earthquake,0.26,1.79,0.334,3,reviewed,uu,uu
 2023-03-21T16:58:55.380Z,34.0813333,-117.8113333,14.93,1.65,ml,29,72,0.01103,0.23,ci,ci40187951,2023-03-21T17:09:35.460Z,"3km S of San Dimas, CA",earthquake,0.49,0.54,0.151,31,automatic,ci,ci
-2023-03-21T16:47:23.695Z,36.5227,70.9787,187.589,6.5,mww,134,13,2.53,0.89,us,us7000jln7,2023-03-21T17:34:57.146Z,"40 km SSE of Jurm, Afghanistan",earthquake,6.61,4.79,0.057,30,reviewed,us,us
+2023-03-21T16:47:23.695Z,36.5227,70.9787,187.589,6.5,mww,134,13,2.53,0.89,us,us7000jln7,2023-03-21T17:45:32.685Z,"40 km SSE of Jurm, Afghanistan",earthquake,6.61,4.79,0.057,30,reviewed,us,us
 2023-03-21T16:45:43.250Z,19.1673336029053,-155.482498168945,32.9199981689453,1.87,md,27,159,,0.119999997,hv,hv73345617,2023-03-21T16:49:00.730Z,"3 km S of Pāhala, Hawaii",earthquake,0.67,1.12,1.38999999,6,automatic,hv,hv
 2023-03-21T16:42:10.450Z,36.1263333,-118.0098333,13.5,1.49,ml,9,76,0.1258,0.27,ci,ci40187943,2023-03-21T16:45:53.936Z,"11km NNW of Coso Junction, CA",earthquake,0.89,2.23,0.414,7,automatic,ci,ci
 2023-03-21T16:39:29.270Z,36.2628333333333,-89.4893333333333,5.98,1.55,md,16,54,0.01879,0.12,nm,nm60514866,2023-03-21T17:31:13.420Z,"0 km WSW of Ridgely, Tennessee",earthquake,0.22,0.43,0.0931497056496908,13,reviewed,nm,nm
@@ -33,11 +35,12 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-21T14:04:15.050Z,33.7595,-117.548,4.02,1.06,ml,23,50,0.06214,0.14,ci,ci40187887,2023-03-21T16:16:33.238Z,"12km NNE of Trabuco Canyon, CA",earthquake,0.18,0.5,0.13,11,reviewed,ci,ci
 2023-03-21T13:59:15.490Z,38.821167,-122.7858353,1.82,0.85,md,12,116,0.01511,0.02,nc,nc73860265,2023-03-21T15:45:11.403Z,"5km W of Cobb, CA",earthquake,0.32,0.53,0.17,13,automatic,nc,nc
 2023-03-21T13:56:51.470Z,19.144832611084,-155.502502441406,32.8800010681152,2.00999999,md,36,150,,0.150000006,hv,hv73345547,2023-03-21T14:00:05.810Z,"6 km SSW of Pāhala, Hawaii",earthquake,0.7,0.899999976,1.50999999,14,automatic,hv,hv
-2023-03-21T13:56:45.790Z,55.446,-161.801,27.28,0.95,ml,9,185,,0.18,av,av91814436,2023-03-21T16:55:01.360Z,"54 km NE of King Cove, Alaska",earthquake,0.95,0.7,0.146573242168917,9,reviewed,av,av
+2023-03-21T13:56:45.680Z,55.4515,-161.809333333333,28.35,0.95,ml,9,188,,0.18,av,av91814436,2023-03-21T17:36:19.960Z,"54 km NE of King Cove, Alaska",earthquake,0.95,0.67,0.199670080782672,9,reviewed,av,av
 2023-03-21T13:44:02.570Z,38.8330002,-122.8043365,1.9,1.24,md,20,70,0.01059,0.02,nc,nc73860260,2023-03-21T16:25:12.658Z,"7km W of Cobb, CA",earthquake,0.24,0.39,0.12,22,automatic,nc,nc
 2023-03-21T13:43:03.217Z,61.8946,-149.2587,1.1,1.7,ml,,,,0.79,ak,ak0233oizmep,2023-03-21T13:45:55.153Z,"16 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T13:24:58.240Z,44.0761667,-110.6341667,7.06,1.11,md,14,125,0.2028,0.14,uu,uu60534676,2023-03-21T15:04:49.270Z,"48 km NE of Alta, Wyoming",earthquake,0.48,1.11,0.097,7,reviewed,uu,uu
 2023-03-21T13:23:46.550Z,44.7888333,-110.9618333,4.9,0.51,md,7,223,0.04321,0.1,uu,uu60534681,2023-03-21T15:00:41.170Z,"18 km NE of West Yellowstone, Montana",earthquake,1.33,0.9,0.267,6,reviewed,uu,uu
+2023-03-21T12:59:49.180Z,56.8811666666667,-158.112333333333,-3.2,1.21,ml,6,193,,0.29,av,av91095283,2023-03-21T17:45:09.680Z,"32 km ESE of Port Heiden, Alaska",earthquake,1.08,2.45,0.249062915917558,8,reviewed,av,av
 2023-03-21T12:51:57.186Z,62.168,-145.6908,18.3,1.8,ml,,,,1.03,ak,ak0233oig0p2,2023-03-21T12:54:21.007Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-21T12:50:15.390Z,38.7929993,-122.7656631,1.63,1.04,md,15,69,0.008922,0.02,nc,nc73860240,2023-03-21T14:38:12.998Z,"2km NNW of The Geysers, CA",earthquake,0.26,0.48,0.12,14,automatic,nc,nc
 2023-03-21T12:43:57.410Z,18.0188333333333,-66.9555,2.85,2.23,md,4,214,0.06434,0.22,pr,pr71400993,2023-03-21T13:16:02.550Z,"3 km SSW of Liborio Negron Torres, Puerto Rico",earthquake,1.56,16.93,0.0341541379699422,3,reviewed,pr,pr
@@ -222,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T18:20:50.520Z,38.831501,-122.8160019,1.62,1.69,md,30,51,0.009325,0.02,nc,nc73859910,2023-03-20T19:32:14.051Z,"8km NW of The Geysers, CA",earthquake,0.16,0.3,0.15,30,automatic,nc,nc
 2023-03-20T18:12:45.509Z,61.0377,-148.1172,8.5,1.3,ml,,,,0.89,ak,ak0233my8w06,2023-03-20T18:14:20.636Z,"42 km NE of Whittier, Alaska",earthquake,,3.1,,,automatic,ak,ak
 2023-03-20T18:01:16.147Z,58.1679,-155.3542,0,0.6,ml,,,,1.24,ak,ak0233my6gv2,2023-03-20T19:48:32.020Z,"85 km NW of Karluk, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-03-20T17:44:37.240Z,51.8553333333333,-178.092,3.35,1.37,ml,4,214,,0.15,av,av91095008,2023-03-20T20:39:26.810Z,"100 km W of Adak, Alaska",earthquake,0.62,0.78,0.193503175554454,4,reviewed,av,av
-2023-03-20T17:43:57.460Z,37.5003,-117.9671,5.1,1.8,ml,8,144.7,0.029,0.2184,nn,nn00857275,2023-03-20T23:59:56.673Z,"20 km SSE of Dyer, Nevada",earthquake,,1.8,0.98,5,reviewed,nn,nn
