@@ -1,7 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T14:14:49.790Z,36.0068321,-120.9589996,10.49,2.1,md,40,81,0.05933,0.11,nc,nc73862555,2023-03-26T14:17:47.546Z,"5km WSW of San Ardo, CA",earthquake,0.27,0.77,0.15,35,automatic,nc,nc
-2023-03-26T14:14:48.950Z,33.1808333,-116.4106667,11.32,1.51,ml,51,32,0.0873,0.19,ci,ci40190255,2023-03-26T14:18:25.564Z,"9km SSW of Borrego Springs, CA",earthquake,0.24,0.44,0.156,26,automatic,ci,ci
-2023-03-26T14:13:13.350Z,38.8268318,-122.7955017,2.52,1.07,md,22,36,0.01189,0.02,nc,nc73862545,2023-03-26T14:14:48.301Z,"6km W of Cobb, CA",earthquake,0.22,0.44,0.21,22,automatic,nc,nc
+2023-03-26T14:14:49.790Z,36.0068321,-120.9589996,10.49,2.1,md,40,81,0.05933,0.11,nc,nc73862555,2023-03-26T14:29:20.675Z,"5km WSW of San Ardo, CA",earthquake,0.27,0.77,0.15,35,automatic,nc,nc
+2023-03-26T14:14:48.950Z,33.1808333,-116.4106667,11.32,1.51,ml,51,32,0.0873,0.19,ci,ci40190255,2023-03-26T14:29:04.990Z,"9km SSW of Borrego Springs, CA",earthquake,0.24,0.44,0.156,26,reviewed,ci,ci
+2023-03-26T14:13:13.350Z,38.8268318,-122.7955017,2.52,1.07,md,22,36,0.01189,0.02,nc,nc73862545,2023-03-26T14:29:19.675Z,"6km W of Cobb, CA",earthquake,0.22,0.44,0.21,22,automatic,nc,nc
 2023-03-26T14:12:47.920Z,33.5578333,-116.4063333,7.73,0.55,ml,11,99,0.06795,0.1,ci,ci40190247,2023-03-26T14:16:20.355Z,"15km SW of La Quinta, CA",earthquake,0.31,0.67,0.321,3,automatic,ci,ci
 2023-03-26T14:02:45.960Z,38.8346672,-122.7903366,1.76,1.02,md,11,85,0.003736,0.01,nc,nc73862540,2023-03-26T14:19:13.613Z,"6km WNW of Cobb, CA",earthquake,0.31,0.53,0.27,13,automatic,nc,nc
 2023-03-26T13:51:34.920Z,34.5653333,-118.1443333,6.41,0.97,ml,17,60,0.03547,0.15,ci,ci40190239,2023-03-26T14:06:03.856Z,"4km WSW of Palmdale, CA",earthquake,0.28,0.53,0.091,18,reviewed,ci,ci
@@ -213,5 +213,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T14:46:03.160Z,38.7575,-122.727,2.63,0.57,md,23,63,0.004416,0.02,nc,nc73862085,2023-03-25T21:43:12.894Z,"3km SE of The Geysers, CA",earthquake,0.19,0.29,0.282,17,reviewed,nc,nc
 2023-03-25T14:43:54.065Z,62.7102,-151.2132,81.7,1.7,ml,,,,0.52,ak,ak0233v5qjwu,2023-03-25T14:46:08.941Z,"33 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-25T14:38:54.870Z,51.8626666666667,-178.071333333333,-1.8,1.51,ml,4,184,,0.15,av,av91818771,2023-03-25T19:28:53.510Z,"99 km W of Adak, Alaska",earthquake,0.5,1.42,0.18991439192272,4,reviewed,av,av
-2023-03-25T14:32:07.270Z,51.8553333333333,-178.0845,-1.8,1.97,ml,6,136,,0.22,av,av91818761,2023-03-25T18:56:26.160Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.65,1.88,0.191727297957845,6,reviewed,av,av
-2023-03-25T14:29:42.570Z,19.3810005187988,-155.215667724609,27.9099998474121,2.07999992,md,37,104,,0.140000001,hv,hv73349037,2023-03-25T14:32:53.420Z,"7 km SSE of Volcano, Hawaii",earthquake,0.81,0.600000024,1.24000001,23,automatic,hv,hv
