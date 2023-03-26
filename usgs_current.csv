@@ -1,8 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-26T22:38:31.830Z,39.3805008,-122.8974991,0.28,1.38,md,12,115,0.1788,0.13,nc,nc73862715,2023-03-26T22:40:08.682Z,"6km ESE of Lake Pillsbury, CA",earthquake,0.48,10.01,0.18,2,automatic,nc,nc
 2023-03-26T22:22:11.164Z,61.4849,-146.6422,30.4,1.5,ml,,,,0.66,ak,ak0233wxwrwc,2023-03-26T22:23:42.146Z,"42 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T22:19:03.310Z,17.9576666666667,-66.906,9.38,2.49,md,8,203,0.03077,0.09,pr,pr71401698,2023-03-26T22:29:01.880Z,"Puerto Rico region",earthquake,0.58,0.36,0.113833285723523,7,reviewed,pr,pr
 2023-03-26T22:13:59.400Z,33.5931667,-116.8218333,14.02,1.19,ml,33,50,0.04265,0.15,ci,ci40190335,2023-03-26T22:17:44.666Z,"14km WNW of Anza, CA",earthquake,0.23,0.4,0.231,27,automatic,ci,ci
-2023-03-26T22:06:40.110Z,35.7288322,-121.1026688,6.83,1.56,md,14,102,0.06229,0.05,nc,nc73862705,2023-03-26T22:21:13.403Z,"12km NE of San Simeon, CA",earthquake,0.28,0.62,0.05,12,automatic,nc,nc
+2023-03-26T22:06:40.110Z,35.7288322,-121.1026688,6.83,1.56,md,14,102,0.06229,0.05,nc,nc73862705,2023-03-26T22:43:10.538Z,"12km NE of San Simeon, CA",earthquake,0.28,0.62,0.05,12,automatic,nc,nc
 2023-03-26T22:04:20.573Z,63.5239,-150.0721,141.3,1.4,ml,,,,0.23,ak,ak0233wxsxqh,2023-03-26T22:06:16.232Z,"57 km WNW of Cantwell, Alaska",earthquake,,3.6,,,automatic,ak,ak
 2023-03-26T21:44:21.810Z,36.6800003,-121.3550034,1.13,1.87,md,15,83,0.02824,0.09,nc,nc73862700,2023-03-26T22:18:10.504Z,"13km SSW of Tres Pinos, CA",earthquake,0.3,0.83,0.17,17,automatic,nc,nc
 2023-03-26T21:35:48.757Z,37.4641,-116.9768,3.5,0.8,ml,9,169.32,0.379,0.2688,nn,nn00857516,2023-03-26T21:37:00.864Z,"Nevada",earthquake,,14.5,1.12,5,automatic,nn,nn
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T20:53:01.924Z,61.7342,-148.1957,18.2,1.2,ml,,,,0.62,ak,ak0233wwwj6w,2023-03-26T20:55:10.494Z,"15 km ESE of Chickaloon, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2023-03-26T20:45:42.210Z,33.5895,-116.8211667,13.17,1,ml,32,51,0.04611,0.18,ci,ci40190311,2023-03-26T20:49:14.819Z,"14km WNW of Anza, CA",earthquake,0.29,0.47,0.163,22,automatic,ci,ci
 2023-03-26T20:43:46.100Z,19.3605003356934,-155.289001464844,29.6499996185303,1.88,md,33,54,,0.159999996,hv,hv73349877,2023-03-26T20:47:02.510Z,"10 km SSW of Volcano, Hawaii",earthquake,0.66,1.02999997,0.939999998,8,automatic,hv,hv
-2023-03-26T20:36:29.040Z,18.8741666666667,-155.1915,9.94,3.17,ml,42,260,,0.13,hv,hv73349872,2023-03-26T22:29:19.440Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.55,0.42,0.141593344111788,28,reviewed,hv,hv
+2023-03-26T20:36:29.040Z,18.8741666666667,-155.1915,9.94,3.17,ml,42,260,,0.13,hv,hv73349872,2023-03-26T22:37:59.154Z,"46 km ESE of Naalehu, Hawaii",earthquake,0.55,0.42,0.141593344111788,28,reviewed,hv,hv
 2023-03-26T20:21:05.640Z,19.1636657714844,-155.47200012207,30.3899993896484,1.83000004,md,31,163,,0.100000001,hv,hv73349852,2023-03-26T20:24:13.200Z,"Island of Hawaii, Hawaii",earthquake,0.72,1.21000004,1.55999994,10,automatic,hv,hv
 2023-03-26T20:19:30.426Z,62.1462,-145.6536,21,1.6,ml,,,,0.97,ak,ak0233wwpb0y,2023-03-26T20:21:45.935Z,"6 km NW of Glennallen, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T20:12:39.570Z,35.4548333,-118.281,3.61,1.14,ml,12,123,0.1408,0.21,ci,ci40190303,2023-03-26T20:16:16.148Z,"24km SE of Bodfish, CA",earthquake,0.49,1.77,0.153,13,automatic,ci,ci
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-26T06:38:37.828Z,63.3357,-145.5293,0,1.7,ml,,,,0.51,ak,ak0233wohbqe,2023-03-26T06:41:20.497Z,"27 km N of Paxson, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T06:37:49.440Z,38.8261681,-122.7911682,0.81,0.91,md,9,68,0.01503,0.01,nc,nc73862440,2023-03-26T06:56:13.981Z,"6km W of Cobb, CA",earthquake,0.3,1.22,0.34,9,automatic,nc,nc
 2023-03-26T06:36:31.829Z,35.22925186,-97.75517273,2.110833406,1.86,ml,14,46.9711647,0.009007656947,0.7540483045,ok,ok2023fxzi,2023-03-26T12:53:19.476Z,"1 km WSW of Bridge Creek, Oklahoma",earthquake,2.823692965,2.501981032,,12,automatic,ok,ok
-2023-03-26T06:20:45.070Z,35.7898333,-116.8505,0.42,3.59,ml,31,71,0.3652,0.14,ci,ci40189967,2023-03-26T18:10:42.154Z,"48km E of Trona, CA",earthquake,0.15,0.69,0.122,131,reviewed,ci,ci
+2023-03-26T06:20:45.070Z,35.7898333,-116.8505,0.42,3.59,ml,31,71,0.3652,0.14,ci,ci40189967,2023-03-26T22:45:25.241Z,"48km E of Trona, CA",earthquake,0.15,0.69,0.122,131,reviewed,ci,ci
 2023-03-26T06:17:17.229Z,62.2394,-148.761,23.9,1.8,ml,,,,0.6,ak,ak0233wocs3u,2023-03-26T06:19:39.497Z,"51 km N of Sutton-Alpine, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-26T06:08:49.070Z,17.9338333333333,-66.9175,13.89,2.77,md,10,218,0.05483,0.15,pr,pr71401603,2023-03-26T06:31:10.200Z,"4 km SSW of Guánica, Puerto Rico",earthquake,0.91,0.44,0.14056182254814,6,reviewed,pr,pr
 2023-03-26T06:04:04.078Z,58.2373,-154.7794,101.1,1.5,ml,,,,0.38,ak,ak0233wo9uwt,2023-03-26T18:01:09.618Z,"76 km NNW of Karluk, Alaska",earthquake,,2.1,,,reviewed,ak,ak
@@ -208,5 +209,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T23:11:44.760Z,38.8273315,-122.8011703,1.83,0.85,md,11,75,0.007989,0.02,nc,nc73862235,2023-03-26T01:59:20.415Z,"7km NW of The Geysers, CA",earthquake,0.42,0.79,0.65,12,automatic,nc,nc
 2023-03-25T23:10:23.607Z,57.8542,-153.7383,50,1.5,ml,,,,0.95,ak,ak0233vawbvv,2023-03-25T23:42:41.662Z,"37 km NNE of Larsen Bay, Alaska",earthquake,,1.8,,,reviewed,ak,ak
 2023-03-25T22:56:06.851Z,62.0204,-149.7905,39.8,1.4,ml,,,,0.56,ak,ak0233vakpf1,2023-03-25T22:57:58.062Z,"16 km SSE of Susitna North, Alaska",earthquake,,1.9,,,automatic,ak,ak
-2023-03-25T22:45:52.750Z,54.3963333333333,-164.581166666667,8.93,2.07,ml,7,264,,0.14,av,av91819246,2023-03-26T02:56:57.400Z,"83 km ENE of Akutan, Alaska",earthquake,0.85,0.87,0.257821893753642,7,reviewed,av,av
-2023-03-25T22:44:35.331Z,65.0202,-147.0326,5,1.3,ml,,,,1.15,ak,ak0233vai708,2023-03-25T22:47:27.503Z,"16 km N of Two Rivers, Alaska",earthquake,,0.6,,,automatic,ak,ak
