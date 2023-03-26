@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-26T09:52:15.120Z,34.0436668,-117.0865021,8.87,1.33,ml,34,56,0.0634,0.2,ci,ci40190063,2023-03-26T09:54:20.435Z,"4km WNW of Yucaipa, CA",earthquake,0.29,0.94,0.248,8,automatic,ci,ci
-2023-03-26T09:47:54.160Z,38.838665,-122.8261642,1.47,0.64,md,9,94,0.007281,0.01,nc,nc73862475,2023-03-26T09:49:27.725Z,"9km WNW of Cobb, CA",earthquake,0.4,0.95,0.2,8,automatic,nc,nc
+2023-03-26T09:56:17.820Z,33.5325,-116.7303333,2.21,0.29,ml,13,143,0.03333,0.17,ci,ci40190071,2023-03-26T09:59:52.978Z,"6km WSW of Anza, CA",earthquake,0.34,0.34,0.091,6,automatic,ci,ci
+2023-03-26T09:56:12.370Z,38.8416672,-122.8099976,2.1,0.22,md,11,70,0.01569,0.01,nc,nc73862480,2023-03-26T09:57:47.753Z,"8km WNW of Cobb, CA",earthquake,0.36,0.99,0.13,11,automatic,nc,nc
+2023-03-26T09:52:15.080Z,34.0463333,-117.0868333,8.83,1.09,ml,30,56,0.02384,0.19,ci,ci40190063,2023-03-26T09:55:58.766Z,"4km WNW of Yucaipa, CA",earthquake,0.26,0.65,0.146,28,automatic,ci,ci
+2023-03-26T09:47:54.160Z,38.838665,-122.8261642,1.47,0.64,md,9,94,0.007281,0.01,nc,nc73862475,2023-03-26T10:04:15.048Z,"9km WNW of Cobb, CA",earthquake,0.4,0.95,0.2,8,automatic,nc,nc
 2023-03-26T09:22:09.290Z,38.8294983,-122.8551636,2.45,0.58,md,8,125,0.01484,0.01,nc,nc73862470,2023-03-26T09:48:13.949Z,"10km NW of The Geysers, CA",earthquake,0.41,1.42,0.31,8,automatic,nc,nc
 2023-03-26T09:13:27.463Z,62.2237,-150.1091,22.3,1.5,ml,,,,0.53,ak,ak0233wq48ui,2023-03-26T09:15:22.930Z,"11 km S of Talkeetna, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-26T09:08:54.490Z,19.1650009155273,-155.49299621582,32.9599990844727,1.84000003,md,31,157,,0.140000001,hv,hv73349542,2023-03-26T09:12:13.250Z,"4 km SSW of Pāhala, Hawaii",earthquake,0.68,1.07000005,0.180000007,5,automatic,hv,hv
@@ -215,4 +217,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-25T10:21:38.570Z,51.8595,-178.0895,3.26,1.52,ml,4,209,,0.24,av,av91096058,2023-03-25T22:01:56.950Z,"100 km W of Adak, Alaska",earthquake,0.97,0.72,0.101749400484179,4,reviewed,av,av
 2023-03-25T10:21:20.740Z,51.8603333333333,-178.089833333333,3.26,1.67,ml,5,209,,0.23,av,av91818546,2023-03-25T22:00:11.260Z,"100 km W of Adak, Alaska",earthquake,0.9,0.68,0.238772543722547,5,reviewed,av,av
 2023-03-25T10:16:26.395Z,5.1035,125.4257,187.246,4.3,mb,29,108,1.959,0.9,us,us7000jmnr,2023-03-25T10:31:57.040Z,"33 km S of Sarangani, Philippines",earthquake,9.11,8.303,0.109,24,reviewed,us,us
-2023-03-25T09:58:32.380Z,-21.0439,173.485,10,5,mww,38,120,5.418,0.61,us,us7000jmnp,2023-03-25T10:16:43.040Z,"Vanuatu region",earthquake,7.22,1.873,0.078,16,reviewed,us,us
