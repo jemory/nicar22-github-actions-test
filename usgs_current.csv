@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-27T21:42:07.940Z,19.324499130249,-155.125671386719,4.73000001907349,2.29999995,md,38,117,,0.200000003,hv,hv73350712,2023-03-27T21:45:16.800Z,"15 km S of Fern Forest, Hawaii",earthquake,0.48,0.850000024,1.42999995,30,automatic,hv,hv
+2023-03-27T21:42:07.940Z,19.324499130249,-155.125671386719,4.73000001907349,2.37,ml,38,117,,0.200000003,hv,hv73350712,2023-03-27T21:47:39.350Z,"15 km S of Fern Forest, Hawaii",earthquake,0.48,0.850000024,0.45,18,automatic,hv,hv
 2023-03-27T21:41:41.145Z,61.5317,-146.3574,1,1.7,ml,,,,0.81,ak,ak0233ykytpe,2023-03-27T21:43:59.955Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T21:32:20.440Z,38.8363342,-122.8105011,1.91,0.75,md,15,55,0.01292,0.01,nc,nc73863195,2023-03-27T21:44:10.843Z,"8km WNW of Cobb, CA",earthquake,0.26,0.68,0.21,15,automatic,nc,nc
 2023-03-27T21:20:00.610Z,33.4796667,-116.5743333,10.47,0.95,ml,13,232,0.0277,0.15,ci,ci40190639,2023-03-27T21:23:37.235Z,"12km SE of Anza, CA",earthquake,0.54,0.98,0.166,20,automatic,ci,ci
@@ -12,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T20:47:38.049Z,65.0126,-147.2033,0,1.3,ml,,,,1.32,ak,ak0233ykeo5n,2023-03-27T20:50:00.125Z,"17 km NNW of Two Rivers, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-03-27T20:44:32.530Z,38.814167,-122.8246689,2.35,0.9,md,16,71,0.006357,0.02,nc,nc73863165,2023-03-27T21:03:10.591Z,"7km NW of The Geysers, CA",earthquake,0.29,0.73,0.17,18,automatic,nc,nc
 2023-03-27T20:33:36.380Z,33.526,-116.7258333,5.38,0.73,ml,26,62,0.04045,0.18,ci,ci40190615,2023-03-27T20:37:17.249Z,"6km WSW of Anza, CA",earthquake,0.31,0.59,0.131,16,automatic,ci,ci
-2023-03-27T20:30:49.144Z,36.7225,-116.275,8,0.4,ml,18,67.39,0.039,0.195,nn,nn00857543,2023-03-27T20:31:29.325Z,"California-Nevada border region",earthquake,,0.6,0.89,12,automatic,nn,nn
+2023-03-27T20:30:49.719Z,36.7218,-116.2762,6.5,0.4,ml,25,67.88,0.017,0.1076,nn,nn00857543,2023-03-27T21:48:47.198Z,"California-Nevada border region",earthquake,,0.6,0.81,14,reviewed,nn,nn
 2023-03-27T20:19:18.240Z,33.5213333,-116.7283333,3.73,1.61,ml,53,33,0.04458,0.2,ci,ci40190607,2023-03-27T21:06:45.000Z,"6km SW of Anza, CA",earthquake,0.19,0.48,0.187,27,reviewed,ci,ci
 2023-03-27T20:16:01.390Z,51.8543333333333,-178.090166666667,3.41,0.94,ml,5,213,,0.14,av,av91822011,2023-03-27T20:54:25.990Z,"100 km W of Adak, Alaska",earthquake,0.66,0.46,0.144505026893813,5,reviewed,av,av
 2023-03-27T20:03:31.810Z,62.8924,-150.6266,78.1,1.6,ml,,,,0.46,ak,ak0233yk5865,2023-03-27T20:05:32.080Z,"44 km N of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -196,6 +196,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-27T01:55:18.168Z,62.0038,-148.3411,30.7,1.3,ml,,,,0.53,ak,ak0233y953uw,2023-03-27T01:56:44.530Z,"23 km NNE of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-27T01:55:01.809Z,32.00540127,-103.8001046,7.93112793,3.4,ml,22,44,0.007234902402,0.1,tx,tx2023fzlo,2023-03-27T14:30:37.963Z,"35 km SE of Malaga, New Mexico",earthquake,0.7704190677,0.9232861848,0.2,16,reviewed,tx,tx
 2023-03-27T01:50:35.790Z,37.0671667,-121.4893333,6.31,2.44,md,82,27,0.04185,0.14,nc,nc73862775,2023-03-27T21:44:10.960Z,"10km NE of Gilroy, CA",earthquake,0.12,0.36,0.131,107,reviewed,nc,nc
+2023-03-27T01:48:55.220Z,51.8505,-178.057666666667,-1.8,1.24,ml,5,183,,0.17,av,av91096148,2023-03-27T21:52:58.750Z,"98 km W of Adak, Alaska",earthquake,0.49,1.14,0.268589714173885,5,reviewed,av,av
+2023-03-27T01:48:31.070Z,51.851,-178.060333333333,-1.8,1.23,ml,5,187,,0.23,av,av91820816,2023-03-27T21:48:20.820Z,"98 km W of Adak, Alaska",earthquake,0.64,1.47,0.349019685712297,5,reviewed,av,av
+2023-03-27T01:48:19.100Z,51.8496666666667,-178.0395,-1.23,0.82,ml,4,144,,0.26,av,av91096143,2023-03-27T21:50:58.120Z,"96 km W of Adak, Alaska",earthquake,0.75,2.18,0.307522527323947,4,reviewed,av,av
 2023-03-27T01:44:52.920Z,51.8666666666667,-178.109333333333,3.49,1.13,ml,4,297,,0.23,av,av91820811,2023-03-27T21:44:02.140Z,"101 km W of Adak, Alaska",earthquake,1.42,0.55,0.23997650184611,4,reviewed,av,av
 2023-03-27T01:41:55.732Z,56.9266,-158.2143,1.4,2.2,ml,,,,1.04,ak,ak0233y926qd,2023-03-27T01:43:55.920Z,"25 km E of Port Heiden, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-03-27T01:39:06.270Z,38.8279991,-122.8529968,1.64,0.36,md,8,126,0.003061,0.03,nc,nc73862770,2023-03-27T03:25:10.245Z,"10km NW of The Geysers, CA",earthquake,0.48,0.77,0.25,7,automatic,nc,nc
