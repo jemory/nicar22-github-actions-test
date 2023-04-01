@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-01T10:14:33.795Z,17.972,-66.8197,10,2.6,ml,11,191,0.214,0.55,us,us6000k1by,2023-04-01T10:29:03.040Z,"2 km S of Indios, Puerto Rico",earthquake,1.17,1.873,0.071,26,reviewed,us,us
 2023-04-01T10:08:13.567Z,60.6426,-151.5917,61.9,1.5,ml,,,,0.43,ak,ak02346nwnrg,2023-04-01T10:10:11.455Z,"15 km WNW of Salamatof, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-01T10:07:50.880Z,33.6343333,-116.691,13.62,0.53,ml,14,92,0.07324,0.17,ci,ci39508618,2023-04-01T10:11:22.136Z,"9km N of Anza, CA",earthquake,0.56,0.95,0.193,9,automatic,ci,ci
 2023-04-01T10:00:53.432Z,38.1986,-117.8085,2.4,1.6,ml,12,134.62,0.139,0.2451,nn,nn00857742,2023-04-01T10:03:39.391Z,"Nevada",earthquake,,0.7,0.62,5,automatic,nn,nn
@@ -25,7 +26,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T07:48:20.590Z,19.2251663208008,-155.425338745117,33.5800018310547,1.92999995,md,26,145,,0.100000001,hv,hv73353967,2023-04-01T07:51:40.450Z,"6 km ENE of Pāhala, Hawaii",earthquake,0.76,0.860000014,0.959999979,8,automatic,hv,hv
 2023-04-01T07:37:14.047Z,61.6612,-150.303,13.4,1.7,ml,,,,0.39,ak,ak02346makr0,2023-04-01T07:39:33.372Z,"Southern Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-01T07:33:05.560Z,38.8483315,-122.8150024,1.3,0.71,md,9,60,0.009078,0.01,nc,nc73865375,2023-04-01T08:08:13.418Z,"8km WNW of Cobb, CA",earthquake,0.31,0.65,0.09,7,automatic,nc,nc
-2023-04-01T07:29:24.230Z,38.8148346,-122.8256683,1.92,1.21,md,9,99,0.006559,0.04,nc,nc73865370,2023-04-01T09:56:10.097Z,"7km NW of The Geysers, CA",earthquake,0.6,1.3,0.13,11,automatic,nc,nc
+2023-04-01T07:29:24.230Z,38.8148346,-122.8256683,1.92,1.21,md,9,99,0.006559,0.04,nc,nc73865370,2023-04-01T10:35:17.317Z,"7km NW of The Geysers, CA",earthquake,0.6,1.3,0.13,11,automatic,nc,nc
 2023-04-01T07:19:34.765Z,60.6722,-151.3014,48.5,1.4,ml,,,,0.55,ak,ak02346m6rgk,2023-04-01T07:21:33.396Z,"2 km SSW of Nikiski, Alaska",earthquake,,1.8,,,automatic,ak,ak
 2023-04-01T07:07:35.230Z,38.8230019,-122.7661667,1.95,1.22,md,11,118,0.008012,0.01,nc,nc73865365,2023-04-01T09:37:13.984Z,"4km W of Cobb, CA",earthquake,0.3,0.52,0.18,13,automatic,nc,nc
 2023-04-01T07:04:16.433Z,-3.0479,129.9004,14.861,4.7,mb,42,59,1.465,0.62,us,us6000k1be,2023-04-01T07:27:55.040Z,"Seram, Indonesia",earthquake,6.97,4.472,0.102,29,reviewed,us,us
@@ -54,7 +55,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T04:29:01.391Z,62.2607,-150.9954,77.4,1.2,ml,,,,0.27,ak,ak02346kgj8b,2023-04-01T04:30:55.356Z,"28 km SSW of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-01T04:27:11.310Z,38.8665009,-122.7971649,1.61,0.7,md,8,163,0.01163,0.03,nc,nc73865280,2023-04-01T04:43:11.151Z,"8km NW of Cobb, CA",earthquake,0.44,0.61,0.05,7,automatic,nc,nc
 2023-04-01T04:23:10.620Z,17.9516666666667,-66.8775,15.31,2.09,md,8,207,0.02332,0.09,pr,pr71402238,2023-04-01T04:36:49.120Z,"3 km SSE of Maria Antonia, Puerto Rico",earthquake,0.5,0.55,0.0594733827743629,4,reviewed,pr,pr
-2023-04-01T04:20:35.440Z,19.2371673583984,-155.408493041992,35.7299995422363,2.0999999,md,36,133,,0.119999997,hv,hv73353882,2023-04-01T04:23:42.300Z,"8 km ENE of Pāhala, Hawaii",earthquake,0.62,0.800000012,0.970000029,16,automatic,hv,hv
+2023-04-01T04:20:35.440Z,19.2371673583984,-155.408493041992,35.7299995422363,2.0999999,md,36,133,,0.119999997,hv,hv73353882,2023-04-01T04:23:42.300Z,"Island of Hawaii, Hawaii",earthquake,0.62,0.800000012,0.970000029,16,automatic,hv,hv
 2023-04-01T04:02:38.937Z,56.6547,-154.5538,0.8,2.4,ml,,,,0.76,ak,ak02346kaupm,2023-04-01T04:16:15.040Z,"39 km SW of Akhiok, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-01T03:50:54.190Z,38.8175011,-122.8223343,2.24,0.78,md,10,79,0.01014,0.02,nc,nc73865275,2023-04-01T04:11:15.530Z,"7km NW of The Geysers, CA",earthquake,0.38,1.03,0.14,11,automatic,nc,nc
 2023-04-01T03:45:45.860Z,33.3918333,-116.9036667,18.31,1.02,ml,29,64,0.1073,0.21,ci,ci39508458,2023-04-01T03:49:19.964Z,"5km NW of Palomar Observatory, CA",earthquake,0.42,0.88,0.217,22,automatic,ci,ci
@@ -73,7 +74,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T01:38:42.590Z,33.3935,-116.8958333,12.82,0.84,ml,19,82,0.1139,0.12,ci,ci39508394,2023-04-01T01:42:19.460Z,"5km NW of Palomar Observatory, CA",earthquake,0.28,1.3,0.193,15,automatic,ci,ci
 2023-04-01T01:30:38.490Z,38.8284988,-122.8573303,1.85,0.82,md,12,121,0.001017,0.03,nc,nc73865235,2023-04-01T01:46:12.687Z,"10km WNW of The Geysers, CA",earthquake,0.29,0.41,0.2,13,automatic,nc,nc
 2023-04-01T01:25:31.480Z,33.3831667,-116.9011667,13.71,1.47,ml,54,33,0.1095,0.22,ci,ci39508386,2023-04-01T03:28:07.354Z,"5km NW of Palomar Observatory, CA",earthquake,0.22,0.69,0.153,26,automatic,ci,ci
-2023-04-01T01:16:07.820Z,33.3818321,-116.9046631,14.45,4.15,mw,96,25,0.09986,0.23,ci,ci39508378,2023-04-01T10:26:38.482Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.54,,6,reviewed,ci,ci
+2023-04-01T01:16:07.820Z,33.3818321,-116.9046631,14.45,4.15,mw,96,25,0.09986,0.23,ci,ci39508378,2023-04-01T10:37:36.913Z,"5km NW of Palomar Observatory, CA",earthquake,0.25,0.54,,6,reviewed,ci,ci
 2023-04-01T01:13:34.160Z,33.2121667,-115.574,1.14,1.45,ml,19,51,0.04916,0.24,ci,ci39508370,2023-04-01T03:08:25.590Z,"6km WSW of Niland, CA",earthquake,0.44,31.61,0.197,28,automatic,ci,ci
 2023-04-01T01:01:03.360Z,38.9876667,-123.3136667,5.7,1.16,md,12,64,0.02719,0.07,nc,nc73865210,2023-04-01T06:55:14.992Z,"5km ESE of Boonville, CA",earthquake,0.25,0.38,0.242,12,reviewed,nc,nc
 2023-04-01T00:59:50.011Z,65.4505,-148.2323,8.8,1.1,ml,,,,0.1,ak,ak02346i9c1l,2023-04-01T01:05:22.027Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
@@ -83,6 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T00:47:43.305Z,-20.8932,-70.5035,31.021,4.2,mb,20,172,0.708,1.2,us,us6000k19h,2023-04-01T02:32:05.355Z,"83 km SSW of Iquique, Chile",earthquake,4.56,8.921,0.262,4,reviewed,us,us
 2023-04-01T00:21:49.063Z,60.0761,-152.8228,97.9,2.3,ml,,,,0.15,ak,ak02346i16re,2023-04-01T00:33:52.314Z,"62 km WNW of Happy Valley, Alaska",earthquake,,1,,,automatic,ak,ak
 2023-03-31T23:59:47.350Z,38.8658333,-122.7979965,1.48,1.04,md,11,219,0.01098,0.03,nc,nc73865195,2023-04-01T00:14:10.126Z,"8km NW of Cobb, CA",earthquake,0.8,0.46,0.13,13,automatic,nc,nc
+2023-03-31T23:30:13.267Z,31.61607162,-104.1159701,6.491479492,2,ml,18,53,0.03884991946,0.1,tx,tx2023gikh,2023-04-01T10:39:08.038Z,"western Texas",earthquake,0.706107663,0.5840179043,0.2,19,reviewed,tx,tx
 2023-03-31T23:27:10.864Z,62.3024,-150.1481,13.3,1.3,ml,,,,0.39,ak,ak02345880j2,2023-03-31T23:29:50.161Z,"3 km SW of Talkeetna, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-03-31T23:12:04.663Z,64.9873,-147.4739,5.8,1.8,ml,,,,0.76,ak,ak0234584sb6,2023-03-31T23:13:48.450Z,"7 km ENE of Fox, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-31T23:09:36.450Z,38.8134995,-122.8261642,1.72,1.11,md,14,76,0.00519,0.02,nc,nc73865170,2023-04-01T00:18:11.152Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.38,0.32,14,automatic,nc,nc
@@ -214,5 +216,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-31T10:46:22.431Z,-24.7616,-70.1594,53.385,5.2,mww,69,93,0.26,0.98,us,us6000k138,2023-03-31T13:13:28.267Z,"78 km NNE of Taltal, Chile",earthquake,4.05,3.154,0.086,13,reviewed,us,us
 2023-03-31T10:44:58.390Z,33.6286667,-116.6763333,13.72,0.29,ml,16,74,0.04018,0.06,ci,ci39508026,2023-03-31T17:56:31.403Z,"8km N of Anza, CA",earthquake,0.22,0.4,0.116,7,reviewed,ci,ci
 2023-03-31T10:43:54.390Z,34.1198333,-116.4001667,2.87,1.01,ml,28,58,0.05111,0.13,ci,ci39508018,2023-03-31T17:44:20.587Z,"3km ENE of Yucca Valley, CA",earthquake,0.18,0.22,0.127,25,reviewed,ci,ci
-2023-03-31T10:33:54.318Z,66.3339,-154.6635,3.1,3.7,ml,,,,0.56,ak,ak023450iraw,2023-03-31T14:36:36.040Z,"36 km NNW of Hughes, Alaska",earthquake,,0.7,,,reviewed,ak,ak
-2023-03-31T10:33:20.328Z,63.2555,-151.3546,11.1,1.3,ml,,,,0.53,ak,ak023450ioow,2023-03-31T10:35:01.010Z,"36 km SSE of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
