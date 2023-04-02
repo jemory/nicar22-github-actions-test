@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-02T16:08:32.917Z,63.2778,-151.058,0,1.5,ml,,,,0.83,ak,ak02348f0ndn,2023-04-02T16:10:24.383Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-02T15:57:51.226Z,60.2136,-141.209,6.3,2.1,ml,,,,0.77,ak,ak02348epr9u,2023-04-02T15:59:45.741Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T15:51:48.298Z,60.0087,-139.3231,4.8,2.2,ml,,,,0.41,ak,ak02348eogr0,2023-04-02T15:54:53.349Z,"Southern Yukon Territory, Canada",earthquake,,0.3,,,automatic,ak,ak
 2023-04-02T15:38:20.070Z,33.7028333,-116.738,16.39,0.7,ml,16,111,0.02154,0.16,ci,ci39509106,2023-04-02T15:41:59.623Z,"4km SSW of Idyllwild, CA",earthquake,0.53,0.59,0.113,15,automatic,ci,ci
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-02T12:32:42.751Z,-1.6165,-77.6531,176.707,4.5,mb,68,98,0.391,0.51,us,us6000k1hb,2023-04-02T12:46:57.040Z,"Ecuador",earthquake,7.76,3.813,0.04,188,reviewed,us,us
 2023-04-02T12:23:56.841Z,61.3377,-150.329,47.1,1.3,ml,,,,0.41,ak,ak02348cq6jo,2023-04-02T12:26:53.782Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-02T12:19:14.394Z,62.4031,-150.7552,66.7,1.4,ml,,,,0.72,ak,ak02348cp8en,2023-04-02T12:20:49.385Z,"Central Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15,55,0.01158,0.02,nc,nc73865840,2023-04-02T15:15:11.818Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17,automatic,nc,nc
+2023-04-02T12:14:32.020Z,38.8451653,-122.8148346,1.48,1.52,md,15,55,0.01158,0.02,nc,nc73865840,2023-04-02T16:03:13.117Z,"8km WNW of Cobb, CA",earthquake,0.21,0.36,0.17,17,automatic,nc,nc
 2023-04-02T11:56:03.580Z,32.0975,-116.8395,15.21,1.57,ml,10,265,0.2616,0.05,ci,ci39509066,2023-04-02T11:59:41.420Z,"16km SSE of Primo Tapia, B.C., MX",earthquake,3,0.81,0.216,10,automatic,ci,ci
 2023-04-02T11:50:31.160Z,38.8348351,-122.815834,1.83,0.71,md,11,59,0.0158,0.01,nc,nc73865825,2023-04-02T12:35:13.805Z,"8km W of Cobb, CA",earthquake,0.29,0.94,0.09,10,automatic,nc,nc
 2023-04-02T11:44:21.330Z,40.4008331,-124.661499,20.68,2.77,md,21,254,0.2583,0.11,nc,nc73865815,2023-04-02T15:35:14.949Z,"33km WNW of Petrolia, CA",earthquake,2.15,0.69,0.12,9,automatic,nc,nc
@@ -156,6 +157,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-01T16:43:48.280Z,37.7491667,-122.1433333,7.62,3.01,ml,149,15,0.03141,0.1,nc,nc73865505,2023-04-02T03:54:32.342Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.15,0.244,107,reviewed,nc,nc
 2023-04-01T16:43:33.460Z,37.7493333,-122.145,7.64,2.68,md,142,28,0.03236,0.1,nc,nc73865495,2023-04-01T22:20:51.096Z,"3km NNE of San Leandro, CA",earthquake,0.09,0.15,0.328,18,reviewed,nc,nc
 2023-04-01T16:36:12.453Z,36.8249,-115.9145,13.6,0.1,ml,15,203.99,0.035,0.1258,nn,nn00857750,2023-04-01T16:38:03.258Z,"35 km NW of Indian Springs, Nevada",earthquake,,1.1,0.27,8,automatic,nn,nn
-2023-04-01T16:24:56.230Z,37.7505,-122.1426667,7.58,3,ml,147,15,0.03217,0.1,nc,nc73865490,2023-04-02T07:20:47.425Z,"3km NNE of San Leandro, CA",earthquake,0.08,0.17,0.252,128,reviewed,nc,nc
-2023-04-01T16:14:42.280Z,46.25966666666667,-122.04466666666667,9.9,1.16,ml,31,89,0.09684,0.17,uw,uw61915346,2023-04-01T19:16:15.750Z,"37 km SSE of Morton, Washington",earthquake,0.3,0.82,0.20796981007885174,18,reviewed,uw,uw
-2023-04-01T16:07:51.861Z,56.8513,-158.0858,4.3,2.5,ml,,,,0.74,ak,ak02346rh4mq,2023-04-01T20:52:28.890Z,"34 km ESE of Port Heiden, Alaska",earthquake,,0.2,,,automatic,ak,ak
