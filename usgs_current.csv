@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-03T21:34:46.365Z,14.5226,56.2931,10,5.1,mb,76,39,10.369,0.94,us,us6000k1tw,2023-04-03T21:52:30.040Z,"Owen Fracture Zone region",earthquake,9.18,1.874,0.055,106,reviewed,us,us
 2023-04-03T21:27:59.760Z,18.044,-66.8053333333333,15.08,2.13,md,6,145,0.09824,0.09,pr,pr71402413,2023-04-03T21:38:53.990Z,"3 km NNW of Guayanilla, Puerto Rico",earthquake,0.46,1.03,0.0929973303045184,5,reviewed,pr,pr
 2023-04-03T21:12:17.830Z,35.4696667,-118.4088333,10.65,1.6,ml,11,94,0.1782,0.22,ci,ci39509458,2023-04-03T21:15:55.804Z,"15km SSE of Bodfish, CA",earthquake,0.55,1.75,0.321,15,automatic,ci,ci
 2023-04-03T21:11:52.215Z,31.661,-104.4338,5,2.5,ml,21,114,0.058,0.5,us,us6000k1tq,2023-04-03T21:38:24.040Z,"57 km S of Whites City, New Mexico",earthquake,1.14,1.756,0.065,31,reviewed,us,us
@@ -102,7 +103,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T08:12:19.572Z,36.6537,-116.2621,7.1,1.1,ml,24,85.32,0.062,0.1932,nn,nn00857781,2023-04-03T08:14:13.347Z,"Nevada",earthquake,,0.6,0.87,16,automatic,nn,nn
 2023-04-03T07:33:09.820Z,58.2471,-155.1443,4.4,0.7,ml,,,,0.53,ak,ak02349xcejq,2023-04-03T07:35:03.499Z,"Alaska Peninsula",earthquake,,0.5,,,automatic,ak,ak
 2023-04-03T07:31:04.990Z,36.7946663,-121.322998,8.64,1.83,md,27,110,0.08906,0.13,nc,nc73866155,2023-04-03T08:43:12.348Z,"1km NNW of Tres Pinos, CA",earthquake,0.35,0.71,0.16,20,automatic,nc,nc
-2023-04-03T07:26:00.540Z,33.9331667,-116.89,10.18,1.04,ml,35,68,0.07623,0.16,ci,ci39509306,2023-04-03T07:29:35.438Z,"2km NW of Banning, CA",earthquake,0.21,0.5,0.13,27,automatic,ci,ci
+2023-04-03T07:26:00.390Z,33.9323333,-116.893,11.35,1.05,ml,40,65,0.07363,0.12,ci,ci39509306,2023-04-03T21:54:56.500Z,"2km WNW of Banning, CA",earthquake,0.15,0.56,0.125,27,reviewed,ci,ci
+2023-04-03T07:24:28.659Z,37.8707,-118.1483,0,2.1,ml,12,100.28,0.353,0.2191,nn,nn00857780,2023-04-03T21:59:25.599Z,"23 km NNW of Dyer, Nevada",earthquake,,0,0.57,8,reviewed,nn,nn
 2023-04-03T07:20:44.570Z,33.2911667,-116.1955,4.85,1.79,ml,67,29,0.1098,0.19,ci,ci39509298,2023-04-03T21:25:36.430Z,"17km ENE of Borrego Springs, CA",earthquake,0.15,0.6,0.131,35,reviewed,ci,ci
 2023-04-03T07:09:41.930Z,37.2548333,-113.8206667,11.14,1.62,ml,8,102,0.1339,0.11,uu,uu60536306,2023-04-03T16:38:28.210Z,"14 km WSW of Dammeron Valley, Utah",earthquake,0.41,0.73,0.129,3,reviewed,uu,uu
 2023-04-03T07:04:26.231Z,52.652,106.721,10,4.2,mb,58,55,2.13,0.66,us,us6000k1ng,2023-04-03T14:16:38.040Z,"27 km SE of Yelantsy, Russia",earthquake,7.69,1.875,0.088,38,reviewed,us,us
@@ -133,6 +135,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T03:45:49.012Z,37.9232,36.271,5,4.3,mb,34,51,0.348,0.65,us,us6000k1n0,2023-04-03T04:02:06.040Z,"central Turkey",earthquake,1.89,1.945,0.168,10,reviewed,us,us
 2023-04-03T03:43:07.138Z,60.6005,-152.4964,147.9,1.5,ml,,,,0.79,ak,ak02349v0t2x,2023-04-03T03:49:14.993Z,"Southern Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-03T03:41:21.008Z,51.3501,179.7098,44.5,3.7,ml,,,,0.33,ak,ak02349v0dtm,2023-04-03T19:29:39.757Z,"259 km WSW of Adak, Alaska",earthquake,,0.9,,,reviewed,ak,ak
+2023-04-03T03:40:32.760Z,51.8483333333333,-178.079166666667,2.82,2.67,ml,7,130,,0.18,av,av91832001,2023-04-03T21:51:12.330Z,"99 km W of Adak, Alaska",earthquake,0.51,0.67,0.292224100533212,7,reviewed,av,av
 2023-04-03T03:39:03.750Z,44.4135,-124.43883333333333,27.17,2.3000000000000003,ml,21,154,0.2645,0.11,uw,uw61915651,2023-04-03T15:45:35.602Z,"offshore Oregon",earthquake,0.32,0.62,0.15674791206878114,13,reviewed,uw,uw
 2023-04-03T03:26:56.270Z,51.8655,-178.0775,0.96,0.8,ml,4,188,,0.25,av,av91831991,2023-04-03T21:47:41.360Z,"99 km W of Adak, Alaska",earthquake,0.88,3.79,0.277912101249138,4,reviewed,av,av
 2023-04-03T03:24:11.400Z,51.8518333333333,-178.079666666667,3.45,1.46,ml,5,208,,0.17,av,av91831986,2023-04-03T21:45:37.970Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.7,0.51,0.201645762775891,5,reviewed,av,av
