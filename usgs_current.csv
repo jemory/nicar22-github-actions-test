@@ -1,6 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-03T23:33:18.390Z,38.8233337,-122.7883301,2.08,0.93,md,6,116,0.01605,0.01,nc,nc73866460,2023-04-03T23:34:53.049Z,"6km W of Cobb, CA",earthquake,0.61,1.96,0.22,8,automatic,nc,nc
-2023-04-03T23:30:43.820Z,38.8440018,-122.8101654,6.43,0.23,md,8,87,0.01481,0.02,nc,nc73866455,2023-04-03T23:32:22.574Z,"8km WNW of Cobb, CA",earthquake,0.83,0.89,0.09,7,automatic,nc,nc
+2023-04-03T23:33:18.390Z,38.8233337,-122.7883301,2.08,0.93,md,6,116,0.01605,0.01,nc,nc73866460,2023-04-03T23:57:11.850Z,"6km W of Cobb, CA",earthquake,0.61,1.96,0.22,8,automatic,nc,nc
+2023-04-03T23:30:43.820Z,38.8440018,-122.8101654,6.43,0.23,md,8,87,0.01481,0.02,nc,nc73866455,2023-04-03T23:50:10.802Z,"8km WNW of Cobb, CA",earthquake,0.83,0.89,0.09,7,automatic,nc,nc
 2023-04-03T23:14:36.580Z,38.8243332,-122.7914963,1.33,2.23,md,22,40,0.01661,0.04,nc,nc73866425,2023-04-03T23:49:12.933Z,"6km W of Cobb, CA",earthquake,0.19,0.35,0.19,21,automatic,nc,nc
 2023-04-03T23:00:56.880Z,38.8100014,-122.7913361,3.03,0.8,md,9,132,0.003705,0.01,nc,nc73866415,2023-04-03T23:49:12.795Z,"5km NW of The Geysers, CA",earthquake,0.53,1.19,0.13,9,automatic,nc,nc
 2023-04-03T22:52:27.550Z,38.8250008,-122.7916641,1.37,1.8,md,20,42,0.01724,0.03,nc,nc73866410,2023-04-03T23:38:14.727Z,"6km W of Cobb, CA",earthquake,0.2,0.39,0.16,21,automatic,nc,nc
@@ -16,7 +16,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T21:34:46.365Z,14.5226,56.2931,10,5.1,mb,76,39,10.369,0.94,us,us6000k1tw,2023-04-03T21:52:30.040Z,"Owen Fracture Zone region",earthquake,9.18,1.874,0.055,106,reviewed,us,us
 2023-04-03T21:27:59.760Z,18.044,-66.8053333333333,15.08,2.13,md,6,145,0.09824,0.09,pr,pr71402413,2023-04-03T21:38:53.990Z,"3 km NNW of Guayanilla, Puerto Rico",earthquake,0.46,1.03,0.0929973303045184,5,reviewed,pr,pr
 2023-04-03T21:12:17.830Z,35.4696667,-118.4088333,10.65,1.6,ml,11,94,0.1782,0.22,ci,ci39509458,2023-04-03T21:15:55.804Z,"15km SSE of Bodfish, CA",earthquake,0.55,1.75,0.321,15,automatic,ci,ci
-2023-04-03T21:11:52.215Z,31.661,-104.4338,5,2.5,ml,21,114,0.058,0.5,us,us6000k1tq,2023-04-03T21:38:24.040Z,"57 km S of Whites City, New Mexico",earthquake,1.14,1.756,0.065,31,reviewed,us,us
+2023-04-03T21:11:52.215Z,31.661,-104.4338,5,2.5,ml,21,114,0.058,0.5,us,us6000k1tq,2023-04-03T23:50:45.301Z,"57 km S of Whites City, New Mexico",earthquake,1.14,1.756,0.065,31,reviewed,us,us
 2023-04-03T21:10:51.129Z,65.0977,-147.0004,20.7,1.3,ml,,,,1.35,ak,ak0234a5jmlu,2023-04-03T21:14:01.932Z,"24 km NNW of Pleasant Valley, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-03T21:02:42.869Z,36.75233333,-98.05816667,7.62,1.78,ml,45,87,0.09538128294,0.17,ok,ok2023gnry,2023-04-03T21:42:04.678Z,"8 km E of Nescatunga, Oklahoma",earthquake,,0.5,0.17,4,reviewed,ok,ok
 2023-04-03T20:50:32.882Z,-8.2418,123.795,184.221,5,mb,100,54,1.575,1,us,us6000k1tm,2023-04-03T21:11:37.040Z,"124 km NNW of Pante Makasar, Timor Leste",earthquake,7.35,1.698,0.05,128,reviewed,us,us
@@ -39,7 +39,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T19:11:08.980Z,37.9875,-122.4488333,-0.02,1.31,md,21,76,0.02502,0.1,nc,nc73866305,2023-04-03T23:28:14.667Z,"7km E of Santa Venetia, CA",quarry blast,0.21,31.61,0.161,15,reviewed,nc,nc
 2023-04-03T19:01:46.741Z,56.2136,-156.7175,1.1,3.4,ml,,,,0.63,ak,ak0234a4atqq,2023-04-03T19:27:03.040Z,"104 km E of Chignik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-03T18:45:18.910Z,48.299166666666665,-121.67616666666666,-0.82,1.42,ml,5,105,0.07375,0.42,uw,uw61915736,2023-04-03T22:57:05.260Z,"4 km ENE of Swede Heaven, Washington",explosion,1.6,31.61,0.1410922587879464,3,reviewed,uw,uw
-2023-04-03T18:26:46.362Z,-8.7267,115.6384,108.774,4.4,mb,31,99,1.492,0.61,us,us6000k1ss,2023-04-03T23:45:01.979Z,"Bali region, Indonesia",earthquake,5.34,7.599,0.108,25,reviewed,us,us
+2023-04-03T18:26:46.362Z,-8.7267,115.6384,108.774,4.4,mb,31,99,1.492,0.61,us,us6000k1ss,2023-04-04T00:02:02.335Z,"Bali region, Indonesia",earthquake,5.34,7.599,0.108,25,reviewed,us,us
 2023-04-03T18:22:00.316Z,62.3586,-149.1165,15.4,1.1,ml,,,,0.37,ak,ak0234a3tslb,2023-04-03T18:24:28.686Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-03T18:17:11.360Z,47.782666666666664,-122.84733333333334,21.06,1.6300000000000001,ml,23,70,0.05246,0.19,uw,uw61915711,2023-04-03T18:50:08.110Z,"Puget Sound region, Washington",earthquake,0.42,0.59,0.1567060826106339,11,reviewed,uw,uw
 2023-04-03T18:11:47.040Z,17.963,-67.07,10.03,2.51,md,4,243,0.02535,0.1,pr,pr71402408,2023-04-03T18:23:37.260Z,"Puerto Rico region",earthquake,0.86,0.66,0.208848364448946,4,reviewed,pr,pr
@@ -84,7 +84,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:44:34.850Z,38.8359985,-122.7883301,2,1.19,md,9,81,0.01142,0.01,nc,nc73866225,2023-04-03T13:32:15.068Z,"6km WNW of Cobb, CA",earthquake,0.51,1.4,0.17,10,automatic,nc,nc
 2023-04-03T12:43:33.740Z,40.3186667,-121.899,7.77,2.04,md,16,78,0.0779,0.17,nc,nc73866220,2023-04-03T21:09:14.821Z,"12km SSW of Manton, CA",earthquake,0.39,1.1,0.209,22,reviewed,nc,nc
 2023-04-03T12:36:06.553Z,12.2693,-89.3896,10,5,mww,75,150,1.501,0.71,us,us6000k1pd,2023-04-03T13:49:51.363Z,"135 km S of La Libertad, El Salvador",earthquake,7.75,1.883,0.051,37,reviewed,us,us
-2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-03T23:46:57.999Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-03T23:52:55.917Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-03T12:12:56.352Z,61.0768,-150.5664,39,1,ml,,,,0.62,ak,ak0234a0764j,2023-04-03T12:14:56.645Z,"Southern Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-04-03T12:11:15.080Z,33.8856667,-116.2606667,4.79,0.87,ml,24,60,0.08272,0.15,ci,ci39509402,2023-04-03T20:58:54.031Z,"14km ENE of Thousand Palms, CA",earthquake,0.2,0.5,0.121,12,reviewed,ci,ci
 2023-04-03T12:09:13.184Z,61.3697,-151.6213,86.2,0.7,ml,,,,0.23,ak,ak0234a06fna,2023-04-03T12:11:50.638Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -93,8 +93,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T11:35:27.960Z,35.2051659,-118.6725006,3.38,2.96,ml,85,37,0.02908,0.2,ci,ci39509394,2023-04-03T20:22:00.347Z,"14km E of Arvin, CA",earthquake,0.19,0.66,0.281,24,automatic,ci,ci
 2023-04-03T11:25:31.510Z,34.004,-116.852,14.01,1.22,ml,39,56,0.04811,0.19,ci,ci39509386,2023-04-03T11:29:04.629Z,"9km NNE of Banning, CA",earthquake,0.23,0.54,0.118,26,automatic,ci,ci
 2023-04-03T11:14:33.560Z,33.3,-116.1918333,0.82,1.44,ml,31,59,0.119,0.29,ci,ci39509378,2023-04-03T11:18:05.606Z,"18km ENE of Borrego Springs, CA",earthquake,0.33,0.84,0.141,29,automatic,ci,ci
-2023-04-03T11:10:39.820Z,33.3036667,-116.195,1.08,1.22,ml,23,70,0.1212,0.28,ci,ci39509370,2023-04-03T11:14:12.543Z,"18km ENE of Borrego Springs, CA",earthquake,0.41,0.99,0.116,26,automatic,ci,ci
-2023-04-03T11:06:28.790Z,33.2988333,-116.1981667,1.29,1.92,ml,46,44,0.1157,0.25,ci,ci39509362,2023-04-03T11:16:58.860Z,"17km ENE of Borrego Springs, CA",earthquake,0.26,0.73,0.199,27,automatic,ci,ci
+2023-04-03T11:10:39.790Z,33.2953333,-116.1966667,2.79,1.17,ml,34,61,0.1131,0.23,ci,ci39509370,2023-04-04T00:01:26.335Z,"17km ENE of Borrego Springs, CA",earthquake,0.27,0.67,0.126,23,reviewed,ci,ci
+2023-04-03T11:06:28.910Z,33.2936667,-116.197,3.67,1.94,ml,57,44,0.1115,0.21,ci,ci39509362,2023-04-03T23:55:44.840Z,"17km ENE of Borrego Springs, CA",earthquake,0.18,0.83,0.15,30,reviewed,ci,ci
 2023-04-03T11:05:13.900Z,35.2071667,-118.6721667,7.09,1.42,ml,20,89,0.02746,0.19,ci,ci39509354,2023-04-03T23:43:58.454Z,"14km E of Arvin, CA",earthquake,0.34,0.64,0.179,14,reviewed,ci,ci
 2023-04-03T11:05:05.720Z,33.2961667,-116.1965,2.3,1.86,ml,24,128,0.1461,0.33,ci,ci37521989,2023-04-03T23:36:22.505Z,"17km ENE of Borrego Springs, CA",earthquake,0.59,0.96,0.15,32,reviewed,ci,ci
 2023-04-03T11:04:59.350Z,33.2993333,-116.1978333,2.09,1.82,ml,38,34,0.1163,0.21,ci,ci39509346,2023-04-03T23:11:00.590Z,"17km ENE of Borrego Springs, CA",earthquake,0.23,0.53,0.133,23,reviewed,ci,ci
@@ -203,4 +203,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T00:23:41.030Z,36.036335,-120.604332,1.42,0.61,md,9,188,0.03307,0.09,nc,nc73866050,2023-04-03T01:10:13.601Z,"22km NW of Parkfield, CA",earthquake,2.07,7.85,0.01,3,automatic,nc,nc
 2023-04-03T00:20:41.440Z,51.857,-178.054666666667,-1.8,1.34,ml,4,167,,0.27,av,av91831821,2023-04-03T19:37:21.250Z,"97 km W of Adak, Alaska",earthquake,0.73,1.78,0.299959497032454,4,reviewed,av,av
 2023-04-03T00:20:28.947Z,58.1779,-155.3986,0,1.3,ml,,,,0.6,ak,ak02349t3mha,2023-04-03T19:42:13.460Z,"Alaska Peninsula",earthquake,,0.6,,,automatic,ak,ak
-2023-04-02T23:52:34.270Z,51.8786666666667,-178.160833333333,12.86,0.51,ml,3,273,,0.03,av,av91831806,2023-04-03T19:47:33.510Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.8,0.67,0.302715977303883,3,reviewed,av,av
