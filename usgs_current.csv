@@ -71,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T20:50:32.882Z,-8.2418,123.795,184.221,5,mb,100,54,1.575,1,us,us6000k1tm,2023-04-03T21:11:37.040Z,"124 km NNW of Pante Makasar, Timor Leste",earthquake,7.35,1.698,0.05,128,reviewed,us,us
 2023-04-03T20:45:09.789Z,64.4988,-148.971,16.5,0.9,ml,,,,0.45,ak,ak0234a55m02,2023-04-03T20:46:50.154Z,"9 km SE of Nenana, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-03T20:45:08.760Z,47.74916666666667,-120.09566666666667,4.09,1.03,ml,11,63,0.066,0.07,uw,uw61915806,2023-04-03T23:13:40.430Z,"10 km SW of Chelan Falls, Washington",earthquake,0.26,0.82,0.2406007305877158,11,reviewed,uw,uw
-2023-04-03T20:27:37.460Z,38.837,-122.7916667,2.53,1.35,md,25,77,0.01317,0.03,nc,nc73866360,2023-04-04T06:31:10.428Z,"6km WNW of Cobb, CA",earthquake,0.19,0.4,0.183,20,reviewed,nc,nc
+2023-04-03T20:27:37.460Z,38.837,-122.7916667,2.53,1.35,md,25,77,0.01317,0.03,nc,nc73866360,2023-04-04T07:15:12.507Z,"6km WNW of Cobb, CA",earthquake,0.19,0.4,0.183,20,reviewed,nc,nc
 2023-04-03T20:25:42.710Z,38.8351669,-122.8066635,2.51,0.87,md,10,81,0.02102,0.02,nc,nc73866355,2023-04-03T20:49:11.691Z,"7km WNW of Cobb, CA",earthquake,0.38,1.76,0.18,9,automatic,nc,nc
 2023-04-03T20:05:02.890Z,38.8221667,-122.7561667,2.53,0.41,md,5,258,0.01357,0,nc,nc73866345,2023-04-04T04:48:11.672Z,"3km W of Cobb, CA",earthquake,1.5,0.55,0.143,4,reviewed,nc,nc
 2023-04-03T19:50:50.760Z,51.8511666666667,-178.077833333333,2.43,2.89,ml,7,129,,0.19,av,av91832946,2023-04-03T20:21:05.550Z,"99 km W of Adak, Alaska",earthquake,0.45,0.75,0.265083815424093,7,reviewed,av,av
@@ -140,7 +140,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T12:40:40.270Z,51.868,-178.123166666667,5.44,1.11,ml,4,231,,0.12,av,av91832506,2023-04-04T03:56:26.750Z,"102 km W of Adak, Alaska",earthquake,0.78,1.05,0.268482428001884,4,reviewed,av,av
 2023-04-03T12:36:06.553Z,12.2693,-89.3896,10,5,mww,75,150,1.501,0.71,us,us6000k1pd,2023-04-03T13:49:51.363Z,"135 km S of La Libertad, El Salvador",earthquake,7.75,1.883,0.051,37,reviewed,us,us
 2023-04-03T12:35:56.860Z,58.2563333333333,-155.114166666667,4.6,-0.39,ml,10,88,,0.16,av,av91832501,2023-04-04T03:53:30.950Z,"85 km NNW of Karluk, Alaska",earthquake,0.32,0.5,0.131464746161762,10,reviewed,av,av
-2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-04T06:45:12.139Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
+2023-04-03T12:27:14.484Z,61.3712,-150.1823,36.7,3.8,ml,,,,0.81,ak,ak0234a0aako,2023-04-04T07:18:17.123Z,"Southern Alaska",earthquake,,0.6,,,reviewed,ak,ak
 2023-04-03T12:22:56.970Z,58.1765,-155.337666666667,0.86,-0.18,ml,9,172,,0.06,av,av91832476,2023-04-04T03:47:18.360Z,"85 km NW of Karluk, Alaska",earthquake,0.21,0.93,0.23939491293607,9,reviewed,av,av
 2023-04-03T12:12:56.352Z,61.0768,-150.5664,39,1,ml,,,,0.62,ak,ak0234a0764j,2023-04-03T12:14:56.645Z,"Southern Alaska",earthquake,,5.3,,,automatic,ak,ak
 2023-04-03T12:11:15.080Z,33.8856667,-116.2606667,4.79,0.87,ml,24,60,0.08272,0.15,ci,ci39509402,2023-04-03T20:58:54.031Z,"14km ENE of Thousand Palms, CA",earthquake,0.2,0.5,0.121,12,reviewed,ci,ci
@@ -195,5 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-03T07:31:04.920Z,36.7935,-121.3185,9.16,1.7,md,36,98,0.08877,0.11,nc,nc73866155,2023-04-04T06:07:12.141Z,"0km NNE of Tres Pinos, CA",earthquake,0.26,0.41,0.194,32,reviewed,nc,nc
 2023-04-03T07:26:00.390Z,33.9323333,-116.893,11.35,1.05,ml,40,65,0.07363,0.12,ci,ci39509306,2023-04-03T21:54:56.500Z,"2km WNW of Banning, CA",earthquake,0.15,0.56,0.125,27,reviewed,ci,ci
 2023-04-03T07:24:28.659Z,37.8707,-118.1483,0,2.1,ml,12,100.28,0.353,0.2191,nn,nn00857780,2023-04-04T02:03:55.618Z,"23 km NNW of Dyer, Nevada",earthquake,,0,0.57,8,reviewed,nn,nn
-2023-04-03T07:20:44.570Z,33.2911667,-116.1955,4.85,1.79,ml,67,29,0.1098,0.19,ci,ci39509298,2023-04-03T21:25:36.430Z,"17km ENE of Borrego Springs, CA",earthquake,0.15,0.6,0.131,35,reviewed,ci,ci
-2023-04-03T07:09:41.930Z,37.2548333,-113.8206667,11.14,1.62,ml,8,102,0.1339,0.11,uu,uu60536306,2023-04-03T16:38:28.210Z,"14 km WSW of Dammeron Valley, Utah",earthquake,0.41,0.73,0.129,3,reviewed,uu,uu
