@@ -1,11 +1,16 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-07T02:49:13.110Z,39.4146652,-123.0943298,-0.73,2.48,md,23,77,0.04864,0.17,nc,nc73868325,2023-04-07T02:50:50.261Z,"12km W of Lake Pillsbury, CA",earthquake,0.36,2.11,0.13,22,automatic,nc,nc
+2023-04-07T03:00:52.021Z,62.648,-151.1433,88.5,1.6,ml,,,,0.39,ak,ak0234ggx2qa,2023-04-07T03:03:09.969Z,"25 km NW of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2023-04-07T02:55:24.120Z,38.7898331,-122.7269974,1.73,0.58,md,7,174,0.01006,0.01,nc,nc73868330,2023-04-07T02:57:00.057Z,"3km ENE of The Geysers, CA",earthquake,0.5,2.12,0.19,5,automatic,nc,nc
+2023-04-07T02:51:50.058Z,35.23508072,-97.75326538,11.71007824,1.81,ml,10,69.01979065,0.003712560749,0.4986613571,ok,ok2023gtpz,2023-04-07T02:54:13.624Z,"Oklahoma",earthquake,,6.628663687,0.4,7,automatic,ok,ok
+2023-04-07T02:49:13.110Z,39.4146652,-123.0943298,-0.73,2.48,md,23,77,0.04864,0.17,nc,nc73868325,2023-04-07T03:05:14.602Z,"12km W of Lake Pillsbury, CA",earthquake,0.36,2.11,0.13,22,automatic,nc,nc
+2023-04-07T02:43:42.510Z,18.0215,-66.7753333333333,13.99,2.28,md,8,172,0.1092,0.1,pr,pr71402788,2023-04-07T03:05:15.630Z,"0 km NW of Magas Arriba, Puerto Rico",earthquake,0.45,1.02,0.0958473636612469,6,reviewed,pr,pr
 2023-04-07T02:41:34.250Z,33.0101667,-116.438,10.19,1,ml,32,62,0.04463,0.22,ci,ci40437384,2023-04-07T02:45:05.854Z,"17km ESE of Julian, CA",earthquake,0.3,0.72,0.169,20,automatic,ci,ci
 2023-04-07T02:26:30.820Z,38.7888336,-122.7676697,1.16,0.72,md,7,102,0.01332,0.02,nc,nc73868310,2023-04-07T02:47:14.468Z,"2km NW of The Geysers, CA",earthquake,0.38,0.97,0.04,7,automatic,nc,nc
 2023-04-07T02:25:41.520Z,34.014,-117.2163333,8.52,1.03,ml,32,94,0.07567,0.2,ci,ci40437368,2023-04-07T02:29:37.007Z,"6km SW of Redlands, CA",earthquake,0.32,0.75,0.282,30,automatic,ci,ci
 2023-04-07T02:22:41.020Z,49.8608,155.2628,86.442,5.8,mww,122,47,3.591,0.9,us,us6000k2kk,2023-04-07T02:45:53.706Z,"109 km SW of Severo-Kuril’sk, Russia",earthquake,8.24,5.343,0.098,10,reviewed,us,us
 2023-04-07T02:15:48.740Z,38.7566681,-122.7170029,1.96,1.56,md,12,119,0.007869,0.02,nc,nc73868305,2023-04-07T02:33:13.563Z,"3km SW of Anderson Springs, CA",earthquake,0.39,0.39,0.17,14,automatic,nc,nc
 2023-04-07T02:04:46.346Z,63.3175,-145.3085,11.2,1.2,ml,,,,0.33,ak,ak0234ggchjg,2023-04-07T02:09:35.132Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-07T02:02:08.020Z,58.179,-155.310666666667,2.1,-0.12,ml,7,162,,0.08,av,av91837996,2023-04-07T02:57:41.380Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.5,0.332929306449546,7,reviewed,av,av
 2023-04-07T01:55:33.230Z,38.8351669,-122.8371658,5.89,0.79,md,6,209,0.00366,0.03,nc,nc73868300,2023-04-07T02:22:13.322Z,"10km NW of The Geysers, CA",earthquake,2.78,6.68,0.18,8,automatic,nc,nc
 2023-04-07T01:53:17.520Z,51.8601666666667,-178.0645,-1.8,1.17,ml,5,178,,0.25,av,av91837991,2023-04-07T02:46:27.770Z,"98 km W of Adak, Alaska",earthquake,0.7,1.56,0.279662982683409,5,reviewed,av,av
 2023-04-07T01:52:37.150Z,38.8175011,-122.7639999,1.57,0.43,md,8,187,0.01371,0.01,nc,nc73868295,2023-04-07T02:09:14.247Z,"4km W of Cobb, CA",earthquake,0.5,0.67,0.25,8,automatic,nc,nc
@@ -269,8 +274,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-06T03:28:09.961Z,-24.2926,-67.1646,176.353,4.3,mb,25,85,1.627,0.85,us,us6000k2ad,2023-04-06T03:52:04.040Z,"Chile-Argentina border region",earthquake,7.76,6.457,0.217,6,reviewed,us,us
 2023-04-06T03:21:40.952Z,-35.5792,-109.0376,10,5.1,mb,51,107,29.217,0.65,us,us6000k2ae,2023-04-06T03:43:34.040Z,"southern East Pacific Rise",earthquake,10.22,1.821,0.036,248,reviewed,us,us
 2023-04-06T03:21:21.413Z,60.2003,-151.2023,22.1,1.7,ml,,,,0.48,ak,ak0234eti5wt,2023-04-06T03:23:02.273Z,"11 km ESE of Clam Gulch, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-06T03:06:31.060Z,38.5826667,-122.6671667,6.07,1.16,md,33,45,0.02727,0.07,nc,nc73867785,2023-04-06T22:25:11.972Z,"8km W of Calistoga, CA",earthquake,0.18,0.25,0.16,27,reviewed,nc,nc
-2023-04-06T03:03:14.690Z,51.8631666666667,-178.1315,7.24,1.66,ml,7,130,,0.09,av,av91836696,2023-04-06T21:39:18.880Z,"103 km W of Adak, Alaska",earthquake,0.64,0.6,0.18356260226022,7,reviewed,av,av
-2023-04-06T03:00:50.081Z,56.8949,-158.0823,6.2,3.4,ml,,,,0.63,ak,ak0234etdq4d,2023-04-06T04:32:42.430Z,"33 km E of Port Heiden, Alaska",earthquake,,0.1,,,reviewed,ak,ak
-2023-04-06T03:00:30.220Z,56.9195,-158.125166666667,-3.2,1.73,ml,4,229,,0.15,av,av91836686,2023-04-06T20:59:19.480Z,"30 km E of Port Heiden, Alaska",earthquake,1.57,2.18,0.151333491109807,2,reviewed,av,av
-2023-04-06T02:57:52.320Z,38.8058333,-122.8155,2.84,1.25,md,36,60,0.01111,0.03,nc,nc73867775,2023-04-07T02:31:10.376Z,"6km WNW of The Geysers, CA",earthquake,0.17,0.31,0.157,29,reviewed,nc,nc
