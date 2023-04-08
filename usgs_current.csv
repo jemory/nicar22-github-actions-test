@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T10:57:28.260Z,38.7555008,-122.7034988,0.65,0.73,md,8,128,0.01308,0.02,nc,nc73869205,2023-04-08T10:59:06.187Z,"2km SSW of Anderson Springs, CA",earthquake,0.87,0.46,0.09,6,automatic,nc,nc
-2023-04-08T10:50:12.010Z,33.8871667,-118.5948333,9.25,2.39,ml,63,142,0.1826,0.27,ci,ci40438152,2023-04-08T10:55:58.428Z,"17km SW of Marina del Rey, CA",earthquake,0.43,1.24,0.221,26,automatic,ci,ci
+2023-04-08T11:07:43.790Z,38.7878342,-122.7666702,2.55,0.74,md,10,95,0.01388,0.02,nc,nc73869210,2023-04-08T11:09:21.836Z,"2km NW of The Geysers, CA",earthquake,0.44,1.22,0.14,9,automatic,nc,nc
+2023-04-08T10:57:28.260Z,38.7555008,-122.7034988,0.65,0.73,md,8,128,0.01308,0.02,nc,nc73869205,2023-04-08T11:14:15.214Z,"2km SSW of Anderson Springs, CA",earthquake,0.87,0.46,0.09,6,automatic,nc,nc
+2023-04-08T10:50:12.010Z,33.8871667,-118.5948333,9.25,2.39,ml,63,142,0.1826,0.27,ci,ci40438152,2023-04-08T11:01:15.644Z,"17km SW of Marina del Rey, CA",earthquake,0.43,1.24,0.221,26,automatic,ci,ci
 2023-04-08T10:50:10.590Z,33.5283333,-116.7318333,4.79,0.48,ml,16,82,0.03725,0.1,ci,ci40438160,2023-04-08T10:53:58.652Z,"6km WSW of Anza, CA",earthquake,0.21,0.24,0.155,12,automatic,ci,ci
 2023-04-08T10:48:37.626Z,61.9978,-149.7383,35.1,1.2,ml,,,,0.37,ak,ak0234i8wpf8,2023-04-08T10:50:53.018Z,"19 km SSE of Susitna North, Alaska",earthquake,,3.5,,,automatic,ak,ak
 2023-04-08T10:39:48.020Z,38.7556648,-122.7041702,0.96,0.89,md,9,127,0.01307,0.03,nc,nc73869195,2023-04-08T10:56:14.104Z,"2km SSW of Anderson Springs, CA",earthquake,0.49,0.44,0.22,7,automatic,nc,nc
@@ -11,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T09:07:36.806Z,34.654,70.6313,51.614,4.4,mb,35,135,1.315,0.47,us,us6000k2un,2023-04-08T09:37:50.040Z,"30 km NNE of Jalālābād, Afghanistan",earthquake,7.59,10.21,0.076,53,reviewed,us,us
 2023-04-08T09:01:42.591Z,58.2544,-155.137,2,1.1,ml,,,,0.53,ak,ak0234i817ub,2023-04-08T09:03:47.410Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-08T08:59:40.360Z,63.5799,-150.0765,133.7,1.7,ml,,,,0.37,ak,ak0234i7s7lu,2023-04-08T09:02:17.196Z,"59 km WNW of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-08T08:57:52.740Z,39.2174988,-122.8638306,6.2,1.85,md,8,155,0.09524,0.03,nc,nc73869165,2023-04-08T09:18:14.491Z,"7km NE of Upper Lake, CA",earthquake,0.65,1.1,0.08,5,automatic,nc,nc
+2023-04-08T08:57:52.740Z,39.2174988,-122.8638306,6.2,1.85,md,8,155,0.09524,0.03,nc,nc73869165,2023-04-08T11:06:11.163Z,"7km NE of Upper Lake, CA",earthquake,0.65,1.1,0.08,5,automatic,nc,nc
 2023-04-08T08:46:09.700Z,35.6673333,-117.5313333,6.9,2.42,ml,26,49,0.08766,0.19,ci,ci40438144,2023-04-08T08:57:10.150Z,"14km ENE of Ridgecrest, CA",earthquake,0.32,0.99,0.129,25,automatic,ci,ci
 2023-04-08T08:41:18.170Z,19.408332824707,-155.274673461914,8.46000003814697,2,ml,21,78,,0.140000001,hv,hv73359082,2023-04-08T08:46:50.570Z,"5 km SW of Volcano, Hawaii",earthquake,0.44,0.370000005,0.61,4,automatic,hv,hv
 2023-04-08T08:31:22.530Z,38.7420006,-122.7061691,-0.74,1.33,md,7,144,0.02442,0.04,nc,nc73869155,2023-04-08T10:26:10.933Z,"4km SSW of Anderson Springs, CA",earthquake,0.61,1.69,0.36,7,automatic,nc,nc
@@ -259,7 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T11:32:00.860Z,58.1918333333333,-155.325,1.84,-0.46,ml,4,238,,0.01,av,av91838516,2023-04-07T22:45:26.630Z,"86 km NW of Karluk, Alaska",earthquake,0.74,0.41,0.328612797356449,4,reviewed,av,av
 2023-04-07T11:29:47.650Z,19.3226666666667,-155.294833333333,3.69,2.67,ml,45,102,,0.11,hv,hv73358277,2023-04-07T22:30:03.760Z,"14 km SSW of Volcano, Hawaii",earthquake,0.23,0.54,0.152372547287104,20,reviewed,hv,hv
 2023-04-07T11:29:40.440Z,19.3233333333333,-155.300166666667,3.1,1.09,md,12,147,,0.08,hv,hv73358272,2023-04-07T22:09:07.190Z,"14 km SSW of Volcano, Hawaii",earthquake,0.52,0.72,0.153243417161711,4,reviewed,hv,hv
-2023-04-07T11:16:46.450Z,34.1395,-117.7348333,7.49,0.66,ml,22,52,0.01857,0.18,ci,ci40437592,2023-04-07T23:52:17.211Z,"5km NNW of Claremont, CA",earthquake,0.31,0.64,0.117,10,reviewed,ci,ci
-2023-04-07T11:15:25.370Z,33.977,-117.2188333,14.23,0.57,ml,17,101,0.04835,0.15,ci,ci40437584,2023-04-07T23:46:06.358Z,"6km N of Moreno Valley, CA",earthquake,0.31,0.48,0.112,9,reviewed,ci,ci
-2023-04-07T11:11:53.170Z,36.8025,-121.3256667,8.73,0.99,md,26,95,0.09632,0.1,nc,nc73868550,2023-04-07T12:06:14.909Z,"2km NNW of Tres Pinos, CA",earthquake,0.26,0.6,0.14,21,reviewed,nc,nc
-2023-04-07T11:09:01.550Z,38.8348333,-122.7808333,2.1,0.43,md,15,59,0.008241,0.03,nc,nc73868545,2023-04-07T21:51:15.419Z,"5km WNW of Cobb, CA",earthquake,0.32,0.63,0.128,12,reviewed,nc,nc
