@@ -1,10 +1,12 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-08T18:35:19.930Z,38.8358345,-122.8121643,1.95,0.68,md,13,57,0.01253,0.01,nc,nc73869320,2023-04-08T18:47:11.908Z,"8km W of Cobb, CA",earthquake,0.3,0.72,0.42,13,automatic,nc,nc
+2023-04-08T19:02:17.260Z,38.8231659,-122.809166,1.31,1.08,md,18,42,0.0007453,0.02,nc,nc73869330,2023-04-08T19:03:52.165Z,"7km NW of The Geysers, CA",earthquake,0.2,0.5,0.19,19,automatic,nc,nc
+2023-04-08T19:02:02.340Z,38.8230019,-122.8085022,1.19,1.08,md,19,42,0.001289,0.03,nc,nc73869325,2023-04-08T19:03:37.544Z,"7km NW of The Geysers, CA",earthquake,0.19,0.5,0.09,18,automatic,nc,nc
+2023-04-08T18:35:19.930Z,38.8358345,-122.8121643,1.95,0.68,md,13,57,0.01253,0.01,nc,nc73869320,2023-04-08T18:57:15.968Z,"8km W of Cobb, CA",earthquake,0.3,0.72,0.42,13,automatic,nc,nc
 2023-04-08T18:28:41.470Z,36.8051682,-121.3259964,9.22,1.72,md,26,70,0.0989,0.1,nc,nc73869315,2023-04-08T18:45:14.893Z,"2km NNW of Tres Pinos, CA",earthquake,0.37,0.66,0.23,22,automatic,nc,nc
 2023-04-08T18:18:27.780Z,33.6995,-116.8123333,15.24,1.08,ml,42,36,0.07537,0.2,ci,ci40438408,2023-04-08T18:29:15.040Z,"9km SE of Valle Vista, CA",earthquake,0.27,0.47,0.214,27,automatic,ci,ci
 2023-04-08T18:14:21.510Z,38.7944984,-122.7509995,2.25,0.69,md,7,91,0.01584,0.02,nc,nc73869310,2023-04-08T18:32:13.821Z,"2km NNE of The Geysers, CA",earthquake,0.42,1.18,0.23,6,automatic,nc,nc
 2023-04-08T18:09:51.141Z,61.5384,-151.4958,71.2,1.8,ml,,,,0.43,ak,ak0234idfuoa,2023-04-08T18:35:50.040Z,"49 km NNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-08T18:02:01.180Z,38.783165,-122.7649994,-0.89,0.5,md,5,139,0.01244,0.01,nc,nc73869305,2023-04-08T18:20:14.754Z,"1km NW of The Geysers, CA",earthquake,0.4,2.74,0.28,7,automatic,nc,nc
+2023-04-08T18:02:01.180Z,38.783165,-122.7649994,-0.89,0.5,md,5,139,0.01244,0.01,nc,nc73869305,2023-04-08T19:03:11.009Z,"1km NW of The Geysers, CA",earthquake,0.4,2.74,0.28,7,automatic,nc,nc
 2023-04-08T17:58:11.450Z,33.4933333,-116.524,13.71,0.85,ml,13,179,0.1921,0.25,ci,ci40438400,2023-04-08T18:01:47.531Z,"16km ESE of Anza, CA",earthquake,1.14,2.85,0.169,15,automatic,ci,ci
 2023-04-08T17:50:11.020Z,38.7840004,-122.7655029,-0.63,2.06,md,34,76,0.01326,0.06,nc,nc73869300,2023-04-08T18:35:10.834Z,"1km NW of The Geysers, CA",earthquake,0.17,0.48,0.17,34,automatic,nc,nc
 2023-04-08T17:39:55.200Z,33.984,-116.9651667,13.44,0.74,ml,19,68,0.1119,0.27,ci,ci40438392,2023-04-08T17:43:29.184Z,"6km N of Beaumont, CA",earthquake,0.46,1.45,0.078,12,automatic,ci,ci
@@ -18,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T16:27:33.707Z,-16.5627,175.021,24.835,5.3,mww,26,105,3.128,0.56,us,us6000k2vx,2023-04-08T16:48:03.040Z,"283 km WNW of Lautoka, Fiji",earthquake,6.07,6.367,0.098,10,reviewed,us,us
 2023-04-08T16:22:36.320Z,38.7628326,-122.7353363,1.59,0.95,md,11,101,0.008283,0.03,nc,nc73869275,2023-04-08T18:15:12.720Z,"2km SE of The Geysers, CA",earthquake,0.47,0.58,0.21,11,automatic,nc,nc
 2023-04-08T16:20:10.110Z,33.675,-116.7788333,10.66,0.51,ml,18,74,0.06487,0.13,ci,ci40438368,2023-04-08T16:23:40.647Z,"9km SW of Idyllwild, CA",earthquake,0.29,0.51,0.179,13,automatic,ci,ci
-2023-04-08T16:13:02.238Z,18.4518,-70.4321,5,4.1,mb,18,145,0.489,1.09,us,us6000k2vv,2023-04-08T18:10:58.374Z,"13 km SE of San José de Ocoa, Dominican Republic",earthquake,4.67,2.007,0.261,5,reviewed,us,us
+2023-04-08T16:13:02.238Z,18.4518,-70.4321,5,4.1,mb,18,145,0.489,1.09,us,us6000k2vv,2023-04-08T18:57:08.888Z,"13 km SE of San José de Ocoa, Dominican Republic",earthquake,4.67,2.007,0.261,5,reviewed,us,us
 2023-04-08T15:53:28.838Z,60.1606,-153.0358,135.6,1.9,ml,,,,0.34,ak,ak0234ibwxom,2023-04-08T15:55:03.708Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-08T15:49:45.770Z,38.7921677,-122.7610016,2.52,0.83,md,12,90,0.008505,0.02,nc,nc73869270,2023-04-08T16:12:13.153Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.73,0.18,10,automatic,nc,nc
 2023-04-08T15:46:40.340Z,38.7919998,-122.7611694,2.44,1.1,md,16,108,0.008688,0.03,nc,nc73869265,2023-04-08T17:47:14.535Z,"2km NNW of The Geysers, CA",earthquake,0.32,0.57,0.23,19,automatic,nc,nc
@@ -234,4 +236,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-07T19:18:47.260Z,33.3226667,-115.7468333,2.7,1.53,ml,30,62,0.03196,0.24,ci,ci40437808,2023-04-07T19:22:34.039Z,"3km SSW of Bombay Beach, CA",earthquake,0.46,0.73,0.1,27,automatic,ci,ci
 2023-04-07T19:16:40.880Z,33.3316667,-115.7426667,3.06,1.58,ml,34,58,0.02233,0.27,ci,ci40437800,2023-04-07T19:20:25.261Z,"2km SSW of Bombay Beach, CA",earthquake,0.52,0.71,0.077,24,automatic,ci,ci
 2023-04-07T19:12:08.320Z,37.6058333,-118.7805,5.34,0.61,md,11,163,0.04171,0.04,nc,nc73868695,2023-04-07T21:41:18.353Z,"10km WNW of Toms Place, CA",earthquake,0.57,0.68,0.077,11,reviewed,nc,nc
-2023-04-07T18:55:44.400Z,18.0393333333333,-66.8783333333333,17.8,2.54,md,7,99,0.06394,0.08,pr,pr71402878,2023-04-07T19:25:55.530Z,"Puerto Rico region",earthquake,0.56,1.18,0.0944647014644593,3,reviewed,pr,pr
