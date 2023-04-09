@@ -1,6 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-09T09:14:47.070Z,37.3330002,-121.6988297,7.94,1.11,md,9,81,0.04566,0.02,nc,nc73869690,2023-04-09T09:16:26.619Z,"12km ESE of Alum Rock, CA",earthquake,0.33,0.95,0.23,7,automatic,nc,nc
+2023-04-09T09:10:38.910Z,38.5098343,-119.5388336,1.83,2.87,md,32,81,0.1783,0.15,nc,nc73869670,2023-04-09T09:17:33.540Z,"5km W of Walker, CA",earthquake,0.3,2.43,0.19,30,automatic,nc,nc
+2023-04-09T09:09:10.750Z,37.336834,-121.6978302,7.69,2.47,md,58,54,0.0443,0.07,nc,nc73869660,2023-04-09T09:17:13.502Z,"12km ESE of Alum Rock, CA",earthquake,0.15,0.33,0.14,61,automatic,nc,nc
+2023-04-09T09:07:51.102Z,58.225,-155.1363,37.7,1,ml,,,,0.22,ak,ak0234jvlvaf,2023-04-09T09:10:47.154Z,"83 km NNW of Karluk, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-04-09T08:51:28.149Z,37.7653,-116.01,2.2,1.5,ml,22,191.37,0.61,0.3541,nn,nn00857986,2023-04-09T08:54:01.914Z,"27 km WNW of Rachel, Nevada",earthquake,,12.8,0.92,14,automatic,nn,nn
 2023-04-09T08:50:13.500Z,33.574,-116.6476667,9.77,0.2,ml,11,96,0.04941,0.06,ci,ci40438736,2023-04-09T08:53:48.160Z,"3km NE of Anza, CA",earthquake,0.23,0.35,0.106,5,automatic,ci,ci
+2023-04-09T08:48:33.860Z,17.9596666666667,-66.9571666666667,9.5,3.22,md,14,188,0.07572,0.1,pr,pr71403053,2023-04-09T09:12:31.680Z,"5 km SW of Fuig, Puerto Rico",earthquake,0.45,0.64,0.142935335758061,12,reviewed,pr,pr
 2023-04-09T08:24:15.340Z,38.814167,-122.8270035,1.81,0.76,md,11,72,0.005557,0.01,nc,nc73869655,2023-04-09T08:42:13.775Z,"7km NW of The Geysers, CA",earthquake,0.33,0.89,0.1,11,automatic,nc,nc
 2023-04-09T08:22:53.780Z,33.6686667,-116.7681667,11.26,0.13,ml,15,87,0.06184,0.19,ci,ci40438728,2023-04-09T08:26:24.161Z,"9km SSW of Idyllwild, CA",earthquake,0.52,0.87,0.183,6,automatic,ci,ci
 2023-04-09T08:13:42.240Z,33.5363333,-116.5578333,15.22,0.85,ml,35,60,0.03079,0.18,ci,ci40438720,2023-04-09T08:17:12.910Z,"11km E of Anza, CA",earthquake,0.26,0.37,0.254,23,automatic,ci,ci
@@ -220,5 +225,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T09:34:07.810Z,46.206833333333336,-122.18233333333333,6.67,1.58,ml,37,72,0.00881,0.21,uw,uw61916746,2023-04-08T22:49:32.150Z,"38 km NNE of Amboy, Washington",earthquake,0.29,0.18,0.17452410858674305,24,reviewed,uw,uw
 2023-04-08T09:24:57.940Z,52.7895,-163.2415,10,3.4,ml,9,243,1.921,0.43,us,us6000k2up,2023-04-08T09:44:26.040Z,"225 km SE of Akutan, Alaska",earthquake,7,2.012,0.085,18,reviewed,us,us
 2023-04-08T09:22:07.700Z,60.6459,-150.7033,17.2,0.9,ml,,,,0.3,ak,ak0234i85ila,2023-04-08T15:41:28.360Z,"12 km NNE of Sterling, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-04-08T09:17:17.675Z,50.189,179.3416,26.7,2.9,ml,,,,0.35,ak,ak0234i84mff,2023-04-08T15:37:23.559Z,"Rat Islands, Aleutian Islands, Alaska",earthquake,,3.3,,,reviewed,ak,ak
-2023-04-08T09:07:36.806Z,34.654,70.6313,51.614,4.4,mb,35,135,1.315,0.47,us,us6000k2un,2023-04-09T05:16:57.681Z,"30 km NNE of Jalālābād, Afghanistan",earthquake,7.59,10.21,0.076,53,reviewed,us,us
