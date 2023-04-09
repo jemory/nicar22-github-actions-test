@@ -1,9 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-09T19:51:39.241Z,60.1416,-151.4527,30.6,1.9,ml,,,,0.63,ak,ak0234k1tlxg,2023-04-09T19:54:01.206Z,"10 km SSW of Clam Gulch, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-09T19:33:36.730Z,17.9276666666667,-66.9386666666667,14.53,2.72,md,13,227,0.07362,0.1,pr,pr71403413,2023-04-09T19:54:49.920Z,"Puerto Rico region",earthquake,0.41,0.47,0.104028169076952,17,reviewed,pr,pr
 2023-04-09T19:21:40.310Z,38.8656654,-122.7958298,1.65,0.7,md,10,163,0.01084,0.03,nc,nc73869900,2023-04-09T19:33:11.680Z,"8km NW of Cobb, CA",earthquake,0.48,0.66,0.3,10,automatic,nc,nc
 2023-04-09T19:18:40.695Z,36.7544,-115.9385,5.5,0.5,ml,18,196.58,0.044,0.1814,nn,nn00858015,2023-04-09T19:20:46.687Z,"31 km NW of Indian Springs, Nevada",earthquake,,0.8,0.14,10,automatic,nn,nn
 2023-04-09T19:15:43.204Z,37.7697,-116.0139,2.3,1.4,ml,14,191.7,0.613,0.3829,nn,nn00858012,2023-04-09T19:19:26.483Z,"27 km WNW of Rachel, Nevada",earthquake,,13.1,1,5,automatic,nn,nn
 2023-04-09T19:15:14.836Z,63.2021,-149.5422,15.9,1.4,ml,,,,0.8,ak,ak0234k1lu9i,2023-04-09T19:17:51.318Z,"36 km SW of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-04-09T19:08:01.820Z,36.4763336,-120.8991699,13.49,2.16,md,45,52,0.1297,0.19,nc,nc73869895,2023-04-09T19:14:11.734Z,"21km WNW of New Idria, CA",earthquake,0.38,0.71,0.2,33,automatic,nc,nc
+2023-04-09T19:08:01.820Z,36.4763336,-120.8991699,13.49,2.16,md,45,52,0.1297,0.19,nc,nc73869895,2023-04-09T19:55:15.790Z,"21km WNW of New Idria, CA",earthquake,0.38,0.71,0.2,33,automatic,nc,nc
 2023-04-09T18:45:36.893Z,24.3322,123.0306,53.659,4.9,mwr,66,97,0.136,0.63,us,us6000k341,2023-04-09T19:19:45.040Z,"15 km SSE of Yonakuni, Japan",earthquake,6.13,2.796,0.068,21,reviewed,us,us
 2023-04-09T18:44:30.300Z,33.6185,-116.483,10.53,0.68,ml,20,83,0.02083,0.15,ci,ci40438952,2023-04-09T18:47:57.257Z,"15km SSW of Rancho Mirage, CA",earthquake,0.29,0.33,0.115,14,automatic,ci,ci
 2023-04-09T18:40:40.867Z,62.9095,-148.3469,1.1,2.1,ml,,,,0.88,ak,ak0234k15tkm,2023-04-09T18:43:40.058Z,"61 km SSE of Cantwell, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -280,4 +282,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-08T20:25:11.888Z,53.9099,-165.4573,66.396,5.1,mwr,157,64,0.295,0.8,us,us6000k2wm,2023-04-09T14:35:17.563Z,"32 km SE of Akutan, Alaska",earthquake,4.93,3.832,0.075,17,reviewed,us,us
 2023-04-08T20:17:52.930Z,35.9863319,-120.5429993,2.96,0.89,md,14,105,0.01377,0.03,nc,nc73869355,2023-04-08T22:20:17.158Z,"14km NW of Parkfield, CA",earthquake,0.32,0.54,0.24,5,automatic,nc,nc
 2023-04-08T20:00:19.350Z,38.836834,-122.8048325,2.08,0.78,md,13,82,0.01142,0.03,nc,nc73869350,2023-04-08T21:54:14.986Z,"7km WNW of Cobb, CA",earthquake,0.3,0.58,0.13,13,automatic,nc,nc
-2023-04-08T19:46:33.890Z,33.586,-116.8038333,7.43,0.5,ml,21,69,0.03404,0.18,ci,ci40438448,2023-04-08T19:50:00.230Z,"12km WNW of Anza, CA",earthquake,0.38,0.6,0.088,9,automatic,ci,ci
