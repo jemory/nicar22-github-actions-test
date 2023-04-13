@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-13T11:55:16.380Z,37.4698334,-118.848999,0.19,2.16,md,16,138,0.121,0.05,nc,nc73873130,2023-04-13T11:56:54.228Z,"18km SW of Toms Place, CA",earthquake,0.65,3.54,0.12,16,automatic,nc,nc
 2023-04-13T11:40:07.760Z,33.7606667,-116.9293333,12.83,0.85,ml,19,86,0.07354,0.21,ci,ci40440400,2023-04-13T11:43:41.958Z,"4km WNW of Valle Vista, CA",earthquake,0.43,0.76,0.177,21,automatic,ci,ci
 2023-04-13T11:36:21.184Z,63.0827,-151.7294,20,1.3,ml,,,,1.36,ak,ak0234qj49xi,2023-04-13T11:38:27.629Z,"51 km S of Denali National Park, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-13T11:34:19.370Z,38.8563347,-122.7344971,2.57,0.88,md,7,166,0.03548,0.01,nc,nc73873125,2023-04-13T11:35:53.780Z,"4km NNW of Cobb, CA",earthquake,0.86,1.32,0.23,7,automatic,nc,nc
@@ -50,7 +51,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-13T07:13:02.955Z,63.5552,-147.3037,1.4,2.3,ml,,,,0.31,ak,ak0234qglkmv,2023-04-13T07:40:17.040Z,"82 km ESE of Denali Park, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-13T07:09:04.708Z,-23.9879,179.9733,520.776,4.3,mb,33,101,5.266,0.89,us,us6000k3zt,2023-04-13T07:31:42.040Z,"south of the Fiji Islands",earthquake,15.1,8.615,0.119,24,reviewed,us,us
 2023-04-13T07:09:01.742Z,63.402,-151.5518,25.1,1.7,ml,,,,1.3,ak,ak0234qgkpyf,2023-04-13T07:15:50.354Z,"17 km SSE of Denali National Park, Alaska",earthquake,,3.4,,,automatic,ak,ak
-2023-04-13T06:56:28.300Z,37.7273333,-122.16,8.07,1.1,md,38,39,0.03243,0.07,nc,nc73872930,2023-04-13T11:36:10.985Z,"0km NW of San Leandro, CA",earthquake,0.23,0.26,0.395,19,reviewed,nc,nc
+2023-04-13T06:56:28.300Z,37.7273333,-122.16,8.07,1.1,md,38,39,0.03243,0.07,nc,nc73872930,2023-04-13T11:57:15.094Z,"0km NW of San Leandro, CA",earthquake,0.23,0.26,0.395,19,reviewed,nc,nc
 2023-04-13T06:52:08.470Z,38.8201675,-122.8046646,1.31,1.09,md,20,60,0.005314,0.02,nc,nc73872925,2023-04-13T08:41:18.002Z,"6km NW of The Geysers, CA",earthquake,0.21,0.37,0.13,20,automatic,nc,nc
 2023-04-13T06:43:42.470Z,38.8105011,-122.8028336,1.87,0.29,md,9,90,0.006404,0.01,nc,nc73872920,2023-04-13T07:16:12.400Z,"6km NW of The Geysers, CA",earthquake,0.37,1.04,0.08,9,automatic,nc,nc
 2023-04-13T06:41:13.212Z,65.5138,-149.9133,9.3,1.2,ml,,,,0.61,ak,ak0234qg65vd,2023-04-13T06:43:03.079Z,"11 km E of Rampart, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -298,9 +299,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-12T12:11:06.780Z,38.7919998,-122.7596664,-0.57,1.5,md,21,74,0.008613,0.05,nc,nc73872230,2023-04-12T15:02:16.458Z,"2km N of The Geysers, CA",earthquake,0.21,0.74,0.19,23,automatic,nc,nc
 2023-04-12T12:05:34.040Z,53.3956666666667,-168.173333333333,3.32,-0.23,ml,4,197,,0.11,av,av91845456,2023-04-12T22:30:31.090Z,"68 km NE of Nikolski, Alaska",earthquake,0.64,0.56,0.366742428486363,4,reviewed,av,av
 2023-04-12T12:03:08.210Z,17.953,-66.9555,15.57,2.32,md,5,209,0.07581,0.06,pr,pr71404493,2023-04-12T12:17:32.160Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.67,0.6,0.0154316833351196,3,reviewed,pr,pr
-2023-04-12T11:58:49.420Z,38.8253326,-122.8040009,2.5,0.77,md,9,164,0.005123,0.02,nc,nc73872220,2023-04-12T12:00:26.245Z,"7km NW of The Geysers, CA",earthquake,0.65,1.23,0.07,9,automatic,nc,nc
-2023-04-12T11:56:00.520Z,38.8161659,-122.8154984,3.51,0.7,md,12,96,0.00837,0.02,nc,nc73872210,2023-04-12T12:06:11.435Z,"7km NW of The Geysers, CA",earthquake,0.48,1.41,0.12,12,automatic,nc,nc
-2023-04-12T11:55:14.650Z,38.8154984,-122.8123322,2.79,2.12,md,32,46,0.00808,0.02,nc,nc73872205,2023-04-12T13:56:14.053Z,"6km NW of The Geysers, CA",earthquake,0.2,0.38,0.21,29,automatic,nc,nc
-2023-04-12T11:55:05.620Z,38.8161659,-122.8131638,2.81,2.39,md,33,46,0.007611,0.03,nc,nc73872200,2023-04-12T13:41:17.962Z,"6km NW of The Geysers, CA",earthquake,0.18,0.34,0.14,30,automatic,nc,nc
-2023-04-12T11:54:42.670Z,38.829834,-122.8099976,2.75,1.02,md,7,121,0.00643,0.03,nc,nc73872195,2023-04-12T12:41:17.699Z,"8km NW of The Geysers, CA",earthquake,1.07,1.39,0.08,3,automatic,nc,nc
-2023-04-12T11:51:06.390Z,35.3466667,-118.5083333,5.24,1.24,ml,14,78,0.09043,0.13,ci,ci40440008,2023-04-12T13:33:58.996Z,"24km NNW of Tehachapi, CA",earthquake,0.26,1.28,0.137,16,reviewed,ci,ci
