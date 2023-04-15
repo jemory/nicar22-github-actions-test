@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-15T05:54:33.720Z,33.4806667,-116.4516667,13.36,0.74,ml,25,109,0.04783,0.21,ci,ci40441008,2023-04-15T05:58:02.392Z,"22km ESE of Anza, CA",earthquake,0.4,0.68,0.096,17,automatic,ci,ci
+2023-04-15T05:53:02.419Z,63.1928,-151.832,6.2,1.2,ml,,,,0.5,ak,ak0234tqpz0h,2023-04-15T05:54:58.687Z,"39 km S of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-04-15T05:52:36.870Z,19.1334991455078,-155.359832763672,27.1800003051758,1.70000005,md,29,201,,0.0900000036,hv,hv73364217,2023-04-15T05:55:57.340Z,"14 km ESE of Pāhala, Hawaii",earthquake,0.71,1.07000005,1.70000005,4,automatic,hv,hv
 2023-04-15T05:26:04.800Z,32.398,-116.2386667,20.11,1.24,ml,11,110,0.2356,0.11,ci,ci40440992,2023-04-15T05:29:37.841Z,"32km SE of Campo, CA",earthquake,0.28,1.09,0.21,10,automatic,ci,ci
 2023-04-15T05:07:22.596Z,-14.7267,167.5355,156.958,4.2,mb,18,157,0.785,0.58,us,us6000k4md,2023-04-15T05:38:48.040Z,"60 km NE of Port-Olry, Vanuatu",earthquake,10.87,5.971,0.146,13,reviewed,us,us
 2023-04-15T05:06:53.130Z,61.7563,-149.9018,27.8,1.2,ml,,,,0.8,ak,ak0234tqg09t,2023-04-15T05:08:49.867Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -34,14 +37,14 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T00:08:18.930Z,60.038,-153.100333333333,3.09,-0.59,ml,5,116,,0.09,av,av91848976,2023-04-15T00:19:13.800Z,"62 km ENE of Pedro Bay, Alaska",earthquake,0.41,1.11,0.191399040006682,5,reviewed,av,av
 2023-04-15T00:07:56.410Z,36.0099983,-120.5691681,0.61,0.67,md,8,146,0.0264,0.05,nc,nc73873755,2023-04-15T00:28:17.686Z,"18km NW of Parkfield, CA",earthquake,0.31,0.75,0.19,3,automatic,nc,nc
 2023-04-14T23:58:34.990Z,51.8501666666667,-178.088,3.23,0.55,ml,5,214,,0.21,av,av91848956,2023-04-15T00:15:17.690Z,"100 km W of Adak, Alaska",earthquake,0.72,0.62,0.284049580239346,5,reviewed,av,av
-2023-04-14T23:57:23.290Z,51.8528333333333,-178.084666666667,3.34,0.73,ml,5,210,,0.17,av,av91848951,2023-04-15T00:15:16.720Z,"99 km W of Adak, Alaska",earthquake,0.59,0.53,0.217605588074254,5,reviewed,av,av
+2023-04-14T23:57:23.290Z,51.8528333333333,-178.084666666667,3.34,0.73,ml,5,210,,0.17,av,av91848951,2023-04-15T00:15:16.720Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.59,0.53,0.217605588074254,5,reviewed,av,av
 2023-04-14T23:44:36.919Z,-5.3088,34.8928,10,4.9,mb,74,129,4.297,0.43,us,us6000k4kz,2023-04-15T00:59:31.040Z,"Tanzania",earthquake,11.86,1.904,0.065,76,reviewed,us,us
 2023-04-14T23:41:51.824Z,61.5539,-149.7621,33.9,1.6,ml,,,,0.41,ak,ak0234sdtymm,2023-04-14T23:43:57.399Z,"9 km SSE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-14T23:27:16.620Z,51.8596666666667,-178.084166666667,4.2,0.94,ml,5,205,,0.15,av,av91848926,2023-04-15T00:00:26.270Z,"99 km W of Adak, Alaska",earthquake,0.66,0.99,0.322594756473392,5,reviewed,av,av
 2023-04-14T23:13:15.540Z,19.1273333333333,-155.407833333333,31.18,2.68,ml,44,182,,0.12,hv,hv73363932,2023-04-15T01:59:29.390Z,"11 km SE of Pāhala, Hawaii",earthquake,0.45,0.54,0.131330433184595,26,reviewed,hv,hv
 2023-04-14T23:08:36.250Z,18.0271666666667,-66.8246666666667,12.64,2.2,md,5,177,0.2167,0.03,pr,pr71404978,2023-04-14T23:27:11.430Z,"Puerto Rico region",earthquake,0.32,1.57,0.161409700224621,5,reviewed,pr,pr
 2023-04-14T22:56:50.930Z,33.4851667,-116.4435,12.93,0.85,ml,33,74,0.04093,0.19,ci,ci40440928,2023-04-14T23:00:22.750Z,"23km ESE of Anza, CA",earthquake,0.31,0.63,0.183,20,automatic,ci,ci
-2023-04-14T22:37:49.724Z,14.6511,40.7553,10,4.6,mb,53,58,3.711,0.65,us,us6000k4ks,2023-04-15T01:11:12.004Z,"128 km NW of Edd, Eritrea",earthquake,10.98,1.915,0.07,62,reviewed,us,us
+2023-04-14T22:37:49.724Z,14.6511,40.7553,10,4.6,mb,53,58,3.711,0.65,us,us6000k4ks,2023-04-15T01:11:12.004Z,"Eritrea - Ethiopia region",earthquake,10.98,1.915,0.07,62,reviewed,us,us
 2023-04-14T22:33:02.951Z,62.9942,-148.7217,68.3,1.6,ml,,,,1.17,ak,ak0234sd6pei,2023-04-14T22:35:19.727Z,"45 km SSE of Cantwell, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-14T22:17:42.849Z,65.1293,-145.3192,0.4,1.6,ml,,,,1.07,ak,ak0234sd3d58,2023-04-14T22:19:21.395Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-14T22:11:40.349Z,59.1656,-153.8897,113.6,2.1,ml,,,,0.33,ak,ak0234sd22of,2023-04-14T22:32:11.040Z,"55 km SE of Pope-Vannoy Landing, Alaska",earthquake,,0.6,,,automatic,ak,ak
@@ -215,4 +218,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T06:49:39.530Z,35.01933333,-97.66266667,8.81,1.49,ml,82,47,0.1160772217,0.29,ok,ok2023hgsi,2023-04-14T12:15:21.753Z,"3 km WSW of Dibble, Oklahoma",earthquake,,1.4,0.23,40,reviewed,ok,ok
 2023-04-14T06:48:34.526Z,38.6982,-118.4822,12.4,1.2,ml,6,100.63,0.447,0.1586,nn,nn00858233,2023-04-15T02:04:23.030Z,"22 km NNE of Hawthorne, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2023-04-14T06:33:55.650Z,44.7643333,-111.1896667,12.05,-0.13,md,11,93,0.01431,0.19,uu,uu60537081,2023-04-14T14:13:22.020Z,"0 km S of Hebgen Lake Estates, Montana",earthquake,1.04,1.18,0.096,5,reviewed,uu,uu
-2023-04-14T05:56:10.155Z,36.658,-116.2708,6.4,-0.1,ml,15,107.82,0.056,0.0895,nn,nn00858225,2023-04-15T02:04:19.993Z,"51 km ESE of Beatty, Nevada",earthquake,,1.2,1,5,reviewed,nn,nn
