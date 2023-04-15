@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-15T05:26:04.800Z,32.398,-116.2386667,20.11,1.24,ml,11,110,0.2356,0.11,ci,ci40440992,2023-04-15T05:29:37.841Z,"32km SE of Campo, CA",earthquake,0.28,1.09,0.21,10,automatic,ci,ci
+2023-04-15T05:07:22.596Z,-14.7267,167.5355,156.958,4.2,mb,18,157,0.785,0.58,us,us6000k4md,2023-04-15T05:38:48.040Z,"60 km NE of Port-Olry, Vanuatu",earthquake,10.87,5.971,0.146,13,reviewed,us,us
 2023-04-15T05:06:53.130Z,61.7563,-149.9018,27.8,1.2,ml,,,,0.8,ak,ak0234tqg09t,2023-04-15T05:08:49.867Z,"7 km E of Willow, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-15T05:06:43.160Z,38.7804985,-122.7429962,0.13,1.86,md,25,76,0.02029,0.04,nc,nc73873820,2023-04-15T05:18:11.457Z,"1km ENE of The Geysers, CA",earthquake,0.18,0.43,0.16,25,automatic,nc,nc
+2023-04-15T05:06:43.160Z,38.7804985,-122.7429962,0.13,1.86,md,25,76,0.02029,0.04,nc,nc73873820,2023-04-15T05:27:16.512Z,"1km ENE of The Geysers, CA",earthquake,0.18,0.43,0.16,25,automatic,nc,nc
 2023-04-15T04:57:45.670Z,17.9395,-66.9635,14.77,1.99,md,9,223,0.06152,0.08,pr,pr71405018,2023-04-15T05:12:32.800Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.58,0.44,0.0194369435128281,3,reviewed,pr,pr
 2023-04-15T04:55:28.480Z,33.3948333,-116.8961667,13.93,0.86,ml,26,54,0.1136,0.18,ci,ci40440984,2023-04-15T04:59:04.546Z,"5km NW of Palomar Observatory, CA",earthquake,0.3,0.91,0.145,20,automatic,ci,ci
 2023-04-15T04:39:40.038Z,0.8948,99.3813,10,4.4,mb,19,204,1.851,0.63,us,us6000k4ma,2023-04-15T05:01:35.040Z,"northern Sumatra, Indonesia",earthquake,9.23,1.988,0.19,8,reviewed,us,us
@@ -129,6 +131,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T15:06:03.990Z,51.8518333333333,-178.064333333333,2.08,1.46,ml,6,121,,0.19,av,av91848311,2023-04-14T18:00:47.560Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.54,0.8,0.245125218438178,6,reviewed,av,av
 2023-04-14T14:56:56.320Z,32.5215,-115.6255,15.53,3.52,mlr,65,48,0.04057,0.27,ci,ci40440784,2023-04-15T05:18:40.678Z,"8km SSW of Progreso, B.C., MX",earthquake,0.23,0.5,0.146,205,reviewed,ci,ci
 2023-04-14T14:50:43.001Z,-10.7035,164.7482,10,4.9,mb,61,69,4.892,0.42,us,us6000k4hg,2023-04-15T05:24:56.040Z,"114 km W of Lata, Solomon Islands",earthquake,5.26,1.781,0.056,102,reviewed,us,us
+2023-04-14T14:50:32.206Z,36.6406,70.997,226.436,4,mb,38,70,2.559,0.4,us,us6000k4hf,2023-04-15T05:34:42.040Z,"Hindu Kush region, Afghanistan",earthquake,4.48,9.878,0.138,14,reviewed,us,us
 2023-04-14T14:49:02.715Z,61.9579,-149.5943,35.3,1.4,ml,,,,0.45,ak,ak0234s8io4f,2023-04-14T14:50:44.382Z,"Southern Alaska",earthquake,,3,,,automatic,ak,ak
 2023-04-14T14:46:51.450Z,19.1310005187988,-155.374664306641,29.2299995422363,1.71000004,md,27,226,,0.100000001,hv,hv73363707,2023-04-14T14:50:17.530Z,"13 km SE of Pāhala, Hawaii",earthquake,0.89,1.84000003,0.850000024,3,automatic,hv,hv
 2023-04-14T14:42:32.390Z,19.3780002593994,-155.292831420898,1.82000005245209,1.86,ml,13,88,,0.129999995,hv,hv73363697,2023-04-14T14:48:01.700Z,"9 km SW of Volcano, Hawaii",earthquake,0.32,0.270000011,0.5,4,automatic,hv,hv
@@ -212,5 +215,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-14T06:48:34.526Z,38.6982,-118.4822,12.4,1.2,ml,6,100.63,0.447,0.1586,nn,nn00858233,2023-04-15T02:04:23.030Z,"22 km NNE of Hawthorne, Nevada",earthquake,,4.2,0,1,reviewed,nn,nn
 2023-04-14T06:33:55.650Z,44.7643333,-111.1896667,12.05,-0.13,md,11,93,0.01431,0.19,uu,uu60537081,2023-04-14T14:13:22.020Z,"Idaho-Montana border region",earthquake,1.04,1.18,0.096,5,reviewed,uu,uu
 2023-04-14T05:56:10.155Z,36.658,-116.2708,6.4,-0.1,ml,15,107.82,0.056,0.0895,nn,nn00858225,2023-04-15T02:04:19.993Z,"51 km ESE of Beatty, Nevada",earthquake,,1.2,1,5,reviewed,nn,nn
-2023-04-14T05:37:55.700Z,19.2498340606689,-155.393173217773,31.6800003051758,1.98000002,md,33,151,,0.119999997,hv,hv73363437,2023-04-14T05:40:57.760Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.76,0.980000019,1.62,14,automatic,hv,hv
-2023-04-14T05:30:33.470Z,43.862,-76.0276,5.964,2.6,mb_lg,30,40,0.452,0.44,us,us6000k48t,2023-04-15T04:21:14.398Z,"1 km W of Adams Center, New York",earthquake,2.12,7.734,0.069,56,reviewed,us,us
