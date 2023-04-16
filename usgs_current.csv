@@ -8,7 +8,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T09:54:35.070Z,17.9456,-66.9595,6,3.94,md,25,210,0.0855,0.14,pr,pr2023106000,2023-04-16T10:36:56.448Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.75,0.38,0.1,22,reviewed,pr,pr
 2023-04-16T09:49:51.003Z,17.8002,-61.5084,25.82,5.2,mww,105,38,0.295,0.61,us,us6000k4vb,2023-04-16T11:23:42.376Z,"39 km ENE of Codrington, Antigua and Barbuda",earthquake,5.44,4.559,0.073,18,reviewed,us,us
 2023-04-16T08:36:42.157Z,4.0607,126.6858,57.438,4.3,mb,29,114,3.186,0.52,us,us6000k4v4,2023-04-16T09:12:47.040Z,"Pulau-Pulau Talaud, Indonesia",earthquake,9.66,8.972,0.106,27,reviewed,us,us
-2023-04-16T08:16:55.090Z,19.1631660461426,-155.480834960938,32.2999992370605,1.91999996,md,36,156,,0.129999995,hv,hv73365207,2023-04-16T08:19:59.620Z,"4 km S of Pāhala, Hawaii",earthquake,0.71,0.839999974,0.910000026,12,automatic,hv,hv
+2023-04-16T08:16:55.090Z,19.1631660461426,-155.480834960938,32.2999992370605,1.91999996,md,36,156,,0.129999995,hv,hv73365207,2023-04-16T08:19:59.620Z,"Island of Hawaii, Hawaii",earthquake,0.71,0.839999974,0.910000026,12,automatic,hv,hv
 2023-04-16T08:16:54.517Z,65.0679,-148.7321,12.9,1.4,ml,,,,0.39,ak,ak0234vftsuj,2023-04-16T08:19:34.311Z,"30 km ESE of Minto, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-16T08:13:54.080Z,38.7876663,-122.7456665,0.31,0.77,md,9,101,0.00827,0.03,nc,nc73874195,2023-04-16T08:38:15.048Z,"2km NE of The Geysers, CA",earthquake,0.31,0.67,0.13,9,automatic,nc,nc
 2023-04-16T08:08:32.230Z,38.800499,-122.8096695,1.91,0.75,md,8,95,0.0132,0.02,nc,nc73874190,2023-04-16T09:17:18.258Z,"5km WNW of The Geysers, CA",earthquake,0.51,0.97,0.28,7,automatic,nc,nc
@@ -80,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T21:50:17.760Z,33.478,-116.4815,12.05,0.46,ml,21,79,0.06499,0.2,ci,ci40441256,2023-04-15T21:53:56.480Z,"20km ESE of Anza, CA",earthquake,0.38,0.76,0.157,8,automatic,ci,ci
 2023-04-15T21:47:32.040Z,33.3856667,-116.9028333,13.69,1.32,ml,51,26,0.108,0.21,ci,ci40441248,2023-04-15T21:58:25.290Z,"5km NW of Palomar Observatory, CA",earthquake,0.22,0.69,0.116,26,automatic,ci,ci
 2023-04-15T21:46:23.860Z,33.4938333,-116.4633333,14.32,0.72,ml,22,73,0.04311,0.18,ci,ci40441240,2023-04-15T21:49:57.997Z,"21km ESE of Anza, CA",earthquake,0.33,0.56,0.146,14,automatic,ci,ci
-2023-04-15T21:35:33.363Z,17.9025,-76.501,10,4.6,mwr,74,42,1.035,0.6,us,us6000k4sx,2023-04-16T04:48:10.843Z,"5 km SW of Seaforth, Jamaica",earthquake,3.82,1.832,0.069,20,reviewed,us,us
+2023-04-15T21:35:33.363Z,17.9025,-76.501,10,4.6,mwr,74,42,1.035,0.6,us,us6000k4sx,2023-04-16T11:46:15.663Z,"5 km SW of Seaforth, Jamaica",earthquake,3.82,1.832,0.069,20,reviewed,us,us
 2023-04-15T21:26:09.000Z,33.4966667,-116.4735,14.68,0.76,ml,19,200,0.04802,0.15,ci,ci40441232,2023-04-15T21:29:42.479Z,"20km ESE of Anza, CA",earthquake,0.59,0.45,0.134,15,automatic,ci,ci
 2023-04-15T21:17:51.459Z,64.7037,-149.0099,12.7,1.2,ml,,,,0.3,ak,ak0234u01ap5,2023-04-15T21:19:11.192Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-15T21:08:57.906Z,61.6442,-150.7301,20,1.6,ml,,,,0.83,ak,ak0234tzzdr2,2023-04-15T21:11:51.132Z,"16 km NW of Susitna, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -158,4 +158,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T12:06:49.020Z,19.2628326416016,-155.383163452148,33.0900001525879,1.84000003,md,32,140,,0.119999997,hv,hv73364507,2023-04-15T12:10:02.780Z,"12 km ENE of Pāhala, Hawaii",earthquake,0.82,0.620000005,0.920000017,3,automatic,hv,hv
 2023-04-15T12:01:44.128Z,58.3882,-154.4841,4.7,1.2,ml,,,,0.27,ak,ak0234tuky8c,2023-04-15T12:03:22.976Z,"91 km N of Karluk, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-15T11:58:07.204Z,62.8329,-150.8869,104.4,1.3,ml,,,,0.28,ak,ak0234tubnlc,2023-04-15T12:00:58.465Z,"38 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
-2023-04-15T11:48:24.650Z,19.3896675109863,-155.395004272461,8.35999965667725,1.89,ml,37,56,,0.180000007,hv,hv73364487,2023-04-15T11:53:54.680Z,"17 km WSW of Volcano, Hawaii",earthquake,0.35,0.560000002,0.22,6,automatic,hv,hv
