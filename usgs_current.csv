@@ -1,6 +1,14 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-16T16:29:16.410Z,19.4131660461426,-155.265335083008,1.27999997138977,2.13000011,md,12,96,,0.119999997,hv,hv73365712,2023-04-16T16:32:16.750Z,"4 km SW of Volcano, Hawaii",earthquake,0.24,0.349999994,1.10000002,7,automatic,hv,hv
+2023-04-16T16:22:18.820Z,19.1986675262451,-155.483505249023,30.6700000762939,2.13000011,md,35,150,,0.119999997,hv,hv73365707,2023-04-16T16:25:40.250Z,"0 km SW of Pāhala, Hawaii",earthquake,0.7,0.829999983,1.04999995,16,automatic,hv,hv
+2023-04-16T16:20:44.370Z,38.7018318,-122.8223343,5.57,1.51,md,21,126,0.05163,0.04,nc,nc73874260,2023-04-16T16:32:10.744Z,"10km SW of The Geysers, CA",earthquake,0.33,0.94,0.22,23,automatic,nc,nc
+2023-04-16T16:17:53.030Z,19.4238338470459,-155.271499633789,-1.1599999666214,1.99000001,md,11,110,,0.100000001,hv,hv73365697,2023-04-16T16:20:50.940Z,"4 km WSW of Volcano, Hawaii",earthquake,0.18,0.5,0.99000001,8,automatic,hv,hv
+2023-04-16T16:16:57.080Z,17.9595,-66.9715,6.92,2.06,md,10,200,0.06115,0.08,pr,pr71405363,2023-04-16T16:33:23.940Z,"6 km WSW of Fuig, Puerto Rico",earthquake,0.51,0.31,0.0468735576592523,4,reviewed,pr,pr
+2023-04-16T16:13:50.220Z,33.4721667,-116.56,8.84,1.11,ml,41,64,0.04182,0.18,ci,ci40441560,2023-04-16T16:17:30.299Z,"14km SE of Anza, CA",earthquake,0.21,0.46,0.241,26,automatic,ci,ci
+2023-04-16T16:13:47.550Z,33.9145,-117.2425,8.23,0.96,ml,21,76,0.06114,0.29,ci,ci40441552,2023-04-16T16:17:24.696Z,"2km SW of Moreno Valley, CA",earthquake,0.75,1.77,0.184,19,automatic,ci,ci
+2023-04-16T16:13:40.794Z,61.5979,-149.7462,32.7,1.7,ml,,,,0.38,ak,ak0234vkklhb,2023-04-16T16:15:28.213Z,"5 km SE of Houston, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-16T16:05:09.410Z,33.4735,-116.5575,8.63,0.48,ml,16,156,0.04293,0.16,ci,ci40441544,2023-04-16T16:08:43.764Z,"14km SE of Anza, CA",earthquake,0.36,0.54,0.138,12,automatic,ci,ci
-2023-04-16T16:04:01.340Z,37.6243324,-118.8448334,5.76,0.6,md,8,109,0.009101,0.03,nc,nc73874255,2023-04-16T16:05:39.972Z,"12km E of Mammoth Lakes, CA",earthquake,0.9,2.62,0.11,8,automatic,nc,nc
+2023-04-16T16:04:01.340Z,37.6243324,-118.8448334,5.76,0.6,md,8,109,0.009101,0.03,nc,nc73874255,2023-04-16T16:21:15.694Z,"12km E of Mammoth Lakes, CA",earthquake,0.9,2.62,0.11,8,automatic,nc,nc
 2023-04-16T16:02:41.477Z,62.357,-149.1148,27.2,2.4,ml,,,,0.74,ak,ak0234vki8ns,2023-04-16T16:04:13.079Z,"44 km ENE of Susitna North, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-16T15:33:49.760Z,39.918335,-123.5801697,-0.74,2.13,md,12,112,0.113,0.22,nc,nc73874240,2023-04-16T16:01:14.572Z,"27km NNW of Laytonville, CA",earthquake,0.56,8.89,0.1,8,automatic,nc,nc
 2023-04-16T15:23:27.389Z,38.1429,-117.9704,7.4,3.3,ml,17,63.82,0.057,0.2159,nn,nn00858273,2023-04-16T16:05:06.676Z,"30 km SSE of Mina, Nevada",earthquake,,0.9,0.42,10,reviewed,nn,nn
@@ -102,6 +110,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T22:37:42.636Z,59.3808,-152.4312,62.4,2,ml,,,,0.44,ak,ak0234u0qzxz,2023-04-15T22:39:45.876Z,"29 km W of Nanwalek, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-15T22:35:40.147Z,31.69316973,-104.1417362,3.149438477,3.1,ml,11,74,0.0642980286,0.1,tx,tx2023hjtb,2023-04-15T22:50:31.082Z,"51 km W of Mentone, Texas",earthquake,0.4093164555,1.070659548,0.1,10,reviewed,tx,tx
 2023-04-15T22:25:05.530Z,18.3921,-68.2206,158,3.99,md,23,208,0.2017,0.08,pr,pr2023105001,2023-04-16T02:50:21.927Z,"28 km SE of Punta Cana, Dominican Republic",earthquake,6.26,0.78,0.07,8,reviewed,pr,pr
+2023-04-15T22:19:13.560Z,35.6105,-117.48,8.48,1.08,ml,24,57,0.028,0.15,ci,ci40441296,2023-04-16T16:25:41.238Z,"18km E of Ridgecrest, CA",earthquake,0.24,0.48,0.183,9,reviewed,ci,ci
 2023-04-15T22:15:59.070Z,38.8351669,-122.8161697,1.82,0.77,md,15,71,0.01268,0.02,nc,nc73874070,2023-04-15T22:48:12.641Z,"8km W of Cobb, CA",earthquake,0.26,0.67,0.16,15,automatic,nc,nc
 2023-04-15T22:11:06.615Z,61.3918,-150.0086,28.7,1.6,ml,,,,0.63,ak,ak0234u0lcjp,2023-04-15T22:14:00.130Z,"3 km NNW of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-15T22:10:34.650Z,17.9548333333333,-66.9518333333333,15.49,2.38,md,11,207,0.04459,0.07,pr,pr71405093,2023-04-15T22:21:39.450Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.35,0.46,0.0622566713434884,4,reviewed,pr,pr
@@ -151,6 +160,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-15T16:54:14.970Z,38.8404999,-122.802002,1.68,0.21,md,8,69,0.009341,0.01,nc,nc73873995,2023-04-15T17:55:11.873Z,"7km WNW of Cobb, CA",earthquake,0.47,1.34,0.11,9,automatic,nc,nc
 2023-04-15T16:53:41.760Z,38.8263321,-122.8306656,2.17,0.68,md,9,76,0.004684,0.01,nc,nc73873990,2023-04-15T17:43:13.789Z,"8km NW of The Geysers, CA",earthquake,0.41,0.94,0.21,10,automatic,nc,nc
 2023-04-15T16:46:42.130Z,38.795166,-122.7823334,2.35,0.71,md,8,141,0.004794,0.02,nc,nc73873985,2023-04-15T17:59:15.902Z,"3km NW of The Geysers, CA",earthquake,0.52,1,0.12,9,automatic,nc,nc
-2023-04-15T16:21:30.060Z,38.7891655,-122.7839966,8.27,0.76,md,10,160,0.005045,0.08,nc,nc73873980,2023-04-15T17:19:12.628Z,"3km WNW of The Geysers, CA",earthquake,1.66,3.66,0.21,11,automatic,nc,nc
-2023-04-15T16:16:19.800Z,38.8128319,-122.8083344,1.2,0.75,md,9,142,0.01128,0.01,nc,nc73873970,2023-04-15T16:56:13.486Z,"6km NW of The Geysers, CA",earthquake,0.36,1.03,0.12,9,automatic,nc,nc
-2023-04-15T16:14:26.550Z,33.7058333,-116.8108333,15.1,0.57,ml,23,173,0.08076,0.13,ci,ci40441144,2023-04-16T14:51:51.814Z,"9km ESE of Valle Vista, CA",earthquake,0.31,0.4,0.132,8,reviewed,ci,ci
