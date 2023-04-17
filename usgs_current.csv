@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-04-17T05:27:13.520Z,19.1299991607666,-155.897994995117,42.4700012207031,3.39,ml,47,225,,0.109999999,hv,hv73366297,2023-04-17T05:33:25.653Z,"15 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.53,0.620000005,1.83,23,automatic,hv,hv
+2023-04-17T05:35:28.800Z,33.4653333,-116.5761667,7.87,0.35,ml,17,131,0.03649,0.18,ci,ci40441752,2023-04-17T05:39:00.732Z,"14km SE of Anza, CA",earthquake,0.46,0.65,0.154,6,automatic,ci,ci
+2023-04-17T05:27:13.310Z,19.1306666666667,-155.9125,44.05,3.61,ml,47,237,,0.12,hv,hv73366297,2023-04-17T05:47:30.040Z,"16 km WNW of Hawaiian Ocean View, Hawaii",earthquake,0.44,0.47,0.163629382665122,28,reviewed,hv,hv
 2023-04-17T05:22:01.000Z,33.1586667,-116.5665,14.17,1.02,ml,38,40,0.07886,0.24,ci,ci40441744,2023-04-17T05:33:12.010Z,"10km NNE of Julian, CA",earthquake,0.28,0.69,0.176,27,automatic,ci,ci
 2023-04-17T05:15:14.561Z,62.9331,-150.92,104,2.1,ml,,,,0.67,ak,ak0234x1kjq8,2023-04-17T05:17:26.318Z,"49 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T04:57:33.050Z,19.1768341064453,-155.492828369141,32.6800003051758,1.80999994,md,26,95,,0.180000007,hv,hv73366277,2023-04-17T05:00:47.880Z,"3 km SSW of Pāhala, Hawaii",earthquake,0.7,1.14999998,1.80999994,4,automatic,hv,hv
@@ -46,6 +47,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T23:39:23.913Z,64.0057,-150.2031,13,1.4,ml,,,,0.67,ak,ak0234vow613,2023-04-16T23:41:15.619Z,"53 km W of Ferry, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-16T23:35:31.080Z,38.8408318,-122.8176651,0.04,0.71,md,11,65,0.0141,0.01,nc,nc73874480,2023-04-17T01:00:15.781Z,"8km WNW of Cobb, CA",earthquake,0.25,0.72,0.42,14,automatic,nc,nc
 2023-04-16T23:31:33.750Z,38.8434982,-122.8795013,2.55,0.7,md,8,99,0.006105,0.03,nc,nc73874465,2023-04-17T00:34:15.627Z,"13km ENE of Cloverdale, CA",earthquake,0.5,0.81,0.58,8,automatic,nc,nc
+2023-04-16T23:14:27.948Z,-26.5333,26.6724,10,4,mb,11,121,2.424,0.4,us,us6000k4z1,2023-04-17T05:38:01.040Z,"35 km N of Klerksdorp, South Africa",earthquake,11.3,1.3,0.259,5,reviewed,us,us
 2023-04-16T23:12:30.150Z,35.0413333,-117.6575,0.28,1.73,ml,18,60,0.1113,0.25,ci,ci40441664,2023-04-16T23:16:03.419Z,"5km N of Boron, CA",quarry blast,0.54,31.61,0.138,31,automatic,ci,ci
 2023-04-16T23:01:39.468Z,65.0325,-147.0441,5,1.1,ml,,,,1.07,ak,ak0234voo201,2023-04-16T23:03:38.538Z,"northern Alaska",earthquake,,1,,,automatic,ak,ak
 2023-04-16T23:00:35.620Z,47.628166666666665,-122.578,29.21,1.58,ml,29,86,0.0698,0.24,uw,uw61918161,2023-04-17T02:21:53.610Z,"4 km W of Bainbridge Island, Washington",earthquake,0.39,0.87,0.1942892132791254,14,reviewed,uw,uw
@@ -115,7 +117,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T14:39:53.480Z,38.8213348,-122.8078308,2.53,0.75,md,14,61,0.002702,0.05,nc,nc73874230,2023-04-16T15:12:15.327Z,"7km NW of The Geysers, CA",earthquake,0.35,0.93,0.2,14,automatic,nc,nc
 2023-04-16T14:23:08.050Z,34.0023333,-116.3266667,7.78,1.18,ml,30,41,0.08499,0.2,ci,ci40441520,2023-04-16T16:42:45.630Z,"15km S of Joshua Tree, CA",earthquake,0.27,0.83,0.192,27,reviewed,ci,ci
 2023-04-16T14:22:53.390Z,33.8251667,-117.6715,2.68,0.97,ml,18,106,0.05992,0.25,ci,ci40441512,2023-04-16T14:26:50.730Z,"11km WSW of Corona, CA",earthquake,0.48,0.58,0.181,17,automatic,ci,ci
-2023-04-16T14:11:22.560Z,19.4190006256104,-155.245330810547,1.97000002861023,2.2,ml,9,168,,0.270000011,hv,hv73365522,2023-04-16T17:08:12.903Z,"2 km SSW of Volcano, Hawaii",earthquake,1.19,1.44000006,0.33,12,automatic,hv,hv
+2023-04-16T14:11:22.560Z,19.4190006256104,-155.245330810547,1.97000002861023,2.2,ml,9,168,,0.270000011,hv,hv73365522,2023-04-17T05:42:31.526Z,"2 km SSW of Volcano, Hawaii",earthquake,1.19,1.44000006,0.33,12,automatic,hv,hv
 2023-04-16T14:11:20.560Z,19.412166595459,-155.272171020508,-0.889999985694885,2.19,ml,20,45,,0.25,hv,hv73365532,2023-04-16T14:17:05.570Z,"5 km SW of Volcano, Hawaii",earthquake,0.24,0.349999994,0.4,12,automatic,hv,hv
 2023-04-16T14:10:57.510Z,19.1268329620361,-155.498840332031,33.5900001525879,2.92,ml,29,172,,0.119999997,hv,hv73365527,2023-04-16T14:17:00.260Z,"8 km SSW of Pāhala, Hawaii",earthquake,0.63,0.899999976,0.63,14,automatic,hv,hv
 2023-04-16T14:07:39.867Z,62.227,-150.074,20.2,1.6,ml,,,,0.45,ak,ak0234vjcfwi,2023-04-16T14:10:32.982Z,"Central Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -167,4 +169,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-16T06:25:19.690Z,38.7843323,-122.7226639,1.7,1.05,md,8,85,0.01104,0.02,nc,nc73874160,2023-04-16T07:31:14.685Z,"3km WNW of Anderson Springs, CA",earthquake,0.35,0.72,0.31,7,automatic,nc,nc
 2023-04-16T06:21:24.930Z,38.8095016,-122.8301697,0.65,0.63,md,11,72,0.001,0.02,nc,nc73874155,2023-04-16T07:02:14.475Z,"7km WNW of The Geysers, CA",earthquake,0.24,0.51,0.37,11,automatic,nc,nc
 2023-04-16T05:50:27.774Z,31.6721,-104.403,5,2.6,ml,21,118,0.083,0.34,us,us6000k4ur,2023-04-16T06:23:44.040Z,"55 km S of Whites City, New Mexico",earthquake,1.35,1.766,0.059,58,reviewed,us,us
-2023-04-16T05:36:50.170Z,31.69260933,-104.4087943,1.915454102,2.8,ml,11,68,0.04150377607,0.2,tx,tx2023hkgy,2023-04-16T06:02:54.637Z,"53 km S of Whites City, New Mexico",earthquake,1.175817337,1.65386136,0.2,10,reviewed,tx,tx
