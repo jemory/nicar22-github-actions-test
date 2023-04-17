@@ -1,4 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-17T09:13:53.100Z,40.2921677,-124.5348358,10.02,2.56,md,11,281,0.1939,0.12,nc,nc73874615,2023-04-17T09:15:30.213Z,"22km W of Petrolia, CA",earthquake,2.6,1.12,0.05,5,automatic,nc,nc
+2023-04-17T09:11:18.520Z,38.8040009,-122.767334,-0.24,1.09,md,16,85,0.01394,0.05,nc,nc73874610,2023-04-17T09:12:55.595Z,"3km NNW of The Geysers, CA",earthquake,0.25,0.68,0.18,19,automatic,nc,nc
+2023-04-17T09:04:24.684Z,62.9213,-151.2964,111.1,1.7,ml,,,,0.35,ak,ak0234x3vy1w,2023-04-17T09:06:26.645Z,"54 km NNW of Petersville, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-04-17T09:04:22.730Z,34.0255,-117.0076667,14.15,1.34,ml,47,43,0.09033,0.2,ci,ci40441840,2023-04-17T09:07:59.986Z,"3km ESE of Yucaipa, CA",earthquake,0.22,0.47,0.192,29,automatic,ci,ci
+2023-04-17T08:59:50.740Z,33.4440002,-116.9141693,8.83,1.06,ml,16,72,0.1126,0.17,ci,ci40441824,2023-04-17T09:02:19.329Z,"5km W of Aguanga, CA",earthquake,0.58,2.84,0.283,7,automatic,ci,ci
+2023-04-17T08:59:40.570Z,37.5994987,-122.4616699,8.4,1.18,md,12,167,0.03471,0.02,nc,nc73874605,2023-04-17T09:12:11.736Z,"3km SE of Pacifica, CA",earthquake,0.59,0.68,0.22,7,automatic,nc,nc
 2023-04-17T08:43:56.630Z,35.6613333,-117.4475,11.17,1.3,ml,14,96,0.01974,0.24,ci,ci40441816,2023-04-17T08:47:24.781Z,"12km SSW of Searles Valley, CA",earthquake,0.78,1.02,0.148,11,automatic,ci,ci
 2023-04-17T08:41:20.570Z,33.4351667,-116.901,6.92,0.39,ml,11,105,0.103,0.18,ci,ci40441808,2023-04-17T08:44:54.642Z,"3km WSW of Aguanga, CA",earthquake,0.48,1.34,0.272,5,automatic,ci,ci
 2023-04-17T08:32:40.760Z,17.9325,-66.9661666666667,15.67,2.29,md,8,229,0.08289,0.07,pr,pr71405528,2023-04-17T08:41:45.320Z,"7 km SW of Guánica, Puerto Rico",earthquake,0.58,0.43,0.0489949713155209,3,reviewed,pr,pr
@@ -6,7 +12,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-17T07:58:20.181Z,-6.0159,111.844,603.29,4.7,mb,104,52,1.731,0.45,us,us6000k4zy,2023-04-17T08:19:13.040Z,"86 km NNE of Lasem, Indonesia",earthquake,10.52,7.929,0.055,102,reviewed,us,us
 2023-04-17T07:53:20.627Z,60.8447,-150.3692,39.6,2.1,ml,,,,0.49,ak,ak0234x2zkm6,2023-04-17T07:54:39.246Z,"Kenai Peninsula, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T07:48:40.393Z,60.5101,-141.7787,20,1.4,ml,,,,0.64,ak,ak0234x2yjk7,2023-04-17T07:50:26.370Z,"120 km SSE of McCarthy, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-17T07:45:18.510Z,33.9171677,-120.4121704,5.8,3.67,mlr,37,274,0.1309,0.19,ci,ci40441800,2023-04-17T08:47:18.687Z,"13km SSW of San Miguel Is., CA",earthquake,1.56,1.45,0.224,22,reviewed,ci,ci
+2023-04-17T07:45:18.510Z,33.9171677,-120.4121704,5.8,3.67,mlr,37,274,0.1309,0.19,ci,ci40441800,2023-04-17T08:49:17.856Z,"13km SSW of San Miguel Is., CA",earthquake,1.56,1.45,0.224,22,reviewed,ci,ci
 2023-04-17T07:43:43.730Z,17.9756666666667,-66.8598333333333,13.57,2.18,md,11,197,0.0185,0.13,pr,pr71405523,2023-04-17T07:59:50.670Z,"3 km E of Maria Antonia, Puerto Rico",earthquake,0.81,0.26,0.157831297664238,4,reviewed,pr,pr
 2023-04-17T07:42:17.719Z,63.3956,-150.2538,90,1.5,ml,,,,2.2,ak,ak0234x2x7ij,2023-04-17T07:44:08.251Z,"65 km W of Cantwell, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-17T07:34:01.860Z,38.8131676,-122.807663,0.94,0.79,md,9,88,0.01038,0.03,nc,nc73874590,2023-04-17T08:27:13.479Z,"6km NW of The Geysers, CA",earthquake,0.36,0.8,0.27,9,automatic,nc,nc
