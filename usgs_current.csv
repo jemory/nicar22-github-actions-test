@@ -1,10 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-20T13:32:04.734Z,61.1322,-151.4424,65,2,ml,,,,0.32,ak,ak0235251ogp,2023-04-20T13:33:38.831Z,"17 km WNW of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-20T13:31:03.310Z,37.2999992,-121.63517,10.87,1.33,md,4,177,0.05092,0.01,nc,nc73875850,2023-04-20T13:32:38.282Z,"18km E of Seven Trees, CA",earthquake,3.55,6.79,0.03,5,automatic,nc,nc
+2023-04-20T13:31:03.310Z,37.2999992,-121.63517,10.87,1.33,md,4,177,0.05092,0.01,nc,nc73875850,2023-04-20T13:47:18.954Z,"18km E of Seven Trees, CA",earthquake,3.55,6.79,0.03,5,automatic,nc,nc
 2023-04-20T13:17:02.060Z,38.8333321,-122.8103333,2.68,1.04,md,24,74,0.009925,0.02,nc,nc73875845,2023-04-20T13:34:13.888Z,"8km W of Cobb, CA",earthquake,0.21,0.45,0.08,25,automatic,nc,nc
 2023-04-20T13:13:24.739Z,62.999,-149.6163,71.3,1.4,ml,,,,0.66,ak,ak023524xneh,2023-04-20T13:15:32.996Z,"Central Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-20T13:09:55.650Z,19.4173336029053,-155.620834350586,-0.189999997615814,2.20000005,md,24,68,,0.389999986,hv,hv73370232,2023-04-20T13:13:02.140Z,"25 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.68,1.25,1.11000001,7,automatic,hv,hv
-2023-04-20T13:06:08.265Z,60.0101,-151.4701,49.3,3.4,ml,,,,0.38,ak,ak023524w43g,2023-04-20T13:17:14.647Z,"11 km ESE of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
+2023-04-20T13:06:08.265Z,60.0101,-151.4701,49.3,3.4,ml,,,,0.38,ak,ak023524w43g,2023-04-20T13:41:46.953Z,"11 km ESE of Ninilchik, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-04-20T13:05:08.315Z,62.875,-150.4871,93.5,0.9,ml,,,,0.21,ak,ak023524vwen,2023-04-20T13:06:51.326Z,"44 km NNE of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-04-20T12:54:02.330Z,34.099,-116.6386667,3.24,1.32,ml,27,84,0.06082,0.17,ci,ci40443064,2023-04-20T12:57:37.028Z,"8km NW of Morongo Valley, CA",earthquake,0.28,0.65,0.23,27,automatic,ci,ci
 2023-04-20T12:47:12.459Z,60.3183,-151.8761,64.3,1.7,ml,,,,0.54,ak,ak023524jh71,2023-04-20T12:49:18.002Z,"28 km WNW of Clam Gulch, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -86,7 +86,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T03:48:13.788Z,61.5189,-146.456,29.2,3.4,ml,,,,0.69,ak,ak02351z6sho,2023-04-20T04:14:14.040Z,"43 km N of Valdez, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-04-20T03:45:17.760Z,61.1076,-150.8987,53.8,1.8,ml,,,,0.13,ak,ak02351z65q8,2023-04-20T03:46:33.161Z,"10 km ESE of Beluga, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-04-20T03:42:54.260Z,37.9203333,-121.8351667,11.41,1.73,md,60,64,0.0575,0.19,nc,nc73875705,2023-04-20T09:42:10.411Z,"9km ESE of Clayton, CA",earthquake,0.24,0.5,0.126,58,reviewed,nc,nc
-2023-04-20T03:35:47.710Z,37.9163333,-121.8396667,16.04,3.65,mw,207,32,0.05353,0.26,nc,nc73875700,2023-04-20T13:35:51.505Z,"9km ESE of Clayton, CA",earthquake,0.15,0.39,,3,reviewed,nc,nc
+2023-04-20T03:35:47.710Z,37.9163333,-121.8396667,16.04,3.65,mw,207,32,0.05353,0.26,nc,nc73875700,2023-04-20T13:41:09.249Z,"9km ESE of Clayton, CA",earthquake,0.15,0.39,,3,reviewed,nc,nc
 2023-04-20T03:34:58.140Z,38.7789993,-122.7450027,0.3,1.17,md,15,75,0.007731,0.03,nc,nc73875695,2023-04-20T06:10:14.068Z,"1km E of The Geysers, CA",earthquake,0.2,0.41,0.17,14,automatic,nc,nc
 2023-04-20T03:22:00.990Z,19.3449993133545,-155.188003540039,0.769999980926514,1.82,ml,34,96,,0.25,hv,hv73369772,2023-04-20T03:27:32.400Z,"11 km SSE of Volcano, Hawaii",earthquake,0.38,0.460000008,0.22,3,automatic,hv,hv
 2023-04-20T03:21:05.740Z,34.4985,-97.6915,14.83,2.07,ml,78,43,0.1547696289,0.41,ok,ok2023hrkm,2023-04-20T12:03:31.697Z,"4 km NNW of Velma, Oklahoma",earthquake,,1.3,0.18,27,reviewed,ok,ok
@@ -168,6 +168,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T20:43:58.120Z,19.3291666666667,-155.137666666667,2.96,0.8,md,17,119,,0.1,hv,hv73369512,2023-04-19T21:15:40.930Z,"15 km S of Fern Forest, Hawaii",earthquake,0.35,0.92,0.219442018905738,7,reviewed,hv,hv
 2023-04-19T20:41:43.380Z,61.5664,-151.7798,76.3,0.9,ml,,,,1.01,ak,ak02350lqdmq,2023-04-19T20:44:08.451Z,"51 km SSW of Skwentna, Alaska",earthquake,,1.3,,,automatic,ak,ak
 2023-04-19T20:33:07.430Z,58.1811666666667,-155.313166666667,1.93,-0.22,ml,6,161,,0.08,av,av91854966,2023-04-20T02:18:49.770Z,"Alaska Peninsula",earthquake,0.33,0.45,0.270596353404405,7,reviewed,av,av
+2023-04-19T20:32:43.337Z,41.3238,-125.8986,10,2.6,ml,23,277,1.424,0.85,us,us6000k5li,2023-04-20T13:46:33.040Z,"149 km W of Big Lagoon, California",earthquake,4.62,2.021,0.055,44,reviewed,us,us
 2023-04-19T20:30:05.720Z,58.1906666666667,-155.290333333333,2.64,-0.02,ml,9,145,,0.07,av,av91854961,2023-04-20T02:15:58.400Z,"85 km NW of Karluk, Alaska",earthquake,0.23,0.34,0.301514775117511,9,reviewed,av,av
 2023-04-19T20:29:27.060Z,33.9543333,-116.9215,13.53,1.27,ml,50,39,0.1242,0.12,ci,ci40442888,2023-04-19T21:03:38.070Z,"5km NW of Banning, CA",earthquake,0.13,0.38,0.132,29,reviewed,ci,ci
 2023-04-19T20:23:12.080Z,44.5543333,-110.4596667,4.24,0.55,md,6,150,0.042,0.07,uu,uu60537711,2023-04-19T21:11:02.550Z,"50 km SSE of Mammoth, Wyoming",earthquake,0.82,2.75,0.485,4,reviewed,uu,uu
@@ -216,6 +217,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T17:30:41.040Z,34.2086667,-117.4865,3.13,0.89,ml,14,69,0.01095,0.09,ci,ci40442768,2023-04-19T17:46:15.154Z,"6km SSE of Lytle Creek, CA",earthquake,0.19,0.27,0.133,7,reviewed,ci,ci
 2023-04-19T17:28:47.241Z,5.8556,95.173,121.876,4.4,mb,44,111,1.873,0.78,us,us6000k5kh,2023-04-19T18:17:49.040Z,"16 km WSW of Sabang, Indonesia",earthquake,8.47,7.109,0.098,30,reviewed,us,us
 2023-04-19T17:27:26.759Z,60.6021,-152.8469,112.1,1.8,ml,,,,0.77,ak,ak02350jv1ib,2023-04-19T17:32:15.074Z,"Southern Alaska",earthquake,,1.7,,,automatic,ak,ak
+2023-04-19T17:18:47.070Z,34.3985,-96.869,0,1.46,ml,42,131,0.3347343137,0.39,ok,ok2023hqqp,2023-04-20T13:45:36.956Z,"3 km W of Mill Creek, Oklahoma",quarry blast,,0.6,0.19,17,reviewed,ok,ok
 2023-04-19T17:18:03.340Z,44.3011667,-110.9973333,11.23,1.25,ml,17,116,0.1417,0.17,uu,uu60537676,2023-04-19T18:09:50.260Z,"32 km ESE of Island Park, Idaho",earthquake,0.44,0.74,0.124,2,reviewed,uu,uu
 2023-04-19T17:14:52.593Z,61.5313,-151.0396,75.1,1.1,ml,,,,0.3,ak,ak02350jsahq,2023-04-19T19:39:50.385Z,"28 km W of Susitna, Alaska",earthquake,,2.2,,,reviewed,ak,ak
 2023-04-19T17:11:31.560Z,49.32483333333333,-120.4925,-0.49,2.07,ml,9,172,0.5673,0.26,uw,uw61918476,2023-04-19T21:53:11.120Z,"14 km S of Princeton, Canada",explosion,1.07,31.61,0.12160629706524939,5,reviewed,uw,uw
@@ -241,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-19T14:05:05.290Z,39.1973333,-123.45,5.07,0.85,md,8,105,0.06556,0.09,nc,nc73875445,2023-04-19T18:30:14.940Z,"22km WNW of Ukiah, CA",earthquake,0.32,0.98,0.29,8,reviewed,nc,nc
 2023-04-19T14:04:46.488Z,59.4091,-152.5827,65.5,1.4,ml,,,,0.42,ak,ak02350hxub7,2023-04-19T16:28:54.114Z,"38 km W of Nanwalek, Alaska",earthquake,,2.1,,,reviewed,ak,ak
 2023-04-19T14:01:10.560Z,37.9198341,-122.0171661,10.53,1.82,md,23,108,0.06391,0.07,nc,nc73875440,2023-04-20T04:21:29.272Z,"4km ENE of Walnut Creek, CA",earthquake,0.27,0.46,0.19,20,automatic,nc,nc
-2023-04-19T13:48:21.829Z,63.5024,-150.8985,0,1.5,ml,,,,0.98,ak,ak02350hlsqu,2023-04-19T13:50:20.986Z,"41 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-04-19T13:48:12.650Z,38.8460007,-122.7574997,1.1,0.94,md,10,170,0.01514,0.03,nc,nc73875435,2023-04-19T14:18:16.431Z,"4km NW of Cobb, CA",earthquake,0.41,0.51,0.24,12,automatic,nc,nc
-2023-04-19T13:47:07.719Z,61.9006,-150.2117,34.4,1.3,ml,,,,0.45,ak,ak02350hljxv,2023-04-19T13:48:11.995Z,"19 km NNW of Willow, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2023-04-19T13:46:59.130Z,34.0961667,-116.634,5.01,1.24,ml,28,101,0.05866,0.15,ci,ci40442712,2023-04-19T16:36:42.916Z,"7km NW of Morongo Valley, CA",earthquake,0.27,0.72,0.091,16,reviewed,ci,ci
