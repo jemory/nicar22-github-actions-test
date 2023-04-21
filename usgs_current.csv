@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-21T04:32:58.270Z,19.3558330535889,-155.469161987305,1.94000005722046,1.92999995,md,32,67,,0.270000011,hv,hv73371052,2023-04-21T04:36:04.200Z,"16 km N of Pāhala, Hawaii",earthquake,0.49,0.649999976,0.810000002,15,automatic,hv,hv
 2023-04-21T04:15:49.467Z,58.2253,-154.0657,70.7,1.7,ml,,,,0.25,ak,ak02353n4ksi,2023-04-21T04:17:51.379Z,"70 km WNW of Aleneva, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-21T04:03:01.710Z,33.6295,-116.7386667,15.32,0.44,ml,14,79,0.04155,0.1,ci,ci40443488,2023-04-21T04:06:41.976Z,"10km NW of Anza, CA",earthquake,0.31,0.68,0.131,8,automatic,ci,ci
 2023-04-21T03:57:51.157Z,58.7106,-152.6089,12.4,2.4,ml,,,,0.79,ak,ak02353ms5e3,2023-04-21T03:59:34.073Z,"74 km NNE of Aleneva, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -291,9 +292,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-20T04:56:59.330Z,39.2246,-120.0712,7.2,-0.1,ml,3,133.25,0.046,0.0214,nn,nn00858471,2023-04-20T19:40:47.197Z,"0 km ESE of Carnelian Bay, California",earthquake,,6,0,1,reviewed,nn,nn
 2023-04-20T04:45:52.550Z,51.8556666666667,-178.062666666667,3.28,1.74,ml,5,182,,0.23,av,av91855301,2023-04-20T19:42:46.060Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,0.79,1.32,0.216180472900628,5,reviewed,av,av
 2023-04-20T04:40:17.340Z,19.404,-155.239666666667,2.57,2.24,ml,18,89,,0.09,hv,hv73369842,2023-04-20T21:56:27.520Z,"4 km S of Volcano, Hawaii",earthquake,0.26,0.3,0.170004431055167,9,reviewed,hv,hv
-2023-04-20T04:37:56.410Z,34.0671667,-116.6901667,8.07,1.36,ml,59,31,0.04522,0.14,ci,ci40442984,2023-04-20T15:22:39.740Z,"10km WNW of Morongo Valley, CA",earthquake,0.13,0.32,0.157,30,reviewed,ci,ci
-2023-04-20T04:36:43.350Z,58.1983333333333,-155.248833333333,3.03,0.12,ml,9,127,,0.09,av,av91855291,2023-04-20T22:02:53.710Z,"84 km NW of Karluk, Alaska",earthquake,0.28,0.8,0.245267044238508,9,reviewed,av,av
-2023-04-20T04:34:26.570Z,39.2233333,-120.0975,5.29,1.89,md,9,125,0.02709,0.02,nc,nc73875745,2023-04-20T14:49:53.012Z,"4km N of Dollar Point, CA",earthquake,0.35,0.52,0.147,9,reviewed,nc,nc
-2023-04-20T04:26:02.940Z,33.3855,-116.9056667,12.99,1.92,ml,91,18,0.09616,0.21,ci,ci40442976,2023-04-20T15:37:54.558Z,"5km NW of Palomar Observatory, CA",earthquake,0.14,0.49,0.15,60,reviewed,ci,ci
-2023-04-20T04:25:39.517Z,31.60694173,-103.9776678,9.319360352,3.4,ml,17,67,0.008419367418,0.1,tx,tx2023hrmq,2023-04-20T23:59:55.040Z,"36 km NNW of Toyah, Texas",earthquake,0.5912500147,0.5877832602,0.1,18,reviewed,tx,tx
-2023-04-20T04:23:23.229Z,-30.9161,-71.5479,35,4.4,mb,37,98,0.253,0.56,us,us6000k5nl,2023-04-20T23:48:10.040Z,"Near the coast of Coquimbo, Chile",earthquake,4.1,1.951,0.22,6,reviewed,us,us
