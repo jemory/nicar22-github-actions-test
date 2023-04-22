@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-22T05:04:24.492Z,61.5117,-150.0941,48.5,1.2,ml,,,,0.46,ak,ak02355b6y35,2023-04-22T05:05:41.875Z,"7 km W of Big Lake, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2023-04-22T04:52:52.690Z,35.5028333,-118.3913333,7.85,1.29,ml,17,66,0.1732,0.11,ci,ci40444032,2023-04-22T04:56:29.538Z,"13km SE of Bodfish, CA",earthquake,0.2,1.66,0.141,15,automatic,ci,ci
 2023-04-22T04:28:49.455Z,59.6865,-153.2448,113,1.6,ml,,,,0.43,ak,ak02355aqpld,2023-04-22T04:32:10.722Z,"49 km ESE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-04-22T04:27:58.724Z,63.1222,-150.6638,107.7,1.7,ml,,,,0.5,ak,ak02355aqilc,2023-04-22T04:30:45.616Z,"69 km N of Petersville, Alaska",earthquake,,1.1,,,automatic,ak,ak
@@ -58,7 +59,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T22:33:57.740Z,19.5331666666667,-65.416,67.98,3.41,md,8,284,1.226,0.23,pr,pr71406128,2023-04-21T22:46:47.960Z,"130 km NNE of Vieques, Puerto Rico",earthquake,5.08,12.02,0.163146620509382,6,reviewed,pr,pr
 2023-04-21T22:30:42.925Z,39.3821,-120.418,14.1,1.3,ml,14,140.7,0.205,0.1414,nn,nn00858530,2023-04-22T00:05:12.109Z,"6 km N of Kingvale, California",earthquake,,3.3,0.96,6,reviewed,nn,nn
 2023-04-21T22:20:49.560Z,44.1313,-125.9833,10,3.2,ml,38,233,1.448,0.77,us,us6000k67x,2023-04-21T23:09:26.040Z,"off the coast of Oregon",earthquake,6.64,2.013,0.033,124,reviewed,us,us
-2023-04-21T22:19:48.329Z,35.0198,15.215,11.786,5.5,mww,116,50,0.992,0.64,us,us6000k67y,2023-04-22T04:42:06.281Z,"109 km SE of Birżebbuġa, Malta",earthquake,4.7,3.037,0.036,74,reviewed,us,us
+2023-04-21T22:19:48.329Z,35.0198,15.215,11.786,5.5,mww,116,50,0.992,0.64,us,us6000k67y,2023-04-22T05:14:02.552Z,"109 km SE of Birżebbuġa, Malta",earthquake,4.7,3.037,0.036,74,reviewed,us,us
 2023-04-21T21:56:07.890Z,35.7050018,-121.1486664,8.77,1.52,md,8,139,0.02303,0.09,nc,nc73876405,2023-04-21T22:31:15.149Z,"8km NNE of San Simeon, CA",earthquake,0.6,0.85,0.14,6,automatic,nc,nc
 2023-04-21T21:54:09.170Z,38.7958336,-122.7821655,3.76,0.76,md,9,98,0.01744,0.03,nc,nc73876400,2023-04-21T22:19:15.076Z,"3km NW of The Geysers, CA",earthquake,0.49,1.43,0.38,10,automatic,nc,nc
 2023-04-21T21:49:27.313Z,40.1021,-121.0788,5.7,1.7,ml,5,283.14,0.599,0.194,nn,nn00858521,2023-04-21T22:38:36.741Z,"7 km S of Canyondam, California",earthquake,,5.2,0.16,5,reviewed,nn,nn
@@ -143,7 +144,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T15:20:52.116Z,62.8583,-149.3969,11.4,1.4,ml,,,,0.77,ak,ak02353tpf8b,2023-04-21T15:23:18.855Z,"58 km NE of Chase, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-21T15:16:33.130Z,58.402,-154.623666666667,7.16,0.32,ml,9,204,,0.24,av,av91856956,2023-04-21T22:53:15.970Z,"Alaska Peninsula",earthquake,0.96,1.66,0.162076823781846,9,reviewed,av,av
 2023-04-21T15:06:16.640Z,58.2421666666667,-155.154,4.74,0.23,ml,11,70,,0.16,av,av91856941,2023-04-21T22:45:52.090Z,"Alaska Peninsula",earthquake,0.32,0.57,0.171985677874248,11,reviewed,av,av
-2023-04-21T15:02:52.475Z,-6.269,146.6152,54.492,5.2,mb,36,140,16.6,0.5,us,us6000k64v,2023-04-21T22:17:56.039Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.64,7.082,0.061,88,reviewed,us,us
+2023-04-21T15:02:52.475Z,-6.269,146.6152,54.492,5.2,mb,36,140,16.6,0.5,us,us6000k64v,2023-04-22T05:04:52.888Z,"eastern New Guinea region, Papua New Guinea",earthquake,9.64,7.082,0.061,88,reviewed,us,us
 2023-04-21T15:00:27.920Z,35.9671666666667,-84.6531666666667,13.24,2.5,md,24,68,0.4723,0.18,se,se60521426,2023-04-21T16:32:47.040Z,"Tennessee",earthquake,0.33,1.63,0.0524780018372688,22,reviewed,se,se
 2023-04-21T14:56:32.892Z,31.56370808,-104.1605551,8.470996094,2.7,ml,23,69,0.03303049169,0.2,tx,tx2023hucx,2023-04-21T19:05:33.688Z,"44 km NW of Toyah, Texas",earthquake,0.8350955127000002,0.8568649458,0.1,19,reviewed,tx,tx
 2023-04-21T14:52:55.752Z,60.3856,-151.2289,33.8,1.3,ml,,,,0.54,ak,ak02353tautj,2023-04-21T14:54:43.209Z,"4 km ENE of Cohoe, Alaska",earthquake,,0.5,,,automatic,ak,ak
@@ -276,5 +277,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-21T05:37:56.350Z,33.4856667,-116.384,10.52,1.2,ml,39,60,0.05129,0.13,ci,ci40443528,2023-04-21T18:55:42.260Z,"21km SSW of La Quinta, CA",earthquake,0.16,0.36,0.089,22,reviewed,ci,ci
 2023-04-21T05:37:47.960Z,33.4873333,-116.3683333,12.64,0.62,ml,10,126,0.05993,0.19,ci,ci37522597,2023-04-21T18:58:33.811Z,"20km SSW of La Quinta, CA",earthquake,0.55,1.59,0.066,3,reviewed,ci,ci
 2023-04-21T05:37:37.970Z,33.4843333,-116.378,12,1.09,ml,32,122,0.05574,0.12,ci,ci40443520,2023-04-21T18:48:56.108Z,"21km SSW of La Quinta, CA",earthquake,0.18,0.57,0.13,28,reviewed,ci,ci
-2023-04-21T05:17:52.300Z,58.1828333333333,-155.313833333333,1.56,-0.21,ml,6,159,,0.08,av,av91856506,2023-04-21T20:01:00.990Z,"Alaska Peninsula",earthquake,0.24,0.72,0.183466718869723,6,reviewed,av,av
-2023-04-21T05:03:50.836Z,64.5173,-152.6793,7.4,1.6,ml,,,,0.73,ak,ak02353nnfwr,2023-04-21T05:06:07.733Z,"72 km NNW of Lake Minchumina, Alaska",earthquake,,0.3,,,automatic,ak,ak
