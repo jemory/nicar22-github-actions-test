@@ -1,11 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
 2023-04-24T07:36:59.182Z,61.4328,-146.5936,28.6,1.5,ml,,,,0.66,ak,ak02358nnfvi,2023-04-24T07:39:04.768Z,"36 km NNW of Valdez, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-04-24T07:33:55.318Z,34.61780548,-96.1084671,5,1.99,ml,18,201.3935547,0.2446487397,0.5321183229,ok,ok2023hzav,2023-04-24T07:36:55.611Z,"8 km WSW of Wardville, Oklahoma",earthquake,4.244921018,,0.3,7,automatic,ok,ok
+2023-04-24T07:28:26.116Z,-29.4614,-176.3078,10,4.9,mb,19,177,1.422,0.58,us,us6000k6qe,2023-04-24T08:03:44.040Z,"Kermadec Islands region",earthquake,8.38,1.933,0.145,15,reviewed,us,us
 2023-04-24T07:26:11.350Z,34.2613333,-117.3258333,6.77,0.99,ml,25,56,0.06503,0.21,ci,ci40444744,2023-04-24T07:29:43.892Z,"4km WNW of Crestline, CA",earthquake,0.33,0.81,0.149,24,automatic,ci,ci
 2023-04-24T07:24:28.060Z,39.8190002,-120.7406693,-1.48,2.52,md,14,69,0.2972,0.11,nc,nc73877235,2023-04-24T07:31:15.909Z,"6km NW of Johnsville, CA",earthquake,0.44,3.49,0.05,9,automatic,nc,nc
 2023-04-24T07:21:14.090Z,18.4926666666667,-66.0461666666667,85.31,3.12,md,20,195,0.1208,0.24,pr,pr71406513,2023-04-24T07:40:59.110Z,"Puerto Rico region",earthquake,1.53,0.78,0.124163299143103,6,reviewed,pr,pr
 2023-04-24T07:16:19.160Z,19.4058333333333,-155.293,1.74,0.63,md,10,89,,0.06,hv,hv73374312,2023-04-24T07:39:08.850Z,"7 km WSW of Volcano, Hawaii",earthquake,0.32,0.37,0.324680229849105,2,reviewed,hv,hv
 2023-04-24T07:14:03.890Z,19.4028333333333,-155.289,0.92,0.2,md,9,81,,0.08,hv,hv73374307,2023-04-24T07:42:30.600Z,"7 km SW of Volcano, Hawaii",earthquake,0.25,0.41,0.00939085713044861,2,reviewed,hv,hv
+2023-04-24T07:05:28.790Z,19.408,-155.267833333333,1.53,0.87,md,14,82,,0.11,hv,hv73374292,2023-04-24T07:55:23.340Z,"5 km SW of Volcano, Hawaii",earthquake,0.2,0.35,0.306251523640331,3,reviewed,hv,hv
 2023-04-24T07:04:50.824Z,61.8085,-148.5701,8.3,0.8,ml,,,,0.89,ak,ak02358ngk9c,2023-04-24T07:08:26.235Z,"5 km WNW of Chickaloon, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-04-24T07:02:31.480Z,33.5928333,-116.8163333,8.91,0.75,ml,23,57,0.04361,0.26,ci,ci40444736,2023-04-24T07:06:02.411Z,"14km WNW of Anza, CA",earthquake,0.51,0.92,0.129,22,automatic,ci,ci
 2023-04-24T07:01:50.210Z,19.1700000762939,-155.350997924805,26.5499992370605,1.78999996,md,40,177,,0.119999997,hv,hv73374287,2023-04-24T07:05:40.660Z,"13 km ESE of Pāhala, Hawaii",earthquake,0.61,0.879999995,0.850000024,13,automatic,hv,hv
@@ -134,7 +136,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-23T16:51:25.684Z,-29.8821,-177.5298,10,5,mb,19,214,0.705,1.12,us,us6000k6km,2023-04-23T17:09:30.040Z,"Kermadec Islands, New Zealand",earthquake,6.87,1.958,0.1,32,reviewed,us,us
 2023-04-23T16:44:05.130Z,48.5745,-119.36283333333333,12.8,1.29,ml,10,88,0.157,0.29,uw,uw61919196,2023-04-24T00:00:45.620Z,"13 km NE of Riverside, Washington",earthquake,0.54,0.9,0.15930043823881834,7,reviewed,uw,uw
 2023-04-23T16:31:58.216Z,64.5273,-146.5899,0,1.1,ml,,,,0.8,ak,ak023575fx65,2023-04-23T16:33:38.788Z,"14 km E of Salcha, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-04-23T16:27:53.084Z,30.3602,70.907,39.643,4.8,mb,16,163,4.456,0.56,us,us6000k6kk,2023-04-24T00:51:45.070Z,"13 km SSW of Kot Addu, Pakistan",earthquake,15.53,10.959,0.109,26,reviewed,us,us
+2023-04-23T16:27:53.084Z,30.3602,70.907,39.643,4.8,mb,16,163,4.456,0.56,us,us6000k6kk,2023-04-24T07:52:58.742Z,"13 km SSW of Kot Addu, Pakistan",earthquake,15.53,10.959,0.109,26,reviewed,us,us
 2023-04-23T16:24:06.674Z,-29.5597,-176.9304,10,4.9,mb,18,166,0.913,1.2,us,us6000k6ki,2023-04-23T16:47:34.040Z,"Kermadec Islands region",earthquake,9.95,1.916,0.093,36,reviewed,us,us
 2023-04-23T16:23:18.717Z,14.2596,118.9423,10,5.2,mww,43,62,9.185,0.66,us,us6000k6kf,2023-04-23T16:59:39.972Z,"126 km WNW of Cabra, Philippines",earthquake,10.04,1.912,0.089,12,reviewed,us,us
 2023-04-23T16:20:25.870Z,47.547666666666665,-122.32916666666667,26.87,2.0300000000000002,ml,28,47,0.05483,0.26,uw,uw61919186,2023-04-23T18:26:18.590Z,"3 km NNE of White Center, Washington",earthquake,0.34,1.02,0.15069230104605413,19,reviewed,uw,uw
