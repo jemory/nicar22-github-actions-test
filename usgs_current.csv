@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-04-30T12:12:55.820Z,32.7001667,-115.525,1.1,1.37,ml,10,113,0.1037,0.23,ci,ci40215999,2023-04-30T12:16:40.095Z,"3km NW of Calexico, CA",earthquake,0.6,31.61,0.271,13,automatic,ci,ci
+2023-04-30T12:12:04.675Z,63.0209,-149.9749,81.5,1.6,ml,,,,0.6,ak,ak0235inpfgz,2023-04-30T12:14:11.513Z,"64 km N of Chase, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2023-04-30T12:10:05.729Z,59.8626,-152.9246,104.4,0.7,ml,,,,0.37,ak,ak0235inp04c,2023-04-30T12:12:14.247Z,"62 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-04-30T11:49:03.610Z,33.5856667,-116.8076667,7.44,0.05,ml,11,108,0.05547,0.1,ci,ci40215991,2023-04-30T11:52:46.428Z,"13km WNW of Anza, CA",earthquake,0.41,0.58,0.103,3,automatic,ci,ci
 2023-04-30T11:44:48.727Z,35.6627,-115.5957,4,1.9,ml,10,312.42,0.914,0.4129,nn,nn00858912,2023-04-30T11:47:19.164Z,"17 km S of Sandy Valley, Nevada",earthquake,,5.8,0.09,8,automatic,nn,nn
 2023-04-30T11:44:03.280Z,33.2024994,-115.5911636,2.15,2.98,ml,78,45,0.03232,0.25,ci,ci40215983,2023-04-30T11:55:04.160Z,"8km WSW of Niland, CA",earthquake,0.25,0.41,0.326,23,automatic,ci,ci
@@ -68,7 +71,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-30T07:17:18.800Z,34.0373333,-117.246,15.63,1.21,ml,34,48,0.1084,0.18,ci,ci40215599,2023-04-30T07:20:56.896Z,"2km SE of Loma Linda, CA",earthquake,0.25,0.54,0.152,22,automatic,ci,ci
 2023-04-30T07:12:27.960Z,33.2094994,-115.5958328,0.44,3.26,ml,10,119,0.03456,0.26,ci,ci40215591,2023-04-30T08:01:48.040Z,"8km WSW of Niland, CA",earthquake,0.89,5.27,0.273,3,automatic,ci,ci
 2023-04-30T07:10:10.710Z,33.2014999,-115.5936661,9.57,3.95,mlr,54,49,0.07812,0.29,ci,ci40215583,2023-04-30T09:12:59.184Z,"8km WSW of Niland, CA",earthquake,0.33,0.67,0.356,22,reviewed,ci,ci
-2023-04-30T07:09:34.660Z,33.1988335,-115.5820007,8.24,4.53,mw,104,45,0.07752,0.24,ci,ci40215575,2023-04-30T09:14:04.264Z,"7km SW of Niland, CA",earthquake,0.22,0.69,,6,reviewed,ci,ci
+2023-04-30T07:09:34.660Z,33.1988335,-115.5820007,8.24,4.53,mw,104,45,0.07752,0.24,ci,ci40215575,2023-04-30T12:08:25.498Z,"7km SW of Niland, CA",earthquake,0.22,0.69,,6,reviewed,ci,ci
 2023-04-30T07:04:21.820Z,33.0448333,-115.9735,16.63,0.92,ml,15,64,0.1284,0.25,ci,ci40215567,2023-04-30T07:07:55.528Z,"18km SE of Ocotillo Wells, CA",earthquake,0.85,1.79,0.062,8,automatic,ci,ci
 2023-04-30T07:02:43.310Z,33.0316667,-116.0176667,1.37,1.58,ml,43,41,0.1454,0.23,ci,ci40215559,2023-04-30T07:13:18.630Z,"16km SE of Ocotillo Wells, CA",earthquake,0.25,0.73,0.151,26,automatic,ci,ci
 2023-04-30T06:56:57.489Z,23.0054,94.3717,98.798,4.6,mb,131,34,3.327,0.75,us,us7000jx4v,2023-04-30T07:46:36.040Z,"70 km S of Mawlaik, Myanmar",earthquake,7.67,6.177,0.041,178,reviewed,us,us
@@ -412,10 +415,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-04-29T12:23:15.930Z,32.6445,-115.4835,2.72,1.73,ml,10,137,0.1633,0.24,ci,ci40214223,2023-04-29T12:53:02.790Z,"2km WSW of Mexicali, B.C., MX",earthquake,0.7,1.04,0.173,24,automatic,ci,ci
 2023-04-29T12:22:59.162Z,63.5739,-150.6774,11.2,1.5,ml,,,,0.61,ak,ak0235h08ccc,2023-04-29T12:26:30.611Z,"52 km E of Denali National Park, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-04-29T12:21:03.490Z,32.6986667,-115.5196667,8.01,1.72,ml,14,69,0.1081,0.27,ci,ci40214191,2023-04-29T12:43:25.819Z,"3km NW of Calexico, CA",earthquake,0.63,2.45,0.159,27,automatic,ci,ci
-2023-04-29T12:18:36.400Z,32.7143333,-115.5543333,1.32,1.62,ml,19,57,0.07568,0.28,ci,ci40214183,2023-04-29T12:46:10.942Z,"3km SW of Heber, CA",earthquake,0.58,1,0.21,25,automatic,ci,ci
-2023-04-29T12:16:10.163Z,40.1028,-120.9623,11.5,1.5,ml,5,307.14,0.519,0.0732,nn,nn00858894,2023-04-29T15:51:28.736Z,"4 km SSW of Greenville, California",earthquake,,2.1,0.11,2,reviewed,nn,nn
-2023-04-29T12:14:41.360Z,32.7026667,-115.535,2.91,1.9,ml,16,109,0.0956,0.29,ci,ci40214175,2023-04-29T12:43:04.859Z,"3km S of Heber, CA",earthquake,0.62,1.11,0.168,28,automatic,ci,ci
-2023-04-29T12:13:54.410Z,32.7076667,-115.5421667,6.92,1.83,ml,19,60,0.08776,0.3,ci,ci40214167,2023-04-29T12:48:11.805Z,"3km SSW of Heber, CA",earthquake,0.62,1.68,0.238,15,automatic,ci,ci
-2023-04-29T12:09:11.230Z,32.7060013,-115.5478363,6.66,3.35,ml,40,46,0.06058,0.25,ci,ci40214159,2023-04-30T05:04:12.807Z,"3km SSW of Heber, CA",earthquake,0.28,0.8,0.214,13,reviewed,ci,ci
-2023-04-29T12:07:03.500Z,32.711,-115.5448333,10.43,4.1,mw,57,43,0.05872,0.3,ci,ci40214151,2023-04-30T07:27:59.674Z,"3km SSW of Heber, CA",earthquake,0.25,0.51,,6,reviewed,ci,ci
-2023-04-29T12:03:33.110Z,39.2553333,-123.287,6.19,1.06,md,11,81,0.05071,0.06,nc,nc73881781,2023-04-30T05:49:10.883Z,"7km W of Redwood Valley, CA",earthquake,0.24,1.14,0.253,11,reviewed,nc,nc
