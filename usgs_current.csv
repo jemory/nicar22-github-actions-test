@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-01T20:52:30.200Z,38.8043327,-122.7803345,0.96,0.59,md,8,88,0.008917,0.03,nc,nc73882811,2023-05-01T20:54:06.014Z,"4km NW of The Geysers, CA",earthquake,0.38,0.95,0.27,7,automatic,nc,nc
+2023-05-01T20:52:30.200Z,38.8043327,-122.7803345,0.96,0.59,md,8,88,0.008917,0.03,nc,nc73882811,2023-05-01T21:07:10.252Z,"4km NW of The Geysers, CA",earthquake,0.38,0.95,0.27,7,automatic,nc,nc
+2023-05-01T20:47:10.030Z,17.7953333333333,-66.309,11.42,2.54,md,7,218,0.2563,0.11,pr,pr71407478,2023-05-01T21:00:08.950Z,"19 km SSW of Central Aguirre, Puerto Rico",earthquake,0.73,0.47,0.167853391468354,5,reviewed,pr,pr
 2023-05-01T20:40:18.060Z,38.795166,-122.7531662,1.4,2.41,md,49,46,0.007475,0.04,nc,nc73882806,2023-05-01T20:47:12.129Z,"2km N of The Geysers, CA",earthquake,0.15,0.23,0.14,59,automatic,nc,nc
 2023-05-01T20:36:51.530Z,33.027668,-116.0081635,6.93,3.14,ml,113,20,0.1442,0.26,ci,ci40216951,2023-05-01T20:49:14.190Z,"17km SE of Ocotillo Wells, CA",earthquake,0.19,1,0.181,21,automatic,ci,ci
 2023-05-01T20:11:46.520Z,65.5039,-144.7273,0,1.4,ml,,,,0.73,ak,ak0235kg04gr,2023-05-01T20:14:09.317Z,"8 km SSE of Central, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-01T20:04:08.962Z,60.0515,-151.5542,68.7,2.4,ml,,,,0.45,ak,ak0235kfyjeo,2023-05-01T20:05:31.840Z,"6 km E of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
+2023-05-01T20:04:08.962Z,60.0515,-151.5542,68.7,2.4,ml,,,,0.45,ak,ak0235kfyjeo,2023-05-01T21:00:48.040Z,"6 km E of Ninilchik, Alaska",earthquake,,1.5,,,automatic,ak,ak
 2023-05-01T20:01:48.090Z,38.8320007,-122.8118362,1.66,0.77,md,7,111,0.008703,0.01,nc,nc73882796,2023-05-01T20:18:13.950Z,"8km NW of The Geysers, CA",earthquake,0.52,1.02,0.19,7,automatic,nc,nc
 2023-05-01T19:47:53.000Z,33.6546667,-117.8463333,10.13,1.85,ml,31,75,0.05945,0.27,ci,ci40216943,2023-05-01T19:51:47.066Z,"5km N of San Joaquin Hills, CA",earthquake,0.44,0.66,0.211,29,automatic,ci,ci
 2023-05-01T19:41:47.020Z,38.8186684,-122.8223343,2.34,0.64,md,8,93,0.01068,0.01,nc,nc73882786,2023-05-01T19:58:12.839Z,"7km NW of The Geysers, CA",earthquake,0.52,0.95,0.21,10,automatic,nc,nc
@@ -119,7 +120,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-01T04:07:39.512Z,39.4051,-120.2039,10.5,0.2,ml,5,239.68,0.172,0.0706,nn,nn00858932,2023-05-01T15:05:47.203Z,"8 km NNW of Truckee, California",earthquake,,4.1,0.17,2,reviewed,nn,nn
 2023-05-01T04:02:31.488Z,25.9778,128.5219,12.292,5.1,mww,58,79,0.883,0.99,us,us7000jxal,2023-05-01T04:19:08.040Z,"Ryukyu Islands, Japan",earthquake,5.4,4.703,0.086,13,reviewed,us,us
 2023-05-01T04:00:52.320Z,60.6414,-147.2259,1.8,1.7,ml,,,,0.85,ak,ak0235k6eu7k,2023-05-01T04:02:51.142Z,"38 km SW of Tatitlek, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-01T03:51:24.040Z,45.4991666666667,-111.676166666667,-0.49,0.9,ml,9,83,0.1031,0.05,mb,mb90011758,2023-05-01T20:24:28.970Z,"17 km NNE of Ennis, Montana",earthquake,0.39,2.47,0.0343523747044583,2,reviewed,mb,mb
+2023-05-01T03:51:24.040Z,45.4991666666667,-111.676166666667,-0.49,0.9,ml,9,83,0.1031,0.05,mb,mb90011758,2023-05-01T20:24:28.970Z,"Western Montana",earthquake,0.39,2.47,0.0343523747044583,2,reviewed,mb,mb
 2023-05-01T03:50:49.758Z,26.0701,128.6777,15.707,5,mb,44,78,0.845,0.95,us,us7000jxaj,2023-05-01T04:06:26.040Z,"81 km SE of Taira, Japan",earthquake,6.37,4.979,0.075,57,reviewed,us,us
 2023-05-01T03:30:46.157Z,66.8861,-146.3853,0,1.4,ml,,,,0.95,ak,ak0235k5ztlu,2023-05-01T03:32:56.273Z,"14 km S of Venetie, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-01T03:24:37.000Z,32.6811667,-115.5146667,7.69,1.66,ml,13,153,0.1227,0.21,ci,ci40216391,2023-05-01T03:29:46.098Z,"2km W of Calexico, CA",earthquake,0.65,1.57,0.142,22,automatic,ci,ci
