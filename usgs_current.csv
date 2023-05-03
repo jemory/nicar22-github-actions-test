@@ -1,8 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-03T11:43:38.420Z,35.8713341,-117.720665,8.52,3.27,ml,51,55,0.07221,0.21,ci,ci40217951,2023-05-03T11:52:25.040Z,"18km ESE of Little Lake, CA",earthquake,0.24,0.58,0.278,21,automatic,ci,ci
+2023-05-03T11:56:40.650Z,35.8718333,-117.7143333,9.87,1.37,ml,15,115,0.07532,0.15,ci,ci40217967,2023-05-03T12:00:21.702Z,"19km ESE of Little Lake, CA",earthquake,0.32,0.64,0.143,13,automatic,ci,ci
+2023-05-03T11:52:19.250Z,38.8176651,-122.8223343,2.1,1.54,md,30,48,0.01028,0.03,nc,nc73883376,2023-05-03T12:04:11.681Z,"7km NW of The Geysers, CA",earthquake,0.19,0.3,0.16,32,automatic,nc,nc
+2023-05-03T11:43:38.420Z,35.8713341,-117.720665,8.52,3.27,ml,51,55,0.07221,0.21,ci,ci40217951,2023-05-03T11:55:21.108Z,"18km ESE of Little Lake, CA",earthquake,0.24,0.58,0.278,21,automatic,ci,ci
 2023-05-03T11:40:26.750Z,38.814167,-122.8231659,2.2,1.07,md,24,49,0.007075,0.02,nc,nc73883361,2023-05-03T11:52:11.604Z,"7km NW of The Geysers, CA",earthquake,0.21,0.4,0.16,25,automatic,nc,nc
 2023-05-03T11:31:26.240Z,34.2338333,-117.4833333,10.04,0.99,ml,19,72,0.02936,0.29,ci,ci40217943,2023-05-03T11:34:58.375Z,"3km SSE of Lytle Creek, CA",earthquake,0.63,0.75,0.231,13,automatic,ci,ci
-2023-05-03T11:30:30.440Z,37.6134987,-122.461998,8.02,1.65,md,15,107,0.02575,0.02,nc,nc73883356,2023-05-03T11:49:10.588Z,"2km E of Pacifica, CA",earthquake,0.38,0.55,0.22,11,automatic,nc,nc
+2023-05-03T11:30:30.440Z,37.6134987,-122.461998,8.02,1.65,md,15,107,0.02575,0.02,nc,nc73883356,2023-05-03T11:57:15.637Z,"2km E of Pacifica, CA",earthquake,0.38,0.55,0.22,11,automatic,nc,nc
 2023-05-03T11:29:18.960Z,37.6131668,-122.4615021,7.97,1.47,md,20,106,0.02621,0.03,nc,nc73883351,2023-05-03T11:47:15.696Z,"2km E of Pacifica, CA",earthquake,0.28,0.41,0.24,10,automatic,nc,nc
 2023-05-03T11:19:10.950Z,35.8685,-117.7208333,9.94,0.84,ml,11,151,0.0697,0.16,ci,ci40217935,2023-05-03T11:22:45.714Z,"18km ESE of Little Lake, CA",earthquake,0.48,0.92,0.153,9,automatic,ci,ci
 2023-05-03T11:09:23.910Z,38.8419991,-122.8395004,2.18,0.72,md,15,118,0.004628,0.02,nc,nc73883346,2023-05-03T11:30:12.489Z,"10km NW of The Geysers, CA",earthquake,0.29,0.55,0.37,16,automatic,nc,nc
@@ -21,7 +23,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-03T09:33:07.930Z,38.8363342,-122.8061676,1.93,0.67,md,9,110,0.01253,0.02,nc,nc73883326,2023-05-03T11:52:10.763Z,"7km WNW of Cobb, CA",earthquake,0.46,0.93,0.16,9,automatic,nc,nc
 2023-05-03T09:31:40.410Z,38.7901649,-122.7786636,0.91,1.05,md,9,98,0.007833,0.02,nc,nc73883321,2023-05-03T11:47:15.578Z,"2km NW of The Geysers, CA",earthquake,0.36,0.73,0.13,11,automatic,nc,nc
 2023-05-03T09:26:38.240Z,35.656,-117.5475,2.02,0.78,ml,12,130,0.1012,0.16,ci,ci40217911,2023-05-03T09:30:20.196Z,"12km ENE of Ridgecrest, CA",earthquake,0.73,0.48,0.1,4,automatic,ci,ci
-2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T11:28:49.640Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
+2023-05-03T09:26:05.380Z,61.2748,-150.4749,35.8,2.7,ml,,,,0.71,ak,ak0235nkm66n,2023-05-03T11:55:45.422Z,"Southern Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-03T09:13:13.510Z,35.7943333,-117.5815,1.61,0.73,ml,10,209,0.1497,0.24,ci,ci40217903,2023-05-03T09:16:50.184Z,"16km W of Searles Valley, CA",earthquake,1.26,0.78,0.182,4,automatic,ci,ci
 2023-05-03T08:58:31.520Z,33.1885,-116.0326667,3.8,0.75,ml,15,79,0.04843,0.26,ci,ci40217895,2023-05-03T09:02:04.550Z,"10km ENE of Ocotillo Wells, CA",earthquake,0.72,1.09,0.1,4,automatic,ci,ci
 2023-05-03T08:51:09.710Z,38.8400002,-122.8111649,1.98,0.61,md,9,116,0.01634,0,nc,nc73883316,2023-05-03T11:20:12.430Z,"8km WNW of Cobb, CA",earthquake,0.37,1.14,0.28,10,automatic,nc,nc
@@ -229,5 +231,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T13:03:26.980Z,58.1831666666667,-155.319166666667,2.33,0.12,ml,6,271,,0.09,av,av91871466,2023-05-02T23:51:01.750Z,"85 km NW of Karluk, Alaska",earthquake,0.61,0.37,0.229181638392374,6,reviewed,av,av
 2023-05-02T12:39:41.270Z,37.4576667,-121.7688333,5.34,0.99,md,26,86,0.02614,0.07,nc,nc73882996,2023-05-02T18:43:11.963Z,"11km NNE of Alum Rock, CA",earthquake,0.23,0.32,0.203,19,reviewed,nc,nc
 2023-05-02T12:27:37.100Z,33.6816667,-116.7605,11.55,0.45,ml,18,112,0.04856,0.24,ci,ci40217191,2023-05-02T12:31:04.345Z,"8km SSW of Idyllwild, CA",earthquake,0.61,0.82,0.159,8,automatic,ci,ci
-2023-05-02T12:01:22.512Z,65.0564,-148.4989,14.8,0.8,ml,,,,0.56,ak,ak0235lypsyj,2023-05-02T12:04:12.810Z,"32 km NW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-02T11:56:56.706Z,38.3981,-96.8186,9.02,2.5,mb_lg,30,91,0.721,0.25,us,us7000jxhk,2023-05-02T17:47:45.019Z,"Kansas",earthquake,1.94,6.939,0.078,43,reviewed,us,us
