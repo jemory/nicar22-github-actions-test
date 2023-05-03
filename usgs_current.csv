@@ -1,7 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-03T02:58:50.770Z,35.8621674,-117.703331,10.2,1.36,ml,16,124,0.07323,0.1,ci,ci40217783,2023-05-03T03:00:56.478Z,"20km ESE of Little Lake, CA",earthquake,0.35,0.64,0.282,3,automatic,ci,ci
-2023-05-03T02:58:07.023Z,34.51196289,-97.19020081,1.78257978,2.03,ml,22,67.81833649,0.1486179978,0.7551799515,ok,ok2023ipdg,2023-05-03T02:59:56.379Z,"6 km W of Davis, Oklahoma",earthquake,2.755591567,1.857087836,0.24,7,automatic,ok,ok
-2023-05-03T02:56:28.740Z,38.8253326,-122.8513336,2.15,1.32,md,28,59,0.004858,0.02,nc,nc73883231,2023-05-03T02:59:51.241Z,"10km WNW of The Geysers, CA",earthquake,0.19,0.33,0.17,28,automatic,nc,nc
+2023-05-03T03:05:49.470Z,35.8778333,-117.7121667,12.19,1.08,ml,11,119,0.08132,0.16,ci,ci40217791,2023-05-03T03:09:24.032Z,"19km ESE of Little Lake, CA",earthquake,0.52,0.76,0.18,6,automatic,ci,ci
+2023-05-03T03:03:16.817Z,64.8634,-147.8905,9.6,1.1,ml,,,,0.79,ak,ak0235ngwo00,2023-05-03T03:07:30.809Z,"4 km W of College, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2023-05-03T02:58:50.900Z,35.859,-117.7103333,9.34,1.19,ml,15,114,0.06707,0.19,ci,ci40217783,2023-05-03T03:02:30.140Z,"20km ESE of Little Lake, CA",earthquake,0.44,0.85,0.154,10,automatic,ci,ci
+2023-05-03T02:58:07.176Z,34.52080154,-97.19594574,1.528536201,2.04,ml,25,47.61695099,0.1422252506,0.8047893968,ok,ok2023ipdg,2023-05-03T03:02:03.034Z,"7 km WNW of Davis, Oklahoma",earthquake,2.523631975,1.704889992,0.24,10,automatic,ok,ok
+2023-05-03T02:56:28.740Z,38.8253326,-122.8513336,2.15,1.32,md,28,59,0.004858,0.02,nc,nc73883231,2023-05-03T03:08:11.497Z,"10km WNW of The Geysers, CA",earthquake,0.19,0.33,0.17,28,automatic,nc,nc
 2023-05-03T02:53:54.725Z,61.2257,-151.6902,83.4,1.4,ml,,,,0.42,ak,ak0235ngm14g,2023-05-03T02:55:33.370Z,"34 km WNW of Beluga, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-03T02:50:10.130Z,35.868,-117.7235,9.66,1.4,ml,16,113,0.06818,0.19,ci,ci40217759,2023-05-03T02:53:43.772Z,"18km ESE of Little Lake, CA",earthquake,0.38,0.78,0.287,14,automatic,ci,ci
 2023-05-03T02:49:53.620Z,35.838,-117.8858333,4.41,1.14,ml,9,168,0.01704,0.08,ci,ci40217767,2023-05-03T02:53:48.208Z,"11km S of Little Lake, CA",earthquake,0.55,0.28,0.154,10,automatic,ci,ci
@@ -225,4 +227,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-02T03:39:08.550Z,19.389,-155.247833333333,1.51,2.57,ml,36,56,,0.11,hv,hv73386287,2023-05-02T04:16:05.251Z,"Island of Hawaii, Hawaii",earthquake,0.2,0.15,0.134790663710723,19,reviewed,hv,hv
 2023-05-02T03:22:38.710Z,45.4306666666667,-112.104833333333,0.89,0.4,ml,7,104,0.2025,0.06,mb,mb90011988,2023-05-02T13:24:38.670Z,"western Montana",earthquake,0.5,1.75,0.210075026540321,2,reviewed,mb,mb
 2023-05-02T03:17:23.280Z,62.2208,-151.4603,83.5,1.4,ml,,,,0.48,ak,ak0235ltgc14,2023-05-02T03:19:56.001Z,"25 km N of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-02T03:05:12.310Z,38.253,-112.5886667,10.84,1.49,ml,15,99,0.04715,0.16,uu,uu60538901,2023-05-02T14:27:02.690Z,"Utah",earthquake,0.47,0.52,0.128,2,reviewed,uu,uu
