@@ -1,12 +1,13 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-05T22:32:17.580Z,35.0556679,-118.8953323,13.89,1.97,ml,47,50,0.08896,0.23,ci,ci40219647,2023-05-05T22:34:23.734Z,"13km NNE of Grapevine, CA",earthquake,0.26,0.7,0.258,29,automatic,ci,ci
+2023-05-05T22:36:55.818Z,58.2436,-155.2062,1.1,0.5,ml,,,,0.52,ak,ak0235r3hr4d,2023-05-05T22:38:46.432Z,"87 km NNW of Karluk, Alaska",earthquake,,1.3,,,automatic,ak,ak
+2023-05-05T22:32:17.630Z,35.051,-118.8925,13.69,1.95,ml,36,68,0.0914,0.23,ci,ci40219647,2023-05-05T22:43:10.620Z,"12km NNE of Grapevine, CA",earthquake,0.31,0.8,0.151,26,automatic,ci,ci
 2023-05-05T22:24:28.908Z,61.9909,-147.2446,44.5,1.4,ml,,,,0.32,ak,ak0235r3f4ga,2023-05-05T22:25:53.810Z,"7 km NW of Eureka Roadhouse, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-05T22:15:03.392Z,60.3669,-152.1552,87.7,1.1,ml,,,,0.39,ak,ak0235r3d51f,2023-05-05T22:16:54.196Z,"44 km NW of Ninilchik, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2023-05-05T22:04:29.660Z,38.8019981,-122.8236694,2.58,0.75,md,11,79,0.008098,0.03,nc,nc73884321,2023-05-05T22:27:16.167Z,"6km WNW of The Geysers, CA",earthquake,0.46,0.9,0.2,13,automatic,nc,nc
 2023-05-05T22:01:53.136Z,62.2049,-151.0616,73.9,1.1,ml,,,,0.32,ak,ak0235r3a8up,2023-05-05T22:04:14.394Z,"29 km NE of Skwentna, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-05-05T21:59:24.660Z,19.405,-155.285166666667,0.97,1.66,ml,16,68,,0.09,hv,hv73390262,2023-05-05T22:13:51.120Z,"6 km SW of Volcano, Hawaii",earthquake,0.17,0.17,0.0539345274547376,6,reviewed,hv,hv
 2023-05-05T21:58:07.549Z,65.6768,-149.035,8.3,1.3,ml,,,,0.7,ak,ak0235r30xjm,2023-05-05T22:01:11.719Z,"28 km NW of Livengood, Alaska",earthquake,,0.3,,,automatic,ak,ak
-2023-05-05T21:46:29.112Z,22.2787,146.5441,10,5.1,mb,88,45,7.037,1.06,us,us6000k9wx,2023-05-05T22:26:38.047Z,"Volcano Islands, Japan region",earthquake,3.93,1.822,0.039,220,reviewed,us,us
+2023-05-05T21:46:28.191Z,22.2242,146.609,10,5.1,mb,94,45,6.99,0.7,us,us6000k9wx,2023-05-05T22:44:36.040Z,"Volcano Islands, Japan region",earthquake,9.06,1.845,0.038,222,reviewed,us,us
 2023-05-05T21:42:19.230Z,33.5291667,-116.5226667,13.26,0.92,ml,30,52,0.0291,0.2,ci,ci40219631,2023-05-05T21:46:01.033Z,"14km ESE of Anza, CA",earthquake,0.31,0.5,0.167,25,automatic,ci,ci
 2023-05-05T21:41:28.440Z,33.8248333,-116.7641667,11.33,0.88,ml,16,108,0.02899,0.24,ci,ci40219623,2023-05-05T21:45:02.031Z,"10km NNW of Idyllwild, CA",earthquake,0.97,0.83,0.135,22,automatic,ci,ci
 2023-05-05T21:25:34.680Z,19.4093341827393,-155.29167175293,0.409999996423721,1.9,ml,16,67,,0.129999995,hv,hv73390257,2023-05-05T21:31:06.040Z,"7 km WSW of Volcano, Hawaii",earthquake,0.25,0.200000003,0.4,4,automatic,hv,hv
@@ -117,7 +118,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T12:19:05.641Z,39.2252,-120.0736,5.7,0,ml,3,136.36,0.044,0.1065,nn,nn00859103,2023-05-05T18:18:59.253Z,"0 km ESE of Carnelian Bay, California",earthquake,,6,0,1,reviewed,nn,nn
 2023-05-05T12:05:03.997Z,38.0704,-118.7497,9.4,0.6,ml,4,179.67,0.264,0.1472,nn,nn00859097,2023-05-05T17:51:12.420Z,"California-Nevada border region",earthquake,,5,0,1,reviewed,nn,nn
 2023-05-05T11:44:06.382Z,-7.2205,120.1677,580.943,5,mb,88,35,2.231,0.68,us,us6000k9qy,2023-05-05T12:02:56.040Z,"144 km NNE of Labuan Bajo, Indonesia",earthquake,9.62,6.393,0.046,152,reviewed,us,us
-2023-05-05T11:37:10.115Z,-37.2869,177.2709,194.926,5.6,mww,89,24,0.869,1.07,us,us6000k9qv,2023-05-05T21:55:18.632Z,"78 km NNE of Whakatane, New Zealand",earthquake,6.76,3.715,0.045,48,reviewed,us,us
+2023-05-05T11:37:10.115Z,-37.2869,177.2709,194.926,5.6,mww,89,24,0.869,1.07,us,us6000k9qv,2023-05-05T22:40:36.982Z,"78 km NNE of Whakatane, New Zealand",earthquake,6.76,3.715,0.045,48,reviewed,us,us
 2023-05-05T11:33:10.550Z,17.9538333333333,-66.9656666666667,17.04,2.31,md,5,207,0.07637,0.11,pr,pr71408218,2023-05-05T12:35:52.560Z,"6 km WSW of Guánica, Puerto Rico",earthquake,0.83,0.73,0.106551987062873,3,reviewed,pr,pr
 2023-05-05T11:28:39.410Z,38.836834,-122.7890015,2.05,0.7,md,13,78,0.00189,0.01,nc,nc73884156,2023-05-05T11:54:14.245Z,"6km WNW of Cobb, CA",earthquake,0.31,0.49,0.09,14,automatic,nc,nc
 2023-05-05T11:26:11.284Z,66.0342,-148.4648,3.8,1.5,ml,,,,0.56,ak,ak0235qwvqvc,2023-05-05T11:28:13.026Z,"28 km E of Stevens Village, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -136,7 +137,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-05T10:18:57.740Z,37.8045,-121.9073333,16.91,2.02,md,79,85,0.06795,0.07,nc,nc73884116,2023-05-05T19:42:17.292Z,"2km S of Blackhawk, CA",earthquake,0.14,0.2,0.175,76,reviewed,nc,nc
 2023-05-05T10:17:17.530Z,-4.9932,151.5098,131.921,4.9,mb,69,49,1.029,0.56,us,us6000k9ps,2023-05-05T10:35:25.040Z,"110 km SW of Kokopo, Papua New Guinea",earthquake,9.26,6.42,0.051,120,reviewed,us,us
 2023-05-05T10:16:17.522Z,64.7659,-149.0216,24,0.9,ml,,,,0.26,ak,ak0235qw86l4,2023-05-05T10:17:27.140Z,"18 km NNE of Four Mile Road, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2023-05-05T10:05:40.190Z,37.7985,-121.9093333,16.82,1.8,md,56,81,0.06708,0.08,nc,nc73884111,2023-05-05T19:31:15.109Z,"2km S of Blackhawk, CA",earthquake,0.17,0.28,0.156,59,reviewed,nc,nc
+2023-05-05T10:05:40.190Z,37.7985,-121.9093333,16.82,1.8,md,56,81,0.06708,0.08,nc,nc73884111,2023-05-05T22:43:15.251Z,"2km S of Blackhawk, CA",earthquake,0.17,0.28,0.156,59,reviewed,nc,nc
 2023-05-05T10:04:01.370Z,19.3875007629395,-155.275833129883,0.949999988079071,1.75,md,11,61,,0.0700000003,hv,hv73389862,2023-05-05T10:06:57.400Z,"7 km SW of Volcano, Hawaii",earthquake,0.29,0.25,0.870000005,8,automatic,hv,hv
 2023-05-05T10:01:35.628Z,37.4429,-117.8889,4.9,0.7,ml,6,235.31,0.286,0.2587,nn,nn00859094,2023-05-05T17:26:28.567Z,"29 km SSE of Dyer, Nevada",earthquake,,2.6,0.96,5,reviewed,nn,nn
 2023-05-05T09:59:49.160Z,37.7908333,-122.5803333,9.55,1.16,md,31,92,0.0836,0.06,nc,nc73884106,2023-05-05T15:19:16.475Z,"8km S of Muir Beach, CA",earthquake,0.23,0.54,0.231,24,reviewed,nc,nc
@@ -293,7 +294,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-04T23:02:20.000Z,37.616,-122.5055,8.06,0.9,md,12,189,0.02963,0.04,nc,nc73883891,2023-05-05T00:24:11.240Z,"2km W of Pacifica, CA",earthquake,0.74,0.39,0.337,10,reviewed,nc,nc
 2023-05-04T22:57:10.179Z,31.60719652,-103.9698689,9.756396484,2.4,ml,18,51,0.04640544001,0.1,tx,tx2023ismj,2023-05-05T13:36:57.287Z,"36 km NNW of Toyah, Texas",earthquake,0.5313490779,0.8502265642,0.2,24,reviewed,tx,tx
 2023-05-04T22:50:08.621Z,61.0546,-152.8753,154.2,2.3,ml,,,,0.35,ak,ak0235pg1ax4,2023-05-05T02:25:28.566Z,"93 km W of Tyonek, Alaska",earthquake,,0.6,,,reviewed,ak,ak
-2023-05-04T22:41:22.125Z,61.8004,-150.86,65.9,1.1,ml,,,,0.23,ak,ak0235pfzelw,2023-05-04T22:42:50.773Z,"34 km NNW of Susitna, Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-04T22:40:59.700Z,44.7948333,-110.8425,4.68,1.68,ml,13,107,0.008645,0.16,uu,uu60539136,2023-05-04T22:58:59.330Z,"23 km SSW of Mammoth, Wyoming",earthquake,0.4,0.43,0.516,3,reviewed,uu,uu
-2023-05-04T22:40:44.530Z,60.4371666666667,-152.7415,11.34,-1.22,ml,6,173,,0.06,av,av91874151,2023-05-05T04:04:33.020Z,"73 km NW of Ninilchik, Alaska",earthquake,0.8,0.45,0.210330898225388,6,reviewed,av,av
-2023-05-04T22:39:38.770Z,58.2735,-154.982666666667,3.21,0.86,ml,11,133,,0.11,av,av91874146,2023-05-05T04:00:50.120Z,"84 km NNW of Karluk, Alaska",earthquake,0.27,0.69,0.359938723768038,4,reviewed,av,av
