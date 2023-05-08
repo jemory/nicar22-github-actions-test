@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-08T15:18:06.280Z,38.8040009,-122.8063354,1.73,0.99,md,11,75,0.009487,0.01,nc,nc73885416,2023-05-08T15:19:44.064Z,"5km NW of The Geysers, CA",earthquake,0.34,0.79,0.16,11,automatic,nc,nc
-2023-05-08T15:13:27.370Z,59.6418,-154.2513,186.5,2,ml,,,,0.53,ak,ak0235vxssfx,2023-05-08T15:17:02.666Z,"16 km NE of Pope-Vannoy Landing, Alaska",earthquake,,1.6,,,automatic,ak,ak
+2023-05-08T15:42:10.700Z,34.2076667,-117.497,4.76,1.27,ml,26,72,0.002212,0.22,ci,ci40220975,2023-05-08T15:45:41.504Z,"6km S of Lytle Creek, CA",earthquake,0.35,0.49,0.216,31,automatic,ci,ci
+2023-05-08T15:18:06.280Z,38.8040009,-122.8063354,1.73,0.99,md,11,75,0.009487,0.01,nc,nc73885416,2023-05-08T15:34:16.668Z,"5km NW of The Geysers, CA",earthquake,0.34,0.79,0.16,11,automatic,nc,nc
 2023-05-08T15:10:22.609Z,35.10683333,-95.54166667,7.14,2.05,ml,68,54,0.112477928,0.25,ok,ok2023izex,2023-05-08T15:21:31.958Z,"11 km E of Crowder, Oklahoma",earthquake,,0.6,0.27,15,reviewed,ok,ok
-2023-05-08T15:05:24.240Z,34.0463333,-118.6483307,6.86,3.36,ml,125,60,0.01309,0.29,ci,ci40220951,2023-05-08T15:27:16.967Z,"2km NW of Las Flores, CA",earthquake,0.29,0.7,0.295,18,automatic,ci,ci
+2023-05-08T15:05:24.240Z,34.0463333,-118.6483307,6.86,3.36,ml,125,60,0.01309,0.29,ci,ci40220951,2023-05-08T15:49:42.917Z,"2km NW of Las Flores, CA",earthquake,0.29,0.7,0.295,18,automatic,ci,ci
 2023-05-08T15:00:28.619Z,63.0726,-150.4433,97.7,1.8,ml,,,,0.47,ak,ak0235vxpzhp,2023-05-08T15:03:50.738Z,"66 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2023-05-08T14:54:06.864Z,51.3697,-175.4244,17.9,3.9,ml,,,,0.9,ak,ak0235vxg2xu,2023-05-08T15:35:46.896Z,"100 km SE of Adak, Alaska",earthquake,,0.5,,,reviewed,ak,ak
 2023-05-08T14:48:48.877Z,62.1615,-149.5668,51.3,1.2,ml,,,,0.4,ak,ak0235vxevtj,2023-05-08T14:51:01.846Z,"Central Alaska",earthquake,,1.1,,,automatic,ak,ak
 2023-05-08T14:39:30.560Z,19.3945007324219,-155.258499145508,1.44000005722046,1.70000005,md,17,139,,0.300000012,hv,hv73392882,2023-05-08T14:45:00.280Z,"Hawaii region, Hawaii",earthquake,0.78,0.430000007,0.939999998,10,automatic,hv,hv
 2023-05-08T14:31:01.076Z,62.0043,-148.3951,31.5,2.5,ml,,,,0.32,ak,ak0235vxb4yj,2023-05-08T15:24:48.040Z,"23 km N of Chickaloon, Alaska",earthquake,,0.2,,,automatic,ak,ak
@@ -197,6 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-07T16:04:05.038Z,62.7934,-143.3173,14.8,1,ml,,,,1.05,ak,ak0235uasvnm,2023-05-07T16:06:49.088Z,"27 km ESE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-07T15:59:41.790Z,33.885,-117.5413333,6.73,0.91,ml,11,90,0.07406,0.23,ci,ci40220439,2023-05-07T16:03:20.693Z,"2km WNW of Home Gardens, CA",earthquake,0.58,1.92,0.292,19,automatic,ci,ci
 2023-05-07T15:52:23.780Z,33.6885,-116.8048333,17.52,1,ml,21,125,0.06847,0.2,ci,ci40220431,2023-05-08T13:17:33.613Z,"10km SW of Idyllwild, CA",earthquake,0.54,0.76,0.202,19,reviewed,ci,ci
-2023-05-07T15:48:32.157Z,0.8122,126.1014,23.063,4.7,mb,33,61,1.266,1,us,us6000ka8q,2023-05-07T16:12:40.040Z,"128 km ESE of Bitung, Indonesia",earthquake,8.08,3.895,0.096,33,reviewed,us,us
-2023-05-07T15:36:19.490Z,60.2127,-152.2154,66.6,1.2,ml,,,,0.54,ak,ak0235uaec2l,2023-05-07T15:38:07.975Z,"35 km WNW of Ninilchik, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-05-07T15:32:59.249Z,60.0087,-152.6346,80.9,1,ml,,,,0.36,ak,ak0235uadk9w,2023-05-07T15:34:34.359Z,"50 km W of Happy Valley, Alaska",earthquake,,0.5,,,automatic,ak,ak
