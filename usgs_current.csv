@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T09:18:51.409Z,60.5663,-145.2088,18.1,1.6,ml,,,,0.57,ak,ak0235xhsn04,2023-05-09T09:21:22.524Z,"30 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-05-09T08:38:41.260Z,33.8591667,-117.9071667,3.5,0.85,ml,14,110,0.0871,0.28,ci,ci40221471,2023-05-09T08:42:12.581Z,"3km NNW of Anaheim, CA",earthquake,0.69,0.81,0.139,11,automatic,ci,ci
 2023-05-09T08:35:31.240Z,34.0955,-117.3116667,17.58,0.88,ml,17,144,0.005068,0.2,ci,ci40221463,2023-05-09T08:39:04.537Z,"2km N of Colton, CA",earthquake,0.52,0.97,0.311,19,automatic,ci,ci
 2023-05-09T08:35:08.060Z,33.6896667,-116.73,16.74,0.55,ml,17,116,0.02518,0.12,ci,ci40221455,2023-05-09T08:38:43.642Z,"6km S of Idyllwild, CA",earthquake,0.35,0.41,0.132,12,automatic,ci,ci
@@ -12,7 +13,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T07:36:08.410Z,19.1233329772949,-155.399337768555,30.5100002288818,2.34,ml,44,184,,0.129999995,hv,hv73393677,2023-05-09T07:41:38.510Z,"12 km SE of Pāhala, Hawaii",earthquake,0.63,0.819999993,0.18,6,automatic,hv,hv
 2023-05-09T07:35:36.590Z,19.3816661834717,-155.211334228516,10.0900001525879,1.94,ml,17,129,,0.230000004,hv,hv73393672,2023-05-09T07:41:07.100Z,"7 km SSE of Volcano, Hawaii",earthquake,1.7,0.899999976,0.38,6,automatic,hv,hv
 2023-05-09T07:29:12.401Z,65.3525,-144.7746,0.8,1.5,ml,,,,0.86,ak,ak0235xgo1ns,2023-05-09T07:32:04.484Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2023-05-09T07:28:49.960Z,38.8233337,-122.7659988,2.07,0.74,md,8,119,0.007755,0.01,nc,nc73885576,2023-05-09T08:49:11.149Z,"4km W of Cobb, CA",earthquake,0.51,0.96,0.05,8,automatic,nc,nc
+2023-05-09T07:28:49.960Z,38.8233337,-122.7659988,2.07,0.74,md,8,119,0.007755,0.01,nc,nc73885576,2023-05-09T09:07:14.263Z,"4km W of Cobb, CA",earthquake,0.51,0.96,0.05,8,automatic,nc,nc
 2023-05-09T06:58:44.750Z,33.4733333,-116.5538333,10.66,0.38,ml,14,95,0.0457,0.21,ci,ci40221439,2023-05-09T07:02:30.313Z,"14km SE of Anza, CA",earthquake,0.55,0.77,0.103,7,automatic,ci,ci
 2023-05-09T06:31:39.257Z,-5.7753,131.1893,122.569,4.4,mb,33,82,1.785,0.49,us,us6000kajq,2023-05-09T06:53:02.040Z,"173 km W of Tual, Indonesia",earthquake,8.51,8.255,0.117,21,reviewed,us,us
 2023-05-09T05:57:43.340Z,38.8296661,-122.8141632,2.33,1.08,md,19,62,0.00703,0.01,nc,nc73885566,2023-05-09T08:13:13.946Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
@@ -181,8 +182,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T09:48:58.900Z,19.415,-155.343333333333,2.02,2.21,ml,35,62,,0.13,hv,hv73392497,2023-05-08T23:43:07.310Z,"Hawaii region, Hawaii",earthquake,0.26,0.39,0.220057476309202,7,reviewed,hv,hv
 2023-05-08T09:37:03.100Z,19.4175,-155.345666666667,2.25,2.3,ml,36,73,,0.12,hv,hv73392482,2023-05-08T23:59:24.454Z,"Island of Hawaii, Hawaii",earthquake,0.25,0.42,0.162175883356829,15,reviewed,hv,hv
 2023-05-08T09:34:06.930Z,19.4075,-155.295666666667,-0.01,1.85,ml,18,77,,0.08,hv,hv73392467,2023-05-09T00:19:48.540Z,"7 km WSW of Volcano, Hawaii",earthquake,0.15,0.09,0.171966704309721,7,reviewed,hv,hv
-2023-05-08T09:23:11.122Z,24.7289,122.7254,113.202,4.9,mb,82,54,0.368,0.99,us,us6000kaca,2023-05-09T06:46:36.040Z,"40 km NW of Yonakuni, Japan",earthquake,7.21,5.604,0.036,239,reviewed,us,us
-2023-05-08T09:22:07.490Z,33.5851667,-116.804,8.17,0.5,ml,17,69,0.03437,0.09,ci,ci40220743,2023-05-08T13:12:38.633Z,"12km WNW of Anza, CA",earthquake,0.22,0.41,0.094,10,reviewed,ci,ci
-2023-05-08T09:16:56.251Z,63.1292,-150.9061,125.7,2,ml,,,,0.41,ak,ak0235vu8vex,2023-05-08T09:19:00.021Z,"Central Alaska",earthquake,,0.8,,,automatic,ak,ak
-2023-05-08T09:11:06.200Z,19.4146666666667,-155.343333333333,2.59,2.17,ml,38,62,,0.13,hv,hv73392447,2023-05-09T00:27:48.990Z,"11 km WSW of Volcano, Hawaii",earthquake,0.27,0.47,0.305100621580176,12,reviewed,hv,hv
-2023-05-08T09:10:06.740Z,19.4056663513184,-155.264999389648,-0.589999973773956,1.80999994,md,8,194,,0.109999999,hv,hv73392442,2023-05-08T09:12:58.440Z,"5 km SW of Volcano, Hawaii",earthquake,0.43,0.579999983,1.80999994,4,automatic,hv,hv
