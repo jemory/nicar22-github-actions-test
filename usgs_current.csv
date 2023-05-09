@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-09T17:28:49.800Z,65.3685,-145.0218,0,1.5,ml,,,,0.87,ak,ak0235xmm8vo,2023-05-09T17:30:55.126Z,"24 km SSW of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-09T17:09:29.390Z,60.9187,-149.2058,11.4,1.8,ml,,,,1.3,ak,ak0235xmi4p7,2023-05-09T17:12:32.665Z,"3 km SW of Girdwood, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-09T17:00:29.960Z,34.013,-117.072,16.07,1.33,ml,16,182,0.2236,0.25,ci,ci40221703,2023-05-09T17:04:05.000Z,"3km NNW of Calimesa, CA",earthquake,1.28,3.5,0.38,13,automatic,ci,ci
 2023-05-09T16:48:28.900Z,19.40016746521,-155.289169311523,0.560000002384186,1.86,ml,15,88,,0.200000003,hv,hv73394057,2023-05-09T17:06:38.018Z,"7 km SW of Volcano, Hawaii",earthquake,0.42,0.280000001,0.25,7,automatic,hv,hv
@@ -79,7 +80,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-09T07:35:36.590Z,19.3816661834717,-155.211334228516,10.0900001525879,1.94,ml,17,129,,0.230000004,hv,hv73393672,2023-05-09T07:41:07.100Z,"7 km SSE of Volcano, Hawaii",earthquake,1.7,0.899999976,0.38,6,automatic,hv,hv
 2023-05-09T07:29:12.401Z,65.3525,-144.7746,0.8,1.5,ml,,,,0.86,ak,ak0235xgo1ns,2023-05-09T07:32:04.484Z,"24 km S of Central, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-05-09T07:28:49.960Z,38.8233337,-122.7659988,2.07,0.74,md,8,119,0.007755,0.01,nc,nc73885576,2023-05-09T09:07:14.263Z,"4km W of Cobb, CA",earthquake,0.51,0.96,0.05,8,automatic,nc,nc
-2023-05-09T06:58:44.750Z,33.4733333,-116.5538333,10.66,0.38,ml,14,95,0.0457,0.21,ci,ci40221439,2023-05-09T07:02:30.313Z,"14km SE of Anza, CA",earthquake,0.55,0.77,0.103,7,automatic,ci,ci
+2023-05-09T06:58:44.910Z,33.4748333,-116.558,8.57,0.34,ml,22,112,0.04192,0.11,ci,ci40221439,2023-05-09T17:33:01.672Z,"14km SE of Anza, CA",earthquake,0.2,0.36,0.1,5,reviewed,ci,ci
 2023-05-09T06:31:39.257Z,-5.7753,131.1893,122.569,4.4,mb,33,82,1.785,0.49,us,us6000kajq,2023-05-09T06:53:02.040Z,"173 km W of Tual, Indonesia",earthquake,8.51,8.255,0.117,21,reviewed,us,us
 2023-05-09T06:15:58.150Z,33.5831667,-116.8043333,7.78,0.29,ml,34,31,0.03519,0.13,ci,ci40221423,2023-05-09T14:43:01.783Z,"12km WNW of Anza, CA",earthquake,0.15,0.37,0.053,5,reviewed,ci,ci
 2023-05-09T05:57:43.340Z,38.8296661,-122.8141632,2.33,1.08,md,19,62,0.00703,0.01,nc,nc73885566,2023-05-09T08:13:13.946Z,"8km NW of The Geysers, CA",earthquake,0.25,0.47,0.19,18,automatic,nc,nc
@@ -196,4 +197,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-08T18:10:07.480Z,17.9836666666667,-66.8368333333333,10.94,2.59,md,17,168,0.04128,0.18,pr,pr71408568,2023-05-08T18:30:26.190Z,"Puerto Rico",earthquake,0.36,0.44,0.0144398084587118,7,reviewed,pr,pr
 2023-05-08T18:05:04.280Z,19.3641666666667,-155.2295,28.21,1.79,md,37,98,,0.1,hv,hv73393067,2023-05-08T20:42:09.370Z,"8 km S of Volcano, Hawaii",earthquake,0.69,0.48,0.132806916175332,14,reviewed,hv,hv
 2023-05-08T17:56:34.607Z,61.7169,-147.7688,24.6,1.8,ml,,,,0.89,ak,ak0235vz8v9g,2023-05-08T17:58:25.347Z,"11 km SSW of Glacier View, Alaska",earthquake,,0.2,,,automatic,ak,ak
-2023-05-08T17:35:20.092Z,61.7924,-149.8932,43.9,1.2,ml,,,,0.76,ak,ak0235vz4c3t,2023-05-08T17:37:15.617Z,"Southern Alaska",earthquake,,1.8,,,automatic,ak,ak
