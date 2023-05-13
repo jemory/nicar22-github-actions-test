@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-13T13:53:47.290Z,33.6548333,-116.7448333,12.88,0.83,ml,28,48,0.06173,0.2,ci,ci40224391,2023-05-13T13:57:28.712Z,"10km SSW of Idyllwild, CA",earthquake,0.28,0.52,0.198,24,automatic,ci,ci
+2023-05-13T13:52:29.920Z,19.304500579834,-155.26432800293,2.90000009536743,2.09,ml,38,132,,0.140000001,hv,hv73400362,2023-05-13T14:05:40.827Z,"15 km SSW of Volcano, Hawaii",earthquake,0.33,0.870000005,0.3,10,automatic,hv,hv
 2023-05-13T13:47:15.810Z,35.5221667,-118.3765,6.78,1.12,ml,16,48,0.1613,0.16,ci,ci40224375,2023-05-13T13:50:48.511Z,"13km SE of Bodfish, CA",earthquake,0.3,1.2,0.115,13,automatic,ci,ci
 2023-05-13T13:33:04.410Z,40.2196655,-121.1583328,-1.41,2.9,md,30,48,0.3347,0.32,nc,nc73887621,2023-05-13T13:48:48.984Z,"1km N of Prattville, CA",earthquake,0.58,2.66,0.12,26,automatic,nc,nc
 2023-05-13T13:18:23.544Z,31.70267895,-104.1724893,6.902807617,3,ml,17,72,0.05777077622,0.2,tx,tx2023jiet,2023-05-13T13:41:05.521Z,"54 km W of Mentone, Texas",earthquake,0.6096352085999999,0.8511517073,0.2,14,reviewed,tx,tx
@@ -9,7 +11,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-13T12:24:36.150Z,38.7905006,-122.7256699,1.82,1.04,md,14,91,0.02846,0.01,nc,nc73887611,2023-05-13T12:59:19.830Z,"3km ENE of The Geysers, CA",earthquake,0.26,0.73,0.09,13,automatic,nc,nc
 2023-05-13T12:24:33.390Z,17.9483333333333,-66.959,13.95,2.49,md,8,215,0.08042,0.15,pr,pr71409173,2023-05-13T12:39:46.760Z,"5 km WSW of Guánica, Puerto Rico",earthquake,0.69,0.82,0.0861885352281495,6,reviewed,pr,pr
 2023-05-13T12:22:37.100Z,38.8351669,-122.7881699,1.93,2.02,md,35,63,0.003656,0.04,nc,nc73887606,2023-05-13T12:49:14.764Z,"6km WNW of Cobb, CA",earthquake,0.19,0.29,0.19,36,automatic,nc,nc
-2023-05-13T12:20:39.370Z,38.8125,-122.8061676,2.44,1.06,md,17,60,0.009619,0.01,nc,nc73887601,2023-05-13T12:49:13.764Z,"6km NW of The Geysers, CA",earthquake,0.25,0.62,0.17,18,automatic,nc,nc
+2023-05-13T12:20:39.370Z,38.8125,-122.8061676,2.44,1.06,md,17,60,0.009619,0.01,nc,nc73887601,2023-05-13T14:00:15.179Z,"6km NW of The Geysers, CA",earthquake,0.25,0.62,0.17,18,automatic,nc,nc
 2023-05-13T12:20:07.710Z,17.9375,-66.843,15.02,2.34,md,11,215,0.05085,0.13,pr,pr71409163,2023-05-13T12:39:01.050Z,"6 km SE of Maria Antonia, Puerto Rico",earthquake,0.63,0.55,0.0530398125655334,6,reviewed,pr,pr
 2023-05-13T12:17:17.970Z,34.5993333,-118.2635,7.83,1.11,ml,17,78,0.04637,0.15,ci,ci40224319,2023-05-13T12:20:55.669Z,"3km SE of Leona Valley, CA",earthquake,0.32,0.64,0.239,18,automatic,ci,ci
 2023-05-13T12:14:52.040Z,33.327,-116.2785,8.18,0.78,ml,25,84,0.1301,0.2,ci,ci40224311,2023-05-13T12:18:22.979Z,"12km NE of Borrego Springs, CA",earthquake,0.3,1.39,0.141,17,automatic,ci,ci
@@ -258,5 +260,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-12T14:26:27.310Z,19.2445,-155.392666666667,31.23,3.39,ml,52,134,,0.13,hv,hv73398237,2023-05-13T06:15:40.387Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.48,0.46,0.15642955960261,30,reviewed,hv,hv
 2023-05-12T14:16:33.390Z,40.2268333,-121.1364975,1.15,2.36,md,8,109,0.3171,0.16,nc,nc73887151,2023-05-12T16:37:09.500Z,"3km NE of Prattville, CA",earthquake,0.74,11.86,0.02,5,automatic,nc,nc
 2023-05-12T14:08:10.260Z,19.4378333333333,-155.324166666667,4.14,1.93,ml,34,84,,0.09,hv,hv73398202,2023-05-12T22:18:25.110Z,"9 km W of Volcano, Hawaii",earthquake,0.23,0.56,0.197460248348567,5,reviewed,hv,hv
-2023-05-12T14:05:24.620Z,33.4855,-116.4583333,12.93,0.75,ml,19,145,0.09403,0.11,ci,ci40223543,2023-05-12T21:50:59.401Z,"21km ESE of Anza, CA",earthquake,0.26,0.53,0.101,15,reviewed,ci,ci
-2023-05-12T14:04:27.079Z,62.57,-126.5495,10,3.7,mb,19,61,2.181,0.62,us,us6000kbg9,2023-05-12T14:38:13.040Z,"Northwest Territories, Canada",earthquake,6.44,1.981,0.357,2,reviewed,us,us
