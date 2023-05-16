@@ -1,6 +1,9 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-05-16T11:41:41.120Z,38.838665,-122.7868347,1.85,0.37,md,6,124,0.002753,0.02,nc,nc73888751,2023-05-16T11:43:19.085Z,"6km WNW of Cobb, CA",earthquake,0.98,2.02,0.28,7,automatic,nc,nc
-2023-05-16T11:37:26.440Z,40.2391663,-121.1671677,-1.39,3.26,ml,57,41,0.3292,0.6,nc,nc73888746,2023-05-16T11:42:14.907Z,"3km NNE of Almanor, CA",earthquake,0.71,3.1,0.307,21,automatic,nc,nc
+2023-05-16T11:45:01.515Z,63.0803,-143.4143,5.2,1.8,ml,,,,0.63,ak,ak023693wm5j,2023-05-16T11:46:43.484Z,"25 km NE of Mentasta Lake, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2023-05-16T11:43:52.170Z,33.4836667,-116.4465,11.83,0.86,ml,34,50,0.04327,0.17,ci,ci40226007,2023-05-16T11:47:26.340Z,"22km ESE of Anza, CA",earthquake,0.26,0.54,0.113,22,automatic,ci,ci
+2023-05-16T11:43:07.610Z,33.481,-116.452,11.45,1.51,ml,55,78,0.04766,0.2,ci,ci40225999,2023-05-16T11:53:57.700Z,"22km ESE of Anza, CA",earthquake,0.23,0.44,0.188,26,automatic,ci,ci
+2023-05-16T11:41:41.120Z,38.838665,-122.7868347,1.85,0.37,md,6,124,0.002753,0.02,nc,nc73888751,2023-05-16T11:58:12.018Z,"6km WNW of Cobb, CA",earthquake,0.98,2.02,0.28,7,automatic,nc,nc
+2023-05-16T11:37:26.440Z,40.2391663,-121.1671677,-1.39,3.26,ml,57,41,0.3292,0.6,nc,nc73888746,2023-05-16T12:04:07.621Z,"3km NNE of Almanor, CA",earthquake,0.71,3.1,0.307,21,automatic,nc,nc
 2023-05-16T11:33:49.110Z,19.1781673431396,-155.477828979492,34.2700004577637,1.97000003,md,37,157,,0.109999999,hv,hv73404722,2023-05-16T11:37:12.010Z,"2 km S of Pāhala, Hawaii",earthquake,0.55,0.930000007,1.17999995,8,automatic,hv,hv
 2023-05-16T11:31:27.370Z,33.2286667,-116.0796667,9.29,1.25,ml,43,34,0.1016,0.24,ci,ci40225983,2023-05-16T11:42:11.940Z,"11km NNE of Ocotillo Wells, CA",earthquake,0.29,0.99,0.123,28,automatic,ci,ci
 2023-05-16T11:24:17.310Z,33.7096667,-116.7293333,17.79,0.37,ml,12,85,0.01273,0.15,ci,ci40225967,2023-05-16T11:27:54.443Z,"4km SSW of Idyllwild, CA",earthquake,0.56,0.71,0.08,4,automatic,ci,ci
@@ -195,4 +198,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T12:28:17.387Z,63.797,-148.6348,16.7,0.9,ml,,,,0.32,ak,ak02367gv3be,2023-05-15T12:30:43.084Z,"Central Alaska",earthquake,,0.5,,,automatic,ak,ak
 2023-05-15T12:20:16.820Z,33.6533333,-116.7183333,13.57,1.04,ml,35,86,0.05779,0.15,ci,ci40225439,2023-05-15T12:23:47.322Z,"10km S of Idyllwild, CA",earthquake,0.25,0.38,0.162,27,automatic,ci,ci
 2023-05-15T12:16:21.770Z,33.6508333,-116.7473333,9.55,0.23,ml,15,76,0.05869,0.21,ci,ci40225423,2023-05-15T12:19:52.882Z,"10km SSW of Idyllwild, CA",earthquake,0.53,0.81,0.253,4,automatic,ci,ci
-2023-05-15T11:45:37.295Z,39.4222,-119.6917,7,0.8,ml,14,176.86,0.057,0.1336,nn,nn00859560,2023-05-15T21:13:49.508Z,"Nevada",earthquake,,1.1,0.06,3,reviewed,nn,nn
