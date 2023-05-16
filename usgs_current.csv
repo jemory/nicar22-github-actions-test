@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-05-16T04:52:44.225Z,37.5049,-116.9254,0,0,ml,10,166.27,0.396,0.1648,nn,nn00859582,2023-05-16T04:55:46.335Z,"Nevada",earthquake,,45.4,0.94,4,automatic,nn,nn
+2023-05-16T04:48:23.313Z,37.5978,-114.4409,0,1.5,ml,13,336.17,0.521,0.4136,nn,nn00859580,2023-05-16T04:50:56.541Z,"6 km ESE of Caliente, Nevada",earthquake,,57.8,0.54,5,automatic,nn,nn
+2023-05-16T04:38:33.819Z,35.7346,-98.0152,5,2.2,mb_lg,48,27,0.178,0.27,us,us6000kc7q,2023-05-16T04:59:51.646Z,"Oklahoma",earthquake,0.89,1.77,0.089,33,reviewed,us,us
 2023-05-16T04:26:52.270Z,33.5358333,-116.6803333,9.08,0.74,ml,31,41,0.05171,0.13,ci,ci40225887,2023-05-16T04:30:38.799Z,"2km SSW of Anza, CA",earthquake,0.17,0.4,0.21,22,automatic,ci,ci
 2023-05-16T03:50:44.520Z,34.0551667,-117.2353333,14.21,1.12,ml,40,51,0.1248,0.2,ci,ci40225879,2023-05-16T03:54:17.139Z,"2km ENE of Loma Linda, CA",earthquake,0.27,0.61,0.156,30,automatic,ci,ci
 2023-05-16T03:35:44.264Z,61.3872,-146.6299,19.2,1.2,ml,,,,0.42,ak,ak02368z335z,2023-05-16T03:37:55.451Z,"32 km NNW of Valdez, Alaska",earthquake,,0.4,,,automatic,ak,ak
@@ -205,8 +208,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-05-15T05:21:57.819Z,61.5181,-150.017,32.3,1.5,ml,,,,0.53,ak,ak02367cnn74,2023-05-15T05:24:37.575Z,"Southern Alaska",earthquake,,0.3,,,automatic,ak,ak
 2023-05-15T05:21:51.600Z,38.8274994,-122.8021698,1.91,1.27,md,24,35,0.007411,0.02,nc,nc73888246,2023-05-15T06:40:13.453Z,"7km NW of The Geysers, CA",earthquake,0.19,0.39,0.19,28,automatic,nc,nc
 2023-05-15T05:14:47.450Z,19.0801666666667,-66.8336666666667,13.86,3.3,md,22,272,0.6168,0.19,pr,pr71409483,2023-05-15T05:58:12.700Z,"65 km N of Hatillo, Puerto Rico",earthquake,1.7,2.47,0.0747635062386673,8,reviewed,pr,pr
-2023-05-15T04:59:30.948Z,40.1677,-121.0749,5.9,1.5,ml,4,326.54,0.625,0.0292,nn,nn00859548,2023-05-15T17:34:20.540Z,"0 km SSW of Canyondam, California",earthquake,,23.5,0.16,3,reviewed,nn,nn
-2023-05-15T04:49:29.490Z,38.8095016,-122.8164978,2.76,0.76,md,12,102,0.009927,0.01,nc,nc73888236,2023-05-15T05:56:11.080Z,"6km NW of The Geysers, CA",earthquake,0.31,0.96,0.15,13,automatic,nc,nc
-2023-05-15T04:46:45.436Z,36.399,-115.4517,0,1,ml,4,236.9,0.26,0.1795,nn,nn00859563,2023-05-15T22:12:26.410Z,"23 km NE of Mount Charleston, Nevada",earthquake,,0,0,1,reviewed,nn,nn
-2023-05-15T04:45:29.460Z,35.7681667,-117.5725,1.77,0.99,ml,13,137,0.1589,0.2,ci,ci40225311,2023-05-15T04:49:03.817Z,"15km W of Searles Valley, CA",earthquake,0.5,0.64,0.161,8,automatic,ci,ci
-2023-05-15T04:36:29.317Z,61.1715,-141.166,0,1.4,ml,,,,0.85,ak,ak02367c5d4j,2023-05-15T04:38:45.900Z,"98 km ESE of McCarthy, Alaska",earthquake,,0.3,,,automatic,ak,ak
